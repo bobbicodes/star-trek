@@ -1,7 +1,6 @@
 (ns trek
   (:require [cheshire.core :as json]
-            [clojure.string :as str]
-            [clojure.data.xml :as xml]))
+            [clojure.string :as str]))
 
 (defn fetch-ep [s e]
   (slurp (str "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s" s "e" e)))
@@ -15,17 +14,13 @@
 (spit "test" (fetch-ep "01" "01"))
 
 
-(xml/parse-str 
- (-> (slurp  "disco-s01e01")
-     (str/escape {\& "&amp;"})
-     (str/replace "<script async src=" " <script async=\"async\" src=")))
-
-(defn disco-seq [e s]
-  (str/split (last (str/split (slurp  (str "disco-s" s "e" e))
-                              #"<div class=\"scrolling-script-container\">"))
+(defn disco-seq [s e]
+  (str/split (first (str/split (last (str/split (slurp  (str "disco-s" s "e" e))
+                                                #"<div class=\"scrolling-script-container\">"))
+                               #"</div>"))
              #"<br>"))
 
-(disco-seq "01" "02")
+(disco-seq "04" "01")
 
 (defn episode [series ep]
   (get-in (json/parse-string (slurp "resources/all_scripts_raw.json"))
