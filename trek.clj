@@ -11,9 +11,11 @@
     (spit (str "resources/disco/disco-s" s "e" e) (fetch-ep s e)))
   )
 
-(defn disco-seq [s e]
-  (->  (str "resources/disco/disco-s" s "e" e)
-       slurp
+(defn disco-seq 
+  "Extracts the <div> containing the episode script
+   and outputs a sequence of lines."
+  [s e]
+  (->  (slurp (str "resources/disco/disco-s" s "e" e))
        (str/split #"<div class=\"scrolling-script-container\">")
        last
        (str/split #"</div>")
@@ -21,7 +23,7 @@
        (str/split #"<br>")))
 
 (comment
-  (doseq [line (disco-seq "02" "01")]
+  (doseq [line (disco-seq "04" "02")]
     (prn line))
   )
 
