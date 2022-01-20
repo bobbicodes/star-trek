@@ -13,14 +13,17 @@
 
 (spit "test" (fetch-ep "01" "01"))
 
-
 (defn disco-seq [s e]
-  (str/split (first (str/split (last (str/split (slurp  (str "disco-s" s "e" e))
-                                                #"<div class=\"scrolling-script-container\">"))
-                               #"</div>"))
-             #"<br>"))
+  (->  (str "disco-s" s "e" e)
+       slurp
+       (str/split #"<div class=\"scrolling-script-container\">")
+       last
+       (str/split #"</div>")
+       first
+       (str/split #"<br>")))
 
-(disco-seq "04" "01")
+(doseq [line (disco-seq "02" "01")]
+  (prn line))
 
 (defn episode [series ep]
   (get-in (json/parse-string (slurp "resources/all_scripts_raw.json"))
