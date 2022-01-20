@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e10 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e10 - Terra Firma, Part 2 Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e10 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e10"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e10 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e10" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;Terra Firma, Part 2</div>
+
+            <h1>Star Trek: Discovery (2017) s03e10 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Terra Firma, Part 2</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			 Previously on Star Trek: Discovery  There's a signal coming from the center of the nebula.<br>  There's a ship lost in there.<br>  This is Dr.<br> Issa.<br>  We are stranded.<br>  The Khi'eth is still broadcasting  - this distress signal.<br> - On a loop, sir.<br>  I want to know what is happening inside that ship.<br>  - I think I can help you.<br> - Help?  We have a way of doing things.<br>  So do you want me to read the field manual?  When we first arrived, I, too, was eager to assist.<br>  Ultimately, we had to wait for our moment to prove ourselves.<br>  I trust you will find your moment, as well, Mr.<br> Booker.<br>  Temporal travel can make you pretty sick.<br>  Every molecule fights to either go back in time,  or jump a cosmic divide.<br>  Every time we queried the sphere data for treatment,  no matter how we entered it, it gave us the same result.<br>  Apparently, the cure can be found on Dannus 5.<br>  - Well, look at that.<br> - What the hell is this?!  - I'm Carl.<br> - What happens if she goes through the door?  - She'll be on the other side.<br> - Give me a straight answer.<br>  This is the chance your computer was pointing us to,  and I'm taking it.<br>  Terra Firma!  Let me make myself clear.<br>  Lorca's coup will fail, Michael will return to the fold,  and the path of what has been set in motion will change  because I will change it.<br>  From now on, you will be my eyes and ears.<br>  Our future is unwritten.<br>  Let's make it count, shall we?  Take her to the agonizer.<br>  I should be dead.<br>  Kill me.<br>  Give me the honor I deserve!  You deserve many things.<br>  Then kill me for your own sake,  because every moment you hesitate is a moment  that everyone can see how weak you've become.<br>  You're about to find out how weak I've become.<br>  Why do you think Lorca has been  able to gather so many forces against you?  Why do you think he got to me?  You're rescuing Kelpiens?  Fretting over artists?  Half of your insipid death opera was a lie.<br>  Propaganda to make you look strong.<br>  I know the truth.<br>  You're retiring to the Charon.<br>  You think I'm retiring?  Why else would you build a palace in the sky  while the rest of us are still fighting on the ground?  Are you really this blind, Michael?  Or don't you want there to be an empire  left to rule after I'm gone?  If we don't give our subjects something to live for,  they will always be in rebellion.<br>  How many revolts have we had to quash this year alone?  Twice as many as last year.<br>  Even Genghis Khan learned  that his grip on power could not hold if he didn't let the people  he conquered worship their own gods.<br>  You promised us new worlds to conquer.<br>  You promised us spoils, never-ending growth.<br>  There are no spoils from peace.<br>  You have a lot to learn, Michael.<br>  You're the one who's blind!  Even now, the Romulans, the Andorians,  the Tellarites, the Klingons  they're forming an alliance to destroy us.<br>  It's called "the Coalition".<br>  And the Denobulans and the Rigelians,  and the Coridanites will follow.<br>  You should attack now!  We can't defeat the whole galaxy if they unite against us.<br>  Well, they would think twice about alliances  if we flew down and roasted them on spits.<br>  The rules of engagement are changing.<br>  Oh.<br> No! Mother, no!  I will kill all of you!  I will kill all of you!  This is the orison of every parent, Michael,  as I hoped you would learn some day.<br>  "Why can't they just believe what I say?"  "Why do they only learn from pain?"  Come.<br>  Emperor, if I may,  why is Michael Burnham still using up oxygen on my ship?  You could kill her with the press of a button.<br>  She's a traitor.<br> She's doesn't deserve mercy.<br>  She isn't getting any.<br>  What shows more strength?  A mother who simply kills her daughter,  or a mother who locks her daughter in an agonizer booth  in order to change the course of the future?  We still need to find and deal with her accomplices.<br>  Detmer, I'm sure, knew of her plans.<br>  No better message to send to her co-conspirators  than a broken Michael Burnham  who has been re-forged into a loyal subject,  - thanks to you.<br> - Me?  You are the most feared interrogator in the quadrant.<br>  I must be given free reign.<br>  Of course.<br> Do your worst.<br> Or best.<br>  But I expect her to live.<br>  And if you don't break her,  I will demand to know why.<br>  Michael will come around.<br>  Even the darkest night will end,  and the sun will rise.<br>  Come back to me, daughter.<br>  Your mother is too soft-hearted.<br>  I told her you wouldn't have an appetite.<br>  That's okay.<br>  I'll have Dr.<br> Culber force-feed you later.<br>  Whatever you do, you won't break me!  Swear your allegiance to Emperor Georgiou,  and name your co-conspirators.<br>  Rot in hell, bitch.<br>  We'll try again tomorrow.<br>  You don't mind sleeping in there, do you?  I wish there were another language you could understand,  but here, where strength is power   and terror is love,  there is no other way to reach you.<br>  I've seen who you can be, Michael.<br>  I've seen who I can be.<br>  I've seen what this world can be,  and it is luminous.<br>  We can have that.<br>  We can be more.<br>  But first, we must remake ourselves.<br>  We must leave behind all of that which destroys us.<br>  Captain.<br>  Detmer.<br>  What?  I asked to see you.<br>  They're listening.<br>  I know.<br>  Why?  You have to give in.<br>  - No.<br> - You can't endure much more of this.<br>  Nobody could.<br>  Lorca.<br>  No one has heard from Lorca.<br>  I don't think he's coming.<br>  You are the best of us.<br>  There's no sense dying in here.<br>  Come out.<br>  It's time to end this.<br>  I believe you can do this, Michael.<br>  I believe you can change.<br>  As I have.<br>  Do you remember when you were a child?  You hardly spoke during the day,  but at night,  you'd scream,  fighting in your sleep to escape.<br>  I would hold you down as you struggled.<br>  One night,  I let you go,  and you ended up sleepwalking  to a field of fireflies.<br>  You stood there  until you became calm  and I could carry you to your bed.<br>  I walked with you every night  to that field after that.<br>  And when you woke up the next day,  you never remembered.<br>  I was sad when you outgrew the night terrors.<br>  Now that I think about it,  maybe you never did.<br>  If you trust me,  I will bring all the fireflies to you,  daughter.<br>  Yes, Michael.<br> You asked to see me.<br>  Mother  Leave us.<br>  I am sorry.<br>  Get off the floor.<br>  Look at me.<br>  It's about more than a show of strength.<br>  We have an empire to rule.<br>  All I ever wanted was to rule it with you.<br>  I pledge my loyalty to you, Emperor.<br>  And I vow to name my co-conspirators and expose them.<br>  I'm glad to hear that.<br>  But you don't just need to make amends with me.<br>  You need to make amends with all our subjects.<br>  How are they ever to trust you?  I will execute the traitors with my own hands.<br>  No foe will remain.<br>  Detmer can assist you.<br>  Thank you, Mother.<br>  Go.<br>  And be quick about it.<br>  You you  You can trust me again.<br>  Don't come back until you've proven yourself.<br>  Landry.<br>  Bryce.<br>  And all the rest.<br>  - That's all of them? - Yes, Emperor.<br>  Michael.<br>  Captain  Now it's done.<br>  I heard the kitchen no longer serves Kelpien.<br>  Is that a problem?  Just takes some getting used to.<br>  I was craving ganglia in my cell.<br>  Kelpien flesh is too high in cholesterol,  and it's stringy.<br>  Isn't that right?  That is right, Emperor.<br>  I never lost faith that you would see  the error of your ways.<br>  I came to the light weeks ago.<br>  And yet you remained in the brig.<br>  Stubborn.<br>  Like mother, like daughter.<br>  I heard you made changes.<br>  You systematically used backchannels  to sabotage the Coalition.<br>  That wasn't hard.<br>  Those silly democratic things are always on the brink.<br>  But you heard me.<br>  About threats you didn't foresee.<br>  I've always been able to hear the truth,  and I expect you to tell it to me from now on.<br>  I will.<br>  - Where's Lorca? - I don't know.<br>  Are you still in love with him?  - He left me for dead.<br> - That's not a "no".<br>  When we find him,  I'll be able to kill him.<br>  How do we find him?  The alias he uses  on interstellar communication is "Vicar".<br>  He chose the name "Vicar" for himself?  It means "substitute".<br>  Lorca was always an underachiever.<br>  Go find him, daughter.<br>  So long as he lives, we will always be at war.<br>  Is something amiss, Emperor?  Not at all.<br>  Everything is unfolding as I'd hoped.<br>  You and Captain Burnham have come quite a long way  over these last months.<br>  You must be pleased.<br>  I'd only ever wished to rule with her.<br>  And now I shall.<br>  You will remain with me rather than return to her service.<br>  I am afraid that will not be possible, Emperor,  in the end.<br>  I regret that I will not remain here with you.<br>  Vahar'ai is coming for me.<br>  Who told you that?  I feel it.<br>  It would do me the greatest honor  if you would be the one to cull me.<br>  I will do no such thing.<br>  I apologize for overstepping.<br> I-I never should have  Vahar'ai   is not an end.<br>  Emperor?  When the madness comes, lock yourself away.<br>  In a few days' time, you will still be alive,  and you will be changed forever.<br>  But that is merely a fable.<br>  I have witnessed it myself.<br>  H-How how is that possible?  I knew a Kelpien once,  in another time, another place.<br>  His name was Saru.<br>  He survived Vahar'ai,  and it made him stronger.<br>  He was a captain of a starship.<br>  You must have travelled  far beyond the empire.<br>  You are placing a great deal of trust in me.<br>  My corpse would already be eaten to bones  if I could not accurately judge between loyalty and flattery.<br>  Your regret was genuine  when you thought you were leaving me here,  as was your pain when your comrade fell.<br>  He  He would have l ?  - My sister, my family, they would all still be - Survive.<br>  That is how you honor them.<br>  Teach others what you know.<br>  That is how you avenge them.<br>  You are not Terran.<br>  Of course I am.<br>  - The way you speak - Enough.<br>  Please, return to where you are from, Emperor.<br>  Should you fail to do what is expected of you,  they will kill you.<br>  This is my home.<br>  Now and forever.<br>  And I will make it what it needs to be.<br>  That is how I will survive.<br>  Do you understand?  I-I believe so, Emperor.<br>  Leave me to my bath.<br>  Got it.<br> A coded message sent to Vicar.<br>  - Who sent it? - Someone by the alias "Carnelian".<br>  It's Duggan, one of Lorca's top lieutenants.<br>  - Where did the message originate? - Risa.<br>  - Just six hours ago.<br> - He might still be there.<br>  Captain Killy, set a course for Risa, warp nine.<br>  Respectfully, hunting down a mercenary  doesn't seem worthy of the emperor's time.<br>  I'll go with Burnham aboard a shuttlecraft.<br>  No.<br> I'll go.<br>  Might be fun.<br>  As you wish.<br>  Commander Nilsson, maximum warp.<br>  Yes, Captain.<br>  We've arrived.<br>  Entering Risa's orbit now, Captain.<br>  Scan the area for nearby vessels.<br>  Sensors show a single class A shuttlecraft.<br>  No other warp-capable vessels within a hundred light-years.<br>  I want to see it.<br>  It's Duggan.<br> Cheap bastard.<br>  Still hasn't gotten his shuttle fixed properly.<br>  - Any life signs? - Just one.<br>  It might still be a trap, Emperor.<br>  No signs of Lorca,  and Duggan is in the middle of nowhere.<br>  He knows we're here.<br> Vessel's powering up.<br>  Disable that ship.<br> Keep him alive.<br>  Direct hit.<br>  Incoming transmission.<br>  As if he had another choice.<br>  Put him through, Commander Airiam.<br>  Mr.<br> Duggan, I presume.<br>  I just got my engines rebuilt.<br>  Now you can rebuild them again.<br>  Practice makes perfect, so I'm told.<br>  Where is Lorca?  - Making new friends.<br> - Is that so?  While you've been wasting your time on trade alliances,  trying to stop some ridiculous coalition,  guess who's rallied the Klingons and Romulans against you?  The Klingons and Romulans despise one another.<br>  Not as much as they despise you.<br>  Lorca promised your head on a spike.<br>  Can't wait to see it.<br>  That will be difficult after I remove your eyes  and his heart with my bare hands.<br>  Where is he?  You don't expect me to answer that, do you?  He's powering his transporters.<br>  You think we'd be that stupid  to let you get down to the surface?  Take out what's left of his ship.<br>  I want him on board.<br>  - Open fire.<br> - Aye, Captain.<br>  You're going down, Emperor.<br>  Sooner than you think.<br>  Transport Duggan directly to the brig.<br>  Have Culber meet us there.<br>  He won't give up Lorca easily.<br>  - Stay alert.<br> - Of course, Emperor.<br>  Bring the Honor Guard as well.<br>  We don't want to take any chances.<br>  If you're having second thoughts  No, I'm not, Mother.<br>  I promise you, I'm ready.<br>  I'm here in the flesh.<br>  What do you have to say now?  The infamous Philippa Georgiou.<br>  Huh.<br>  In person, you're not so terrifying.<br>  Well, I'll be damned.<br>  The snake wriggled out of her cage.<br>  Can't trust this one, Emperor.<br>  Of course you can.<br>  When I want you to.<br>  All of it was a lie, then?  I knew you were on to me at the christening of the Charon.<br>  And I really thought you would kill me.<br>  But then  Never ceases to amaze me   the depths to which we can descend  when we must.<br>  They're gonna sing songs about me.<br>  How I saved the empire.<br>  You can still make a different choice, Michael.<br>  Please.<br>  "Please"?  What happened to you?  I have changed.<br>  I have seen another way to live, another way to rule.<br>  There is no other way.<br>  There's an iron fist and there's death.<br>  You never should have trusted me.<br>  I never did.<br>  Not like I wanted to.<br>  It's just you and me now, Mother.<br>  It doesn't have to be this way.<br>  You're still holding back?  This is not you.<br>  This is who I have always been.<br>  And you, of all people, should know that.<br> You made me.<br>  I'm sorry.<br>  Michael  Emperor Georgiou.<br> Emperor?  Saru.<br>  Save your strength.<br> Doctors are coming.<br>  You passed? You passed through?  I passed through Vahar'ai.<br>  You passed through.<br>  She's passed through.<br>  Philippa?  See, that's what you do with doors,  you pass through.<br>  Philippa?  You've really got to get yourself up to speed  with modern technology.<br>  Hey.<br> Hey, you all right?  What did you do to me? What day is this?  Oh, good question.<br> Mm.<br>  The winds are a-shiftin', it seems.<br>  Who are you?  I'm Carl.<br> We're old friends, remember?  - What are you?! - Okay, okay.<br>  He sent me back to Terra.<br>  I was there for months.<br>  Okay, you're disoriented, that's all.<br>  You've been right here.<br>  Was any of it real?  Tell me.<br>  The answer to that is on your wrist, Emperor.<br>  There are three months' worth of bio-data points in here.<br>  That's impossible.<br>  You were unconscious for less than a minute.<br>  If she really went back, then who's been here with us  for this past minute?  We have so many selves.<br>  There's a version of you that's breathing your last breath  in a mirror universe.<br>  But that version doesn't fit so well anymore, does it?  No.<br>  I thought you said going through the door would help her.<br>  You can't just live in doorways.<br>  Who are you?  - Really? - Really?  I am the Guardian of Forever.<br>  The Kelpiens crashed in the middle of  a radioactive nebula  125 years ago.<br>  Maybe the reason we can't hack into their system  is because there is no system left to hack.<br>  Well, something is still sending out  that distress call on repeat.<br>  We need more power.<br>  I'm rerouting an additional ten percent  from non-essential systems.<br>  Stop stealing my power supply.<br>  I haven't seen you since the dawn of time.<br>  Where the hell have you been?  Realizing my lifelong dream of taking us  from plasma to fully polaric warp conduits.<br>  And I was yay-close until you two geniuses  sucked the power out of my backup cells.<br>  Well, this is important.<br> Saru has given us  eminent allocation clearances.<br>  - For what? - We're using long-range sensors  to hack into, uh, a crashed ship.<br>  You're-you're not allowed to have food in here.<br>  This isn't food, it's candy.<br>  - It's practically an accessory.<br> - I've got it.<br>  I figured out why you couldn't hack into the ship.<br>  - Um, what are you - I read the field manual.<br>  Your static is happening at the space-subspace barriers.<br>  That's why you're using all your juice trying to punch through.<br>  - None of this is in the field manual.<br> - It got interesting,  so I moved on to the technical manual  to see what happened next.<br>  What I found out is that you guys don't know  that you can amplify your signals within subspace.<br>  You're not allowed food in here.<br>  - But you you can do that? - Mm-hmm.<br>  Couriers travel to pockets of the galaxy  where subspace relays are few and far between.<br>  We use range extenders to amplify weak signals.<br>  So this is an Emerald Chain tool?  One of the benefits of doing business with them.<br>  Uh, Captain said make myself useful.<br>  I made myself useful.<br>  It worked.<br>  Our sensors are holding a link to the ship.<br>  We're gathering data now.<br>  Well, I mean, if I'd had Emerald Chain technology  You could just say thank you.<br>  Biologically impossible.<br>  If he tried, his DNA would unravel  like a hormonal teenager.<br>  I need to update Saru.<br>  What's a Guardian of Forever?  - Why haven't we heard of you? - I'm in hiding.<br>  I'm a spacetime portal, you might say.<br>  Back in the day it used to be, "Sure, come on through.<br>  Just don't screw up history or you'll have to fix it".<br>  And then the Temporal Wars happened, and  everyone was killing everyone else,  and trying to use me to do it.<br>  It wasn't pretty.<br>  But here I am.<br>  Officially elsewhere.<br>  Nowhere near my original coordinates.<br>  Only an intelligence with over 100,000 years of history  and access to current Federation databases  - could possibly extrapolate your location.<br> - I like that.<br>  The sphere data.<br>  For all the good it's done me  I'm still dying.<br> Why?  You weren't sent back to be cured.<br>  You were sent back to be weighed.<br>  Weighed?  Tested to see if she'd make different choices.<br>  To see if this time, here, had changed her at all.<br>  Why didn't you just tell me?  What, give you the answer before the test?  You're a tricky case, Philippa.<br>  You don't belong here, now,  but to send you somewhere else  might cause just as many problems.<br>  So you had to be weighed  to figure out your course.<br>  Oh, let me guess.<br>  I was found to be lacking.<br>  Now, why would you say that?  I killed my daughter.<br>  - Again.<br> - But in fairness,  your hands were tied.<br>  - The end was the same.<br> - But you tried.<br>  I failed her the Empire.<br>  Yeah.<br>  But, you know, this time through  you tried for peace.<br>  You saved a Kelpien.<br>  And you didn't have to do that.<br>  And he'll save others.<br> A lot of them.<br>  So you will help her?  It's ready when you are.<br>  No.<br> I won't return to Terra.<br>  Oh, come on, no one said anything about  sending you back there.<br>  I'm gonna send you back to a time  when the mirror universe and the prime universe  were still aligned.<br>  That's so you won't fall apart.<br> Atomically speaking.<br>  Consider yourself lucky.<br>  You're getting a second shot.<br> I mean, that's pretty unique.<br>  But it won't be easy.<br>  The paper says the forecast will be bumpy and painful.<br>  Lots of rainstorms, heartaches.<br>  But that's life.<br>  Or so I'm told.<br>  Can Michael come with me?  Afraid not.<br>  This Michael Burnham is right where she needs to be.<br>  When you're ready  just walk on through.<br>  Philippa, listen.<br>  No.<br>  You listen.<br>  I said you sentenced me to death  when you brought me to this universe.<br>  In truth, the greater part of me was already dead.<br>  You gave me new life.<br>  And the rest of your crew isn't so bad either.<br>  I've seen that some endings are inevitable.<br>  Mine.<br> Captain Burnham's.<br>  And perhaps your Philippa was destined for her end as well.<br>  You are my Philippa.<br>  Michael  I mean, what I feel for you   belongs to you.<br>  No one else.<br>  I wish I'd learned all this before now.<br>  I had a chance, once, long ago.<br>  He was called San.<br>  I wish I told you about him.<br>  Tell the people you're about to meet now.<br>  I will never find another like you.<br>  I don't think I will, either.<br>  But we owe it to ourselves to try.<br>  Go.<br>  Before it's too late.<br>  This era is different.<br>  More Terran than where you came from.<br>  Saru has navigated Discovery admirably,  but he's not the only one who's suited  for the captain's chair.<br>  You have always been far greater  than you could imagine, Michael.<br>  So have you, Philippa.<br>  We have established a link with the Kelpien ship, Admiral.<br>  - Data is starting to come in.<br> - I'm glad to hear that,  but using Chain technology on a Starfleet ship is a stretch,  even by the lax standards you and Commander Burnham adhere to.<br>  Well, to be fair, Admiral, Commander Burnham is settling.<br>  Proving to be all the more effective as a result.<br>  And without Mr.<br> Booker's assistance,  we would have been unable to access the Khi'eth's systems.<br>  Did it occur to either of you that using this tech  could compromise Discovery's systems?  It's safe.<br>  I made sure of that before I installed it  on my own ship two years ago.<br>  Mr.<br> Booker's tool provided a needed solution  for our objective.<br>  An objective you approved, Admiral.<br>  Osyraa's desperate for dilithium.<br>  Discovery has a spore drive.<br>  That's not a good combination.<br>  You're going to have to be exceptionally careful  at all times.<br>  If you would like to remain on Discovery,  you will need to follow Starfleet protocol.<br>  With all due respect,  Osyraa has no protocols.<br>  Having someone like me around who's not part of Starfleet  could be a good thing.<br>  Commander Burnham is beaming back to Discovery.<br>  Alone?  - We can continue this conversation later.<br> - Excuse me.<br>  His actions didn't bother you?  He was trying to help.<br>  Like you were trying to help by delaying your reports  on the Khi'eth until you had more data?  I did not wish to present you with pure conjecture.<br>  Here's what I see.<br>  I have a Kelpien research vessel that crashed before the Burn  and a captain who hasn't seen another Kelpien face  since he got here.<br>  I wouldn't blame you if you were a little distracted.<br>  I just need you to say so.<br>  I assure you, Admiral, that is not the case.<br>  All right.<br>  Commander Stamets and Adira have permission  to use Mr.<br> Booker's tech, under supervision.<br>  But the second you know what's inside the Khi'eth,  I want a report.<br>  Of course.<br>  Will there be anything else?  Yes.<br> My condolences, Saru.<br>  I know you will all feel her absence.<br>  Michael.<br> Hey.<br>  I'm so sorry.<br>  Gone?  As in deceased?  She will not return.<br>  Never.<br>  Then she is deceased.<br>  To Philippa Georgiou,  the most stubborn patient I've ever had.<br>  Considering what some of you have put me through,  that's saying a lot.<br>  I wish I could've done more.<br>  You tried.<br> And she knew that.<br>  - Even if she bit your head off every chance she got.<br> - Mm.<br>  To Philippa Georgiou.<br>  Uh, she was tough.<br>  She was a force to be reckoned with, and, um,  she pretty much redefined the word "badass".<br>  Oh, and can I just add that she had the best walk.<br>  With that coat and those boots?  And nothing intimidated her, not in any universe.<br>  She had no tact, and, God, I loved that about her.<br>  She was always honest.<br>  Punishingly so.<br>  Her barbs, however piercing, were utterly glorious.<br>  She was a pain in the ass.<br>  And she, uh, she meant more to me  than I could ever put in words.<br>  Georgiou was the wall  I crashed into over and over and over again.<br>  She was a tormentor but a truth-teller.<br>  She was a mirror I never knew I-I needed.<br>  Like a mother, almost.<br>  Like a sister, almost.<br>  I loved her and hated her,  sometimes both at the same time.<br>  More than anything, she was my friend.<br>  She was the most unexpected of gifts,  and I will miss the hell out of her.<br>  To Philippa.<br>  To Philippa.<br>   Captain, the Khi'eth, there's a life sign.<br>  Someone is alive inside that ship.<br>  We need to set course for the Verubin Nebula.<br>  Hang on!  Keep an eye on your radiation levels.<br>  We'll still need to be back in 4 hours.<br>  Whatever answers we find,  I just hope they're enough.<br>  A ship approaching.<br>  She's got weapons locked.<br>  - Ready to jump.<br> - No, we can't leave them.<br>     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e09" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e11" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

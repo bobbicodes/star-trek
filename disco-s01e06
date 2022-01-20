@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e06 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e06 - Lethe Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e06 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e06"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e06 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e06" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Lethe</div>
+
+            <h1>Star Trek: Discovery (2017) s01e06 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Lethe</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 [NARRATOR.]<br> Previously on Star Trek: Discovery:  -  -       [GEORGIOU.]<br> Ambassador Sarek, it's good to see you again.<br>  As discussed, this is my ward.<br>  The only female Michael I ever heard of  was Michael Burnham, the mutineer.<br>  You're not her, are you?  Captain Gabriel Lorca.<br> Welcome to Discovery.<br>  Captain what am I doing on this ship?  Question is, what am I gonna do with you?  We are creating a new way to fly.<br>  If the Discovery can be anywhere and gone in an instant,  that's how you beat the Klingons.<br>  We believe the enemy may have identified Discovery  as our secret weapon.<br>  - [GROWLING.]<br> - [GRUNTING.]<br>  [LORCA.]<br> Didn't realize there were more of us here.<br>  - What's your name, soldier? - Lieutenant Ash Tyler.<br>  [TYLER.]<br> Getting out of here was always a two-man job.<br>  I just waited till I found the right man.<br>  Your eyes.<br> That happened when you destroyed the Buran, didn't it?  We choose our own pain.<br>  Mine helps me remember.<br>  [OVER COMM.]<br> This is Captain Lorca.<br> Two to beam out, now.<br>  [MAN.]<br> Live long and prosper, Ambassador Sarek.<br>  And you, Adjunct V'Latak.<br>  Our mission requires that we leave at once.<br>  Plot a course for the Cancri system.<br>  May I inquire as to the nature of our diplomatic mission?  Allow me to be diplomatic and ask that you do not.<br>  In times of crisis  ignorance can be beneficial.<br>  [V'LATAK.]<br> We are set to launch.<br>  [BURNHAM.]<br> Two more laps before breakfast.<br>  [TILLY.]<br> We've done ten.<br>  You still need to shave 6.<br>5 seconds off of your time.<br>  - Does six seconds really matter? - Six-point-five.<br>  And yes, they matter, if you're gonna make captain.<br>  It's been my experience that what I lack in athletic ability  I more than make up for in intelligence and personality.<br>  We may wanna focus on those attributes.<br>  Everyone applying to the Command Training Program will be smart.<br>  Personality doesn't count.<br>  That's just something people with no personality say.<br>  Wait, which in no way means you.<br> You absolutely have a personality.<br>  [BURNHAM.]<br> Six-point-five seconds is not an arbitrary number.<br>  Your time will earn you a physical endurance commendation.<br>  Today, your goal is 6.<br>5 seconds.<br>  Then, getting a transfer on a Constitution-class,  like the Enterprise.<br>  After that, first officer track.<br>  See your path, stay on it.<br> Reach your destination.<br>  Cadet to captain.<br>  Just like that.<br>  What's it gonna be, Tilly?  [TILLY PANTING.]<br>  - [ALARM WAILING.]<br> - [KLINGONS YELLING AND GRUNTING.]<br>  How you holding up?  I waited seven months to do this.<br> Don't worry about me Captain.<br> Clear.<br>  Door right, stack right.<br> Go.<br>  - Where do you hail from, soldier? - Seattle.<br>  - Clear.<br> - Clear.<br>  [DOOR CLOSES.]<br>  What about your family?  Never knew my father.<br> Mom said I didn't miss much there.<br>  She died while I was at the Academy,  on her way to the moons of Grazer.<br>  A rogue comet.<br>  First vacation in 12 years.<br>  High, low.<br>  [GRUNTING.]<br>  [LORCA GRUNTS.]<br>  [COMPUTER.]<br> Two survivors.<br>  One injury.<br>  Mission success.<br>  Hologram battle simulation complete.<br>  Your mother was a teacher, right?  Yeah, third grade.<br>  Issaquah Elementary.<br>  Twenty-four kilometers outside Seattle,  which makes you not exactly from Seattle.<br>  I like to split hairs.<br>  I do my homework.<br> Think I let just anyone walk on my ship?  No, sir.<br> Assuming I checked out?  We wouldn't be playing with these toys if you didn't.<br>  Twenty-four kills.<br> You?  Twenty-two, sir.<br>  Looks like I'm the one who needs to get his eyes fixed.<br>  Mh.<br>    - Captain, out of respect - Don't apologize for excellence.<br>  I want my chief of security to shoot better than I do.<br>  [MAN ON COMM.]<br> Ensign Rause, please report to the shuttle bay.<br>  You offering me a slot, Captain?  Well, I figure I've seen you fly, shoot  fight like a Klingon.<br>  Klingon guards beat on me for months.<br>  I was bound to pick something up.<br>  No, most people would've given up.<br>  You learned.<br>  My last chief of security and I went through a lot together.<br>  I need someone I can trust.<br>  Someone that understands war.<br>  What it takes to survive, what it takes to win.<br>  I think that's you.<br>  Is it?  I'd be honored to serve on the Discovery.<br>  I won't let you down, sir.<br>  Good.<br>  [SAREK.]<br> According to our flight plan,  we should be arriving momentarily.<br>  Why have we not yet dropped out of warp?  Our course has changed.<br>  You know the actual nature of my mission.<br>  This mission does not reflect true Vulcan ideology.<br>  You are one of them.<br>  - A fanatic.<br> - Your fascination with humans  can no longer be tolerated.<br>  Your obsession has blinded you to the truth.<br>  Humans are inferior.<br>  My sacrifice  will be a rallying cry to those who value logic above all.<br>  Vulcans will soon recognize  and withdraw from the failed experiment known as "the Federation.<br>"  [THEME MUSIC PLAYING.]<br>   Computer, green juice.<br> Extra green.<br>  Computer, cancel that order.<br>  That's hardly the correct ratio of protein, carbohydrates, and fat.<br>  Computer, three-egg-white breakfast burrito with black beans.<br>  - Computer - Make it two.<br>  Computer, add salsa.<br>  Computer, add roasted-tomato salsa.<br>  Cooked tomatoes are a great source of lycopene.<br>  - Remember that.<br> - Oh, my God.<br> You are so scary.<br>  [COMPUTER.]<br> Two appetizing and nutrient-filled burritos.<br>  New guy, 3 o'clock.<br>  Lieutenant Ash Tyler.<br>  Scuttlebutt is he took out six Klingon warriors  in hand-to-hand combat when he and the captain escaped  that Bird-of-Prey.<br>  Six? I've fought Klingons.<br> I doubt it.<br>  Now the captain practically wants to adopt him.<br> As a result.<br>  I can't imagine Captain Lorca feeling that way about anyone.<br>  Why? He practically adopted you.<br>  I believe every word of it.<br> Kind of feel like it makes him hotter.<br>  [MAN ON COMM.]<br> Ensign Molina, please report to engineering.<br>  Scuttlebutt is you took out  six Klingon warriors in hand-to-hand combat.<br>  Can't believe everything you hear.<br> Please, sit down.<br>  I'm Cadet Sylvia Tilly.<br> Uh, this is my mentor, Michael.<br>  [WOMAN ON COMM.]<br> Commander Wilson, report to the transporter room.<br>  You're Michael Burnham.<br>  The same.<br> You probably can believe everything you hear.<br>  I tend to assess people in the here and now.<br>  You're a functioning crew member of a Federation starship.<br>  Right here.<br> Right now.<br>  Crazy kids.<br>  Michael.<br>  Michael, what's wrong?  I should go.<br>  - You okay? - Yes.<br>  No.<br>  [PANTING.]<br>  [SCREAMS.]<br>  Sarek.<br>  [SAREK.]<br> My mind to your mind.<br>  My thoughts to your thoughts.<br>  [MAN.]<br> I believe this is one of our most promising groups of graduates.<br>  - [CROWD CHATTERING.]<br> - [HARPIST PLAYING ETHEREAL MUSIC.]<br>  We can't let them do this to her.<br>  She has worked her whole life for this.<br>  She's excelled.<br> You have to do something.<br>  This is not fair.<br>  There is no logic in your request, wife.<br>  Fairness is quantifiable.<br>  The Vulcan Expeditionary Group has rated her abilities as insufficient  and rendered their decision.<br>  Their decision is wrong.<br>  She graduated at the top of her class.<br>  Her test scores are better than any Vulcan.<br>  [SAREK.]<br> There are other metrics.<br>  Spiritual discipline, martial arts  - logic.<br> - Please, I want to go home.<br>  Humiliation is a human emotion.<br>  I'm sorry, Sarek.<br>  You were wrong to believe in me.<br>  - No, no, no.<br> - I can't compete here.<br>  I do not have the required abilities.<br>  - I am not good enough.<br> - [AMANDA.]<br> Nonsense.<br>  Sarek, make her see the truth.<br>  [SAREK.]<br> She cannot thrive in the Vulcan service.<br>  Perhaps I can find a place for her in Starfleet,  where the requirements are less extreme.<br>  What are you doing here? This is my mind.<br>  - [BURNHAM.]<br> You brought me here.<br> - Leave now!  Sarek!  Ever since the bombing, part of me,  my katra, has been with you.<br>  My thoughts to your thoughts.<br>  [GASPS.]<br> Sarek.<br>  It's okay, Burnham.<br> You're in sick bay.<br>  - What's the matter with her? - I have no idea.<br>  Nothing shows up on any of her scans.<br>  It's not me, it's Sarek.<br> He's in trouble.<br>  How would you know that?  I share part of his katra.<br>  His eternal life force.<br>  Like a Vulcan soul.<br>  I've heard stories.<br> I just assumed it was an ancient myth.<br>  How can you share a soul with Sarek?  - You're not Vulcan.<br> - I was raised as one.<br>  After my parents were killed at a Vulcan outpost  Sarek and his human wife, Amanda, took you in.<br>  Your story is well-documented.<br>  He believed I could serve as humanity's potential.<br>  How could he put that pressure on a child?  But not everyone agreed with him.<br> A group of logic extremists  didn't want humans in their culture, tried to stop him by killing me.<br>  They bombed the Learning Center  - where I was educated.<br> - Vulcans tried to murder you?  Renegade Vulcans, a small faction.<br> And they didn't try.<br>  Doctor, they succeeded.<br>  I was dead for three minutes.<br>  The katra has a healing power.<br> Sarek used it to save me.<br>  A kind of soul graft.<br>  It's a procedure that's frowned upon, and rare.<br>  So, you're linked with him? He gets wounded, you feel pain?  - Has this happened to you before? - Once.<br>  The start of the war.<br>  He sensed my distress  and came to me.<br>  But this is different.<br> I can feel him slipping away.<br>  I don't think this is a conscious effort on his part.<br>  Sarek is delirious.<br> He might be dying.<br>  Captain  Please.<br>  Captain, help me find him.<br>  [GRUNTS.]<br>  Michael Burnham is correct.<br> The Vulcan High Council has confirmed  that Ambassador Sarek's ship was sabotaged  by logic extremists.<br>  I'm told that the Vulcans were secretly invited to a meeting  with two independent Klingon houses,  in an attempt to forge an alliance to end the war.<br>  Klingons don't normally send party invitations.<br>  Indeed.<br>  But both of these houses  were ousted by General Kol's new ruling council.<br>  It is their wish to undermine his authority.<br>  - And the Vulcans believe that? - Not without reservation.<br>  The meeting was organized on neutral ground  by the elders of Cancri 4.<br>  Sarek was chosen to vet the legitimacy of their claims.<br>  He's demonstrated a unique ability to forge relationships with races  that do not follow logic-based ideology.<br>  Vulcans went behind Starfleet's back  'cause they thought they could clear up our illogical mess.<br>  So, where is the ambassador right now?  Lost in a nebula near Yridia.<br>  Starfleet Command is assessing the situation  to organize a recovery operation.<br>  Well, the longer you assess, the greater the chance Sarek dies.<br>  And so does the best chance for peace.<br>  - I'll go get him.<br> - Absolutely not.<br>  There are protocols to be followed Captain.<br>  You can tell the Vulcans they're welcome.<br>  I'm happy to clean up their mess.<br>  - Discovery out.<br> - Captain  [ALARM WAILING.]<br>  We have arrived at the Yridia nebula.<br>  Start scanning for the ambassador's emergency beacon.<br>  [DOOR OPENS.]<br>  - How are you feeling? - I still sense Sarek,  but it's growing erratic.<br> I think he's getting worse.<br>  - Don't worry, we'll get him back.<br> - [SARU.]<br> Captain.<br>  Scanners detect no signs of the ambassador's ship.<br>  The nebula's radioactive gases are rendering our sensors inoperative.<br>  All right, we'll send out probes, scan sector by sector.<br>  Considering the size of the nebula,  uh, that method could take months.<br>  Well, any other options, Number One?  Me.<br>  [STAMETS.]<br> Now, that's my kind of crazy.<br>  You're talking about building a synthetic mind-meld augment.<br>  - Groovy.<br> - Clearly your trip  down the mycelium path has lightened your mood, Lieutenant.<br>  [STAMETS.]<br> Once you're past getting stabbed by needles,  it's pretty great.<br>  I'm guessing from your reaction,  that modifying this neural enhancer is a viable method  - to achieve what I need.<br> - Sure.<br>  Hey, why not?  Now, we boost you neural impulses  to reconnect with his katra,  then pump those same signals into your noggin and voilÃ .<br>  SarekVision.<br>  I gotta say, this katra stuff is way cool.<br>  An uncharted superhighway connecting all of consciousness and life?  We have exactly no time to discuss the metaphysical implications.<br>  I sense that Sarek is unconscious.<br> I wanna use this mind-meld  to wake him up so he can activate his ship's transponder.<br>  Right.<br> Like a psychic hit of speed.<br>  I was thinking adrenaline shot, but okay.<br>  [STAMETS.]<br> There is one wrinkle, though.<br> Um  Radioactive interference from the nebula is gonna diffuse your signal.<br>  You will never be able  to maintain a strong enough connection with Sarek  from out here.<br>  So, we take the Discovery inside the nebula  - and get closer to him.<br> - Oh, bad idea.<br>  Guess what happens if we mix those cosmic gases  with our concentration of mycelium spores we have onboard.<br>  Uh  - [MIMICS EXPLOSION.]<br> - Huh.<br>  Okay, so we go in with a shuttle.<br>  Oh.<br> You'd have to fly into that soup  with nothing but hope and a prayer.<br> Are you really that crazy?  - Good to know.<br> - [LORCA CLEARS THROAT.]<br>  [STAMETS.]<br> I know, I know.<br> Get to work.<br>  As long as I don't overstay my welcome,  shuttle shields can handle it.<br>  But I need someone to work the neural enhancer.<br>  I'd like Cadet Tilly.<br>  She's smart.<br>  - And I could use the moral support.<br> - All right, then you'll get it.<br>  And you need a pilot who can fly you through that storm  and, more importantly, get you out alive.<br>  Luckily, I know a guy.<br>  [MAN ON COMM.]<br> Attention, all personnel.<br> Clear dock 3 for shield test.<br>  - Cadet.<br> - Sir.<br>  [LORCA.]<br> Bring her back in one piece.<br>  Not a scratch.<br>  I'm talking about her.<br>  [MAN ON COMM.]<br> Cadet Wells, please report to engineering.<br>  Or don't come back at all.<br>  [SARU OVER COMM.]<br> Captain.<br> Incoming transmission from Admiral Cornwell.<br>  Transfer it to my quarters.<br>  I'm afraid that won't do, sir.<br>  What do you mean, that won't do?  Her cruiser just dropped out of warp,  and she's requesting permission to land.<br>  Here.<br>  All right.<br> I'll see her in my ready room.<br>  What the hell do you think you're doing?  I thought Terral was gonna throw a fit.<br>  - And he's a damn Vulcan.<br> - I did what I thought was best.<br>  You launched an unauthorized rescue mission  using a convicted mutineer.<br>  Not to mention a POW who has barely had time to recover.<br>  - Can you even trust this guy? - Yes, Admiral.<br> I checked him out.<br>  Tyler graduated with honors from the Academy  before he saved my life.<br>  You are captain of the most advanced ship in the fleet,  the cornerstone of our entire defense against the Klingons.<br>  You cannot treat Discovery like it's your own fiefdom.<br>  Is it true what I heard about Lieutenant Stamets?  He engaged in eugenic manipulation?  He got the spore drive working again.<br>  Yeah, he saved the ship and the crew.<br>  I appreciate that.<br>  But there are rules  Rules are for admirals in back offices.<br>  I'm out there trying to win a war.<br>  Then don't make enemies on your own side.<br>  What are you doing here? What's really going on?  I came to see my friend.<br>  Okay.<br>  Why don't we stop talking like Starfleet officers, Kat, and, uh  start talking like friends?  Hey, where's that old Burnham bluster, huh?  The bad-ass lady who's always pushing me to be the best I can be?  Do you know what helps me when I'm freaked out?  Talking.<br>  You know where Sarek's mind is?  Where his dying thoughts have taken him?  - To me.<br> - I mean, that's kind of beautiful.<br>  No.<br>  [SIGHS.]<br> No, you don't understand.<br>  I was supposed to be his proof that humans and Vulcans could coexist  as equals.<br>  But I ended up being his greatest disappointment.<br>  That's what he's reflecting on.<br>  I was rejected from the Expeditionary Group  for being too human.<br>  My failure is his last thought.<br>  He doesn't believe in me, but I'm supposed to save him.<br>  [TYLER.]<br> All right.<br> We're at Sarek's last known location.<br>  Can we do this before we get torn to pieces?  Or you can keep chatting.<br> Up to you.<br>  Okay.<br> Good to go.<br>  Provided this thing doesn't fry your brain.<br>  Now, if the bio-readings show something weird  They will.<br> Sarek is delirious.<br>  I can't allow him to push me out again.<br>  But fighting him is gonna put a massive strain on me.<br>  Then how do I know if I should pull you out?  Don't.<br>  No matter what the sensors say,  you leave me in there.<br>  Okay?  Go.<br>  [POWERING UP.]<br>  [SAREK.]<br> She cannot thrive in the Vulcan service.<br>  [BURNHAM.]<br> I'm sorry.<br> You were wrong to believe in me.<br>  [HARPIST PLAYING ETHEREAL MUSIC.]<br>  [CROWD CHATTERING.]<br>  [AMANDA.]<br> Do you remember, on your tenth birthday  we took a shuttle and we went to the seventh moon of Eridani D?  [BURNHAM.]<br> I recall.<br> To experience a book exchange.<br>  An ancient human ritual.<br>  This gift  comes with a mother's advice.<br>  You've proven you're as accomplished as any Vulcan,  which is gonna serve you well.<br>  As long as you never forget  that you're human, too.<br>  You need to nurture that side.<br>  There's Sarek.<br>  He's talking to the Expeditionary Group director.<br>  She got in, didn't she?  Michael's application  was rejected.<br>  If this is your attempt at humor,  you're gonna need more practice, husband.<br>  - It is not.<br> - Why?  No human has ever been accepted into the Vulcan Expeditionary Group.<br>  Success was always an unlikely outcome.<br>  What is the reason that they could possibly reject her?  [SAREK.]<br> Obviously, I had hoped for better.<br>  I don't wanna be here.<br>  - Michael.<br> - Please, I want to leave.<br>  - [AMANDA.]<br> Listen to me.<br> - Why are you doing this?  I told you before, you're not welcome here.<br>  You called me here.<br> Your katra pulled me.<br>  This is my mind.<br> Stay out.<br>  You're near death.<br> I can help you like you helped me.<br>  Give me a chance.<br> Please.<br>  You will fail.<br>  [GRUNTING.]<br>  [ALARM BEEPING RAPIDLY.]<br>  - What's happening back there? - I don't know.<br>  Then wake her up.<br>  She said not to.<br> It'll sever the link.<br>  I outrank you.<br>  Damn it.<br> Fine.<br>  [GASPS.]<br>  - [SOFT JAZZ MUSIC.]<br> - [CORNWELL CHUCKLES.]<br>  Nothing like a single malt, straight from the motherland.<br>  I still think about the bottle we killed  that night we went to see the Perseids meteor shower.<br>  [CHUCKLES.]<br>  - You don't remember? - No, I was just  thinking how long ago it seems.<br>  Yeah.<br>  We were so young.<br>  With grand plans for the future.<br>  Well, some of us still have.<br>  I know.<br>  I worry about you, Gabriel.<br>  Some of the decisions you've been making recently have been  - troubling.<br> - Well, war doesn't provide  too many opportunities for niceties.<br>  You're pushing this crew.<br>  You're putting the ship in harm's way.<br>  You've been ignoring orders.<br>  I'm in the front line, Kat.<br>  You gotta make decisions in a second, sometimes less.<br>  Which is why Starfleet needs you at your best.<br>  I'm not sure we're getting it.<br>  I'm not sure the Klingons would agree.<br>  I'm not talking about your record.<br>  I'm talking about you.<br>  I don't think you've been the same since the Buran.<br>  Hmm.<br>  [SIGHS.]<br> I passed every test.<br>  Cleared for duty every time.<br>  But you know that, don't you, doc?  Yes, I've read your psych evals.<br>  - You passed with flying colors.<br> - So, what's really the problem?  Less than a week ago, you were being tortured.<br>  Now you're back in the chair.<br>  How do you feel about that?  [LAUGHS.]<br>  Are we in session? I didn't know you were practicing again.<br>  'Cause if I have your undivided attention  for 50 minutes  I can think of a whole bunch of other things we could be doing.<br>  [ALARMS BEEPING.]<br>  Laying in a course back to Discovery.<br>  - No, you're not.<br> - He actually is, though.<br>  I said I'm not leaving here without Sarek.<br>  Those are not my orders Burnham.<br>  - [TILLY.]<br> Hey.<br> - [SIGHS, THEN GASPS.]<br>  Sarek keeps blocking me.<br> I can't fight you, too.<br>  All right.<br> What can we do?  I don't know.<br>  His thoughts are fixed on my graduation day,  but the emotions from that memory  - are too difficult for me to handle.<br> - Maybe it's hard for him, too.<br>  Or not.<br> He's a Vulcan.<br>  Why is he thinking of your failure? Where's the logic in that?  I've been close to death.<br>  Right up next to it.<br> You don't think about who's failed you.<br>  None of that matters.<br>  You think about who you love.<br>  What you wish you'd done differently.<br>  What does he wish he'd done differently?  I'm going back in.<br>  [SAREK.]<br> She cannot thrive in the Vulcan service.<br>  Sarek.<br>  You continue to demonstrate an inability to learn.<br>  - You cannot defeat me.<br> - What are you hiding?  [GRUNTING.]<br>  What don't you want me to see? Is it worth dying over?  I can save you, Sarek.<br> But you have to let me into your mind.<br>  Let me in.<br> You had faith in me once.<br>  I'm asking you to have faith in me again.<br>  I never lost faith in you.<br>  The failure on this day  was mine, and mine alone.<br>  I will show you.<br>  The Expeditionary Group has examined Graduate Burnham's application  - with great interest.<br> - Acceptance with honors is her due.<br>  By conventional decision parameters, yes.<br>  Your hesitation is to do with her nature?  [DIRECTOR.]<br> Certainly, her nurture is unquestionable.<br>  I have created in her a being of exquisite logic  to rival the best of our species.<br>  An accomplishment you have achieved not once but twice.<br>  Your ward, Michael, and your son, Spock.<br>  What has my son to do with this situation?  He has not yet begun his studies at the Science Academy.<br>  Upon completion, he will apply to the Vulcan Expeditionary Group,  and then there will be not one but two non-Vulcans in its ranks.<br>  - Spock is - Half-Vulcan.<br>  Another of your experiments.<br>  The integration of humans into our culture is an admirable goal,  but it must be titrated.<br>  In honor of your position and reputation  I will accept one  of your not-quite-Vulcans.<br>  You ask me to make an impossible choice.<br>  [DIRECTOR.]<br> Your reaction to this is quite illogical  and suggests a conclusion based on emotion.<br>  You chose Spock over me.<br>  Didn't you?  You were forced into that decision.<br> Why not tell me the truth?  Spock went against my wishes  and joined Starfleet over the Vulcan Expeditionary Group.<br>  The choice I made merited nothing.<br>  What would be gained by telling you that?  Instead, you made me believe I failed you.<br>  You manipulated me.<br>  Do you have any idea what living with that lie did to me?  I did not.<br>  But I do now.<br>  I failed you, Michael Burnham.<br>  [SAREK GROANING.]<br>  And for that, I have  so much  Shame?  Yes.<br>  Show me how to save you like you saved me.<br>  [BOTH.]<br> My mind to your mind.<br>  My thoughts to your thoughts.<br> [GASPS.]<br>  Wake up, Sarek.<br> Tell us where you are.<br>  [GASPS.]<br>  [BEEPING.]<br>  I got his transponder.<br>  You did it.<br>  [GASPS, SIGHS.]<br>  [CORNWELL GASPS.]<br>  - [PANTING.]<br> - [PHASER POWERING UP.]<br>  [POWERS PHASER OFF.]<br>  I'm sorry.<br> I'm not used to having anyone in my bed.<br>  You sleep with a phaser in your bed, and say nothing's wrong?  - Kat - All these months  I have ignored the signs, but I can't anymore.<br>  The truth is, you are not the man I used to know.<br>  - Of course I am.<br> - I'm not like the rest at Starfleet,  blinded by your victories.<br>  You lied on those psych evaluations.<br>  And you did it so brilliantly you fooled everyone.<br>  That what you're doing here? You came to evaluate me yourself?  I have watched you change these last months.<br>  It's upsetting.<br>  - Kat - Now I see,  it's worse than I even thought.<br> Your behavior is pathological.<br>  That's what tonight was, right? Trying to get me to back off?  No.<br>  It sure wasn't what it was like before.<br> But this is bigger than us.<br>  You said it yourself.<br>  We're at war.<br>  I can't leave Starfleet's most powerful weapon  in the hands of a broken man.<br>  Don't take my ship away from me.<br>  She's all I got.<br> Please, I'm begging you.<br>  [STAMMERS.]<br> You're right.<br>  It's been harder on me than I let on.<br>  I lied about everything, and I need help.<br>  I hate that I can't tell if this is really you.<br>  [SARU OVER COMM.]<br> Captain, Lieutenant Tyler has just returned.<br>  They have Ambassador Sarek,  but he is severely wounded.<br>  On my way to sick bay.<br>  He'll live.<br>  But Dr.<br> Culber says he can't meet the Klingons in this condition.<br>  The window for the talks closes in a few hours.<br>  Even if the Federation wanted to step in,  they couldn't get there in time.<br>  Admiral Cornwell could.<br>  I mean, we're already halfway there.<br>  She could take an envoy,  small enough so as not to rattle the Klingons.<br>  I know her.<br>  She'd do anything to keep the chance of peace alive.<br>  You did well, Burnham.<br>  You should be proud.<br>  Much as it would displease my Vulcan mentor,  I'm feeling a lot of emotions right now.<br>  I'm not sure pride is one of them.<br>  But I do wanna thank you.<br>  Sir.<br> You didn't have to mount this rescue mission for Sarek.<br>  I didn't do it for him.<br>  I need a team around me that's gonna help me carry the day.<br>  And that includes you.<br>  So I'd like to make it official.<br>  There's a post waiting for you on the bridge.<br> Science specialist.<br>  - Don't even think about saying no.<br> - I accept.<br>  Good.<br>  I'm grateful  to serve under a captain like you.<br>  [MAN ON COMM.]<br> Any available offload team to cargo bay 5.<br>  Good to see your strength returning.<br>  It is  unfortunate that I will not be able to continue my mission of peace.<br>  What do you recall of your rescue?  Of what transpired between us?  I was unconscious, was I not?  You know what happened.<br>  You could talk to me about it.<br>  Help me understand what you did.<br>  It could make us grow closer,  not further apart.<br>  That's what families do.<br>  Technically, we are not related.<br>  You can do better.<br>  But I won't push you.<br>  We'll have this conversation one day.<br>  Father.<br>  I don't wanna ruin your career.<br>  But when I return, we'll talk about how you step down.<br>  And after you get some help, maybe we'll get you back in that chair.<br>  Well, may fortune favor the bold, Admiral.<br>  Good luck with your negotiation.<br>  [MAN ON COMM.]<br> Attention all B deck crew,  transpo drill has been canceled.<br>  [PANTING.]<br>  Shaving off my time.<br>  I gave you bad advice.<br>  There are a million ways to get to the captain's chair.<br>  Find your own.<br>  I have.<br>  [COMPUTER.]<br> Green tea.<br>  Exceptional source of antioxidants, alkaloids, and amino acids.<br>  How's your Vulcan dad?  [BURNHAM SIGHS.]<br>  Stubborn and impenetrable  as always.<br>  He claims he doesn't remember any of the mind-meld.<br>  Well, good thing I was there, then.<br>  Mind-witness.<br>  [CHUCKLES.]<br>  I always knew I could never be who he wanted me to be.<br>  But I realized today  that it goes both ways.<br>  I'll never get from him what I want, either.<br>  That's tough.<br>  It's okay.<br>  Part of me feels unburdened.<br>  Still, I'm sorry.<br>  For that other part of you.<br>  Thank you.<br>  [SIGHS.]<br>  All my life  the conflict inside me has been between logic  and emotion.<br>  But now it's my emotions that are fighting.<br>  I think about him and I wanna cry.<br>  But  I have to smile.<br>  And I feel angry  but I wanna love.<br>  And I'm hurt, but there's hope.<br>  What is this?  Ah  It's just being human.<br>  Michael Burnham.<br>  Pleased to meet you.<br>  Ash Tyler.<br>  - We've met.<br> - Have we?  Let's try it again.<br>    Greetings from the United Federation of Planets.<br>  Unfortunately, Ambassador Sarek is unable to attend.<br>  I'm Admiral Cornwell and will speak in his place.<br>  Thank you to the elders of Cancri 4 for hosting this meeting.<br>  We hope it is the first step toward creating new alliances.<br>  We are certain it will be.<br>  [KLINGONS GRUNTING.]<br>  [GASPING.]<br>  [IN KLINGON.]<br>   [IN KLINGON.]<br>                 [KOL SIGHS.]<br>  to meeting you, Admiral.<br>  [SARU.]<br> It was a trap, sir.<br>  Klingons have taken the admiral.<br>  Their ships are en route to enemy space.<br>  - Shall I? - Notify Starfleet Command.<br>  Ask for orders.<br>  - Is there a problem? - No, sir.<br>  Uh, just  in the past  we have engaged in alternative thinking on these matters.<br>  What if we go after her and it's another trap, Mr.<br> Saru?  Did you consider that?  Starfleet can't afford to lose the Discovery.<br>  She's bigger than all of us.<br>  If so ordered, we will try and rescue the admiral,  but not without authorization.<br>  I will hail Starfleet now, sir.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e05" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e07" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

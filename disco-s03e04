@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e04 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e04 - Forget Me Not Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e04 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e04"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e04 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e04" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;Forget Me Not</div>
+
+            <h1>Star Trek: Discovery (2017) s03e04 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Forget Me Not</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			[narrator.]<br> Previously on Star Trek: Discovery:  [woman.]<br> Commander, I can't get control!  [Saru.]<br> All decks prepare for impact.<br>  [grunts.]<br>  Lieutenant, get to Sickbay.<br>  [doctor.]<br> Neurological tests are clear.<br>  No concussion.<br> You're good to go.<br>  [Detmer.]<br> What?  I said, you're good to go.<br>  You made it through.<br> It was a pretty rough landing.<br>  - It's good to have you alive.<br> - I'm experiencing some discomfort.<br>  Yeah, you were impaled by a 7-inch shard and put in a coma.<br>  - Michael? - Saru, I landed here a year ago.<br>  Nobody knows if The Burn was an accident or a natural disaster.<br>  But I did find part of a transmission from an obsolete Starfleet channel.<br>  [over radio.]<br> This is Admiral Senna Tal.<br>  I will wait for any who would join us on Earth.<br>  The Federation lives on.<br>  - Is he at Starfleet headquarters? - We will find Admiral Tal.<br>  Senna Tal, the Starfleet officer you've been looking for?  I know him.<br>  Young Adira has been joined with a Trill symbiont.<br>  - Trill? - A sentient life form.<br>  Once they join the host,  that host has the ability to access the memories of all former hosts.<br>  Including Admiral Tal's.<br>  It seems Adira has difficulty accessing those memories.<br>  She may carry knowledge of what remains of Starfleet.<br>  [Culber.]<br> Medical Officer's log, supplemental.<br>  Our trip to Earth was eye-opening.<br>  A reality check, such as reality is.<br>  It's starting to hit everyone, just how little we have to hold on to.<br>  The personal moments we use to define ourselves.<br>  Birthdays.<br>  Anniversaries.<br>  Graduations.<br>  Funerals.<br>  We've jumped past all of them.<br>  They feel lost.<br>  Disconnected.<br>  I tell them I've been alone.<br>  I've been lost.<br>  Both are survivable  and surviving can become living again.<br>  You know, if you ever needed to talk, I'm around.<br>  I'm fine.<br>  [Culber.]<br> But first, they have to accept help.<br>  For a crew of overachievers,  that kind of vulnerability can be hard to hold.<br>  Five words keep everyone going:  "When we find the Federation.<br>"  It's become a mantra for the crew.<br>  In some cases, it seems to help.<br>  All right.<br>  In others  not so much.<br>  Adira, who joined us from Earth,  may be able to guide us to Federation headquarters  once she regains her own memories  and those of her symbiont's former host, Senna Tal.<br>  This mission could be a gift,  a reminder that we are, and always will be,  connected to something greater than ourselves:  The Federation.<br>  [computer.]<br> Scan complete.<br>  [Culber.]<br> Well, the good news is she's perfectly healthy,  as is the symbiont.<br>  [Saru.]<br> Should we be concerned it is wrapped around her heart?  It's protecting me.<br>  Every critical system in my body is connected to Tal.<br>  Wake up with a squid in your abdominal cavity,  it'll do your homework, too.<br>  [Burnham.]<br> So, you don't remember how you got the symbiont?  What's the first thing you do remember?  I woke up in an escape pod a year ago when that ship found me.<br>  Before that nothing.<br>  Commander Stamets noted that you demonstrated  a surprising understanding of our ship's engineering grid,  a design about which you should have no knowledge.<br>  Well, I can also speak seven languages and cook a mean Bajoran hasperat.<br>  Have I always been a genius,  or do these skills belong to my squid's previous hosts?  Well, if it is your  Your squid  then we should be getting the full picture.<br>  So, something is blocking your memories.<br>  Like what?  Oh, there's no way to know.<br> There's no precedent.<br>  So, we have two choices.<br>  I can start digging around your hippocampus  hoping to find an answer  - Bad.<br> - Bad.<br>  Or  we take you to Trill,  if you and the captain agree.<br>  Adira, we have to be clear.<br>  No one's ever seen a human host.<br>  There's no way of knowing if the Trill will be able or willing to assist you.<br>  So, I could go, and it could it be a bust, and no one gets what they need.<br>  I don't get my memories, you don't get Senna Tal's message,  and you never find Federation headquarters.<br>  Is there any way of knowing if the Trill are as peaceful  as they were a millennia ago?  [Saru.]<br> No.<br>  That is also a risk.<br>  I can't keep living like this.<br>  Not knowing who I am.<br>  Let's go to Trill.<br>  [theme song playing.]<br>  Scans confirm no weapon energy signatures.<br>  Nothing to indicate hostile intent.<br>  Well, let us hope that remains the case.<br> Keep us at yellow alert.<br>  Lieutenant Bryce, open a channel please.<br>  [Bryce.]<br> Yes, sir.<br>  Ring any bells?  Does that planet look familiar?  Wish I could say yes.<br>  Captain, Trill Commissioner Vos is responding to our hail.<br>  Put him through, lieutenant.<br>  Welcome, Commissioner Vos.<br>  I am Captain Saru of the USS Discovery.<br>  Greetings, Captain Saru.<br>  It's been many years since we've seen a Federation Starship.<br>  I trust our arrival is welcome.<br>  Most certainly.<br>  We have a host and symbiont onboard who are in need of medical attention.<br>  We were hoping for your assistance.<br>  Our symbionts carry our history.<br>  Then the Burn, the population was decimated.<br>  But to have a symbiont return home is a blessing.<br>  We will send them down immediately, accompanied by our ship's medical officer.<br>  We'll make preparations.<br>  Thank you, Discovery.<br>  Cancel the yellow alert.<br> Maintain standard orbit.<br>  [Saru.]<br> Dr.<br> Stamets.<br>  I'd like to talk to you about your jumps.<br>  Second jump with no problems.<br> Fully recovered.<br> I'm fine.<br>  You were impaled with a spike and placed in a coma.<br>  Yeah, but other than that, he's fine.<br>  I can jump any time.<br>  The scarcity of dilithium  has made the spore drive immeasurably valuable.<br>  We will need the ability to operate it without you, commander.<br>  I researched a non-human interface for nearly a decade  before we discovered the tardigrade on the Glenn.<br>  Yes.<br>  And there has been 932 years of technological advancement since then.<br>  We cannot risk becoming as limited as every other ship in the galaxy  should you be once again incapacitated.<br>  Of course, captain.<br>  Now, you and Ensign Tilly are two of the finest minds on this ship.<br>  I have every confidence you will find a solution.<br>  So, look, I I know now might not be the best time.<br>  Um, what if we made a new interface using a dark matter system?  Dark matter is comprised of subatomic particles,  and the mycelial network is a subspace domain.<br>  The prefix "Sub" being the only morpheme  that even remotely connects those two ideas.<br>  Yeah.<br>  I've run some preliminary calculations  using dark matter energy to pierce the subspace domain.<br>  Look, if you're not ready to talk about it  Look, this isn't about "Isn't science cool?"  It's about the lives of everything and everyone.<br>  I know you're trying  but please, don't waste my time.<br>  [door chimes.]<br>  Come.<br>  Do you have a minute?  Please.<br>  You've been busy.<br>  It's everything I managed to find on the Burn in the last year.<br>  So many missing pieces.<br>  Oh, I just  I meant, your space used to be so  Oh.<br>  - Empty.<br> - Yeah.<br>  Shouldn't you be headed to the shuttle now?  That's what I wanted to talk to you about.<br> I think you should be the one  to take Adira to the surface.<br>  Her memory loss isn't a medical problem.<br>  She needs somebody to support her emotionally.<br>  Why do you think that's me?  Well, Adira's had almost everything she's depended on stripped away.<br>  - I think you understand that.<br> - I think you do, too.<br>  You know, there's a theory.<br>  Post-traumatic growth.<br>  That certain life events  um, dying  time travel,  a year alone in a new future  can inspire us to evolve, to live our lives in a different way.<br>  You're still in the process of all that  but Adira's about to start.<br>  I don't even know how to navigate being on this ship right now.<br>  And the people that I know and love  I know what they want from me.<br>  But I can't even give it to them.<br>  [chuckles.]<br>  You know what I love about you most?  You're a responsibility hoarder.<br>  - Yeah.<br> - [laughs.]<br>  I am working on it.<br>  Your friends, your crew.<br>  The future of every living thing in the galaxy, literally.<br>  Even when you're struggling yourself.<br>  [Adira.]<br> I'm sorry.<br> I just don't get why you're going with me.<br>  You know less about me than I do, and that's saying a lot.<br>  A year ago, you woke up with no memories, and I woke up with no past.<br>  Ten seconds after I crash-landed out of the wormhole, I puked.<br>  Okay, that's not exactly a confidence booster.<br>  I bet.<br>  Okay, I'm Look, maybe I should just go by myself.<br>  - If you're good.<br> - Yeah, I'm good.<br>  Okay.<br>  [computer.]<br> Attention all crew.<br>  Rotation assignments have been posted and are effective immediately.<br>  Look, Dr.<br> Culber is a pretty smart guy.<br>  I've trusted him with my life and I'd do it again.<br>  And he thinks I should escort you.<br>  Well, I like him.<br>  So  you can come, but two things.<br>  Wait.<br> So, you're saying you trust Dr.<br> Culber because you like him,  not because he's a doctor?  Okay, look, I have a squid and you threw up in a wormhole.<br>  Things are pretty weird out here  but human connection is at least one thing I understand.<br>  Okay, shoot.<br>  Whatever happens out there, I don't wanna let anyone down.<br>  You won't.<br>  What's the second thing?  Oh, don't say anything annoyingly inspirational.<br>  That makes me nuts.<br>  [laughs.]<br> Deal.<br>  [computer speaking indistinctly.]<br>  As requested, I've completed my analysis, and all crew members are physically sound.<br>  - You did not say "healthy.<br>" - Correct.<br>  But?  Stress hormone levels are off the charts.<br>  If they were mice in a cage, they'd be gnawing at their own tails.<br>  So would you, by the way.<br>  My tail and I appreciate your concern, doctor.<br>  However, I need to know how I can help this crew.<br>  Perhaps a focus on duties or routine?  Under any other circumstances, those things might be helpful  but we're in uncharted territory  and they know it.<br>  Discovery could disappear tomorrow, and it wouldn't make a ripple.<br>  No one would miss us or mourn us.<br>  - They need to feel connected.<br> - Yes.<br>  [Vos.]<br> Welcome to Trill.<br>  May I present Guardian Xi of our spiritual community,  and Leader Pav.<br>  Thank you.<br> I'm Commander Michael Burnham, and this is Adira.<br>  Your captain said that you'd be bringing a symbiont and host.<br>  Yes.<br>  She is  human?  Yeah.<br>  Uh, she is.<br>  Please  speak your names.<br>  Um  Adira.<br>  - Continue.<br> - That's it.<br> That's my name.<br>  - Adira.<br> - [Xi.]<br> You recall no other names?  Well  I know Senna Tal, I guess.<br>  She's unable to access the memories of her symbiont.<br>  That's why we've come.<br>  [Vos.]<br> In 2,000 years, there hasn't been a single recorded instance  of a successful joining between a symbiont and a non-Trill species.<br>  - It's a miracle this symbiont is alive.<br> - I wouldn't let it die.<br>  It's a part of me.<br>  It's a part of you?  - She has no idea, none.<br> - Why don't you give us an idea?  She's an abomination.<br> They must be separated immediately.<br>  We cannot.<br> Forced separation could kill the host.<br>  Oh, no.<br> No one is forcing anything.<br>  We are not Federation members.<br> You have no jurisdiction here.<br>  - Trill law takes precedence.<br> - Adira's life takes precedence.<br>  Our apologies.<br>  Every Trill longs to be a host.<br>  Few ever receive the honor.<br>  The Burn decimated our population, particularly those capable of joining.<br>  We no longer have enough viable hosts.<br>  Adira could be our future.<br>  - If we could look beyond the Trill.<br> - Absolutely not.<br>  Let us take Adira to the Caves of Mak'ala, where her symbiont  - might be able to communicate.<br> - She will contaminate a sacred space.<br>  - The symbiont is not hers.<br> - Enough.<br>  We've never forced a separation, we will not start now.<br>  However, I agree that the joining is an aberration.<br>  From what I'm hearing, this joining is a miracle.<br>  Maybe the symbiont made the choice.<br>  The memories that she's carrying can help heal the entire Federation,  and Senna Tal wanted us to receive his message.<br>  The longer she stays, the greater the challenge  to the only thing our species have left  our ideals.<br>  My decision is final.<br>  You will leave Trill immediately.<br>  So, that's it?  They're just kicking us off their planet?  Don't say anything else.<br> This isn't the way to our shuttlecraft.<br>  The symbiont belongs with us.<br>  It is a part of her.<br> It is not your choice.<br>  I'm making it my choice.<br>  Where are the caves?  - Never.<br> - Fine.<br>  Um  That wasn't Federation protocol.<br>  No, it wasn't.<br>  - They'll be fine.<br> - Michael.<br>  Wait, please.<br>  Our society is on the brink of collapse.<br>  Helping you gives us a fighting chance.<br>  The caves are this way.<br>  [computer.]<br> The crew would benefit from exercise, medication, limited dairy  Beyond the standard parameters.<br>  Yoga, hyperbaric chamber, therapeutic coloring books,  interstellar shopping.<br>  I do not need an endless list of activities.<br>  I I need something meaningful to heal my crew.<br>  [trilling.]<br>  Computer?  [computer laughs.]<br>  Hello.<br>  Hello?  Among may sentient beings, laughter is both healing and meaningful.<br>  Twentieth-century Earth comedians such as Buster Keaton or Charlie Chaplin  are communal unifiers without the burden of language.<br>  Buster Keaton?  Also known as "The Great Stone Face.<br>"  Computer, run a level-ten diagnostic.<br>  I'm fully operational, thank you.<br>  These connections are beyond the algorithm, I presume.<br>  Your crew requires what they used to call "R&R," captain.<br>  May I suggest switching the ship to auto navigation  and giving them the night off?  The night off?  May I also suggest simple gratitude?  A private meal, perhaps, with your bridge crew  to demonstrate your appreciation.<br> Your choice, captain.<br>  The Sacred Caves of Mak'ala.<br>  [Burnham.]<br> This is incredible.<br>  And you believe that Adira's symbiont will be able to communicate here?  It's their ancestral home.<br>  If not here, then where?  It feels  safe.<br>  We don't have much time.<br>  Vos will awaken and the commission will see  that your ship is still here.<br>  Okay, are you ready?  Say something inspirational.<br>  Just don't make it annoying.<br>  Uh, get in there before someone shoots us?  Okay.<br>  Friends, please, come in, come in.<br>  Uh, sit, please.<br>  [Saru.]<br> I gave the rest of the crew the evening off to recuperate.<br>  But I asked all of you here because we work most closely,  and have not had a moment.<br>  In fact, we have lost quite a few.<br>  Almost every culture has a ritual that gathers its moments when it can,  holds them dear.<br>  A time to take the measure of loved ones  and what we have all accomplished together.<br>  [squish.]<br>  Ah.<br>  Hm.<br>  We made a choice a millennium ago to follow Commander Burnham.<br>  I will never forget what I heard as I stood before each of you  as you cast your vote.<br>  It was not unlike a small prayer.<br>  I ask that we repeat that now.<br>  - Must we really? - Yes, we must.<br>  Lieutenant Detmer, do you remember what you said?  I said, "Aye.<br>"  I said, "Aye.<br>"  - Aye.<br> - Aye.<br>  - Aye.<br> - Aye.<br>  - Aye, sir.<br> - Aye.<br>  Aye.<br>  - Aye.<br> - I never said "Aye"  but I'm here.<br>  [clears throat.]<br>  Aye.<br>  [all.]<br> Aye.<br>  Is there any way the symbiont was joined with Adira against her will?  A symbiont can't thrive in an unwilling host.<br>  So, the issue might be with Adira herself.<br>  A repressed memory related to the joining, perhaps.<br>  Whatever it is, she will need to face it.<br>  [footsteps approaching.]<br>  [chuckles.]<br> It's not exactly my style.<br>  Please  enter.<br>  This is as new to us as it is to you.<br>  We cannot know how your brain will process what you see.<br>  The Mynh'ta Orb will allow us to track her isoboramine levels.<br>  As long as they are steady, she is safe.<br>  If you find Senna Tal down there  his message is pretty vital.<br>  I know.<br>  [Burnham.]<br> Good luck, Adira.<br>  She is now in communion.<br>  [crackling.]<br>  [Linus.]<br> Is that droog beetle pie?  [sniffs.]<br>  - What is going on between you two? - I don't know.<br>  - Nothing.<br> - This reminds me of harvest on Kaminar.<br>  Siranna and I would work from sunup  until after sun fall, gathering and drying our seasonal kelp crops.<br>  Our family would then dine together under the full moon.<br>  Kelp dries in the sun An existential crisis  Is there some dessert?  Is that a haiku?  Yes.<br>  Emperor Georgiou Feasting on the finest cuts  Snarfs cookies on the down low  - I screwed up the last line.<br> - [laughing.]<br>  - No matter.<br> Hear, hear.<br> - Haiku?  Oh.<br>  - I puked upon the - No.<br>  Tellarite ambassador  Once at Thanksgiving  [all.]<br> Oh.<br>  It was an actual diplomatic crisis.<br>  This is not what I want to hear at dinner.<br> I mean, who raised you people?  Get Detmer to do one.<br>  - No, no.<br> I don't wanna - Come on, try.<br>  - No.<br> - Try.<br>  Okay.<br> [clears throat.]<br>  The drones can't get Stamets' blood  Off the med bay floor  No, wait.<br>  No one can clean Stamets' blood  [laughs and inhales.]<br>  Oh, okay, I've got it.<br>  No one can get Stamets' blood  Oh.<br> Shoot.<br> No, wait, wait, wait.<br>  Stamets' blood is so red  - Lieutenant.<br> - No, I've got it now.<br>  - Five-seven-five? - I don't think  - It's a poem.<br> - It's uncalled for.<br>  Officers.<br>  My life is not a joke for the dinner table.<br>  I wasn't trying to make a joke.<br>  I was back at work within a few hours of being injured.<br>  We wouldn't have gotten anywhere near Earth if it weren't for me.<br>  You're not the only one who moved this ship.<br>  I'm the pilot.<br> We move it.<br>  - I never said it was just me.<br> - You think  you're the only essential personnel on this vessel.<br> Look at you.<br>  - It's written all over you.<br> - Lieutenant.<br>  [Detmer.]<br> You wanna fly this monster?  Actually be responsible for every single person, every single day?  Or do you just wanna be the when-he-feels-like-it superhero  and have everybody kiss your ass?  The reality is I'm the only one who can make the jumps.<br>  I flew us into the future.<br> I landed this ship.<br>  - I landed Discovery.<br> - Yes, and we barely survived.<br>  Oh, my God.<br> Stop it!  You are both acting like assholes.<br>  - Ensign Tilly.<br> - Why don't we all just take a breath.<br>  You guys think you have the market cornered on pain?  All of our sacrifices, all of our experiences and our work, it matters!  The only way we're gonna get through this is as a crew.<br>  I have work to do.<br>  You did land this monster.<br> He should be thanking you.<br>  Keyla? Keyla?  [clears throat.]<br>  [Georgiou.]<br> Well, at least the wine was good.<br>  [door opens.]<br>  [crackling.]<br>  Her levels are dropping.<br> I need to get her out.<br>  [guard.]<br> Stop.<br>  Guardian Xi, you have betrayed your oath.<br>  He's trying to save your lives.<br>  [groaning.]<br>  - What's happening? - I don't know.<br>  I've never seen anything like this.<br>  - I have to help her.<br> - You cannot enter.<br>  This girl is all we have.<br>  [Burnham.]<br> Please, we can't let her die in there.<br>  [Pav.]<br> Let her in.<br>  [water splashing.]<br>  [Burnham.]<br> She's gone.<br> Where is she?  Help me with the neural stabilizers.<br>  These will help you commune with her, but only for a short time.<br>  You have to go and find her and guide her out.<br>  Hurry, please.<br>  Now.<br>  Adira?  Adira, can you hear me?  Adira?  Adira?  Michael?  Michael.<br>  Did he tell you how to get out? There's no way out.<br>  - I don't know what I'm supposed to do.<br> - What have you seen?  Get off me!  - What are those? - They do that if I stay  - in one place for too long.<br> - Okay.<br>  [creatures screeching.]<br>  - What's happening? - Have they done that before?  Yeah, they're everywhere.<br> They keep coming after me.<br>  Let me try something.<br>  What the hell?  [rumbling.]<br>  This place is responding to you.<br>  You're here to connect with the symbiont.<br>  And these threads, they're trying to connect with you.<br>  I don't understand.<br> I  It's the symbiont.<br>  It It wants you to remember.<br>  And these threads, they must be connected to your memories.<br>  I know you're afraid, but you have to let them connect with you.<br>  Okay.<br>  [man.]<br> Surgery Bay Twelve.<br>  Prepping symbiont transfer to Trill host.<br>  Hold my hand.<br>  When this is all over, after you and the symbiont have joined,  will you still be you?  Of course I'll still be me.<br>  I will always be the Gray you know  - and love.<br> - I love you, Gray.<br>  - Gray.<br> - I love you too.<br>  That's his name.<br>  He was my boyfriend  and we were together on a ship.<br>  [faint laughter.]<br>  A generation ship.<br>  He's trying to find Federation headquarters.<br>  Gray, we both We were both orphans.<br>  But we had each other.<br>  - I really loved him.<br> - Good.<br>  What else do you remember?  He was He was Trill.<br>  He was a host,  and I think he was about to receive his symbiont.<br>  He looked so happy.<br>  Okay.<br> Why aren't you?  I don't know.<br> I don't Um  I'm sorry.<br> I just I need to get out of here.<br>  [screeching.]<br>  You can't.<br>  Not until you finish remembering.<br>  So, how long were you together, you and Gray?  Try.<br>  Try to see his face.<br>  [classical music playing.]<br>  You not like my playing?  No.<br> I do.<br>  You said you'd be the same after you became a host.<br>  And all these things you can do now, it's kind of like you're perfect.<br>  Well, I already was perfect.<br> That's why you love me.<br>  Okay.<br>  I told you I'm still me.<br>  I'm just more me.<br>  Which parts?  Like, what's "you" and what's all the other hosts?  There aren't any fences.<br>  I'm many, and I'm one.<br>  Like everyone.<br>  I feel like I need to keep up.<br>  You're being a crazy person.<br> It's It's not a race.<br>  - I don't think I could do what you did.<br> - Bullshit.<br>  The Joining's based on trust.<br>  I didn't just have to accept Tal, Tal had to accept me.<br>  The former hosts had to accept me, too.<br>  Like us.<br> I'd trust you with my life.<br>  Me, too.<br>  You gonna show me what's in that box on your lap or keep sulking?  Um  This is a A thing that I made for you.<br>  You made it? It's not replicated?  "Oh, I'm Adira, and I struggle with my own inadequacies  while I'm making amazing art things that no one in the galaxy can make.<br>"  How do you know it's an art thing?  Because we have a love thing, idiot.<br>  And I know you.<br>  No, I I need to get out of here.<br>  - Adira.<br> - Don't touch me.<br>  Okay, the only reason you're here is to get that message from Senna Tal.<br>  So, do not pretend like you are doing this for me.<br>  [Burnham.]<br> This is for you.<br>  It's for all of us.<br>  We all want a future that's real.<br>  That matters.<br>  If you don't face what this is, no matter how painful,  you'll never move forward.<br>  Ad i ra!  Adira?  Adira, open the box now.<br>  Open the box.<br>  [Adira.]<br> I read that in a lot of cultures on a lot of worlds,  stories are woven into tapestries and quilts.<br>  A piece might be a reminder of someplace special  or a moment, or a person they really loved.<br>  You see, this is the time we broke the replicator  and it wouldn't stop making apples.<br>  [laughing.]<br>  Oh, this is from the time that we played imaginary chess.<br>  This is our story?  Yeah.<br>  It's a special time for you and it should be marked.<br>  I wanted you to have something.<br>  [laughing.]<br>  I love it.<br> And you're an art genius.<br>  - No.<br> - Say it.<br>  Okay, I'm an art genius.<br>  [crashing.]<br>  [groaning.]<br>  [computer.]<br> Structural breach force fields engaged.<br>  All personnel to the evacuation shuttle immediately.<br>  - Emergency drones dispatched.<br> - Help!  Medical!  Somebody help! Please!  Medical now!  Life signs failing.<br>  No.<br> You have to help him.<br>  Subject will not survive treatment protocols.<br>  Their lives.<br>  All of their memories will be lost.<br>  Symbiont is stable and will survive immediate transplant to suitable host.<br>  I'll take them.<br>  What?  Just let me take them.<br>  The memories, the symbiont.<br>  I know I'm not Trill, but I'll keep them safe.<br>  You would do that?  You have to ask?  Prepare for transfer.<br>  Just hold my hand, okay? Hold my hand.<br>  You did it.<br>  It's okay.<br>  [exhales.]<br>  [exhales.]<br>  I missed you.<br>  I missed you so much.<br>  Tal accepted each of us.<br>  Joining made us more than we could ever be alone.<br>  And while a human joining  is unusual  Tal accepts you, as well.<br>  Thank you.<br>  You're Senna Tal.<br>  Welcome to the circle.<br>  Thank you, sir.<br> Your message gave me hope.<br>  It's time for us to go.<br>  [inhaling and coughing.]<br>  [panting.]<br>  [Xi.]<br> Please  speak your names.<br>  I am Kasha Tal  Jovar Tal, Madela Tal  Cara Tal  Senna Tal  Gray Tal.<br>  And I am Adira Tal.<br>  [speaking foreign language.]<br>  [Vos.]<br> Our deepest apologies, Adira Tal.<br>  We were wrong.<br>  Guardian Xi, what you have done here will impact generations of Trill to come.<br>  Adira Tal  it would be my honor to guide and mentor you on your new path.<br>  Thank you.<br>  But  I believe I'm supposed to stay with Discovery.<br>  The symbionts are a gift for everyone, not just the Trill.<br>  And I think I'm supposed to be that messenger.<br>  You will keep us apprised of your well-being?  Of course.<br>  And perhaps someday, when the Federation returns  we will discuss a different joining.<br>  It would be our honor.<br>  Thank you for doing this, sir.<br>  I know it didn't go the way that you hoped.<br>  Captain Pike made connecting with the crew seem so  - effortless.<br> - For what it's worth,  this was like a Tuesday at my house growing up, so  Sir  we made a decision together  and we are living with it together.<br>  The fact that you reminded us of that and reminded us who we are to each other,  That  Maybe this isn't my place to say  but I think that's leadership.<br>  Thank you, ensign.<br>  [door opens.]<br>  Captain.<br>  Tilly.<br>  Everything that I've done since I've been on this ship  would have been impossible without you.<br>  I've failed to let you know that.<br>  I always knew it.<br>  I failed to tell you.<br>  I apologize.<br>  Thank you.<br> Thank you.<br>  I've been wondering, what did you learn in your spore-drive research?  Oh, nothing.<br> I was  looking at dark matter and energy coefficients,  but the math didn't work, so  A new interface using dark matter would be revolutionary.<br>  We should keep talking about it.<br>  Okay.<br>  [Detmer.]<br> Hey.<br>  [clears throat.]<br>  Are you okay?  No.<br>  Obviously.<br>  That was hard for me to admit.<br>  For anyone.<br>  And you're a pilot.<br>  - Pilots are, um - Macho.<br>  I know.<br>  That talk you suggested  maybe I could take you up on it.<br>  Anytime.<br>  [computer.]<br> All available crew, please report to the shuttle bay for a surprise.<br>  [upbeat music playing.]<br>  [crew laughing.]<br>  Okay, okay.<br>  It fills the room.<br>  Joy?  Yeah.<br> We all had to stop pretending we were fine first.<br>  We are not, are we?  How could we be?  But we'll get there.<br>  And you pushed us closer.<br>  Ah.<br> It was not pretty.<br>  It never is.<br>  Good choice, captain.<br>  I wish I could take credit, doctor.<br>  This wasn't you?  I have a theory.<br>  The sphere data was transmitted here for us to protect it.<br>  It lives on within Discovery.<br>  As we are now inextricably connected,  perhaps now it desires to protect us.<br>  Senna knew the algorithm we need to find Federation headquarters.<br>  I already did the math.<br>  - These coordinates - They'll take you where you need to go.<br>  Thank you.<br>  [playing classical music.]<br>  That's beautiful.<br>  - What is it? - It's a lullaby.<br>  I think Senna Tal's parents used to sing it to him  when he was a kid.<br>  All the hosts, their memories are still coming to me.<br>  I expect it'll take a while.<br>  [Gray.]<br> Your bowing could use some work.<br>  You're gonna insult my musical ability for the rest of my life?  You didn't tell her about me.<br>  I'm not sure she'll believe me.<br>  I'm pretty sure she will.<br>  How are you here?  I don't know.<br>  How's this supposed to work?  I don't know.<br>  But  like I said  our bowing, we can do better than that.<br>  We'll keep practicing.<br>  [closing theme playing.]<br>     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e03" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e05" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

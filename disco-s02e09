@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e09 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e09 - Project Daedalus Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e09 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e09"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e09 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e09" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;Project Daedalus</div>
+
+            <h1>Star Trek: Discovery (2017) s02e09 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Project Daedalus</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			Previously on Star Trek: Discovery:  What is that?  Discovery?This is Stamets.<br>  We've picked up a hitchhiker.<br> It's accessing our ship's data core.<br>  We have your shuttle screens mirrored here.<br>  Probe is searching our computers at an incredible speed.<br>  Owo, beam us out.<br> Now, now, now.<br> Now!  Commander Airiam, are they safe?  Commander Airiam?  They are securely on board.<br>  Thanks to Commander Saru's enhanced eyesight,  he got a better look at the Red Angel.<br>  The entity appears to be humanoid.<br>  Control, which models Section 31's threat assessments,  is probably rightfully alarmed  by a time-traveling being pursuing its agenda.<br>  It has extremely advanced technology.<br>  And what happens when that technology is turned against us?  It is critical Lieutenant Spock be apprehended as soon as possible.<br>  By fleeing with her brother,  Commander Burnham has committed yet another act of mutiny.<br>  Spock is innocent.<br>  There were no murders.<br>  I have seen the Red Angel,  and it revealed the outcome of our current time line.<br>  What is that?  A future in which all sentient life in our galaxy was eradicated.<br>  In a few minutes  Discovery will become the most wanted ship in the galaxy.<br>  My experience as a fugitive suggests only one course of action.<br>  And what is that?  We run.<br>  Scans were negative.<br> I don't think anyone tracked me here.<br>  Our scans were clear, as well, Admiral Cornwell.<br> Welcome aboard.<br>  Wish it were under better circumstances, Mr.<br> Saru.<br>  You've looked into my concerns about Section 31?  I have, but before we get into any of that,  I need to speak privately with Mr.<br> Spock.<br>  They were going to torture him with technology  that's never even been seen by the rest of Starfleet.<br>  For all we know, they could've killed him.<br>  Not to mention, they ordered their agent to sabotage our spore drive.<br>  I'm aware of the accusations.<br>  Whatever Section 31 said  it's not prudent to trust them.<br>  You may think we're on the same team  You have no idea what I'm thinking.<br>  Where's Spock?  Beginning cerebral mapping.<br>  Try not to move.<br>  Okay, let's begin.<br>  State your rank, position and assignment.<br>  My rank is lieutenant.<br>  I am a science officer, assigned to the starshipEnterprise.<br>  Lieutenant Spock, do you intend to be truthful with me today?  I do.<br>  Good.<br>  Did you recently leave a psychiatric facility without permission?  No.<br> I committed myself to the facility,  therefore required no permission to leave it.<br>  When you left, did you murder Starfleet personnel  in the process?  I did not.<br>  Did you kill them in self-defense?  I did not.<br>  Can you explain why you did kill them?  Admiral, I believe I've been quite clear.<br>  I did not kill anyone at all.<br>  He's innocent.<br>  I know Tyler.<br> He wouldn't sabotage our spore drive.<br>  He's loyal to Starfleet.<br>  He's loyal to Section 31.<br>  They have a different agenda than Starfleet these days.<br>  Let me talk to him.<br> Please.<br>  No contact.<br> That's an order.<br>  This must be difficult, given your history with him.<br>  But our mission takes priority.<br>  Your brother is the only one who's had direct contact with the Red Angel.<br>  I need you to help him figure out who it is and what they want.<br>  - Can I count on you to do that? - Of course, sir.<br>  And I'll prove that Tyler is innocent.<br> You can count on that, too.<br>  How did you escape the psychiatric facility,  if not with violence?  I performed what is colloquially referred to as a "Vulcan nerve pinch.<br> "  A disabling maneuver never known to inflict permanent harm.<br>  You committed yourself to the facility.<br>  Why escape at all?  I did not initially believe the visions shown to me by the Red Angel were real,  and therefore questioned my sanity.<br>  Once I learned I was sane,  to remain confined would have been unproductive.<br>  Do you have any idea  why the Red Angel chose you to receive these visions?  I do not.<br>  I have asked myself that question many times.<br>  Any idea what they mean?  Someone or something is going to end all sentient life in the galaxy.<br>  And when you say the end of all sentient life, you mean?  I mean precisely that.<br>  No humans, no Vulcans, no Federation.<br> No conscious life of any kind.<br>  Admiral.<br>  If I may.<br>  I believe him.<br>  And I know for a fact, he didn't murder anyone.<br>  Well, perhaps you're defending him because you're his sister.<br>  Not by blood.<br>  He's telling the truth about the murders.<br> Or he believes he is.<br>  Forgive me, admiral, but I fail to understand your doubt.<br>  Is the test you administered inaccurate?  The test is 100 percent accurate.<br> But so is this.<br>  That's not the Spock I know.<br> It must have been doctored.<br>  I verified the source codes.<br> The images come straight from Psych.<br>  The admirals who run Section 31 haven't responded to me in weeks.<br>  Their threat assessment system, Control,  isn't accepting my data input codes anymore.<br>  Any idea who programmed it to shut you out?  Admiral Patar.<br> She's a logic extremist.<br>  Frankly, I find her fanaticism  worrying.<br>  Once the signals appeared, she started lobbying Starfleet  to turn its decision-making entirely over to Control.<br>  Control is a great resource.<br>  Every Starfleet admiral feeds data into it.<br>  We consider its recommendations.<br>  But final decisions always include our experience and instinct.<br>  But to raise your concerns with Starfleet,  you risk inadvertently informing the admiral.<br>  Which explains why you came here in secret.<br>  The upside to being a fugitive.<br> How can we help?  Control is located within Section 31's forward operating base.<br>  We need to go there, arrest Patar,  and reset the system to take our input as it always has.<br>  We rely on Control for all of our critical strategic decisions.<br>  If it's in the hands of extremists,  the entire Federation is in danger.<br>  Right, then  we should get moving.<br>  Admiral.<br> Admiral, hello.<br> Hi.<br> Lovely to see you.<br>  I just wanted to tell you, I'm not a fugitive.<br>  Never been a fugitive before, except when I was 16,  I went through a rebellious phase, and hacked into  Did you have something to report?  Yes, sir.<br> Uh  The subspace transmissions that Tyler sent,  they went to 7-4-mark-5.<br>6,  which is bizarre, because there's nothing there.<br>  It's just empty space and a penal colony,  abandoned over 100 years ago.<br>  It's not abandoned.<br>  That's Section 31 headquarters.<br>  Where is Mr.<br> Tyler, by the way?  Confined to quarters.<br> He can't do further damage.<br>  Start decrypting.<br> We need to know what he sent.<br>  Aye, sir.<br>  Lieutenant Detmer, set a course for Section 31 headquarters.<br>  Yes, captain.<br>  Admiral, with your permission.<br>  Sooner we get there, the better.<br>  Hit it.<br>   Star Trek: Discovery S02E09 - Project Daedalus  Do you wanna say it, or should I?  - You.<br> - Okay.<br>  No, me.<br>  Uh, we eloped.<br>  We're married.<br> To each other.<br>  - He is officially my - Albatross.<br> Her ball and chain.<br>  - What have I done? - What have you done?  We just couldn't wait anymore.<br>  And we'll tell you all about it, every sickeningly sweet detail.<br>  But we gotta run.<br> Our shuttle boards in an hour.<br>  We are so excited to come back and celebrate with all of you in person.<br>  I'm gonna cry.<br>  We've been gone so long, but we're coming home.<br>  Return to archive.<br>  Begin memory review.<br>  - Send a team of five up to the deck - Delete.<br>  Delete.<br>  Wait, what do you mean?  I'm not playing Kadis-Kot with you anymore.<br>  - Why? - You know why.<br>  It's the same reason I am not playing with her anymore either.<br>  You've memorized every possible gambit.<br>  No, I have not.<br>  Yes, I have.<br>  But so has Airiam.<br>  True.<br>  Save to archive.<br>  Don't hold back.<br>  Save to archive.<br>  Save to archive.<br>  Come in.<br>  Delete.<br>  You better be saving every single moment with me.<br>  Actually, those memories are always the first to go.<br>  Oh.<br>  Lucky you get to delete everything you wanna forget.<br>  If I could, I probably wouldn't recognize my mother.<br>  You'd be less envious if you had to go through the process each week.<br>  It can be tedious.<br>  Still.<br>  Hey, is that?  That new?  I used to keep it private.<br>  But I think I like having it out now.<br>  Is this from the same beach?  Our last day together.<br>  Our shuttle back home went down, and  Did you need me for something?  Oh, yeah Um  Decryption help.<br>  - Mm.<br> - The sooner the better, if you can.<br>  My memories are not going anywhere.<br>  I would be happy to help.<br>  You're fine.<br>  You're fine.<br>  You're fine.<br>  Come on.<br> Which one of you is missing from my spore drive?  You're fine.<br>  You're fine.<br>  Could one of you say something, please?  I don't like to listen to myself talk when I have an audience.<br>  - We're thinking, commander.<br> - Think louder.<br>  We know of two occasions  in which a signal was followed by the appearance of the Red Angel.<br>  Our mission to the asteroid and to Kaminar.<br>  But a signal appeared by itself over Terralysium.<br>  And there was no signal when the Angel appeared to me as a boy,  or when it reappeared to share its visions.<br>  Perhaps there is a significance we have yet to understand.<br>  Is the Angel using these signals or the other way around?  Your visions must contain something  to help us understand what the Angel wants.<br>  I told you.<br> I believe it wants to warn us.<br> Nothing more.<br>  - "You're tending a plant that is dead.<br> " - I know.<br>  Translation is not the essence of understanding.<br>  Do you have a better suggestion, Spock?  My priority is to understand why, of all sentient beings,  the Angel communicated with me.<br>  You think it wants something from you personally?  It showed me an apocalyptic future.<br>  How I'm meant to prevent that, I cannot logically reconcile.<br>  The purpose of logic  is to problem-solve in an uncertain environment.<br>  Maybe we need a little inspiration.<br>  Could you find that inspiration somewhere else?  Turns out, your loud thinking is distracting.<br>  Ensign Rocklin, please report to bridge.<br>  You're fine.<br>  You're fine.<br>  You're fine.<br>  Now I understand why this was so difficult for you.<br>  The key encryptions are continually changing.<br>  Good thing you're half-robot.<br>  I prefer "cybernetically augmented.<br> " Thank you very much.<br>  Three cheers for cybernetics.<br>  I don't know, Detmer.<br>  She hasn't actually done anything yet, so  I stand corrected.<br>  Think you're pretty smart, huh?  Airiam?  I'm sorry.<br> I was focused.<br>  This might take a while longer.<br>  Why don't you return to your station in case the captain needs you?  Sure.<br> Um, thank you for everything.<br>  I'm dropping us out of warp in ten minutes, sir.<br>  Pull up defense schematics, please.<br>  Admiral?  Wanna tell us what kind of shit storm we're flying into?  Okay.<br>  Welcome to Section 31 headquarters.<br>  Zoom in, please.<br>  As you can see, it is heavily fortified on all sides.<br>  Are those mines?  They are.<br>  The Federation does not permit the use of mines.<br>  No.<br>  No, they do not.<br>  - The Federation didn't build them.<br> - Distinction without a difference.<br>  We were under attack by Klingon warships with cloaking abilities.<br>  Sometimes, in war, the terrible choice is the only choice.<br>  Giving up our values in the name of security  is to lose the battle in advance.<br>  I'm curious.<br>  Did you sideline theEnterprise because I'd never stop reminding you?  You sat out the war  because, if we'd lost to the Klingons  we wanted the best of Starfleet to survive.<br>  And as this conversation makes clear,  that was you  and all you represent.<br>  Thank you.<br>  You're welcome.<br>  Now will you get off my ass so we can get back to work?  Ensign Blake, please report  Unlike Ensign Tilly, you seem to have no individual expression.<br>  It's quite an accomplishment to be uniquely mundane.<br>  Well, I express myself through my work, not my choice of decor.<br>  Clearly.<br>  Attention, all personnel,  battle drills on Deck 9 will commence at 0700.<br>  I am attempting to understand why the Red Angel chose me  to expose a threat to the entire galaxy.<br>  And your solution is to play chess?  When the Red Angel showed you visions you couldn't reconcile,  it caused you to question your ability to examine the world logically.<br>  What better way to return to logic than via the game that represents it?  It is arrogant of you to assert  that my present manner of thinking requires fixing at all.<br>  It is arrogant of you to assert it doesn't.<br>  Or you're just afraid you'll lose.<br>  All right, Michael.<br>  Let's play chess.<br>  - Commander Airiam.<br> - Hello, Nhan.<br>  - May I help you? - Tilly was looking for you.<br>  What are you doing?  Searching for data to help the decryption.<br>  For all the benefits of my augmentation, its storage capacity is not infinite.<br>  Your species is Barzan, yes?  Yes.<br>  Your augmentation allows you to breathe in our atmosphere?  Why are you asking?  Curiosity.<br>  I should return to the bridge.<br>  Oh, I'm so glad you're back.<br>  Whatever you did before, it's not working anymore.<br>  - I don't understand.<br> - Yeah, neither do I.<br>  It's like the system knew we were trying to crack it,  and it changed its tactics, but that's impossible,  because it's automated, it's not alive, right?  I'd like you to stand beside me.<br>  Do not move until we've solved this problem.<br>  Do you understand?  - No, that's okay.<br> You got this.<br> - Please.<br>  Tilly.<br>  Um  Yeah.<br> Okay.<br>  Commander.<br>  Dropping us out of warp now, captain.<br>  Mr.<br> Bryce,  open a channel.<br>  Tell Section 31 Starfleet's most wanted vessel is here.<br>  Captain, sensors show all mines are fully armed.<br>  No response to our hails.<br>  Must be busy planning the welcome party.<br>  Sure you can get us through these defenses?  I wouldn't risk it otherwise.<br>  No.<br> My mission, your ship.<br>  Lieutenant Detmer, sending the route to you now.<br>  One other thing I should mention.<br>  The shields will have to be down.<br>  - Why? - The mines are attracted to them.<br>  Nothing's ever easy.<br>  Lower shields and take us closer.<br>  If there's a logical reason to sacrifice your rook, I fail to see it.<br>  Perhaps I simply dislike rooks.<br>  Perhaps  you're trying to lose.<br>  An odd supposition,  given that I am a willing participant in the game.<br>  Sarek taught me a more elegant strategy  first day I played.<br>  There are other strategies that our father,  in his single-mindedness, chooses to ignore.<br>  I think our father would be disappointed  in your lack of effort, don't you?  I disappoint him,  he disappoints me.<br>  The sun sets, a new day begins.<br>  Oh, you're a philosopher now.<br>  And you're a human.<br>  And you cannot presume to know Sarek's mind.<br>  The next logical move would be for your knight to take my pawn.<br>  Seriously, what are you doing?  Disrupting your expectations.<br>  I'm trying to help you, Spock.<br>  I do not need your help, Michael.<br>  Our captain says you do.<br>  You are the only one who has had contact with the Red Angel.<br>  You said you don't understand why it chose you.<br>  That's where we need to start.<br>  And logic will help.<br>  I understand now.<br>  If only I'd taken your pawn, the mystery would be solved.<br>  I refuse to take this posturing seriously.<br> It's entirely out of character.<br>  We've not seen each other in years.<br>  You've no foundation for judging my character.<br>  Yet here you are,  full of self-importance  once again taking responsibility for that which is beyond your control.<br>  My perception of reality was challenged by visions from a time-traveling entity.<br>  Who should help me but you, of course?  After all, the entire Klingon war was your doing.<br>  Your parents' death was your responsibility.<br>  Stop it.<br>  If only you hadn't asked to watch a star become supernova.<br>  But you're wise to blame yourself.<br>  Children should know when a war-faring race will attack without warning.<br>  Perhaps you could have done something.<br>  A child fighting a Klingon, excellent odds.<br>  Shut up!  You were trapped on the other side of a door, Michael.<br>  You could not stop any of it.<br>  You could not save them.<br>  It is unreasonable for you to believe otherwise, yet you do.<br>  As you believed you could save my family from logic extremists,  when, in truth, they despised us because of me  the half-human abomination.<br>  Your presence was beside the point.<br>  Whatever point you're trying to make, you're failing.<br>  Then let me be clear.<br>  You avoid reality because it is easier for you to shoulder burden  than to face unimaginable grief.<br>  I thought this could be a new start for us.<br> I really did.<br>  Clearly, I was wrong.<br>  Yes, you were.<br>  We will never relate as equals so long as you attempt  to assume every burden is yours alone.<br>  Since we're being honest with each other  stop taking whatever this is out on me.<br>  You need to identify why you're really angry.<br>  There is nothing to identify.<br>  I am angry.<br> Pure and simple.<br>  Because you feel you failed as a Vulcan or as a human?  What I feel is that failure is liberating.<br>  And for the first time, I enjoy expressing emotion.<br>  Commander Burnham, we need you on the bridge.<br>  I'm on my way.<br>  Yellow alert.<br> Take us in.<br>  That's the most defensive weapons I've ever seen in one place.<br>  Welcome to Section 31 headquarters.<br>  No one from Control will answer our hails.<br> Scans show no life signs.<br>  But it is a former prison.<br>  It would be designed to prevent such scans from working.<br>  Find a work-around.<br> I need to know what we're walking into.<br>  I'll do what I can, sir.<br>  Are you all right?  I'm fine.<br>  Tilly, have you decrypted those messages yet?  - Moving as fast as we can.<br> - Move faster.<br>  Captain, we have a problem incoming.<br>  The blade mines.<br> They'll slice the hull like cheese.<br>  It appears someone is guiding them toward us.<br>  That shouldn't even be possible.<br>  Apparently it is.<br>  Shields up.<br> Red alert.<br>  This is your captain.<br>  Brace for a bumpy ride.<br>  Shields holding at 90 percent.<br>  Begin evasive maneuvers.<br>  Pattern Lambda Ten.<br>  Yes, sir.<br>  You should go help now.<br>  But you said not to leave.<br>  I've got this, and they need you.<br>  I can't shake these blade mines, captain.<br>  They seem to be anticipating our moves.<br>  Switch to Pattern Gamma Four.<br>  Someone reprogrammed the mines.<br>  - I can't shut them off.<br> - Mr.<br> Bryce, contact Starfleet Command.<br>  Tell them to order Section 31 to stand down.<br>  Sensors are saying that we're upside down.<br>  Those are blackout mines.<br> They interfere with navigation.<br>  - Blackout mines? - The helm is not responding.<br>  It is, lieutenant.<br>  You're flying blind, just like in the academy.<br>  Shields down to 41 percent.<br>  No response from Starfleet.<br>  - Keep trying.<br> Lieutenant Detmer.<br> - I'm trying my best.<br>  Not good enough.<br> This isn't a game.<br>  - Repeat, we are under attack.<br> - Wait, what if it is?  Quickly.<br>  The mines are guided by a computer.<br>  Like a game, after a few moves, it anticipates what we'll do.<br>  - Recommendations? - To introduce randomness and chaos, sir.<br>  Lieutenant Detmer, trust your training.<br>  We can do this.<br>  Mr.<br> Saru, we need an evasive pattern.<br>  Uh, Beta Nine, Detmer.<br>  Admiral.<br>  Pi Alpha Two.<br>  Commander Burnham.<br>  Delta Seven.<br>  - Lieutenant Owosekun.<br> - Omega One.<br>  - They're moving away from us, captain.<br> - Injuries?  Five, from the engine room.<br>  No casualties.<br>  Damage report?  Warp and impulse engines are inoperable, sir.<br>  - It's as if we were targeted.<br> - And now we're sitting ducks.<br>  Sir, we're being hailed by Section 31.<br> It's Admiral Patar.<br>  Cancel red alert.<br>  Put her through.<br>  Why the hell are you attacking a Federation starship?  My apologies, admiral.<br> Captain.<br>  But Discoveryis harboring wanted criminals  and is, itself, a fugitive vessel.<br>  It was too dangerous to allow you in proximity to our base.<br>  We'll see what Starfleet has to say.<br> Bryce?  Sir, they're still not responding.<br>  That is because my order to attack came directly from Starfleet Command.<br>  If Starfleet ordered an attack, they can say it to my face.<br>  Captain Pike, please, do not escalate this situation further.<br>  A Section 31 vessel is en route.<br> You will be boarded  For what reason?  Starfleet regulations are extremely specific  about the definition of treason.<br>  Unfortunately, you, your crew, and the admiral all qualify.<br>  If you think you're coming to arrest us, think again.<br>  Admiral, I do believe you went to Discoverywith noble intentions.<br>  However, by abandoning your duties  to carry out a secret mission with fugitives,  you became a fugitive yourself.<br>  You no longer have the authority to choose your own fate.<br>  I understand this is more than you bargained for.<br>  But you cannot abandon the mission, Chris.<br>  Whether I can issue orders or not,  we have to get a team onto that station and reset Control.<br>  What is it about the look on my face that suggests I've changed my mind?  Rhys, scan for any other weapons on this base.<br>  Call Engineering.<br> We need that spore drive up and running.<br>  Mr.<br> Saru, form a landing party and meet us in my ready room.<br>  Captain, I believe I can be more helpful here.<br>  There is something I would like to investigate.<br>  Get to it.<br> Commander Burnham, you're up.<br>  Okay.<br>  Come on.<br>  Please don't shock me.<br>  You do realize, inanimate infrastructure cannot hear you?  Really?  You're kidding.<br>  Sorry, darling.<br>  He just does not understand.<br> Ow!  Great.<br>  Now there's a power short, on top of everything else.<br>  This makes my work impossible.<br>  I'm not being hyperbolic when I say the galaxy is at stake.<br>  Well, uh  unless I can reroute power to the adjacent conduit,  isolate the corruption, fix it and the spore drive  we'll all get arrested, so  if you wanna save the galaxy, start by helping me.<br>  A fair point.<br>  I didn't know you knew anything about electrical.<br>  I have many talents.<br>  Point the light over here.<br>  So, did, uh  Burnham's idea help?  Did you figure out why the Red Angel chose you?  No.<br>  I have examined it from countless angles, yet I remain an illogical choice.<br>  Well, have you thought about what makes you unique?  I am half-human.<br>  Unusual, but there are others like me.<br>  I can think of nothing else.<br>  Well, if I were a Red Angel traveling through time,  I'd plan my mind-melding strategy pretty carefully.<br>  Wouldn't just choose a random Vulcan.<br>  Keep trying.<br> You'll figure it out.<br>  Thank you.<br>  Now, if only the spore drive were that easy.<br>  I think the corruption may be with the navigator,  which, you know, isn't important at all.<br>  It just holds the map to the entire mycelial network.<br>  You have traveled that network hundreds of times.<br>  You know it well enough to travel between two points without assistance.<br>  Perhaps you simply lack faith in your own abilities.<br>  I know you're angry with Burnham, but  she risked her life to bring you here.<br>  She loves you.<br>  If I may  make an observation of my own.<br>  I saw Dr.<br> Culber moving out of your shared quarters.<br>  You seemed quite upset.<br>  Yes, he said he needs distance.<br>  I submit that your assessment of the situation may be inverted.<br>  Perhaps he needs distance from you  not because he no longer has feelings for you  but because he no longer knows how to feel about himself.<br>  Power and life-support systems are disabled everywhere,  except for the data center where Control is located.<br>  So, we'll have to beam over in EV suits.<br>  Because the politics weren't complicated enough.<br>  Any idea how many guards to expect?  I haven't been on the site since before the war.<br>  Your guess is as good as mine.<br> Probably better.<br>  Minimize the risks as much as possible.<br>  Lieutenant Detmer, do your best to keep us in range.<br>  Commander Airiam, once they've secured the data center,  you'll beam over and restore Admiral Cornwell's access to Control.<br>  Sir, I should go with them.<br>  If the threat-assessment system has backup protections,  I can circumvent them before we lose access entirely.<br>  I'll look after her, captain.<br>  Okay.<br>  Good luck, everyone.<br>  Dismissed.<br>  Look at you, going off on a mission.<br> Don't forget about us little people.<br>  - I will do my best, Keyla.<br> - Mm-hm.<br>  Captain, still no life signs, and gravity is out.<br>  Please be careful.<br> Standing by to beam you out.<br>  That's frozen blood.<br>  Well, that can't bode well.<br>  Burnham toDiscovery, confirm visuals on EV suits.<br>  We see you all in the corridor.<br> Proceed with caution.<br>  Yes, sir.<br>  Commander Nhan, can you find a way to turn life support back on?  I'll be back in two seconds if you need anything.<br>  Let's stay close.<br>  Captain, I'm seeing clear signs of a struggle.<br>  There's more blood.<br>  Looks like someone tried to pry these doors open.<br>  Or keep them from shutting.<br>  Any sense of who was fighting whom?  Not yet.<br>  What do you think killed him?  That's a really good question.<br>  Restoring power and gravity now, commander.<br>  Burnham toDiscovery.<br> At least four dead.<br>  I'm guessing we'll find more.<br>  But we've got gravity and atmosphere restored.<br>  Biometric data indicates the victim died at least two weeks ago.<br>  Bodies are frozen solid.<br>  Captain, we have a problem.<br>  It's Admiral Patar.<br>  She's been dead two weeks.<br>  If she's dead  who the hell was I talking to?  Captain.<br>  I believe I can answer that question.<br>  Well, as you know, all living beings have a heat signature,  which changes in high-stress situations.<br>  When Admiral Patar's authority was challenged  I should have seen a change in her signature.<br>  But I did not.<br>  As she was a hologram, I now understand why.<br>  Now.<br>  Here  is the evidence against Mr.<br> Spock.<br>  In ultraviolet.<br>  No changes, despite the violent attack.<br>  This, too, is a hologram.<br>  Which can only mean  Section 31 framed Mr.<br> Spock.<br>  Control was programmed to create this evidence.<br>  After killing the admirals,  it used the same skill to create Admiral Patar.<br>  We're fighting the system itself?  Which would explain why Admiral Cornwell was locked out.<br>  Control could also be blocking our transmissions to Starfleet Command.<br>  Then why would it allow us to send a team onto the station?  It must want something from us.<br>  I think it might want something from Airiam.<br>  She downloaded all of her archived data, all of her memories, ontoDiscovery.<br>  None of it is in her head anymore.<br>  Those memories meant everything to her.<br>  Find out what she downloaded in their place.<br>  Lieutenant Bryce, open a secure channel to Burnham and Nhan only.<br>  Mr.<br> Stamets, how are we doing on that spore drive?  - I'll be ready when you are.<br> - Good.<br> We might need it very soon.<br>  Looks like they were trying to turn life-support systems back on.<br>  The doors closed on them deliberately.<br>  What could cause an entire station to malfunction?  Commander Burnham, Commander Nhan, you're on with the captain.<br>  Commander, what is Airiam doing?  Trying to restore Admiral Cornwell's access to Control.<br>  No, she's not.<br> Stop her.<br>  Now.<br>  What the hell was that?  Airiam, what are you doing?  Airiam, stand down.<br> That is an order.<br>  Do you hear me? I said, stand down.<br>  Commander Airiam, I need you to stop.<br>  Burnham.<br>  Burnham, are you all right?  - Michael? - I'm fine.<br>  I'm fine.<br> What the hell is happening to her?  Airiam's compromised.<br> Something's controlling her through augmentation.<br>  Sir, remember the Sphere? It was dying.<br>  It had a lot of data?  - I was there.<br> Get to the point.<br> - The messages to Section 31.<br>  They contained data from the Sphere.<br>  That's the data Airiam downloaded before leaving.<br>  What did she bring over here?  All the information the Sphere collected on artificial intelligence.<br>  - Why would Control want Al data? - A strategic advantage, perhaps.<br>  That sphere collected data from countless civilizations,  over hundreds of thousands of years.<br>  That much knowledge.<br>  Whatever the problem, you could never out-think it.<br>  - It would always win.<br> - Oh, that's it.<br>  It wants to think.<br>  It wants to evolve.<br>  That data is a road map for Control to become fully conscious.<br>  When it does  It can destroy all other sentient life in the galaxy.<br>  Yes, that's what Spock saw in his vision.<br>  I'll delete whatever she managed to upload.<br>  Damn it.<br> I can't get in.<br>  Delete the data remotely?  I can't access the system, and I definitely can't hack Airiam.<br>  She's trying to open the door from inside.<br>  - We can't let her do that.<br> - Maybe I  If you have any ideas  Open a channel to Airiam, please.<br>  - You're on.<br> - Thanks.<br> Uh  Airiam, hi, it's Tilly.<br>  Uh A friendly reminder:  You saved every memory you ever had with me.<br>  I think that's because you adored me.<br>  And I adore you, too.<br>  I'm gonna send you something.<br>  Whatever this thing is making you do, this is not who you are.<br>  You are a Starfleet officer.<br>  You're an amazing colleague, and you are a great friend.<br>  And also the best Kadis-Kot player I've ever seen.<br>  I should know.<br> I won regionals when I was 10.<br>  Airiam.<br>  This is not you.<br> Please.<br>  You know Michael.<br>  She's your friend.<br>  Airiam, I know you can hear me.<br>  I can hear you, Tilly.<br>  But I cannot stop myself.<br>  It's overriding my primary motor functions.<br>  I was only able to transfer 25 percent of the Al data.<br>  Control needs me to finish.<br>  Michael.<br>  You have to open the airlock.<br>  - Immediately.<br> - What?  No.<br>  No, I'm not gonna eject you into space.<br>  I will unlock this door  I will kill you,  finish my mission,  and I will destroyDiscovery.<br>  And all on board will die.<br>  Please, Michael.<br>  The airlock.<br>  We can fight this, Airiam.<br>  What are you doing?  The system corrupted her.<br> If I break in, take it offline, she'll be free.<br>  Michael, stop.<br>  I disabled my helmet.<br>  I will not survive in space.<br>  Commander Burnham.<br>  Open the airlock.<br>  Captain, I don't wanna disobey your orders.<br>  But if this works  It's her or you, Michael.<br>  Fifteen seconds.<br>  Please.<br>  Open the airlock, Michael.<br>  One more minute! Please.<br>  Airiam, I'm gonna send you your favorite memory.<br>  Look at it.<br>  I can't look at it now, Tilly.<br>  Michael.<br>  You have no other alternative  but to eject me.<br>  Burnham, that's an order.<br>  I'm so sorry.<br>  It wanted me to kill you.<br>  Everything is because of you.<br>  Because of me?  Michael.<br>  Open the airlock.<br>  Please tell everyone I love them.<br>  - You have to find Project Daedalus.<br> - What is Project Daedal?  But we're coming home.<br>  But we're coming home.<br>     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e08" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e10" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

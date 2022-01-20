@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e03 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e03 - Point of Light Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e03 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e03"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e03 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e03" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;Point of Light</div>
+
+            <h1>Star Trek: Discovery (2017) s02e03 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Point of Light</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 - Michael Burnham.<br> - Ash Tyler.<br>  TILLY: You got to give him  a sign that you're interested.<br>  BURNHAM: All my life  the conflict inside me has been between logic and emotion.<br>  - You remind me of everything good.<br> - You are my tether.<br>  [SCREAMING.]<br> TYLER: A Klingon took an interest in me.<br>  It's you.<br>  [SPEAKING KLINGON.]<br>  L'RELL: We modified Voq into a shell  that appears human.<br> [SCREAMING.]<br>  We grafted his psyche into Tyler's.<br>  An activated Klingon spy.<br>  When I look at you now, I see Voq's eyes.<br>  Was there ever really an Ash Tyler? I loved him.<br>  They've planted a bomb in the heart of your home world.<br>  Use the fate of Kronos  to bend them to your will.<br>  [SPEAKING KLINGON.]<br>  I'm going with her.<br>  - I'm gonna miss looking at you.<br> - I see you, Ash.<br>  In your eyes.<br>      BURNHAM: Stardate 1029.<br>46.<br>  Personal log, Commander Michael Burnham.<br>  Any rational explanation for the seven signals  that have appeared across the galaxy continues to escape me.<br>  And with it, perhaps any chance  of a relationship with my brother Spock.<br>  What did he see in them that I can't?  My failure to understand feels like a failure to reach him  at a time when he might need me most.<br>  COMPUTER: Attention: trainee half-marathon approaching.<br>  TILLY: On your left!  [PANTING.]<br>  MAY: Hi.<br> Hello.<br> [GASPS.]<br>  Hi.<br> It's me! Hello.<br>  It's me.<br> It's me!  Silly Stilly.<br> [GASPS.]<br>  [PANTING.]<br>  You're not really there.<br> You're not.<br>  You're dead.<br> You're dead.<br> You're not really here.<br>  Of course I am, Silly Stilly.<br>  Where did you come from?  - And how come they don't see you? - Only you can.<br>  - Why? Why me? - Don't you remember?  I'm May from junior high.<br>  I'm May from junior high.<br> We were friends.<br>  You're the nicest person I've ever met at this awful school.<br>  I went to that school for six months.<br>  And then my mother got another post,  and we moved away, and you and I have not spoken since then.<br>  And another thing.<br>  You died years ago.<br>  Is that why you're upset? Is that why you're upset?  I'm upset because you are a symptom of an unfit mind,  and I can't have that right now.<br> I just can't.<br>  [PANTING.]<br>  [TILLY GRUNTS.]<br>  [WHOOSHING.]<br>  [PANTING LOUDLY.]<br> Oh, my  The Command Training Program's half-marathon has a victor.<br>  A lovely show  of endurance and fortitude, Tilly.<br> All right.<br>  You are dismissed, everyone, but we will reconvene  later in the day for Shadow Exercises.<br>  MAY: We won!  There is no one else I would rather cheer on  and support and help.<br>  Causing a nervous breakdown is not helping me.<br>  BURNHAM: Tilly.<br>  SARU: set a new course record.<br>  She also achieved  Saru says you not only won, you beat your personal best.<br>  See? That's how I'm helping you.<br>  What a team we are!  It's all that training you put me through.<br>  Thank you, Michael.<br>  I've got to go, but congratulations.<br>  You're amazing.<br>  Saru, wait up.<br>  [PANTING.]<br>  COMPUTER: Yellow Alert.<br>  Undeclared craft on an intercept course.<br>  Bearing three-five-eight mark zero.<br>  Range 9,000 kilometers and closing fast.<br>  No other propulsion signatures in the sector.<br>  Hailing on all frequencies, sir.<br> So far they haven't responded.<br>  Tell them if they get any closer without telling us who they are,  we will activate tactical systems.<br>  - Aye, Captain.<br> - Owo, got anything on scans?  Detecting a small ship.<br> Two life-forms.<br>  BRYCE: Captain, they've opened up a channel.<br>  It's a private vessel with a diplomatic registry number.<br>  They aren't required to tell us more than that.<br>  The captain's asking me to beam one aboard.<br>  They're now in range for a visual, Captain.<br>  - On screen.<br> OWOSEKUN:- Aye, Captain.<br>  That ship is Vulcan.<br>  That ship is Sarek's.<br>  I recognize it.<br>  He assembled a Federation  task force to study the seven signals.<br>  He might have some news for us.<br>  He may want to discuss something else.<br>  I reported Spock's advance knowledge  of the signals to Command.<br>  The information likely made its way back to the ambassador,  along with the news that his son admitted himself  into a psychiatric hospital.<br>  You didn't betray your friend, Captain.<br>  You followed protocol.<br>  It's easy to say, harder to believe.<br>  Have you heard from Spock's doctors on Starbase Five?  No, not yet.<br>  Report to the Transporter Room, Commander.<br>  Welcome the Vulcan ambassador aboard.<br>  Yes, sir.<br>  Deck four.<br>  MAN [OVER P.<br>A.<br>.]<br>: Boarding confirmed.<br>  Transporter lock established.<br>  Energize.<br> Aye, Commander.<br>  Amanda?  [QUIETLY.]<br>: Please don't react.<br>  Spock needs our help.<br>  I could only turn to you.<br>        [ORIGINAL STAR TREK THEME PLAYS.]<br>   Star Trek: Discovery SO2EO3- Point of Light                        Will you make this human our new fleet captain, too, Chancellor?  Perhaps we should speak in their standard tongue, too?  Whatever language you prefer, the truth remains  THE SAME: the Torchbearer was anointed by T'Kuvma himself.<br>  You mean Voq was.<br>  If you want whatever  this is as your plaything, he belongs in your bed,  - not here.<br> - L'RELL: He belongs  wherever I am.<br>  Just like the allied Klingon houses,  our union is what makes us strong.<br> [GROANS.]<br>  Your old way of thinking kept us at each other's throats.<br>  [GROANS.]<br>Remove the paint from your face, Kol-Sha.<br>  We are one culture now.<br>  Your unions an insult to my son Kol,  and all our sons who died by human treachery.<br>  [GROANING.]<br>This is no coincidence,  those seven red lights appeared from the sky  so soon after she took power.<br>  [MURMURING.]<br>  They are an omen!  Seven drops of blood ready to rain down on us.<br>  Remove the paint.<br> [GROANS.]<br>  [BOTH GRUNTING.]<br>  [GROWLING.]<br>  [GROWLING.]<br>  Your chancellor doesn't get her hands dirty.<br>  That's the Torchbearer's job,  whether he be human, Klingon or both.<br>  [GROWLING.]<br>  You know about the seven signals?  Yes.<br> Sarek informed me.<br>  People are anxious to know what they are.<br>  MAN [OVER P.<br>A.<br>.]<br>: Attention all cadets.<br>  Duty log has been updated  Spock's connected to them.<br>  - How? - He left a log claiming  that he saw them long before they appeared to the Federation.<br>  But until we can speak to him, we have no answers,  and I don't know what else to do.<br>  I have no new angles to investigate.<br>  Except the one I'm giving you.<br>  I just came from Starbase Five.<br>  I went to the psychiatric unit.<br>  They wouldn't tell me where he was.<br>  They wouldn't let me see him.<br>  They wouldn't say what was wrong with him.<br>  Thy wouldn't even give me his personal effects.<br>  You're his next of kin, and you're a diplomat's wife.<br>  So I did the only logical thing.<br>  I stole his medical file.<br>  It's encrypted.<br>  Can you please open it?  [SIGHS.]<br> Mother.<br>  Please.<br>  [GROWLING.]<br>    [SCOFFS.]<br>  How was your walk?  I have dedicated everything to your cause.<br>  The least your uncle could do is acknowledge me.<br>  He and the rest of House Mo'Kai believe in you.<br>  We have enemies enough.<br>  There is no need to dream up imaginary ones.<br>  Kol-Sha is telling council members  that you are advising me  to eliminate the great houses entirely.<br>  My uncle is disseminating the truth to counteract his lies.<br>  He looks at me and sees a human.<br> They all do.<br>  You should not care what anyone sees when they look at you.<br>  On that subject, only my opinion matters.<br>  Why do you insist on speaking English to me?  I'm not a human, L'Rell.<br>  I'm a Klingon whose body was changed to resemble one.<br>  If we expect others to acknowledge my Klingon side  accept me as the Torchbearer you must treat me like Voq.<br>  If you are Voq, then want me back.<br>  Want me.<br>  You touch me  and that intimacy,  to me, Tyler, feels like  violation.<br>  AMANDA: Spock speaks highly of you, Captain Pike.<br>  Now my daughter does, too,  so I know I've come to the right people.<br>  Well, ma'am, that makes it all the harder for me to tell you  I can't open this file.<br>  If I did, I'd be in violation of the rules,  and my mother wouldn't like that.<br>  There is precedent in Starfleet case law  for a captain to invoke  Was she this bossy as a kid?  On Vulcan, we call it "persistent.<br> " And yes, she was.<br>  She learned that from me.<br>  Hmm.<br>  Bryce, get me Captain Vela on Starbase Five.<br>  Tell him it's high priority.<br>  BRYCE: Yes, sir.<br>  Ah.<br> Chris.<br>  You and my Bisabuela Nena are the only two people  in this quadrant still communicating on screens.<br>  Well, your grandma sounds like a smart lady.<br>  You should introduce us.<br>  Sorry I haven't returned your call.<br>  "Calls," Diego.<br>  I've been waiting for an update on my officer, Spock.<br>  VELA: I'm sorry, I can't give you one.<br>  His case is classified.<br>  I'm well within my rights as his captain to get a prognosis.<br>  Even if that weren't the case, Spock has information  on the signals I was assigned to investigate.<br>  Starfleet declared my mission priority one.<br>  The signals have nothing to do with it, Chris.<br>  Your guy is wanted for murder.<br>  He killed three of his doctors, then fled the starbase.<br>  PIKE: Why isn't word out about his escape  so that every starship can be on the hunt?  VELA: Elements of the case just got complicated.<br>  Some of Spock's files are missing.<br>  We have no idea how.<br>  Rest assured they've got people on it.<br>  PIKE: Thanks, Vela.<br>  Pike out.<br>  It's not true.<br>  My son is gentle and kind;  he wouldn't do that.<br>  I agree, Captain.<br>  Well, that makes three of us.<br>  But I don't think the "people" handling his case would concur.<br>  Our boy's in trouble.<br>  Whatever happened, he needs a fair shake.<br>  We need to find him before they do.<br>  Burnham, break into Mr.<br> Spock's medical file.<br>  That's an order.<br>  Lieutenant Spock's intellectual abilities  and capacity for reason are intact.<br>  Instead, his dissociation appears acutely emotional.<br>  E.<br>Q.<br> tests and his current disaffected state  suggest extreme empathy deficits.<br>  I'll transfer the rest of the files, and then  we can decide the best place to start.<br>  Your wheels are already turning.<br>  Logic dictates a few theories:  Spock didn't do it and he's wrongfully accused;  or he did murder those doctors in a mentally compromised state,  or in what he thought was self-defense.<br>  Or He did it because he's emotionally compromised.<br>  "Extreme empathy deficit"  is code for psychopathy.<br>  I can't deny that possibility.<br>  He didn't have a normal childhood.<br>  Sarek wanted Spock raised in the Vulcan manner.<br>  And any display of emotion was strongly discouraged.<br>  And in order not to confuse my son,  I began to hide my own.<br>  I was not a real mother  I wasn't what he needed.<br>  You gave us love every second.<br>  It was different with you, Michael.<br>  I gave you all my joy  and my affection  that I was not permitted to give to him.<br>  But Spock is half human.<br>  If he had been permitted to embrace the feelings  that I know he has inside of him,  it would've saved him from all the trouble that he's in now.<br>  [EXHALES.]<br>  Stop.<br>  Stop.<br>  Those images.<br>  Spock drew them.<br>  I'm sure of it.<br>  He must've  done them when he was in treatment.<br>  I thought that he left it in the past.<br>  But it's back.<br>  What is it?  Your brother called it the Red Angel.<br>  He started seeing it when he was a little boy.<br>  It changed him.<br>  [COMPUTER CHIRPS.]<br>  I'm sorry.<br>  I have to answer this.<br>  Michael.<br>  Thanks for answering.<br>  Of course.<br>  Are you all right? Is L'Rell?  For now.<br> She's still in power  but her opponents continue to challenge and discredit her.<br>  - It's volatile.<br> - How can I help?  The Federation needs to be aware of the situation.<br>  If L'Rell falls, peace falls with her.<br>  I'll pass it up the chain of command immediately.<br>  Thanks.<br>  - I should go.<br> - Wait.<br>  What?  I  I don't know.<br>  I like the beard.<br>  [CHUCKLES.]<br>  I heard, postwar, the Klingons are growing their hair again.<br>  The rumors are true.<br>  How are you?  I've been dealing with some things  regarding my foster brother.<br>  I thought I hit a dead end  but Amanda came and got me back on track.<br>  Can you ship her over here when you're done with her?  I'm feeling a little stuck, myself.<br>  You've got me, right now.<br>  [SIGHS.]<br>  I understood my role here, to aid L'Rell.<br>  But I'm afraid I'm hurting her.<br>  I'm an easy target for the old guard.<br>  What does L'Rell think?  That their opposition is part of the fight,  and their ignorance will be their downfall.<br>  You admire her.<br>  I do.<br>  It sounds like she feels the same way about you,  and values having you there.<br>  Try to take her at her word.<br>  It's, uh, it's late here, so  Take care of yourself, Michael.<br>  You, too, Ash.<br>  Yeah.<br>  [EXHALES.]<br>  Greetings, everyone,  and welcome to Shadow Exercises.<br>  As Starfleet's future chiefs and captains,  this is your opportunity  to build rapport with a senior officer,  and see firsthand what their duties entail.<br>  So let us begin.<br>  PIKE: Look sharp, people.<br>  This is our future competition.<br>  Is that your captain?  Um, Ensign Sylvia Tilly, sir.<br>  Fully present and utterly focused  on this very important exercise  for which I am all ears, Captain.<br>  Your dedication is noted, Ensign.<br>  So, what should we do?  How 'bout we marry some folks,  even if they're not that into each other, hmm?  [LAUGHS.]<br>: Oh, very good, sir.<br>  Captain.<br> I need your authorization for this.<br>  I don't understand.<br> That was funny.<br>  The captain of this ship isn't funny, he's terrifying.<br>  You may be thinking of an old captain, Captain Lorca.<br>  Was he shorter? And blonder?  And much, much whiter? Because that's who I'm looking for.<br>  [DISTORTED.]<br>:- 'Cause that's who I'm looking for.<br> PIKE:- I'm ready if you are.<br>  He's not the man I need to talk to.<br>  PIKE:- Hop in the chair, Ensign.<br> - Yes, sir.<br>  Let's run a systems test.<br>  Where is the other captain?  Uh, a systems test.<br> Uh, where?  Where? In the chair.<br>  Oh.<br> S-Sorry.<br>  Run checklist protocol.<br>  Acknowledged.<br> Uh, step one.<br>  Tilly, this is not right.<br> My plan is falling apart.<br>  [QUIETLY.]<br>: Calm down.<br>  I'm hearing considerably fewer syllables  out of you than normal.<br>  I- I know the chair can be intimidating,  but are you okay?  No.<br> We are not okay.<br> I want the captain.<br>  - I want the captain.<br> - This is the captain.<br>  Ensign, what is going on?  Tilly, answer Captain Pike.<br>  Tilly No.<br>  I'm not listening to you anymore.<br>  You tricked me and you lied to me.<br>  I didn't lie.<br> He's lying.<br>  He's an imposter.<br>  Shut up!  Ensign Sylvia Tilly!  No.<br> I didn't.<br> I'm sor I w  She drove me to it.<br> I  That doesn't make any sense.<br> I'm s  I'm not  I'm not [SNORTS.]<br>  I'm not.<br>  I quit.<br>  [DOOR WHOOSHES OPEN.]<br>  [HANDS RUBBING TOGETHER.]<br>  [GRUNTS SOFTLY.]<br>    You were spying on me.<br>  Your mind plays tricks.<br>  What do you have against me?  Why do you stop speaking when I enter a room?  You'll speak now or I'll slit your throat.<br>  [GROWLS.]<br> If you feel aggrieved,  take it up with my niece.<br>  It is not House Mo'Kai that is keeping secrets from you.<br>  What secrets?  L'Rell will be angry  I broke her trust,  but I cannot keep this from you any longer.<br>    [BABY COOING.]<br>  UJILLI: Behold,  the son of L'Rell and Voq.<br>    I learned I was pregnant right as Voq  was being transformed into a human.<br>  I could not activate him on Discovery  while carrying a child.<br>  The gestation occurred ex-utero.<br>  That is why it is so small.<br>  "It"?  - Does he even have a name? - No.<br>  I have never met the child.<br>  The baby is a vulnerability.<br>  He's just a vulnerability to you?  All these secrets and lies  to protect a failed wartime mission.<br>  What did you gain, L'Rell?  You think your discovery, made moments ago,  is somehow greater  than the pain I have lived with all this time?  [PANTING.]<br>  Would you have ever told me?  I wanted you to be able to return  to a human life without obligation.<br>  You will not be here forever, Tyler.<br>  Why do say that? With such certainty,  like you know who I am better than I do?  I chose to be here.<br>  I'm committed to that decision.<br>  Why did you call Michael Burnham?  I trusted her to notify the Federation that an insurrection  of the High Council might be brewing.<br>  So she is the only one you trust.<br>  That is the only reason it was that  particular human woman?  Yes.<br>  That is the reason.<br>  [EXHALES.]<br>  On my way home, I looked into one of Voq's memories.<br>  You and he walked across the ancestral cliffs of the Mo'Kai.<br>  The sun set.<br>  The sky dripped amethysts.<br>  Our love was greater than that of Kahless and Lukara's.<br>  Voq thought so, too.<br>  When I stared down at that baby  his skin, the same as Voq's,  the distinction that made him feel like an outsider,  that made his life so hard,  I felt like I was looking at myself.<br>  For the first time, the two sides of me felt whole.<br>  I can't be Voq.<br>  I can't give you back those memories of long ago.<br>  But I can promise you a new love story.<br>  I am his father,  and I am devoted to you.<br>  Let's bring our son home.<br>  The rest will come.<br>  When did it first appear to him?  It appeared to Spock  the night you ran away from home.<br>  The Logic Extremists had bombed the Learning Center  and almost killed you.<br> I don't blame you  for wanting to escape from Vulcan to Earth.<br>  I didn't make it past the outskirts of ShiKahr.<br>  I still don't know how Sarek found me.<br>  He didn't.<br>  That was Spock.<br>  We were about to alert the High Command  to begin a search effort,  and Spock walked into the room.<br>  He was still in his pajamas.<br>  His eyes were wide, and he said  that the Red Angel had visited him  and told him where you were.<br>  That's where Sarek looked,  and there you were.<br>  Sarek and I always believed  that Spock used logic  to pinpoint your direction.<br>  He might have known what time you left,  how fast you were walking, what direction you were going in.<br>  And we just wrote the vision off as a figment of his imagination.<br>  But Spock never wavered.<br>  He said that the Red Angel was real.<br>  I've seen this angel, too.<br>  It appeared to me on our mission to the first signal.<br>  Were you the only one?  Yes.<br>  And I wrote it off as a trick of the mind.<br>  And I didn't get the sense that it was nefarious.<br>  [SCOFFS.]<br>  I cannot believe I'm talking like this.<br>  I'm not even sure it was real.<br>  It is.<br>  What saved you  hurt your brother.<br>  That vision changed him forever.<br>  I  I watched him withdraw.<br>  I saw him lose trust in other people.<br>  I watched his openness vanish.<br>  It wasn't because of a vision.<br>  It was because of me.<br>  My presence was a danger to the family.<br>  If the Logic Extremists couldn't get to me,  they would try to get to him.<br>  And he was my little shadow.<br>  So I had to wound him deep enough to keep him away from me.<br>  What did you do?  The fact that you're not saying anything means  that you must have hurt him irreparably.<br>  Which is why the four of us can never get together,  which is why you're always too busy to see each other.<br>  I'm sorry.<br>  I am sorry for what I did.<br>  What I thought I had to do.<br>  I've reached out  so many times  to make amends.<br>  He's not interested.<br>  But I won't give up on him.<br>  I will find him.<br>  No.<br>  I will.<br>  He will not know me.<br>  He didn't know me either.<br>  Uncle.<br>  No, no!  [GASPING.]<br>  I've been awaiting your arrival.<br>  Your son is handsome.<br>  But I thought he could use  a little color.<br>  I will hunt you down and rip out your entrails  - with my bare hands.<br> - Doubtful.<br>  The paint I begged you to wipe from my face  was swimming with sensor implants.<br>  They are a listening device.<br>  I was only hoping to eavesdrop on your political strategies.<br>  But I never imagined  I'd learn of this.<br>  The High Council will not tolerate  - this dishonor.<br> - Well, I think  they are more likely to condone kidnapping  than harboring a spy.<br>  Your pet betrayed the council to Commander Burnham.<br>  Did he not?  What do you want?  I'm willing to part with him and let you flee  in exchange for control of the empire.<br>  You will agree to my terms and meet me  at your residence.<br>  Saru called down looking for you.<br>  You all right?  What's wrong? Have you been crying?  I asked first.<br>  [INDISTINCT ANNOUNCEMENT OVER P.<br>A.<br>.]<br>  Talk to me.<br>  I need a problem I can solve.<br>  More than you know.<br>  Talk to me.<br> Haven't I been punished enough?  What happened up there was upsetting to me.<br>  I panicked.<br>  Tilly?  Tilly.<br>  Don't ruin what we have.<br>  We're not defeated yet.<br>  We're not defeated yet.<br>  After the dark matter hit me,  I s  I started to see a  ghost.<br> [EXHALES.]<br>  She's a girl that I knew when I was a teenager.<br>  Her name was May.<br> But she's dead.<br>  And the May that I knew was really meek and, uh  kind of goofy when you got to know her.<br>  But this May is different.<br>  She's, um she's insistent.<br>  She's grooming me for something.<br>  For what?  She hasn't said.<br>  Because you're ignoring me.<br>  And I'm getting scared.<br>  And we need a new plan.<br>  [PANTING.]<br>  I am losing it, Michael.<br>  She's wearing me down.<br>  I've been avoiding sickbay.<br>  But, at this point, I don't know what to do.<br>  I'm desperate.<br>  And after today, I'm never gonna make captain.<br>  MAY: Your eyes are dripping.<br>  'Cause I'm crying.<br>  [SNIFFLES.]<br>  She doesn't know what crying is.<br>  I've got to think.<br>  I'll be back to talk some sense into you later.<br>  She left.<br>  How can she not know what tears are?  That's impossible.<br>  Show me a teenage girl who's never cried.<br>  You can't.<br>  I know.<br> I'm a xenoanthropologist.<br>  And if May were a hallucination pulled from your subconscious,  then she'd know that emotion, because you know that emotion.<br>  So May is something, Tilly.<br>  But I don't think she's a ghost.<br>  Or a delusion.<br>  You said she appeared to you after the asteroid shocked you.<br>  But why did it shock you?  I held a piece in my hand,  and I wasn't zapped.<br>  The dark matter component of the asteroid,  it reacts when it's in proximity to one thing.<br>  Spores.<br>  You don't need sickbay.<br>  You need Stamets.<br>  [THUNDER CRASHES.]<br>  [BABY WHIMPERS.]<br>  Sign.<br>  I am still your chancellor.<br>  You are the Federation's puppet.<br>  Why is she such a threat to you, Kol-Sha?  [CHUCKLES.]<br>  The female?  She's nothing but a  [SPEAKS KLINGON.]<br>  that lies with a human.<br>  If that is the gravest insult you can hurl,  you are even less than I imagined.<br>  [GROWLS.]<br>  [BABY CRYING.]<br>L'RELL: I know  I am nothing to you once I have signed,  so be sure to kill us both, Kol-Sha.<br>  The one left standing will be the one who returns for you.<br>  [THUNDER CRASHES.]<br>  [GUARDS SNARLING.]<br>  [CHUCKLES.]<br>  [SNARLING.]<br>  [FIERCE YELLING.]<br>  [BLADES CLANGING.]<br>    [ROARS.]<br>[SCREECHES.]<br>  [GROWLING, GRUNTING.]<br>  [THUNDER RUMBLING.]<br>  [YELLS.]<br>  [GRUNTING CONTINUES.]<br>    [FIERCE YELLING.]<br>  [YELLS, GRUNTS.]<br>  [YELLING NEARBY.]<br>  [FIERCE YELLING.]<br>    [THUNDER RUMBLING.]<br>  Enough.<br>  [WEAPON SQUEALS.]<br>  [ZAPPING, GRUNTING.]<br>  [CRACKLING.]<br>  KOL-SHA: Yes.<br> Feel it.<br>  Paralysis  is spreading to your organs.<br>  But I will not let you suffocate  until you've signed.<br>  Thank you for my ink.<br>  Now pass me that  pretty little finger.<br>  [CRACKLING.]<br>[GRUNTING.]<br>  Now  for my first act as chancellor:  an execution.<br>  Now  you can watch  your Voq die  for good.<br>  [ECHOING BOOMS.]<br>  KOL-SHA: What is that?    [WEAPON SQUEALS.]<br>  [GRUNTS.]<br>  [BREATH SEETHING.]<br>  [THUNDER RUMBLING.]<br>  TYLER: Why have you been spying on me?  GEORGIOU: Don't be cranky about it.<br> We have to ensure  that she stays in the chancellor's seat.<br>  Who's "we"?  Emperor  [CHUCKLES.]<br>: You have me confused with someone else.<br>  I'm Philippa Georgiou,  retired captain of the U.<br>S.<br>S.<br> Shenzhou,  now Starfleet security consultant.<br>  [BABY FUSSING.]<br>  [GROANS.]<br>: Oh, children are parasites.<br>  Ungrateful.<br> Inconvenient.<br>  I had to find someone else  to feed mine, or I would have gotten nothing done.<br>  I will consider that advice.<br>  Thank you for your help.<br>  Gratitude is premature,  as long as the disemboweled leader of House Kor  is splattered on your floor.<br>  TYLER: He took our child, tried to force her to abdicate.<br>  We were defending ourselves.<br>  Kol-Sha killed your uncle it's an eye for an eye.<br>  I need a word with the chancellor.<br>  [THUNDER CRASHES.]<br>  Every minute you remain here, your councilors must reorganize  their tiny male brains  to rationalize why it isn't them standing on the dais.<br>  They will assume that all your decisions are Tyler's.<br>  He is a liability.<br>  Can you kill him?  [BABY CRYING.]<br>I had to ask.<br>  He is a liability, too.<br>  You can't show weakness  when it comes to either one of them.<br>  I will not choose between the chancellorship  and my son and his father.<br>  I told you what I am here to protect.<br>  I am not giving you a choice.<br>    I'm sorry I didn't tell you.<br>  I am sorry, too.<br>  But thanks to Burnham's insights,  we are closer to finding a solution.<br>  And getting you back into the Command Training Program.<br>  What about Captain Pike?  I am not familiar enough with the captain to anticipate his reaction,  but I do know that he has  a sense of humor and that he is fond of you.<br>  STAMETS: We should have results  in one second.<br>  [WHOOSHES.]<br>MAY: I told you  he was shorter, blonder,  whiter There he is.<br>  - That's the captain.<br> - No, he's not.<br>  Yes, he is.<br> That's where he flies.<br>  - What's going on? - She's back and she's pissed.<br>  Maybe at you.<br>  - Please hurry.<br> - Stop talking  to him until I tell you what to say.<br>  STAMETS: Just as I suspected.<br>  You are hosting a eukaryotic organism.<br>  - A fungus? - Obviously  multicellular, since it has  - opinions.<br> - Fungus.<br>  Don't you dare diminish  don't you dare diminish me.<br>  SARU: Anyone who works around the spore drive  is inoculated how did she contract it?  It's possible that a spore evolved  a resistance, like bacteria.<br>  And don't you call me bacteria.<br>  Or it's a different spore altogether than the ones we harvest here.<br>  When Discovery escaped the Terran universe, their spores  rained down on Engineering.<br>  If one attached itself to you  Hey, May.<br>  Is that her?  He's the villain.<br> Don't let him poison you against me.<br>  STAMETS: There's our hitchhiker.<br>  A multidimensional, fungal parasite.<br>  Why does it appear to be someone I knew when I was a teenager?  Brain manipulation, perhaps?  These people are lying.<br>  I am not a manipulator.<br>  You're special, Tilly.<br> You're my only chance.<br>  I need you.<br>  How do we get rid of it?  We use the attraction between the fungal spores  and the dark matter asteroid to suck her out of you.<br>  This might hurt a bit.<br>  [GRUNTING.]<br>  If you think you can destroy me, Captain,  you're in for a fight!  [GRUNTS, SCREECHES.]<br>  [YELLING IN PAIN.]<br>  [YELLS.]<br>  [FRANTIC SQUEALING.]<br>  Security breach by unknown alien species in Engineering.<br>  Engage quarantine protocol Alpha-Omega.<br>  [SQUEALING.]<br>        Such was the dishonor he brought.<br>  Secretly, he communicated with the Federation.<br>  He told them we are disunited and therefore weak.<br>  He betrayed us.<br>  Lest anyone think my arrangement with the human  outweighs my loyalty to the empire,  think again.<br>  [OTHERS GROWLING.]<br>  The traitor slaughtered a Klingon infant.<br>  My son.<br>  [OTHERS SHOUTING.]<br>  L'RELL: He would have assassinated your chancellor  had Kol-Sha not intervened.<br>  The leader of House Kor gave his life to defend mine.<br>  One house defending another.<br>  His sacrifice is a lesson to us all.<br>  I, too, have sacrificed.<br>  I will bear a child but once.<br>  Now  you are my children,  as I raise this family to greatness!  Do not refer to me  as Chancellor,  for I deserve a fiercer title.<br>  From this point forth,  you may call me  Mother.<br>  [OTHERS SHOUTING.]<br>    [BABY FUSSING.]<br>  You synthesized our heads  down to their neural mapping and genetic codes.<br>  This isn't your everyday Federation espionage.<br>  What kind of organization could pull that off?  GEORGIOU: This kind.<br>  Section 31.<br>  I've heard of black badges; never seen one.<br>  We've settled into orbit around Boreth.<br>  Are you sure you want your boy to become a monk?  [SCOFFS SOFTLY.]<br> It's what L'Rell wants.<br>  And you?  To know where I belong, and to whom,  and who belongs to me.<br>  My son will be raised  by the most devout followers of Kahless.<br>  No one leaves the monastery,  and no one who doesn't belong ever gets in.<br>  Not even his parents?  He'll never know me.<br>  Never know L'Rell, either.<br>  But he'll be safe.<br>  [BABY CRYING.]<br>  GEORGIOU: You should consider staying around.<br>  Our command believes misfits have merit,  so we keep busy.<br>  I'm surprised you call yourself a misfit, Emperor.<br>  The freaks are more fun.<br>  LELAND: Take us to warp.<br>  Control values his skill set.<br>  We would like you to work on your recruitment speech.<br>  Don't give me notes.<br>  He's in.<br>  Something has us locked on a place.<br>  I can fly in a web.<br>  Get down!  My people have a condition.<br>  It's terminal.<br>  Death is inevitable.<br>  You're my family.<br>  After everything we have been through  We're not gonna let you die.<br>   Star Trek: Discovery SO2EO3- Point of Light     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e02" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e04" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

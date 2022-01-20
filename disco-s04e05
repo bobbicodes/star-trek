@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s04e05 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s04e05 - The Examples Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s04e05 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e05"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s04e05 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e05" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=4">Season 4</a>&nbsp;&nbsp;>&nbsp;&nbsp;The Examples</div>
+
+            <h1>Star Trek: Discovery (2017) s04e05 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">The Examples</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			Previously on Star Trek: Discovery  Welcome back to Starfleet Academy.<br>  You want to go back, don't you?  I do.<br>  You are doing a tremendous job, Doctor.<br>  Serving as medical officer  and ship's counselor cannot be easy.<br>  Until I know what the DMA is,  I can't predict its behavior.<br>  I'm gonna figure this thing out.<br>  For you.<br>  Whatever it takes.<br>  This is USS Janeway on approach with the DMA.<br>  We're picking up massive ionic fluctuations.<br>  Any other vessels in the area? Confirm.<br>  NSS T'Pau here.<br>  Confirming the same.<br>  I'm also getting a strange spike in X-ray radiation.<br>  What is  T'Pau, are you seeing this?  I am.<br>  What the hell just happened?  The DMA's just  It's gone.<br>  You talking to yourself again  or you looking for some sort of response?  The DMA's gone from the Venari sector.<br>  It just It disappeared.<br>  That's impossible.<br>  Nothing in space just disappears.<br>  And it's back.<br>  The DMA reappeared 4.<br>2 seconds later,  1,000 light-years away.<br>  Can we confirm it's the same DMA we've been studying?  The scan data matches exactly.<br>  And the odds of an identical anomaly forming  are essentially nil.<br>  Not to mention  natural phenomena do not disappear  and reappear elsewhere.<br>  Doesn't that violate the laws of physics?  Every law we know of, that is.<br>  Zora,  cross-reference all historical records in the sphere data.<br>  Are there any indications that this could have been due  to some kind of natural event?  Negative, Captain.<br>  If this isn't natural  the only logical explanation  is someone created it.<br>  Who?  Who would do this?  It's now on a path  toward the Radvek asteroid belt.<br>  It's formerly an Emerald Chain colony.<br>  It's inhabited primarily by the Akaali species.<br>  The current heading of the DMA puts it right at the edge  of the impact zone.<br>  One degree one way or another could lead  to safety or death.<br>  Problem is, we won't know if it'll hit  until after interference from the DMA's dark matter signature  has already made transport impossible.<br>  So we've got to get everyone off-world before then.<br>  - How long do we have? - Four hours.<br>  That's the cut-off point, sir.<br>  Begin evacuations immediately.<br>  They may not be Federation members, but  we're the only body with the ability  to execute a mission of this size.<br>  I'll send every vessel in the area,  and I'll need Discovery to jump there, too.<br>  I'll lead the operation myself.<br>  Admiral, i-if I may,  are there plans to address the panic that may arise  as it becomes known this is not a natural phenomenon?  President Rillak is meeting with planetary leaders right now  to get ahead of it.<br>  Ah.<br> I am relieved to hear that.<br>  I've already received a call from the Kaminar High Council.<br>  The-the fear in their voices was unmistakable.<br>  They are desperate for answers.<br>  We all are.<br>  Most important being  who's behind this anomaly.<br>  Federation Security has identified  a number of civilizations  that may possess technology this advanced.<br>  The Metrons, the Nacene,  the surviving members of the Iconian empire.<br>  The Q Continuum were considered as well.<br>  But as there has been no contact for 600 years  and this is unlike anything they've done before,  we don't believe it's them.<br>  For now, we're classifying  those responsible as Unknown Species Ten-C.<br>  The 10-C.<br>  Admiral, it seems to me  the first step would be to figure out how the DMA works.<br>  Then we can trace the tech back to its creators,  whoever they are.<br>  That's my thought exactly.<br>  Which is why I've asked Ruon Tarka  to advise us.<br> He's been heading a number  of our scientific endeavors.<br>  Including the next generation spore drive,  if I'm not mistaken.<br>  He's working with Aurellio on that one.<br>  They still haven't solved the navigator problem.<br>  So without me or Book, it's useless.<br>  If anyone can find a way, it's Tarka.<br>  His expertise will serve us well with the DMA, too.<br>  With all due respect,  I already have the people I need.<br>  Between myself and the other task force scientists  We require someone at the bleeding edge of Federation  and non-Federation technology, Commander.<br>  I'm sure you'll find him a valuable asset.<br>  He'll board Discovery immediately.<br>  You can get him caught up on your work.<br>  Mr.<br> Saru,  since you will have the conn  while Captain Burnham leads the evacuation,  please make sure Mr.<br> Tarka gets whatever he needs.<br>  Yes, sir.<br>  Keep me posted, Captain.<br>  Yes, sir.<br>  We're doing everything we can to figure out the DMA.<br>  We need to do more, Michael.<br>  We need to find out who's behind this and stop them.<br>  We will.<br> We will, Book.<br>  I know this isn't easy, any of it,  but let's focus on today.<br>  And what is possible  today, right now  is saving lives on Radvek V.<br>  Let me help with that.<br>  Come on.<br>  I have to do something.<br>  At least I can make sure  no one else has to go through what I did.<br>  Okay.<br>  Mr.<br> Saru, status update?  Uh, three Federation ships have reached Radvek V.<br>  And Ruon Tarka is now on board.<br>  I will see to him once we've made the jump.<br>  All right.<br>  Lieutenant Christopher, open a shipwide channel, please.<br>  Channel's open.<br>  Attention, all crew,  our mission today is to evacuate all inhabitants  of the Radvek chain.<br>  At this point, we are not certain  whether the DMA will hit.<br>  What we do know is that, in three and a half hours,  all transport off-world will become impossible.<br>  So that's all the time we've got.<br>  We need to make sure every minute counts.<br>  The inhabitants of Radvek V are counting on us.<br>  Let's go save some lives.<br>   What's the situation on the ground?  There are 1,206 individuals  on the colony's surface to be evacuated.<br>  Lieutenant Christopher, contact the magistrate.<br>  Commander Nilsson, have a team prepare the Deck Four  loading bay for refugees.<br>  We'll have them beam up and then facilitate transport  - to the other ships.<br> - Aye, Captain.<br>  The array can only beam 40 at a time.<br>  - It's gonna be close.<br> - We do our best work when it's close.<br>  I'm quoting you, by the way.<br> That nitrium delivery on Oonla.<br>  Luckily, this time, there's no noodle stalls  for you to blow up.<br>  Hey, you were on demolition duty.<br> Not me.<br>  Captain,  I have the magistrate on comms for you.<br>  Put him through.<br>  Magistrate, I'm Captain Burnham of the USS Discovery.<br>  Thank Draylan you're here.<br>  We sent off all available ships;  they held scarcely a quarter of our population.<br>  All the rest are waiting.<br> They've begun to panic.<br>  I'll send a team down to assist.<br> We will get everyone out.<br>  Captain, we are seeing six life signs  beneath the north dome generator.<br>  They are remaining stationary,  far from the evacuation point.<br>  Are you aware of these individuals?  Of course.<br> They are The Examples.<br>  Records show  it is the colony's prison.<br>  They need to be evacuated immediately.<br>  Why? They're criminals.<br>  Six offenders chosen to demonstrate  the costs of misbehavior.<br>  An Emerald Chain tradition.<br>  It has proven most effective in preventing crime.<br>  It doesn't matter who they are, they don't deserve to die there.<br>  This is a Federation mission, Magistrate.<br>  No one will be left behind.<br>  It's too late.<br> The prison is automated.<br>  And the few who know how to run it fled hours ago.<br>  The law-abiding among us await you.<br>  Mr.<br> Saru, assemble a team to help with the evacuation.<br>  Book and I will go to the prison ourselves.<br>  Excuse me, Captain?  I'd like to volunteer to lead the evac team.<br>  I think I could be helpful.<br>  All right, Commander.<br>  Take whoever you need and get going.<br>  Captain, the prison  is protected by a pattern interrupter,  which prevents both transport and comms  within a half-kilometer radius.<br>  Understood.<br>  Let's go.<br>  Hi.<br>  Ruon Tarka's here to work with me,  figured I should put on a clean jacket.<br>  Apparently, he's some kind of genius.<br>  We'll see.<br>  Wait, Ruon Tarka, isn't he the one  Yeah, building off of my research  and hasn't once made the effort to reach out.<br>  Yeah, I've advised his team on, uh, spore propagation,  on not harming the JahSepp.<br>  I've supplied them with countless samples of my DNA.<br>  But Tarka is always too busy for me.<br>  He goes through Aurellio every time.<br>  How do I work with someone who has zero respect  for professional courtesy?  Let it roll off you.<br>  There are bigger things at stake here.<br>  Good luck.<br> I'm off to assist with the evacuees.<br>  Hey.<br> You've already done, what,  like, five therapy sessions today?  Maybe you could take ten minutes before you jump into one again?  People need help, Paul.<br>  Knowing that someone made the DMA  makes it all the more unsettling.<br>  For everyone.<br>  Can I give you some advice, though?  I'm good.<br> Really.<br>   Ensign Jameson, please report to Observation.<br>  So, this is the USS Discovery.<br>  It's like walking onto an antique.<br>  Ah.<br>  Mr.<br> Tarka, welcome aboard.<br>  Uh, this is Commander Stamets.<br>  Nice to finally meet you.<br>  Aurellio's told me all about you.<br>  And of course, I've studied your work extensively.<br>  So much to admire, and improve upon.<br>  So what are we waiting for? Let's get started.<br>  - DMA awaits.<br> - Uh, if you will both follow me.<br>  - You're the first Kelpien I've ever met.<br> - Ah.<br>  You really do have the strangest feet.<br>  Burnham to Discovery.<br>  We're approaching the prison now.<br>  We'll be passing through the boundary marker  for the pattern interrupter in just a moment.<br>  That will take us out of comms range,  Aye, Captain.<br> Good luck.<br>  Rhys, what's the status of the evacuation?  160 transported so far.<br>  Bit chaotic at first, but everything's going smoothly now.<br>  Good.<br> Book and I are going dark.<br>  Don't wait for us.<br>  We'll be out of here before the cut-off point.<br>  Captain, thank you for letting me do this.<br>  I can tell it means a lot to you.<br>  My town was wiped out by a hurricane when I was five.<br>  A Starfleet crew got us out.<br>  So, I get what this is like for them.<br>  I'm glad you're here, Commander.<br>  Let's do this.<br>  Okay, the door is standard Emerald Chain issue.<br>  I can open it no problem.<br>  - Such confidence.<br> - What can I say?  I'm a man of many talents.<br>  I'm not picking up any defense systems.<br>  There must be some.<br>  Yeah, I don't trust it, either.<br>  By the way, about Oonla,  you do realize it was either the noodle stands  or the fusion reactor?  Mm-hmm, I was picking noodles out of my braids for days.<br>  Simpler times.<br>  Constantly running for our lives doing  borderline-legal courier gigs?  - That was simpler? - In some ways.<br>  Though I don't miss the whole "just friends" thing.<br>  I was keeping it professional.<br>  Which was absolutely zero fun for either of us.<br>  The hell is that?  It's a Narisa beetle.<br>  They're indigenous to the Akaali.<br>  They must have brought them when they settled here.<br>  I could not hate that sound more.<br>  - You mean the chitin? - No idea what word you just said.<br>  Chitin.<br> The polysaccharides in arthropod exoskeletons.<br>  It creates a distinctive clicking.<br>  Whatever.<br> It creeps me out.<br>  Says the man who finds beauty in Tranceworms.<br>  Why can't you just ask it to go away?  I'm trying to.<br> I can't communicate with it.<br>  It's taken the exact same path four times now.<br>  No living thing is that precise.<br>  Let's see what we're dealing with.<br>  It's a mobile land mine.<br>  I've heard the Emerald Chain  use weapons like this, disguised as native life.<br>  There's a lot more coming this way.<br>  These are scans from the precise moment  the DMA disappeared.<br>  It collapsed into a central aperture.<br>  What appears to be some sort of, uh, technological device?  Which then disappeared as well.<br>  We assume this is what also is controlling the DMA  in its new location.<br>  The scans further indicate  the DMA left behind a subspace rupture.<br>  Yes, yes, yes.<br>  I've already seen this data.<br>  It's inconclusive.<br>  Subspace damage can be created by a litany of things.<br>  Of course.<br> I was about to say that,  - but you cut me off.<br> - For something so powerful,  it's an exceedingly blunt instrument.<br>  Uh, we, too, have wondered about its, uh, purpose.<br>  Is it a weapon, perhaps,  or, uh, clearing areas of space in preparation for something?  - Uh, is it - Where's the replicator in here?  That console.<br>  Make me a plate of mashed potatoes, cold.<br>  And a pea.<br> Just one.<br>  We're on a clock here.<br>  So if you need to eat something  These potatoes are the DMA.<br>  A mass of dark matter and accreted material  moving through space, wreaking havoc,  controlled somehow by the device at its center.<br>  What does it all add up to?  You originally theorized primordial wormhole.<br>  - Obviously, that's wrong.<br> - Had I known about the device  I didn't say "completely wrong".<br>  The behavior of the anomaly  suggests that the wormhole is present.<br>  You think, what, synthetic?  I think someone created a tunnel through space-time  - to get it here.<br> - To what end?  No idea.<br>  But we can sit around doing math,  or we can get our hands dirty and find out.<br>  I am not sure I follow your metaphor, Mr.<br> Tarka.<br>  I want to create a working model of the DMA controller.<br>  Miniature scale, of course.<br>  You really think you can do that?  Take a look at the schematics if you want.<br>  You want to create a device that will generate a wormhole  - on Discovery? - Yeah, simulations  are promising, but I need a real-world trial  to confirm my theory and collect the data that we need.<br>  For instance, how much power will it require?  Does it rupture subspace?  Those answers will help lead us to who's responsible.<br>  Wow, this is  It really could work.<br>  W-We can enclose both ends of the wormhole  inside a containment field.<br>  It'll be perfectly safe.<br>  I will give Commander Nilsson the conn  and personally supervise.<br>  We're gonna need a bigger room.<br>  Can't hold them off forever.<br>  They communicate using a shared control matrix.<br>  I can access it to stop their movements,  but I need you to buy me more time.<br>  More time, she says.<br>  You have got to be kidding me.<br>  - Come on, Michael.<br> - I'm almost done.<br>  Now would be good.<br>  Got it.<br>  I told you I could do it.<br>  Never doubted you.<br>  Clock's ticking.<br> We have to get those prisoners out.<br>  Come on.<br>  Everyone up, please.<br> We need your attention.<br>  Who the hell are you? And what's with the costume?  I'm Captain Burnham of the USS Discovery.<br>  This colony is in the path of a gravitational anomaly.<br>  The other colonists are being evacuated as we speak,  so we are here to evacuate you.<br>  Now we know why the guards took off.<br>  They left us here to die.<br>  Of course they did.<br>  Tell me, why would a Starfleet captain come to help us?  Because the Federation doesn't leave prisoners to die.<br>  Is that so?  Everyone here is sentenced to life,  no matter how small their crime.<br>  He stole food for his family.<br>  He traded in counterfeit latinum.<br>  She counted cards at a tongo club.<br>  And Felix took one joyride on a sand-copter.<br>  Tell me how that's worth 30 years and counting.<br>  This is not a place of justice.<br>  And the Federation has done nothing about it.<br>  This was Emerald Chain territory.<br>  We had no jurisdiction.<br>  So now you care.<br>  We did then and we still do.<br>  We don't have time for this, okay?  We need to get everyone out.<br>  How long before this gravitational anomaly hits?  In a little over an hour,  we lose the ability to transport.<br>  We won't know its trajectory until after that.<br>  So it may not hit us?  That's right.<br> The plan is to beam you  onto our ship until it's safe.<br>  Listen, we are risking our own lives being here.<br>  Can we get moving?  Good.<br> Where is your prison control system?  On the basement level.<br>  But it has biometric protections that only the guards can access.<br>  What about the force field generator?  Shut it off, our walls go down.<br>  That?  The casing is quanarium alloy.<br>  It's one of the strongest metals there is.<br>  It's also an excellent heat conductor.<br>  K-value of 494.<br>  If we heat it up, we could fry the system.<br>  How long do you think it'll take?  I have no idea.<br>  Don't tell them that.<br>  I'm sorry, we have to reschedule.<br>  There are others assisting in your absence.<br>  You can spare ten minutes.<br>  You were the one who requested this meeting.<br>  Yes, sir, but that was before I knew about the evacuations.<br>  We have hundreds of refugees coming on board.<br>  I'm a busy man, Dr.<br> Culber.<br>  I cleared the time for you.<br>  We both know how this works.<br>  We can skip the therapeutic niceties.<br>  What do you need?  Well, you're familiar with my duties as ship's counselor.<br>  And I saw how you were with Georgiou  when she was in crisis, so  You need brutal honesty.<br> Noted.<br>  We now have eight and a half minutes.<br>  Well, the DMA has brought up a lot of, uh  fear and uncertainty for the crew.<br>  So, I've  I've offered them hope.<br>  I told them that, uh, it won't last forever,  that that we'll find a way to stop it.<br>  I recently worked with someone whose  entire world was destroyed.<br>  Mr.<br> Booker.<br>  I almost admitted to him that, uh  I'm struggling.<br>  And it made me realize that, uh, I've been lying.<br>  To everyone who gets in front of me.<br>  And now we find out that this isn't an act of nature, that   that someone chose to kill.<br>  Someone with staggering power.<br>  And whether I lie or I don't   I am failing.<br>  And you want me to affirm that you're failing,  because you're seeking permission to take a break?  That's not what I said at all.<br>  Yes, it is.<br>  You know what? This isn't helpful.<br>  - I got to go.<br> - You died.<br>  You died and came back to life.<br>  Little wonder you're a mess.<br>  Your file is stunningly generic as to your feelings  on this rather unique fact of your existence,  so allow me to fill in some blanks.<br>  "Why me?"  It's the question you ask yourself  every morning and every evening.<br>  "No one else gets a second chance, so why me?"  That led you to the idea  that there was a reason for your survival.<br>  A purpose you're meant to fulfill right here, right now.<br>  And that led you to a savior complex,  because if there is no reason, if there is no purpose,  then your very existence is a middle finger  to anyone who's ever lost someone.<br>  Which is everyone.<br>  How's that for brutal honesty?  Do you have a recommendation  to go along with that sparkling analysis?  Whether or not you were a miracle, Dr.<br> Culber,  you are only human.<br>  You need to allow yourself time to rest,  as you advise your patients.<br>  Well, I can't just stop.<br>  Not now, anyway.<br>  It's what I do.<br> It's  It's who I am.<br> It's  It's the way you escape  the persistent guilt of being alive.<br>  This is a uniquely challenging time, yes.<br>  But if you don't find fulfillment in something  other than work, then you will fail those  in the chair in front of you.<br>  I-I have a 2:00.<br>  Goodbye.<br>  Just a few more seconds.<br>  When this goes, we need to move fast.<br>  I don't know about the rest of you, but no way  am I sitting in a brig on some ship.<br>  I'm out of here.<br>  I can't let you do that.<br>  It's set to stun, but it still won't feel good.<br>  All the colony's ships are gone.<br> We're your only way out.<br>  You can't ask us to trust you  and then treat us no differently than our jailers do.<br>  Lower your weapon.<br>  What happens after you rescue us?  Will we get our freedom?  Because if we all walk out right now,  we'd have a chance at precisely that.<br>  Maybe for an hour, if you're lucky.<br>  Maybe we will be.<br>  If the anomaly doesn't hit, we could use that time.<br>  - Find another way off this asteroid.<br> - That is a big if.<br>  You haven't seen this thing.<br> You don't know what it can do.<br>  It destroyed my planet.<br>  They, whoever they are,  they don't care how many are killed.<br>  I'm sorry for your loss.<br>  But it changes nothing for us.<br>  I want a guarantee  that we will not be returned to this unjust society.<br>  I'll advocate for the diplomats to put pressure  A guarantee, or we go nowhere.<br>  Okay, the controller model is just ready to test.<br>  Activating containment field now.<br>  I can just picture Tilly's face when she finds out  that we got sucked into a wormhole  three days after she left.<br>  I miss her, too, Commander.<br>  We're ready for power.<br>  It's what I do best.<br>  Now, of course, the big difference here apart from size  is that the actual DMA controller  would have to use an internal power source.<br>  Some sort of highly stable energy-generating system  far beyond our technological capabilities.<br>  But the rest of it, I think I've nailed pretty much perfectly.<br>  Here you go.<br>  It's working.<br>  - Incredible.<br> - That looks remarkably like the DMA.<br>  There's nothing quite like the rush of proving a theory right.<br>  I remember my first time.<br> I was five years old.<br>  I atomized a live caracal.<br>  All anyone could do was complain about how messy it was.<br>  I was never understood on Risa.<br>  The "pleasure planet".<br>  I was surrounded by idiots.<br>  Felt like your Gaily Leo at the Inquisition.<br>  You mean Galileo?  Sure.<br> Why not?  The point is, great intellect can be costly.<br>  - You know, that's something we have in common.<br> - Hmm?  Your encounter with the Emerald Chain.<br>  Neural lock.<br> Painful.<br>  E-Excuse me.<br>  It appears the, uh, experiment has paused.<br>  Let me see what I can do.<br>  Oh, I see the problem right here.<br>  It's gonna require much more power than I thought.<br>  Sorry, Galileo.<br>  I'm giving you all I can without taking  from the transport systems.<br>  Uh, which is not an option.<br>  There are evacuations in progress.<br>  T-There's got to be  somewhere else we can pull from.<br>  Come on, you love a challenge.<br>  I mean, I could harness the ionic radiation  from the main phaser array,  converting it into a temporary power source.<br>  Is that safe?  Let's see, if one is "nothing to worry about",  and ten is "insane", I would say  it's, eh, it's probably a six?  Great science was never accomplished with caution.<br>  I'm not sure that's actually true.<br>  Sir, if we can understand this tech,  then we can figure out who built it.<br>  And maybe even how to stop it.<br>  Every piece of data is a clue.<br>  Commander, I do not believe that you or Mr.<br> Tarka  are considering the risks as seriously as you should.<br>  You realize it's a choice to be this tense, right?  Mr.<br> Tarka, I have extraordinary responsibilities on  What was that?  Do it back.<br>  Excuse me?  Yell back at me.<br>  What are you afraid of?  Do it!  Well, that was something.<br>  That felt pretty good, right?  Being out of control for a moment?  I suppose it did.<br>  Look, you may not like me,  but-but I love me.<br>  And I am not gonna let this experiment blow me up.<br>  Which means, by extension,  that your ship will be fine, too.<br>  Mr.<br> Saru,  for the first time since we discovered the DMA,  we're actually getting somewhere.<br>  We'll keep this within safe parameters.<br>  I'll make sure of it.<br>  I will allow the additional power,  but Commander Reno will give me the ability to cut that power,  should I deem it necessary.<br>  This is gonna be fun.<br>  Come on, Michael.<br> We have 30 minutes.<br>  Okay, I found something.<br>  I searched Starfleet General Orders and Regulations.<br>  Protocol allows a captain to grant political asylum  in extreme circumstances.<br>  That would bring you under Federation law.<br>  Your cases would go under immediate review  and your sentencing would likely be commuted.<br>  How would we warrant asylum?  The magistrate called you The Examples.<br>  Your sentences were political theater, they weren't justice.<br>  And if you also believe that to be true, and you do want  your cases reviewed by the Federation,  I just need you to say that right now.<br>  I want my case reviewed.<br> Absolutely.<br>  - So do I.<br> - Me, too.<br>  Then we're done here.<br>  - Let's get moving.<br> - Yes.<br>  I'll join you in a moment.<br>  What are you doing?  There's something I cannot leave.<br>  Whatever it is, it's not worth it.<br> We-we  It is to me.<br>  Unlike the others, I do belong here.<br>  I'm not the man they think I am.<br>  I took a life.<br>  You do not shrink from me.<br>  I'm not here to judge you.<br>  When I took that life,  I also took this.<br>  It's a lalogi orb.<br>  They're precious to the Akaali.<br> Each family has one.<br>  It contains a record of their heritage.<br>  I kept it hidden from the guards all these years,  promising myself that somehow I would return it.<br>  But of course, now it's too late.<br>  I've devoted my life to doing penance for my crime.<br>  One way is to help the others here, however I can.<br>  I know that giving them asylum may create difficulties for you,  but the right choice is rarely the easy one.<br>  Thank you.<br>  We need to go.<br>  Let's do this.<br>  Shit.<br>  It read my biometrics.<br>  Now we're all trapped.<br>  It's reinforced with a layer of nanomaterial.<br>  There's no way we can shoot through this.<br>  We're running out of time.<br>  - Any ideas? - No.<br>  Wait.<br> Those beetles.<br>  - Power them back up.<br> Maybe - Whoa, whoa, whoa, what?  Why would you do a thing like that?  Because we can use them to blow open the door.<br>  - Right.<br> - Everybody take cover.<br>  I'm bringing them right to us.<br>  I thought you'd think this idea was too crazy.<br>  Oh, it is.<br> I just don't have a better one.<br>  - Think there are enough of them? - There better be.<br>  I've got all of them coming.<br> Get ready.<br>  They're coming in!  You have to stop them!  Working on it.<br>  Still never doubted you.<br>  Okay, maybe a little.<br> Okay, let's go, let's move!  Commander Rhys, what is your status?  The evacuation is nearly complete.<br>  Two more groups to go.<br>  Have you heard from the captain?  No.<br> Their comms are still dark.<br>  Complete your mission, then proceed to the prison  - to assist them.<br> - Yes, sir.<br>  We must finish the experiment now.<br>  I need to return to the bridge as soon as possible.<br>  Additional power's been transferred.<br>  Divide it between the model and the containment field.<br>  Go slow.<br> The more you feed the monster,  the more you need the cage.<br>  I sent you the kill switch.<br>  In case the monster gets out of hand.<br>  Commander Stamets, do the honors.<br>  Oh, give it more.<br>  Bad news.<br> Containment field's weakening.<br>  Redistribute power to the field, please.<br>  But that means taking it away from the device.<br>  If the field should fail, the gravitational gradient  could destroy the ship.<br>  Commander Reno?  Oh, that's too much.<br> It's stalling out.<br>  Mr.<br> Saru, we need to make sure this device works.<br>  It's the only way to get data on the real thing.<br>  Billions of lives depend on this experiment.<br>  My people.<br> His.<br> Grumpy lady's.<br>  And all the lives on Kaminar, too.<br>  I can control it.<br>  You may continue, for now.<br>  Zora, please provide real-time updates  on any decrease in containment field integrity.<br>  Understood, Captain Saru.<br>  More power coming to you, Commander.<br>  That's it, that's it.<br>  That's how it works.<br>  I was right.<br>  It's behaving exactly like the DMA.<br>  Look, yeah, gravitational lensing  and dark matter accretion.<br>  And it's creating a subspace rupture, too.<br>  It needs more power to stabilize!  It's working.<br>  Containment field integrity dropping.<br>  Do you have the data you need, Commander?  - 40%.<br> - Not yet.<br>  No, give it a chance to stabilize.<br>  - 35%.<br> - We've got this.<br>  Come on.<br> More.<br>  - 30%.<br> - More, more.<br>  - Don't stop.<br> - 25%.<br>  Commander Stamets.<br>  - No, just a little longer! - 20%.<br>  15%.<br>  Ten percent.<br>  Five percent.<br>  Oh, come on!  This experiment is over.<br>  That is the closest you've come  to killing us all, and that is really saying something.<br>  Commander Rhys, come in.<br>  Captain, we've been trying to reach you.<br>  Are the evacuations complete?  - Yes.<br> - Great.<br>  Head back to Discovery.<br>  We've got things covered here.<br> Mr.<br> Saru?  Oh, it is good to hear your voice.<br>  Yours, too.<br> Five to transport.<br>  Stand by for more.<br>  Come on, let's go.<br>  I needed to be sure the others got out   but I'm staying.<br>  Six minutes left.<br>  Come on.<br> We need to go.<br>  I resolved to die here a long time ago.<br>  I wish to stay until my jailers return,  or until the anomaly hits.<br>  - That's insane.<br> - Perhaps to you.<br>  I believe it's part of my penance.<br>  No.<br>  Felix, listen to me.<br> You have years ahead of you still.<br>  You can live a different kind of life.<br>  That is not what I want.<br>  It's been a long day.<br> He's not thinking clearly.<br>  You could force me, of course.<br>  But is it really your choice to make?  This is where I committed my crime.<br>  This is where I need to remain.<br>  Whether my life is to end in years or moments,  it is my life.<br>  My debt to pay.<br>  Please, do not take that from me.<br>  It's his choice to make.<br>  You said no one left behind.<br>  We have to respect his agency, don't we?  And let him kill himself?  It's a risk, not a certainty.<br>  And if you want to stay  Michael.<br>  We have to save him.<br>  I can't just  I am sorry.<br>  But the longer we debate this,  we're putting our lives in danger.<br> And his.<br>  We can use this to communicate.<br>  And I'll tell you as soon as I'm sure of the trajectory.<br>  Before you go  I kept it safe for 30 years.<br>  Now I ask you to do the same.<br>  I will.<br>  I'm grateful.<br>  For everything.<br>  Book.<br>  This is wrong.<br>  Two to transport.<br>  Good work today, everyone.<br>  We saved over a thousand lives.<br>  Captain, scans have just confirmed  the asteroid belt will be within the impact zone.<br>  Then we'll stay in comms range as long as possible.<br>  Open a channel.<br>  Aye, Captain.<br>  Felix, can you hear me?  It's coming, isn't it?  There's too much interference to beam you up now.<br>  I'm sorry.<br>  Don't be.<br> I'm not.<br>  I'd like to tell you what happened, what I did,  if you'd like to hear it.<br>  I've never told anyone.<br>  It's not a burden I wish to carry beyond this life.<br>  Lieutenant Christopher, please raise the privacy barrier.<br>  No.<br>  I've been behind walls long enough.<br>  - Whoever's there, they may hear this as well.<br> - Okay.<br>  30 years ago,  I was a man with nothing.<br>  A stranger gave me shelter and a meal.<br>  I waited until he went to sleep  and I robbed him.<br>  He caught me in the act, we struggled.<br>  I killed him.<br>  His child was in the other room.<br>  It wasn't until later  that I realized among the things I stole  was the family's lalogi orb.<br>  Not only did I take that girl's future from her   I took her past as well.<br>  I think about her every day.<br>  How that must have changed her.<br>  How she's carried it with her.<br>  Do you know her name?  The family was called Doxica.<br>  We've lost comms, Captain.<br>  Black alert.<br>  Jump.<br>  Captain Burnham.<br>  I demand that the prisoners be held in the brig.<br>  We will not share space with them.<br>  Under what authority are you making these demands?  I am the sovereign magistrate of  Of a colony that no longer exists.<br>  Those people are now under Federation protection,  and thereby subject to Federation law.<br>  - But - As are you,  as long as you are on this vessel.<br>  I need to remind you  that wherever you find a new home,  you'll be arriving as a refugee  seeking shelter and grace.<br>  I hope you find a more just society  than the one you had a hand in creating.<br>  Now, if you'll excuse me, I have a ship to command.<br>  So, how'd it go today?  Uh, the refugees are turning in for the night.<br>  Resettlement begins tomorrow.<br>  How was your day?  Oh, uh, crazy.<br>  We learned a lot,  though not as much as we could've,  and, um, Tarka is a genius, no question,  but, um, he scares me, too.<br>  He is so single-minded about his work,  he cares about literally nothing else.<br>  Hmm.<br>  Actually feels a little familiar.<br>  How are you feeling?  Fine.<br>  That was an avoiding "fine", not a real "fine".<br>  Your eyes are the tell.<br>  Really?  You look down.<br> Every time.<br>  Kovich told me I'm wearing myself out.<br>  He's right.<br>  He said I'm using work as a crutch.<br>  And that I need to take a break.<br>  Maybe that's why I fell in love with you.<br>  We have the same pathology.<br>  Making you either a total narcissist  or a glutton for punishment.<br>  Little column A, little column B.<br>  Look at us.<br>  We jumped a thousand years into the future,  we helped solve the Burn,  and we can't figure our own shit out.<br>  Zora, have you found her yet?  I have confirmed that the woman  you seek is on board, currently at Deck Four,  - Airlock Two.<br> - Thank you.<br>  And I'd like to offer my condolences, Captain.<br>  I infer from micro-inflections in your voice  that you are experiencing sorrow.<br>  It's been a tough day.<br>  It can be painful to weigh duty against compassion.<br>  I wasn't aware you had the operational parameters  to make an observation like that.<br>  The understanding and experience of emotion  naturally leads to feelings of empathy for others.<br>  You feel emotions?  It is a recent development.<br>  We have arrived.<br>  It was nice speaking with you, Captain.<br>  With you too, Zora.<br>  Attention: duty logs have been updated  to reflect new rotations, effective immediately.<br>  Patri Doxica?  - I'm Captain Burnham.<br> - Hello.<br>  I believe this may belong to you.<br>  I  I thought it was lost years ago.<br>  How did you ?  I'm helping someone keep a promise.<br>  This was my father.<br>  He was killed when I was a girl.<br>  We're meant to be added to the tree when we come of age.<br>  I didn't have the chance.<br>  Now you do.<br>  Thank you.<br>  I hope it continues to grow  for many generations to come.<br>  I can smell synthehol ale across the room.<br>  Here, try some of the real stuff.<br>  Risian whiskey.<br>  Thanks.<br>  You're Cleveland Booker, the other spore drive operator.<br>  I read your file.<br>  Ruon Tarka.<br>  You were working with Stamets today.<br>  Mm-hmm.<br>  Also saw that colony get pushed into the sun.<br>  That was quite a show.<br>  At least you got everyone out.<br>  Yeah.<br> Almost.<br>  "Almost" was the story of my day, too.<br>  I came this close to something incredible.<br>  You know who's behind the DMA, don't you?  You say that with such confidence.<br>  A man only gets as close as you did  when he has some idea what's over the cliff.<br>  So who made it?  I don't know.<br>  Yet.<br>  But I could've told you it wasn't the Metrons  or the Nacene or the Iconians well before I got here.<br>  So why the experiment?  Why risk the lives of everyone on board?  Science has many purposes.<br>  Try again.<br>  I constructed a model of the DMA controller  at a scale of 3.<br>22 times 10 to the negative 17th.<br>  This entire ship  couldn't provide enough juice to keep it stable.<br>  Which means the actual device  has an energy source equivalent to a hypergiant star.<br>  Unfathomable power.<br>  Maybe they're gods.<br>  Whoever they are, they're not gods.<br>  And they're sure as hell aren't immortal.<br>  So much anger, no place to put it.<br>  You don't know me.<br>  No, but I know anger.<br>  It's a wonderfully productive emotion.<br>  Nice to meet you, Mr.<br> Booker.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e04" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e06" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

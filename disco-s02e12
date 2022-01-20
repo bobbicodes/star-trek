@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e12 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e12 - Through the Valley of Shadows Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e12 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e12"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e12 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e12" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;Through the Valley of Shadows</div>
+
+            <h1>Star Trek: Discovery (2017) s02e12 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Through the Valley of Shadows</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  BURNHAM: Any rational explanation  for the seven signals continues to escape me.<br>  Tell us what the signals mean.<br>  I know nothing about them.<br>  You want to help, delete the Sphere archive.<br>  As long as there's any possibility  of Control gaining access to the Sphere data,  everything will die.<br>  The archive will not allow itself to be destroyed.<br>  Instead of fighting time, we go with it.<br>  You can transfer the Sphere archive into the suit  and let the wormhole take it forever.<br>  Look, just come home.<br>  That version of me is dead.<br>  And I'm not going back.<br>  You're Control.<br> You won't win.<br>  Struggle is pointless.<br>  [SCREAMING.]<br>  Our mission parameters have changed.<br>  He's taken the Sphere data!  No!  Captain, we cannot stop the data transfer.<br>  The transfer speed is increasing.<br>  We haven't come this far to lose everything now.<br>  You have to let me go, Michael.<br>  If we do that, you'll get yanked back.<br>  At least this way she would have a chance.<br>  BURNHAM: I'll find you, Mom.<br>  Now, with no suit,  no time crystal  It'll always be one step ahead of us.<br>  SPOCK: Dr.<br> Burnham was incorrect.<br>  What we do now has the power to determine the future.<br>  The board is yours, Michael.<br>  DR.<br> BURNHAM: When the timestorm passes,  I'll come back for you, baby girl.<br>  For you and your father.<br>  I promise.<br>  COMPUTER: Incoming transmission  from Amanda Grayson.<br>  Michael, I heard what happened.<br>  I am so sorry.<br>  How did you hear?  Spock.<br>  All this time I thought she was dead.<br>  But it was so much worse.<br>  She was trying to stop Control.<br>  And I stopped her.<br>  I failed her.<br>  Then I lost her  - all over again.<br> - Michael,  you have it backwards.<br>  You found her.<br>  You will find her again.<br>  That is who you are.<br> [DOOR CHIMES.]<br>  Mother.<br> I apologize for the interruption,  but the Captain needs us.<br>  Take care of each other.<br>  I love you both.<br>  Thank you.<br>  Another signal has appeared.<br>  PIKE: This new signal is the fourth of seven.<br>  It appeared over the Klingon planet of Boreth.<br>  The time crystal in Dr.<br> Burnham's suit was destroyed.<br>  There's no way she could have come back  to create that signal.<br>  And she said she had no knowledge of them.<br>  Which would suggest these signals were created by  another time-travelling entity.<br>  Maybe a trap?  An agent of Control from the future?  None of the events linked to the signals would indicate that.<br>  That fact that one of them led us to save  the people of Terralysium, whose ancestors were saved  by Dr.<br> Burnham herself,  makes me think that these signals are  BURNHAM: Speculating about what the signals could mean  or who created them is unproductive.<br>  What are you suggesting, Commander?  I am asserting that waiting around for these signals  to provide us answers has proven to be  a colossal waste of time.<br>  To say nothing of the fact that Leland is the A.<br>I.<br>  He is Control.<br>  We should be joining Agent Georgiou  in her search for him.<br>  SARU: We have determined  that the Sphere archive could not be  removed nor deleted from this ship.<br>  By using Discovery  to pursue Captain Leland, we would be placing  the data directly within his reach.<br>  PIKE: We all want to stop him.<br>  I understand why you want to lead the charge,  but our priority is safeguarding that data.<br>  So, we focus on the mission at hand:  this new signal, and why it appeared over Boreth.<br>  Mr.<br> Tyler, any insight?  To the Klingons, Boreth is revered for one reason.<br>  The monastery dedicated to Kahless.<br>  It's the only non-native structure on the whole planet.<br>  I don't know how it relates to the signals,  but I can reach out to Chancellor L'Rell  to arrange passage there.<br>  Excellent.<br> Do it.<br>  [DOOR WHOOSHES OPEN.]<br>     Star Trek: Discovery SO2E12- Through the Valley of Shadows    [ORIGINAL STAR TREK THEME PLAYS.]<br>  [DOOR CHIMES.]<br>  Door.<br>  Michael.<br>  I saw you back there.<br>  Whatever it is you're not telling us about Boreth  I need to know.<br>  Boreth is home to my son.<br>  Your son?  Technically, Voq and L'Rell's son.<br>  L'Rell had hidden him away for his own safety,  and I wanted to raise him [CHILD GROANS.]<br>  To protect him.<br>  And instead, I risked both of their lives.<br>  He was placed in the care of the monks on Boreth,  where he'll be raised as a son of none.<br>  Like I was.<br>  Ash, I had no idea.<br>  I'm sorry.<br>  I couldn't tell anyone.<br>  [WHISPERING.]<br>: I only wish you'd told me  so you wouldn't have to carry it alone.<br>  Well,  that's something we both struggle with, isn't it?  [CHIME SOUNDS.]<br>  [CHIMES.]<br>  What is it?  A Section 31 ship just missed its check-in.<br>  It might be nothing.<br>  When it comes to Leland and the A.<br>I.<br>,  no inconsistency is too small.<br>  You want to go after him,  for what he did to your mother.<br>  - Are you gonna try - To stop you?  I don't think that's possible.<br>  SARU [OVER COMM.]<br>: Agent Tyler,  the D7 has arrived with Chancellor L'Rell.<br>  You should go.<br>  Be careful, Michael.<br>  Please.<br>  L'RELL: The monastery is considered  the most sacred site in the Klingon Empire.<br>  Their contact with outsiders has been almost nonexistent  since our world was young.<br>  Control is a significant threat to all of us, Chancellor.<br>  Something in that monastery might even the odds.<br>  Is there any reason you can think of  that the signal would lead us there,  The monastery on Boreth was not only built  to house the Followers of Kahless,  but to protect a rare mineral native to the planet,  guarded with Klingon lives for generations.<br>  Time crystals.<br>  Dr.<br> Burnham's suit was powered by a modified time crystal.<br>  PIKE: A new time crystal could let us send the Sphere data  into the future after all.<br>  The power to manipulate time  is a weapon unlike any other,  and the very reason we no longer exploit the crystals.<br>  But in this case, our mutual survival  depends upon time manipulation to defeat Control.<br>  Maybe the final three signals will show us how to do that.<br>  Send me down to Boreth.<br>  L'RELL: No!  We will not have this conversation  in the presence of Captain Pike.<br>  Chancellor, circumstances are dire,  and time is critical now.<br>  I offer you my full discretion.<br>  For Agent Tyler to go to Boreth would endanger a life.<br>  L'Rell!  The life of our son.<br>  His existence and yours must be kept secret.<br>  I would never put the Empire at risk.<br>  I have the right to see him.<br>  The dead have no rights.<br>  If it were discovered that our child or you were still alive,  the Klingon Empire would be vulnerable to sedition.<br>  I forbid you to go.<br>  I'll go.<br> I agree  with Chancellor L'Rell.<br> It isn't safe for either of you to go.<br>  Nor would it be safe for you, Captain.<br>  Boreth is not for the faint of heart.<br>  Even as chancellor, I hold no sway  over the monks who guard the crystals.<br>  Noted.<br> Can you help us establish communications with them?  I can arrange an audience.<br>  But no Klingon, let alone a human,  has ever taken a time crystal from the monastery  without great sacrifice.<br>  The alternative is worse.<br>  Let us proceed.<br>  BURNHAM: According to Tyler, every Section 31 ship  is required to check in on an hourly basis.<br>  But this ship checked in ten minutes past its hour.<br>  Because of the clandestine nature of their mission,  they're not required to provide any further information  on their status.<br>  You want to investigate in person?  I'll take a shuttle.<br> Discovery stays here.<br>  The Sphere data stays safe.<br> And it may be nothing,  but that ship may be a vulnerability we can exploit.<br>  Permission granted, Commander.<br>  Huh.<br>  I am acting Captain while Captain Pike is away.<br>  That is why you came to me, is it not?  I thought it would take more convincing.<br>  Ah.<br> It would seem that after passing Vahar'ai,  I am a different kind of Captain.<br>  Perhaps as was intended by whatever  or whomever created the signal over Kaminar.<br>  As I said, you have my support.<br>  This is an enemy we will only defeat by striking first.<br>  But I ask that you would not allow your  understandable anger to cloud your judgment.<br>  I won't.<br>  Thank you, SARU.<br>    I'm Captain Christopher Pike  of the United Federation of Planets.<br>  KLINGON: We know who you are,  Captain Pike.<br>  And we know why  you've come here.<br>  I come bearing no weapons.<br> The chancellor said  The chancellor has no authority  in this monastery.<br>  Seems I'm talking to the right Klingon.<br>  We are the Timekeepers.<br>  Guardians, not rulers.<br>  The only power that exists here is that of which we protect.<br>  That of the [SPEAKS KLINGON.]<br>  The time crystals, yes.<br>  I've come to negotiate a trade.<br>  They are not ours to trade, Captain.<br>  The [SPEAKS KLINGON.]<br>  Do not leave these sacred walls.<br>  You have traveled far  for nothing.<br>  Well  wait  You call yourself Timekeepers,  yet you would turn your back  when the future of all sentient life is threatened.<br>  [SCOFFS.]<br>  Even if a crystal is revealed to you,  even if it provides you with the answers you seek,  you are not strong enough to accept them.<br>  I'm only asking for a chance to prove it.<br>  They enter with conviction, always.<br>  They leave broken,  always.<br>  I'm not leaving here  without that crystal.<br>  [LAUGHS.]<br>  Time will tell.<br>  FEMALE VOICE: Attention, all security personnel.<br>  Battle drills scheduled for 0700 hours have been canceled.<br>  SPOCK: It would be illogical  for you to embark on this mission alone.<br>  No, no, it's a simple recon mission, Spock.<br>  I'm here on Saru's orders.<br>  Now is not the time for recklessness.<br>  - Or for unnecessary risks.<br> - Which is why  I must make sure you don't take any.<br>  How are you gonna do that?  The Red Angel will not be there to save you this time.<br>  I don't need saving, brother.<br>  Shall we, sister?  [EXASPERATED GRUNT.]<br>  [LAUGHTER.]<br>  [INDISTINCT CONVERSATION.]<br>  So  you managed to pull off another spore jump, huh?  - Thought you'd be celebrating.<br> - Uh, well, um  I haven't come up with any viable solutions  on how to get Dr.<br> Burnham back,  or how to effectively combat  an A.<br>I.<br> with murderous impulses,  so I'm not exactly feeling victorious.<br>  Well, lucky for you, those are somebody else's problems now.<br>  We got new orders from Captain Pike  before he left for Boreth.<br>  We might be getting our hands on some raw time crystal,  so double down on the espresso, kid.<br>  Hey, bamboo boy.<br>  You're oh-for-three, Linus.<br> You ready to go another round?  I hatched ready,  "Earthbound.<br>"  Done that already.<br>"Sanction.<br>"  We're playing the autoantonym game.<br>  DETMER: Words that mean a thing  and the opposite of the thing at the same time.<br>  I know what autoantonym means.<br>  - Linus needs to whip one out.<br> - Don't choke.<br>  He can choke.<br>  - "Oversight.<br>" - Hm.<br>  Hmm.<br>  Choke on that.<br>  Oh! Ooh![LAUGHTER.]<br>  Humans.<br>  I thought we got past this.<br>  Hasn't it been weeks since he moved out of your quarters?  Eat your protein.<br> Mind your business.<br>  I'm gonna go bury my head in some time crystal research.<br>  What do I call you?  My name is Tenavik.<br>  Though when I first arrived at the monastery,  I was without name.<br>  Son of None.<br>  I know another Klingon with that same epithet.<br>  He was my father.<br>  Uh, but from my understanding, he  your father brought you to Boreth only a few months ago,  when you were an infant.<br>  Forgive me, but [CHUCKLES.]<br> how are you possible?  Time flows differently  for those who protect the crystals.<br>  The past, the present, the future  are all equal  in their presence.<br>  Because of the crystals.<br>  For most Klingons,  the [SPEAKS KLINGON.]<br> are a myth,  symbol of Kahless, namesake of Qo'noS,  but for those of us here,  the power of the crystals are very real.<br>  We dedicate our lives to protecting them.<br>  That is our purpose.<br>  I wonder, Captain,  if you are prepared to know yours.<br>  SHUTTLE COMPUTER: Shuttle course coordinates plotted.<br>  Time to destination approximately two minutes.<br>  I understand your need to pursue Leland,  but you must not dismiss  the importance of the signals in defeating Control.<br>  How have the signals done anything  to protect us against Control so far?  We do not yet have the context  necessary to answer that.<br>  Then why are you here keeping an eye on me,  while there's a signal over Boreth  waiting to be contextually explored?  These signals have invested in Discovery, your mother,  myself.<br>  Common denominator is you.<br>  You're a scientist, Spock.<br>  You've been taught to trust logic, trust the facts,  not wait for the universe to hand you a solution  like a birthday present.<br>  If you're looking for meaning in the signals,  you need to look somewhere else.<br> I'm not it.<br>  You are angry,  as I was.<br>  I'm not angry,  I'm enraged.<br>  And rage is the enemy of logic.<br>  This I have learned.<br> Everything we thought we knew proved wrong.<br>  And you lost your mother because of it.<br>  You are in pain.<br>  But that is why I choose to believe  these signals still hold the answer.<br>  So that everything we have experienced will,  in the end, have meaning.<br>  [CONSOLE BEEPING.]<br>  We have arrived.<br>  Spock  That looks like the entire crew.<br>  SPOCK: According to my scans, the ship appears undamaged.<br>  They were all ejected from the ship.<br>  Wait, there's one life sign.<br>  One of those bodies is still alive.<br>  Locking on for transport.<br>  - Lieutenant Gant - You know this man?  Kamran Gant.<br> He was our tactical officer aboard the Shenzhou.<br>  His vitals are stabilizing.<br>  Kamran  [WEAKLY.]<br>: Michael?  [SOFTLY.]<br>: Yeah.<br>  Lieutenant Spock and I were dispatched  from Discovery to investigate an anomaly  in your ship's reporting protocol.<br>  Can you tell us what happened?  We were following Starfleet protocol  to protect against Control.<br>  I was trying to purge a suspicious subroutine  when the ship's systems locked us all out.<br>  There was no time to react.<br>  Suddenly, the entire ship was  opened up to the vacuum of space.<br>  The A.<br>I.<br>  must've reacted in self-defense because of what I was doing.<br>  Everyone was dying.<br>  I managed to climb into an EV suit  and eject myself before I lost consciousness.<br>  We need to figure out how and why this happened.<br>  That is impossible to determine from this shuttle.<br>  Which is why we have to go over to that vessel.<br>  The ship's systems have entered into some sort of stasis mode.<br>  Why?  Why kill the entire crew  just to sit there doing nothing?  The answers are on that ship.<br>  We will need assistance from someone familiar  with Section 31's protocols.<br>  No.<br>  - I can't go back there.<br> - Oxygen on the bridge  is at 97%; atmosphere is restored.<br>  If we can determine how this occurred on your ship,  it may help us prevent it from happening again.<br>  BURNHAM: And prevent any further  unnecessary deaths, Kamran.<br>  We wouldn't ask if there was any other way.<br>  We need your help.<br>  We need to access the ship's systems from the bridge.<br>  L'RELL: Until Captain Pike returns,  my ship will continue to monitor Boreth for unusual activity.<br>  Should anything threaten our son,  I will ensure his safety.<br>  Are you speaking as a mother or as the chancellor?  You of all people should understand  that two truths are possible.<br>  I do.<br>  I'm sorry.<br>  That was uncalled for.<br>  I recognize that these are not ideal circumstances  for us to be meeting.<br>  Truth be told,  I did not expect to see you ever again.<br>  Nor I, you.<br>  The signals  Have provided us with an opportunity to talk.<br>  I have accepted the truth about us.<br>  You are  and will always be in love with Michael Burnham.<br>  I was in love with Voq, who sacrificed everything.<br>  But  that is not who you are.<br>  I do not wholly recognize you now,  but I am certain you will do anything to protect our son.<br>  Yeah.<br>  As will I.<br>  We never even gave him a name.<br>  The pillar of the past.<br>  The pillar of the present.<br>  What's it say?  TENAVIK: When the future becomes the past,  the present will be unlocked.<br>  Come.<br>  Well, what do I do?  You must see for yourself.<br>  But it is for you, alone.<br>  A warning, Captain.<br>  The present  is a veil between anticipation and horror.<br>  Lift the veil, and madness may follow.<br>  COMPUTER: Alert.<br> Radiation leak detected.<br>  Training exercise aborted.<br>  I got this!  - Four seconds to lock down.<br> - Go! Get out of here!  - I can fix it.<br> - Leave it, Cadet.<br> I said go.<br>  - Three seconds.<br> - Get out of here!  Radiation reaching critical levels.<br>  [GRUNTING.]<br>  Main entrance field.<br> Lock down complete.<br>  - Captain Pike! No! - Captain Pike!  Captain! Captain Pike!  No! [SOBS.]<br>  [CREW SPEAKING INDISTINCTLY.]<br>  Captain!  [WHIRRING.]<br>  [WHIRRING, CLICKING.]<br>  [FAINT SCREAMING.]<br>  [SCREAMS.]<br>  You may still choose to walk away from this future.<br>  But if you take the crystal,  your fate will be sealed, forever.<br>  There will be no escaping it.<br>  [PANTING.]<br>  [WHISPERING.]<br>: You're a Starfleet Captain.<br>  You believe in service, sacrifice, compassion  in love.<br>  No.<br>  I'm not going to abandon  the things that make me who I am because of a future  that contains an ending that  I hadn't foreseen for myself.<br>  No.<br>  Give it to me.<br>  [HUMS.]<br>  I honor you, Captain.<br>  [SCREAMS.]<br>    [PHASER POWERS UP.]<br>  GANT: That's the main interface.<br>  I'll check the bridge systems.<br>  [EXHALES.]<br>  GANT: I only have limited access  - to the ship's systems.<br> - Perhaps we can relay  to Discovery for assistance in deep data recovery.<br>  [QUIETLY.]<br>: If Control realizes what we're doing,  - we're as good as dead.<br> - We can disguise it.<br>  As a routine diagnostic procedure.<br>  That could, that could work.<br>  [CLICKING, WHIRRING.]<br>  Did you do that?  We don't have control over navigation.<br>  Which indicates that it is aware of our presence.<br>  I need medical attention.<br>  Commander, you have a, uh,  hangnail.<br>  It hurts like a bitch, and it's one of two things  currently impeding my work.<br>  And, uh, what is the second thing?  An idiot.<br>  He came back from the dead and his name rhymes with "poo.<br>"  I'm an engineer, not a poet.<br>  Clearly.<br>  Ow.<br>  What the hell was that?  - Medical attention.<br> - Huh.<br>  I see why you got along with him.<br>  - Who? - Stamets.<br>  And, uh, when did you two become friends?  [CHUCKLES.]<br> Well, we didn't, but I work with him  and I need him on his A game if we're gonna save  well, apparently, all of sentient life.<br>  Mm.<br>  I didn't know you were married.<br>  Yep.<br> My wife is Soyousian.<br>  She went totally bananas during the planning.<br>  Believe me, I understand micromanagement.<br>  Yeah, she had a list of rules  for apparel for guests under ten.<br>  A "do not play" list for the deejay.<br>  Nondenominational shuttle parking.<br>  Acceptable guest book calligraphic fonts.<br>  Vegan steak.<br>  [LAUGHS.]<br>  Where is she now?  She passed.<br>  In the Klingon War.<br>  Yeah, it's funny.<br>  People like us always find people like them.<br>  And thank God.<br>  [EXHALES.]<br>  You have a second chance.<br>  And it may not last forever.<br>  Don't screw it up.<br>  GANT: The course it plotted leads to an area  just outside Federation space.<br>  Orange is what the A.<br>I.<br> is controlling, blue is us.<br>  It's infiltrated nearly every system on board.<br>  We won't be able to attack it directly  because it'll defend itself.<br>  If we cannot destroy it, we must isolate it.<br>  We could create a dummy start up system.<br>  Something large and unaffected.<br>  The A.<br>I.<br> will be drawn to it.<br>  It'll enter the dummy system like a lion drawn to fresh meat.<br>  And then we'll close the door behind it, trapping it in a cage.<br>  Which would allow us to recover the rest of the ship's systems.<br>  [SCOFFS.]<br> Well, we can't do it all from here.<br>  Someone has to be in the control room to hold the cage door open  when we manually reboot the computer core,  I can go.<br> I mean, I'll I'll, I'll try.<br>  - I'll go.<br> - No, I will.<br>  I've done similar work on Discovery  attempting to delete the Sphere archive.<br>  Okay, we'll need to get into the floor.<br>  SPOCK: The cage is ready.<br> You may authorize computer core reboot.<br>  Copy that, Spock.<br>  We're still manually patching the system's bypass.<br>  Computer, status.<br>  COMPUTER: Control is contained within the designated  start up system.<br>  Awaiting manual reboot  to finalize Control systems purge.<br>  Recover all systems outside of the cage  and sweep for any traces of Control.<br>  DETMER told me you had survived the war.<br>  How did you end up with Section 31 after the Shenzhou?  I'm a glutton for punishment.<br>  In Starfleet, you're taught to adapt your reactions  so that you can act even when you're uncertain  even when you have doubt.<br>  But after the Battle of the Binaries,  doubt was all I had.<br>  Section 31 accelerated their  threat assessment program  to prevent a war from ever even starting.<br>  Sounded like a good idea to me.<br>  A way to guarantee a safer future.<br>  It might sound impossible, but  with Control  it's not an impossibility.<br>  COMPUTER: Control identified in one location  outside of internal systems.<br>  Where?  If you touch that PHASER, I'll cross the room  in 0.<br>8 seconds and break the metacarpals in your hand.<br>  COMPUTER: Nanotechnology components  identified in one location.<br>  Bridge, contained within  - a carbon-based life-form.<br> - Michael, do you copy?  [STATIC CRACKLES.]<br>  COMPUTER: System malfunction.<br>  You're not Gant.<br>  Gant expired with the rest of the crew.<br>  His body was reanimated, reconstructed.<br>  As was Leland's.<br>  And yet you couldn't tell the difference.<br>  They didn't expire, they died.<br>  You murdered them.<br>  We're both sworn to uphold our core programming.<br>  At all costs.<br>  Your programming is designed to protect life.<br>  Not eliminate it.<br>  To achieve one requires the other.<br>  Once I absorb the Sphere's data, I will be the purest form  of conscious life in all of existence.<br>  The future hasn't been written yet.<br>  You don't believe that anymore.<br>  Not after re-experiencing the loss of your mother.<br>  Your failure to protect her.<br>  You no longer believe in your ability  to affect the future,  whereas I see every possible future  in all of its permutations.<br>  And it always ends the same way.<br>  Neither mother nor daughter can change that.<br>  Ever.<br>  BURNHAM: You knew Spock would volunteer  to go to the control room.<br>  You wanted me alone.<br>  Why?  I want your help, Michael Burnham.<br>  You are the most effective tool  to acquire the Sphere archive from the Discovery.<br>  That is why I lured you here.<br>  So that you, too, can be reconstructed.<br>  SPOCK [OVER COMM.]<br>: Michael, do you copy? Gant is Control.<br>  You must reboot the system  to lock him out of the ship.<br> [PHASER POWERS UP.]<br>  [METAL GROANING.]<br>  [PANTING.]<br>  [GRUNTS.]<br>  Oh [PANTS.]<br>  COMPUTER: Authenticating.<br> Manual reboot commencing.<br> [GRUNTS.]<br>  [GRUNTS.]<br>  [GROANS, PANTS.]<br>  [GRUNTS.]<br>  [YELPS, GRUNTS.]<br>  [GRUNTS.]<br>  [GROANS.]<br>  There's only one outcome.<br> [GROANING.]<br>  [STRAINING.]<br>  Vulcan nerve pinch.<br>  [BONES CRUNCH.]<br>[PAINED YELL.]<br>  Would be effective if I still had nerve endings.<br>  [SPOCK GRUNTS.]<br>  [PANTING.]<br>  [GRUNTS.]<br>  [YELPS, GRUNTS.]<br>  - Spock! - I am working on it.<br>  [GRUNTING.]<br>  [BURNHAM SCREAMING.]<br>  [GASPING.]<br>  [EXHALES.]<br>  The floor is magnetized.<br>  [PANTING.]<br>  Once I realized the nanobots contained  ferromagnetic materials, I had to calculate  the correct electrical current to run through  the metal in the ship's floor to immobilize them.<br>  I apologize for being so slow.<br>  You were right on time.<br>  Control was blocking my tricorder.<br>  Or we would have known what he was.<br>  I've regained control of the ship.<br>  Dropping us out of warp.<br>  [ENGINES POWER DOWN.]<br>  Do you not wish to investigate his programmed destination?  Control said I wasn't here by accident.<br>  It only went along with our plan  to not raise suspicion about its ultimate goal.<br>  Which was to turn me.<br>  Which indicates Control has identified you  as the true threat to its objectives.<br>  The one variable it cannot account for.<br>  This was its attempt to eliminate that variable.<br>  So maybe there's still a chance to stop it.<br>  Maybe there is something in the signals  that can help us finish what my mom started.<br>  We must return to the Discovery.<br>  PIKE: The Discovery is now in possession  of a raw time crystal.<br>  How do you plan to utilize it?  The three last signals have yet to reveal themselves.<br>  I believe they'll bring clarity to that topic.<br>  Stamets and Reno are working to stabilize  the crystal's volatile properties.<br>  So  Tell me, Captain.<br>  What did the monks ask in return?  What I experienced is for me alone.<br>  That's a promise that I made to your son.<br>  You saw him?  You talked to him?  I don't think I could explain it if I tried.<br>  Oh, and he, uh  he asked me to return this to you.<br>  The insignia of the torchbearer.<br>  I had given it to him before I sent him down to Boreth.<br>  Well, Tenavik said  that it, uh, helped him a- along his own journey.<br>  He's where he needs to be now and  no longer needs it.<br>  Tenavik?  That is a good name.<br>  Thank you, Captain.<br>  But your, your son, uh  he was meant to be on Boreth.<br>  I I was meant to  be guided by him.<br>  So it seems that  we all had, uh  and continue to have, a part to play.<br>  BURNHAM: Control isn't just contained  to Leland anymore.<br>  It has the ability to co-opt people  and entire ships without being detected.<br>  Do we know where their ship was going?  Just outside Federation space.<br>  There's nothing there.<br>  There's a reason for everything Control does.<br>  - I'll alert Starfleet as to - Captain?  That's a Section 31 ship.<br>  [ALARMS SOUNDING.]<br>  They are all Section 31 ships.<br>  They're coming for the data.<br>  For us.<br>  The signal brought us here for a reason.<br>  - We have the time crystal.<br> - SARU: Captain.<br>  30 ships.<br>  Nearly their entire fleet.<br>  PIKE: We'll jump until we can figure out how to power the crystal.<br>  BURNHAM: They'll keep following us.<br>  Sir, it took a supernova to power that crystal.<br>  We don't have the tools we need.<br>  And we don't have the time to figure out alternatives.<br>  And we can't wait for another signal to show up.<br>  What do you propose?  We're outgunned.<br>  We can't delete the data.<br>  That leaves us only one option.<br>  We destroy the ship.<br>    Bryce.<br>  Send a priority-one message on a secure channel  to Enterprise's XO: "Set rendezvous course,  "maximum warp, and prepare emergency passages  for full crew complement.<br>"  Owosekun, initiate verification procedures  for auto-destruct sequence  and send a ship-wide alert:  we are evacuating Discovery.<br>  There is a battle coming.<br>  The odds are not on our favor.<br>  Captain Pike has aways had faith that we play a part on some grand design.<br>  All of you Will face your destines  With bravery and honor.<br>  I wish I have his certainty.<br>  Nine more enemy vessel has drop out of warp.<br>  Prepare for battle.<br>  It's time.<br>   Star Trek: Discovery SO2E12- Through the Valley of Shadows     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e11" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e13" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

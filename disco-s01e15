@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e15 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e15 - Will You Take My Hand? Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e15 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e15"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e15 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e15" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Will You Take My Hand?</div>
+
+            <h1>Star Trek: Discovery (2017) s01e15 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Will You Take My Hand?</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 [SPEAKING KLINGON.]<br>  Yesterday we dined on the entrails  of his brethren.<br>  And today you seek his favor?  Transport our visitor to guest quarters on deck three.<br>  - SARU: Tyler? - Is she alive?  SARU: Specialist Burnham has returned safely.<br>  [SPEAKS KLINGON.]<br>  - Can I? - Focus on your recovery.<br>  When I look at you now, I see Voqâs eyes.<br>  I see him.<br>  There is irony here, of course.<br>  The man you fell in love with was a Klingon.<br>  Do not regret loving someone, Michael.<br>  I need you to tell me.<br>  How did you defeat the Klingon Empire?  The Klingons are like cancer cells:  to root them out,  you must destroy the tumor at its source.<br>  A Klingon attack is imminent.<br>  They are gathering forces  to launch a strike on this whole system.<br>  We need to take it to them.<br>  At 2100 hours, the USS Discovery will jump  to the Klingon homeworld.<br>  Allow me to introduce you  to the person who will chart  your course to QoânoS.<br>  Captain Philippa Georgiou.<br>  [INDISTINCT COMMS CHATTER.]<br>  [SPEAKS KLINGON.]<br>  [COMMS CHATTER CONTINUES IN KLINGON.]<br>  [INDISTINCT COMMS CHATTER  BURNHAM: On the eve of battle, on a cold and windless night,  an old general turned to a young soldier.<br>  "Tomorrow," said the master, "you will know fear.<br>"  The young soldier, who had not yet experienced  the agony of war,  looked at the general with quizzical eyes.<br>  "How will I know fear if I do not know what it looks like?"  The general replied, "You will know fear"  because it speaks very fast  "and it speaks very loud.<br>"  Status.<br> Helm?  Bearing 94 mark 21, 12 light-years  - from Klingon homeworld - Do not show respect  by referring to that green dot  as "homeworld.<br>"  Klingons are animals, and they donât have homes.<br>  Call it QoânoS,  or "the enemy planet.<br>" Ops?  Shields holding at 100%.<br>  - Our scans show - I have little interest  in what weâre scanning.<br>  I care whatâs scanning us.<br>  Communications?  Discovery is running dark, Captain.<br>  My favorite way to run.<br>  BURNHAM: If that is how fear acts, recognizing it is easy.<br>  But as the young soldier considered  the generalâs advice, she asked the question facing us now:  "Once I know fear, how do I defeat it?"  Specialist,  uh, I would appreciate  your help with a glitch  in the optical-data network.<br>  She does not embody Federation ideals,  and weâre supposed to follow her orders?  The Federation put her here.<br>  Burnham.<br> I did not give you permission  to leave your station.<br>  Whatâs wrong?  Are you scared, Number One?  Where Iâm from, thereâs a saying:  "Scared Kelpien makes for tough Kelpien.<br>"  Have you gotten tough since we served together  on the Shenzhou, Mr.<br> Saru?  Affirmative, Captain.<br>  Very tough.<br>  So much so that many find me simply unpalatable.<br>  Hmm.<br> I donât know about that.<br>  Where are you from, Captain?  That saying, about Kelpiens,  is so apt,  having experienced it firsthand.<br>  I wonder where it originated.<br>  Donât be silly, Michael.<br>  You know I grew up in Malaysia.<br>  But where, exactly?  I went there with you once, but I canât remember the name.<br>  Pulau Langkawi.<br>  Right.<br>  Those beautiful beaches.<br>  Indeed.<br>  Letâs take a walk.<br>  [DOOR WHOOSHES OPEN.]<br>  GEORGIOU: Try to expose me again  and Iâll lock you in the brig.<br>  If Starfleet recruited a Terran  to lead the mission, they are desperate.<br>  The Federation had a problem.<br>  I offered them a solution in exchange for my freedom.<br>  And whatâs so bad  about desperation?  You were desperate when you begged me to reveal  how my empire beat the Klingons.<br>  You instigate  valiantly, then second-guess.<br>  Iâve now read about your actions on the eve of the war.<br>  You know your problem?  No follow-through.<br>  You should have killed my counterpart in her ready room,  attacked the Klingons, and then been a hero.<br>  Tell me the real plan.<br>  Never do that again.<br>  Your Federation is losing.<br>  The Klingon armada is already headed toward your homeworld.<br>  My knowledge is giving you a fighting chance.<br>  Are you with me or against me?  [DOOR WHOOSHES OPEN.]<br>  With you.<br>  Captain.<br>        [ORIGINAL STAR TREK THEME PLAYS.]<br>   You?  How?  Our Lord pierced your heart.<br>  House TâKuvma feasted on your flesh.<br>  You have the wrong Philippa Georgiou.<br>  Either way, I can tell you require seasoning.<br>  My home.<br>  There are seven chimneys on QoânoS  which lead into a dormant volcano system.<br>  Of these, which is the best  for a landing party to reach on foot?  I will tell you nothing.<br>  This war ends when we crush you.<br>  United under TâKuvmaâs call.<br>  This war may rage on, but your war  Your great dream of Klingon unification  Itâs already lost.<br>    You both talk too much.<br>  [GRUNTS.]<br>  - Computer.<br> - No!  Reactivate containment field.<br>  Control to my voice.<br>  Tell me where my party should land.<br>  [HISSES.]<br>  [YELLS.]<br>  [COUGHS.]<br>  Where?  [LâRELL ROARS.]<br>  [GASPING.]<br>  [COUGHING.]<br>  [LAUGHING.]<br>  You have already lost.<br>  - Enough! - [COUGHING.]<br>  [SIGHS.]<br>  Thereâs another way.<br>  GEORGIOU: Admiral Cornwell  briefed me on this half-breed.<br>  I can see, from a strategic standpoint,  its value as a weapon.<br>  But as itâs Klingon, it has been neutered.<br>  It is benign.<br>  Useless to them,  yet tarnished to the Federation,  so what good is it to either side?  He has access to the Klingonâs memories.<br>  All I can see is a who-knows-what  playing with a string.<br>  This is a bowline, it doesnât run.<br>  It doesnât slip.<br>  Itâs the first thing I learned as a kid that made me me.<br>  It ties me to my past.<br> Who I am.<br>  Voqâs life, his memories Theyâre here, too.<br>  Always with me.<br>  Iâm willing to share his knowledge.<br>  Not for you.<br>  But for  Starfleet.<br>  Do you want my help or not?  What do you know about the surface of QoânoS?  The plan is to use a drone  with rock-penetrating surveillance systems  to map the surface and identify military targets,  in preparation for a future full-scale attack.<br>  Unfortunately, the cave Discovery will hide in  isnât connected to the planetâs dormant volcanoes.<br>  In order for the mapping drone to work,  it has to be introduced into one of these.<br>  As youâre aware, information regarding QoânoS  is virtually non-existent.<br>  Weâre depending on black market surveys  acquired by the Vulcans over a century ago.<br>  This chimneyâs in the High Council chamber of the First City.<br>  All high-bred arrogance, that place.<br>  This oneâs now flooded by the River Skral.<br>  Here.<br> This is your best bet.<br>  The safest access point for the drone.<br>  Centuries ago, when the caldera was active,  these vents were shrines.<br>  Live sacrifices were thrown in to honor Molor.<br>  When Kahless defeated Molor,  those temples were abandoned, built over.<br>  Uh, the ones that remained were shielded  to make them impossible to find with sensors.<br>  Youâll have to transport down there  and do the legwork yourself.<br>  Whatâs there now?  The land was given to the Orions,  who built an embassy outpost over the ruins.<br>  In my world, the Orions are delinquents, pirates,  - slave traders.<br> - Itâs not much different in ours.<br>  Excellent.<br>  He will accompany us and help us sniff out  what weâre after.<br>  Will that be a problem?  - No.<br> - No.<br>  Captain.<br>  I looked over the crew manifest.<br>  Thereâs somebody else I want with us.<br>  Enter.<br>  I am so pleased to see you, Tilly.<br>  Thank you.<br> I have heard And read so much about you.<br>  Michael can attest, Iâm always asking about Captain Georgiou.<br>  Seeing your face reminds me  of the great fun the two of us had.<br>  Subjugating the Betazoids.<br>  Wiping out Mintaka III.<br>  - Oh, sheâs not - No.<br>  So sheâs from  Mm.<br>  Youâre the Terran emperor.<br>  Donât do that.<br>  You look so much like her.<br>  Younger, maybe.<br>  But all that killing ages a person.<br>  These are hideous, of course.<br>  [CHUCKLES.]<br>: I know.<br> What is happening?  She requested you, for the landing party.<br>  Oh.<br>  But just so y-youâre clear,  I-I am not the same person I was in your universe.<br>  Donât be so sure, Killy.<br>  You will have the honor of carrying the mapping drone.<br>  Go to quarters.<br>  Dress as lowlifes.<br>  We need items to trade so as to seem legitimate.<br>  Gabriel must have found something interesting  lying around in this universe.<br>  You gonna be okay down there?  You donât need to worry about me.<br>  Ready, Lieutenant Stamets?  STAMETS: First, an alternate universe,  now a Klingon cave  on a hundred-year-old map.<br>  Ready as can be, Mr.<br> Saru.<br>  Black alert.<br>  - To QoânoS, please.<br> - Aye, Captain.<br>  COMPUTER: Black alert.<br> Black alert.<br>  Shields holding.<br>  Stabilizer beams are compensating  for the planetâs gravitational pull.<br>  Am I good or what?  We are aboard and steady.<br>  You are clear to transport.<br>  Energize.<br>    [INDISTINCT CHATTER.]<br>  TILLY: Not a lot of humans around here.<br>  Except the dregs from our race.<br>  TYLER: Exactly.<br>  The Orions here arenât likely to trust us  or give up any information.<br>  [INDISTINCT CHATTER.]<br>  Keep walking, Federation.<br> No one wants you here.<br>  Tilly.<br>  Insult her again, and your nose is gonna be able  to sniff the back of your head.<br>  Weâre here to make a deal.<br>  GEORGIOU: Show her the stash.<br>  Tell her what sheâs looking at.<br>  Nausicaan disruptor pistols.<br>  Latest spec.<br>  Paralithium cell with beam and a pulse firing mode.<br>  Polyalloy casings, making it all but invisible  to security screeners.<br>  2,000 darseks.<br>  Letâs see what else you got.<br>  All this arms dealing  has my appetite up.<br>  Anyone else hungry?  Anyone? Michael?  - Greetings.<br> - Two, please.<br>  - What is that? - I have no idea.<br>  Iâm not actually hungry I wanted to talk to you.<br>  I intuited.<br>  Do you have any idea what she might be up to?  No.<br>  All we can do is watch her like a hawk,  and make sure she stays on mission.<br>  Iâve, um  I realize how hard this must be for you.<br>  But I got your back.<br>  Thank you.<br>  What is that?  - Delicious.<br> - Itâs a space whale.<br>  Gormagander?  Enough distractions.<br>  Weâre not here for bread and circuses.<br>      On second thought,  the circus is where weâll start.<br>  [SPITS.]<br>  [SYNCOPATED PERCUSSION PLAYS.]<br>  [INDISTINCT CHATTER.]<br>  - So, what should we, um - Shh!  GEORGIOU: I knew your whole universe  couldnât be boring.<br>  [CLICKS TONGUE.]<br>  Use this.<br>  Weâll be more effective if we split up, buy information.<br>  Whatever gets us to that shrine.<br>  Hmm.<br>  How much for a little me time?  Over there.<br>  Bring your friend.<br>  No, no, that, uh, t very generous.<br>  I think Iâll Iâm just gonna stay out here.<br>  Sheâs not for you.<br>  Guard the drone.<br>  [KLINGONS LAUGH, GROWL.]<br>  TYLER: Maybe these guys can lead us to the shrine.<br>  BURNHAM: If theyâll talk to us.<br>  TYLER: The game is called tâSang.<br>  Translates to "obliterate them.<br>"  - You know how to play? - I think I do.<br>  And I think Iâm good at it.<br>  I mean, Voq was good at it.<br>  He was a decent gambler  He felt the numbers always fell his way,  as if the universe was making up  for his bad luck with everything else.<br>  Like what?  He was born with a rare mutation  that made his skin translucent white.<br>  The others considered him a freak of nature.<br>                  [FEMALE SPEAKS KLINGON.]<br>            - [KLINGONS LAUGHING.]<br> - [TYLER SHOUTS.]<br>      [SHOUTS.]<br>  Join me?  Oh, thank you.<br>  Smoke?  Oh, that, uh, thatâs so sweet.<br> No, thank you.<br>  I have, um, I have a very narrow esophagus.<br>  Itâs, uh, strange but true, so thatâs bad for that  - Iâm not-Iâm not trying to be rude - Get her out.<br>  You know what? I-I would love some.<br>  Just a little bit.<br>  [CHUCKLES.]<br>  Inhale.<br>  Mmm.<br>  Do you think, um  [SLURRING.]<br>: do you think I got  [GIGGLES.]<br>  I got nothing.<br>  None of them know about an ancient shrine.<br>  You won everyone over quickly.<br>  A human speaking Klingon is amusing to them.<br>  Might as well be a dog on waterskis.<br>  Is that an old Klingon saying?  No, I I just made it up.<br>  I I like to waterski.<br>  Yeah, you have a boat.<br> I remember.<br>  You raced out of there pretty quick.<br>  You all right?  I never told you about my parents.<br>  What happened to them.<br>  No.<br>  I mean, I Iâve heard things.<br>  I never wanted to push.<br>  They were stationed at a human-Vulcan science outpost  at Doctari Alpha.<br>  [SIGHS.]<br>  My mom and dad had planned a family vacation to Mars.<br>  But  I begged them to stay  for three more days  so I could witness a nearby star go supernova.<br>  Then the Klingons attacked.<br>  My dad tried to barricade  the kitchen door  while my mom hid me in a cabinet.<br>  And I couldnât see, but I could hear everything.<br>  They killed my dad first.<br>  That was quick.<br>  They took longer with my mom.<br>  And when it was over,  they sat down.<br>  At our table.<br>  Ate dinner.<br> Our dinner.<br>  And they were talking and laughing.<br>  And just now, all that laughter  How could you not hate them?  And me, for what Iâve become?  It would be so much simpler if I could.<br>  I look around here and I just  I see people living their lives.<br>  Maybe itâs not normal to us,  but in their own way, ordinary.<br>  The emperor was wrong.<br> This is a home.<br>  And if we give the Federation targets to attack,  it wonât ever be the same.<br>  I can see both sides.<br>  Literally.<br>  The side Iâve chosen is where you stand,  where itâs possible to feel compassion  and sympathy for your enemy.<br>  But I can guarantee no-no Klingon  ever felt that way toward you.<br>  You did.<br>  [INDISTINCT CHATTER.]<br>  You see that?  Pouring an extra drink.<br>  Setting it on fire.<br>  Thatâs a step specific to the followers of Molor.<br>  Thereâs a decent chance they know about that shrine.<br>  [INDISTINCT CONVERSATION.]<br>  Mm.<br>  Did you enjoy yourself?  Did you?  I learned so many new things.<br>  We shouldnât charge you.<br>  But we have to charge you.<br>  Perhaps if you teach me something new,  it will be fair trade.<br>  [PANTING.]<br>  Where is the shrine of Molor?  Hey, stop!  Hey, stop.<br> Shame on you.<br>  You were asleep.<br>  Iâm Orion.<br>  What did, uh, we inhale, it  my mouth tastes like  sulfur and-and ash.<br>  Volcanic vapor, straight from the source.<br>  Yeah, but not really, right?  âCause all the volcanoes here are extinct.<br>  Oh, no.<br>  Theyâre alive.<br>  Then howâs the drone gonna get down there?  The heat will destroy it.<br>  Give me that.<br>  [GASPS.]<br>  Oh, shit, that is not a drone.<br>  Tilly to Burnham.<br>  Go ahead, Tilly.<br>  First of all, um, so, Iâm very high,  uh, but you need to listen to me.<br>  There are active volcanoes right beneath us right now  and the drone, also, thatâs not a drone.<br>  Itâs a, itâs a like a hydro bomb.<br>  We keep them on the Discovery  - so we can reco - What did you say  about a hydro bomb?  Tilly?  Cadet, respond.<br>  I know where to find the shrine.<br>  Whatâs wrong?  Itâs Tilly.<br>  A hydro bomb? What kind of damage can it do?  Detonate it into an active volcanic system, itâs just  - apocalyptic.<br> - A phreatic eruption:  water flashes into steam and triggers a massive explosion.<br>  Landmasses directly over  the reaction center will be vaporized.<br>  - Oh - Ash will fill the atmosphere.<br>  Within weeks, QoânoS will be uninhabitable.<br>  This was the plan all along.<br>  - Burnham to Discovery.<br> - Go ahead, Burnham.<br>  Georgiou is about to instigate a catastrophic  natural disaster on QoânoS.<br>  She may already be in the shrine.<br>  - Can you get a transporter lock on her? - SARU: Affirmative.<br>  However, beaming her out is not an option.<br>  The shrineâs shields make it unsafe for biological transport.<br>  What about the bomb? Can you get the bomb?  SARU: We are too late.<br>  The signal is fading.<br>  We must contact Starfleet.<br>  Saru, I think sheâs following Starfleetâs orders.<br>  I need to talk to Admiral Cornwell.<br>  Is this how Starfleet wins the war?  Genocide?  You want to do this here? Fine.<br>  Terms of atrocity  are convenient after the fact.<br>  The Klingons are on the verge of wiping out the Federation.<br>  Yes.<br>  But ask yourself:  why did you put this mission  in the hands of a Terran and why the secrecy?  Itâs because you know itâs not who we are.<br>  It very soon will be.<br>  We do not have the luxury of principles.<br>  That is all we have, Admiral.<br>  A year ago  I stood alone.<br>  I believed that our survival  was more important than our principles.<br>  I was wrong.<br>  Do we need a mutiny today  to prove who we are?  We are Starfleet.<br>  What is it youâre suggesting?  BURNHAM: Change of plans.<br>  Really?  [SCOFFS.]<br> Says who?  Deactivate the detonator, Philippa.<br>  Your freedom is still granted, hereâs the proof.<br>  [CHUCKLES.]<br>  You talked them out of it, didnât you?  Of planetary slaughter? Yes.<br>  Oh, donât be so dramatic.<br>  When I did this in my universe,  it didnât wipe out the Klingons.<br>  A decent number should be able to save themselves.<br>  Plus, theyâll have an advantage.<br>  No Terran ships firing on them as they try to escape.<br>  - Turn it off.<br> - Has it ever occurred to you  that I was doing this for you?  By ending the war,  Iâd set you free  from the guilt and pain you carry because of it.<br>  Not buying it.<br>  [SCOFFS.]<br> Worth a try.<br>  You really are nothing like my Georgiou, are you?  No.<br> And I never have been.<br>  Sheâs dead, Michael.<br>  There are no second chances.<br>  No, I suppose not.<br>  I do like you.<br>  Why not join me?  The bomb is in position.<br>  We have the detonator.<br>  Starfleet and Klingon alike will be at our mercy.<br>  I had much the same thought.<br>  Give it to me.<br>  [WEAPON POWERS UP.]<br>  Take your freedom  in exchange for the detonator.<br>  Or try to escape my ship and its crew  and be hunted by the Federation for the rest of your days.<br>  [CHUCKLES.]<br> You think your Federation scares me?  Not particularly.<br>  But the only way youâre gonna get past me is to kill me.<br>  So youâll have to watch me die again.<br>  And did I mention being hunted for the rest of your days?  - Ugh.<br> - [WEAPON POWERS DOWN.]<br>  The detonator is coded to my bioprint.<br>  Would you like it recoded to yours?  Not to mine, no.<br>  All clear.<br>  What is this?  This is the place the Federation crushed the Klingons.<br>  We planted a bomb  in the heart of your homeworld.<br>  QoânoS will be destroyed.<br>  You bring me here to gloat?  No.<br>  To offer you an alternative.<br>  Klingons respond to strength.<br>  Use the fate of QoânoS to bend them to your will.<br>  Preserve your civilization  rather than watch it be destroyed.<br>  But I am no one.<br>  TYLER: You once told Voq  that you didnât want the mantle of leadership.<br>        Itâs time for you to leave the shadows.<br>  Iâll leave you to it, then.<br>  Be good, Philippa.<br>  Or youâll come for me?  Make sure I donât have to.<br>  [SNORING.]<br>  Isik for your thoughts.<br>  I always wanted to find out what one was.<br>  I never did.<br>  LâRell has arranged for a transport to a MÃ³kai ship.<br>  Theyâre in for a surprise.<br>  Itâs not the human way to make a message heard,  but itâs the Klingon way.<br>  Iâm going with her.<br>  Itâs true, what the emperor said.<br>  Iâm no good for either side.<br> I  But maybe I can be good for both.<br>  Iâve never been great at good-byes.<br>  Neither am I.<br>  Iâve had too many of them.<br>  Michael.<br>  In spite of everything that happened to you,  your capacity to love  literally saved my life.<br>  Iâm gonna miss looking at you.<br>  I see you, Ash.<br>  In your eyes.<br>  Only you.<br>    Thank-thank you.<br>  [CRYING.]<br>  Burnham to Discovery.<br>  One to transport.<br>  [LAUGHTER.]<br>                          BURNHAM: Earth, Andor,  Tellar, Vulcan.<br>  Every planet of the Federation  has made the odyssey out of darkness into light.<br>  So too have the Klingons.<br>  The war is over.<br>  There were triumphs.<br>  Victories of spirit.<br>  Courage beyond reason.<br>  But make no mistake.<br>  These were bleak times.<br>  Times we cannot repeat.<br>  Times we cannot forget.<br>  Isik for your thoughts.<br>  Whatâs an isik, anyway?  Oh, I donât know.<br>  Itâs something my mother  used to say to me.<br>  Thank you for coming.<br>  Iâm glad to see you.<br>  Is everything okay?  When I was growing up, you told me  not to forget my humanity.<br>  I didnât know what that meant.<br>  I didnât how to do it,  I didnât know why I would even want to.<br>  I get it now.<br>  So thank you.<br>  For not giving up on me.<br>  Thatâs what mothers do.<br>  Michael.<br>  Father.<br>  SAREK: What the Federation chose to do  on QoânoS was unprincipled,  and I had a part in it.<br>  The Klingons made it clear they would fight us to extinction.<br>  You were desperate to save us.<br>  I know the feeling all too well.<br>  And yet,  you were able to find another way.<br>  I am not alone  in finding your commitment to Starfleetâs ideals commendable.<br>  I asked if I may give it to you.<br>  Your record has been expunged,  your pardon by the president of the Federation  is official.<br>  Commander Burnham.<br>  The Federation is as grateful to you  as I am to my daughter.<br>  Your mother will stay in Paris for a few days.<br>  I will travel with Discovery to Vulcan.<br>  You are picking up your new captain there.<br>  Iâm glad weâll be making that journey together.<br>  We are no longer on the eve of battle.<br>  Even so, I come to ask myself the same question  that young soldier asked the general  all those years ago: "How do I defeat fear?"  The generalâs answer:  the only way to defeat fear is to tell it "no.<br>"  No.<br> We will not take shortcuts  on the path to righteousness.<br>  No.<br> We will not break the rules  that protect us from our basest instincts.<br>  No.<br> We will not allow  desperation to destroy  moral authority.<br>  I am guilty of all these things.<br>  Some say that in life,  there are no second chances.<br>  Experience tells me that this is true.<br>  But we can only look forward.<br>  We have to be torchbearers,  casting the light so we may see our path  to lasting peace.<br>  We will continue exploring,  discovering new worlds, new civilizations.<br>  Yes.<br>  That is the United Federation of Planets.<br>  CORNWELL: Today, we honor  Ensign Sylvia Tilly.<br>  Accepted into Starfleet Command Training Program.<br>  Yes.<br> That is Starfleet.<br>  CORNWELL: Lieutenant Commander Paul Stamets.<br>  Medical Officer Hugh Culber.<br>  Yes.<br>  That is who we are.<br>  CORNWELL: Commander Saru.<br>  First Kelpien to receive the Medal of Honor.<br>  And who we will always be.<br>  [CHEERING.]<br>  MALE: Bravo!  [CHEERING CONTINUES.]<br>  TILLY: Never been to Vulcan before.<br>  BURNHAM: Well, if thereâs time, Iâll show you around.<br>  Itâs strange that weâre not jumping to Vulcan.<br>  Well, Starfleet has committed to finding a non-human interface.<br>  Until that happens  Iâm happy to go the old-fashioned way.<br>  Captain on the bridge.<br>  Acting captain.<br>  Please take your stations.<br> You may consult  with Science Officer Burnham later.<br>  Thank you, Mr.<br> Saru, for permitting me  this small indulgence.<br>  I never tire of seeing home.<br>  Of course.<br>  Lieutenant Detmer,  have we cleared the Sol system?  - Yes, Captain.<br> - Set course for Vulcan,  and engage at maximum warp.<br>  Aye, sir.<br>  MALE: Realign communications array  [MALE CONTINUES INDISTINCTLY.]<br>  Incoming transmission.<br>  From whom?  Iâm having trouble identifying it.<br>  But itâs a priority-one distress call.<br>  Identify the source, please.<br>  Iâm getting a Federation ID code.<br>  I-Itâs choppy.<br>  Trying to clean it up, sir.<br>  Helm, slow us down.<br>  Dropping us out of warp now, sir.<br>  This is Captain Saru  of the Federation Starship Discovery.<br>  Please identify yourselves.<br>  [ELECTRONIC STATIC, DISTORTED SPEAKING.]<br>  Hailâs from Captain Pike, sir.<br>  Itâs the USS Enterprise.<br>  [ORIGINAL STAR TREK THEME PLAYS.]<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e14" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e90" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

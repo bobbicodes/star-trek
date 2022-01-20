@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e05 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e05 - Saints of Imperfection Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e05 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e05"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e05 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e05" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;Saints of Imperfection</div>
+
+            <h1>Star Trek: Discovery (2017) s02e05 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Saints of Imperfection</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  Emperor.<br> You have me confused with someone else.<br>  TYLER: Section 31.<br>  Control values his skill set.<br>  He's in.<br>  I've been waiting for an update on my officer, Spock.<br>  Your guy is wanted for murder.<br>  He killed three of his doctors, then fled the starbase.<br>  Whatever happened, he needs a fair shake.<br>  We need to find him before they do.<br>  BURNHAM: I found Spock's shuttle.<br>  Plot a course and don't spare the horses.<br>  TILLY: After the dark matter hit me, I started to see a ghost.<br>  It's me.<br> Silly Stilly.<br> [TILLY GASPING.]<br>  STAMETS: You are hosting  a multidimensional fungal parasite.<br>  - How do we get rid of it? - This might hurt a bit.<br>  [GRUNTING.]<br>  [DISTORTED VOICE.]<br>: I'm from a species known as the JahSepp.<br>  An alien intruder began ravaging our ecosystem.<br>  You let Tilly go.<br> I have other plans for her.<br>  Wrong.<br>  [GASPING.]<br>: No! No!  Tilly!  No!  [AMPLIFIED HEARTBEAT.]<br>  [PANTING.]<br>  [HEARTBEAT SLOWS.]<br>  Make way!  BURNHAM: Words define who we are.<br>  Officer.<br>  Orphan.<br>  Widower.<br>  Shipmate.<br>  But there is no word for the unique agony  of uncertainty.<br>  I do not yet know the fate of my friend.<br>  Stamets refuses to lose hope.<br>  He believes Tilly survived  whatever the alien we call "May" did to her.<br>  I want to believe that's possible, too.<br>  I want to have faith.<br>  But in its absence,  only duty remains.<br>  [QUIET CHATTER.]<br>    Captain, I've picked up the trail of Spock's shuttle.<br>  Alter course to intercept.<br>  [RAPID BEEPING, DISTORTED COMM CHATTER.]<br>  Spock's shuttle is 25,000 kilometers and closing.<br>  One life sign detected.<br>  His shields are up and his weapons are hot, sir.<br>  BURNHAM: What is Spock doing?  Why the aggressive stance?  Uh, Captain, Spock departed Enterprise  before you assumed command of Discovery.<br>  Perhaps he is unaware that he's among friends.<br>  - Open a channel.<br> - Aye, Captain.<br>  Lieutenant Spock, this is Captain Pike.<br>  Shut down your engines, lower your shields,  - prepare for transport.<br> - He's increasing speed.<br>  Altering course to enter the nebula.<br>  Spock, you have my word.<br>  I'm here to listen.<br> I'm here to help.<br>  [WEAPONS FIRING.]<br>  [EXPLOSION RUMBLING.]<br>  [RAPID BEEPING, ALARM BLARING.]<br>  - Did we lose him? - No, sir.<br>  He ignited the nebula's hydrogen to disrupt our sensors,  then came to a full stop.<br>  - We flew right past him.<br> - Detmer, come around.<br>  Captain, if he enters the nebula, we will lose him.<br>  Target that shuttle with a class-five torpedo.<br>  Detonate it 100 meters before impact.<br> Understood?  RHYS: Aye, Captain.<br> Fire.<br>  [WEAPONS FIRING.]<br>  The shuttle's been disabled, sir.<br>  Owo, lock on a tractor beam and bring him aboard.<br>  Burnham, with me.<br>  WOMAN [OVER SPEAKERS.]<br>: Transfer operational control  to security team alpha.<br>  - Set phasers to stun.<br> WOMAN:- Aye.<br>  - Nobody fires without my direct order.<br> MAN:- Aye, sir.<br>  [PHASER POWERS UP.]<br>  [SHUTTLE HATCH OPENS.]<br>  Captain Georgiou?  [PHASERS POWER DOWN.]<br>  Captain Pike.<br>  Michael.<br>  Commander.<br>  [PHASER POWERS DOWN.]<br>  Quite the welcome, my dear.<br>     Star Trek: Discovery SO2EO5- Saints of Imperfection  [ORIGINAL STAR TREK THEME PLAYS.]<br>  We met at the Academy.<br>  Been a couple thousand light-years since then.<br>  Indeed.<br>  You were a force to be reckoned with.<br>  Sharpest tool in the shed.<br>  And despite being able to drink any of us under the table,  you had every regulation down by week two.<br>  You're tactfully asking  why I didn't identify myself when you hailed.<br>  PIKE: Identification is  standard procedure, and that's a non-answer.<br>  You haven't lost a step, Captain.<br>  I appreciate the compliment.<br>  Starfleet records show you're retired.<br>  Do I look retired?  You know, I had a cousin like you.<br>  She only ever gave a straight answer in church.<br>  So the only other explanation is  you're on a classified mission.<br>  Hmm.<br>  You like being back in the saddle?  It's an invigorating ride.<br>  [DOOR WHOOSHES OPEN.]<br>  This may clear things up, Captain.<br>  - Section 31? - Fancy.<br>  Covert ops.<br> Intelligence gathering.<br> Threat assessment.<br>  - Fun times.<br> - What do any of those things  have to do with you being on Spock's shuttle?  I've been authorized to hunt down a Starfleet officer  wanted for murder.<br>  Excuse me,  multiple murders.<br>  By the time I caught up to his craft,  it was adrift, and he was gone.<br>  Any idea where he might be?  If I hear anything, you'll be the first to know.<br>  Will I?  PIKE: Commander Burnham has a hard time  believing those charges; so do I.<br>  - The innocent don't run.<br> - You ran from us.<br>  Exactly.<br>  LELAND: Christopher.<br>  Leland.<br>  Is that gray hair I see?  Yeah, well, it's one of the trade-offs  of having actual hair.<br>  Last time I heard about you,  you were up to your ass  in alligators on Cestus Three.<br>  Exactly why I transferred to Starfleet Intelligence.<br>  I'm heading up Section 31.<br>  Well, you were always more comfortable  in the gray areas, my friend.<br>  Seems you've intercepted one of my agents.<br>  Yeah, we've been getting caught up.<br>  Well, I'd appreciate if you'd return  Agent Georgiou to her shuttle.<br>  Clock is ticking.<br>  She's tracking a suspected murderer.<br>  PIKE: Mr.<br> Spock is one of mine.<br>  I can't reconcile the charges with the man.<br>  I respect that.<br>  But having his commanding officer or his sister  interfere with our efforts to recover him?  Makes me look like I'm doing an old friend a favor.<br>  Leland, um,  I think there may be a connection  between Spock and the signals that have been dragging us  halfway around the universe.<br>  There are lives at stake.<br>  There are always lives at stake.<br> That's what keeps us employed.<br>  See, we do what we do  so you can do what you do.<br>  PIKE: If I didn't know you better,  that would sound like a threat.<br>  You know me pretty well.<br>  I'll send a liaison.<br>  If you could walk him through what you know,  I'd appreciate it.<br>  Always happy to do a favor for an old friend.<br>  You're free to go, Captain.<br>  Your captain doesn't know where I'm really from.<br>  I'm under direct Starfleet orders.<br>  Yeah, to tell the truth when it's convenient?  I'm learning to really like Starfleet and Section 31.<br>  Do you think they'll give you free reign, huh?  That place has eyes on eyes on eyes.<br>  Well, it's a good thing I do some of my best work  in plain sight.<br>  Does Leland have any idea who you really are?  You mean the Terran Emperor,  Philippa Georgiou Augustus laponius Centarius?  He doesn't call me  by my proper name, but yes, he does.<br>  Then I trust him about as much as I trust you.<br>  You're the one who brought me to this insufferable place.<br>  You don't get to be surprised I'm here.<br>  And when I find Spock, I'll be sure to pass along your regards.<br>  If you lay a hand on my brother  You'll what?  Ah.<br>  Now here's a woman I recognize.<br>  Shuttle bay's through there.<br>  I'm sure you need to get back to your snake pit.<br>  [HISSES, CHUCKLES.]<br>  Tell me you have good news.<br>  The universe never lets anything go to waste,  or so said Lavoisier.<br>  - The law of conservation of mass.<br> - Yes.<br>  In chemical reactions,  mass is neither created nor destroyed.<br>  Look.<br> Look, look, look.<br>  I'm scanning the cocoon for human remains.<br>  Mitochondrial DNA, lipids, proteins.<br>  If all of Tilly's atoms  were transported,  rather than decomposed,  then there shouldn't be any trace of her organic matter.<br>  Which would mean May took Tilly into the network.<br>  Which would mean  we could get her out.<br>  How?  I think that this cocoon is an organic transporter.<br>  Just like ours,  it-it breaks down matter in one place  and then reassembles it, completely intact, in another.<br>  The mycelial version of a transporter pad.<br>  Which could mean that a second cocoon  just like this one exists somewhere in the network.<br>  But why take Tilly in the first place?  May came here to deliver a message to you.<br>  May said she had a special connection with Tilly.<br>  She said she needed her.<br>  STAMETS: Look.<br>  No human material present.<br>  [EXHALES.]<br>  Tilly's alive.<br> I know it.<br>  - But the network is massive.<br> - Yes.<br>  Except now that I know the exact composition of this cocoon,  I can scan the network to find its counterpart.<br>  Find it, find Tilly.<br>  [LOW GROWLING, SNARLING.]<br>  [GASPS SOFTLY.]<br>  [GASPS, GRUNTS.]<br>  [SCREAMS.]<br>  Help me! Help me!  [GASPING.]<br>  [ECHOING GASPS.]<br>  [ECHOING.]<br>: Oh, no!  - Shh, shh, shh.<br> - Get it off! Get it off! Get it off!  - Shh, shh, shh, shh.<br> - Ow! My eyes! My eyes!  Stay calm, Tilly.<br>  - You're okay.<br> - Don't you don't you shush me!  What the hell did you do? What did you do?  Broke down your biological form, transported it  across the dimensional plane,  and reconstituted it here, in my home.<br>  Oh, that old trick! Are you freaking kidding me?!  [PANTING.]<br>  I'm in the mycelial network.<br>  It used to be a paradise.<br>  [SPORES CHIMING SOFTLY.]<br>  [CHITTERING.]<br>  [SPORES HISSING.]<br>  [YELLS.]<br> No!  This is the one I was telling you about!  Ow, it burns! It burns.<br>  Leave her!  [GRUNTS.]<br>  It's our process.<br>  [EXHALES.]<br> What does that mean?  The JahSepp- we break down all matter  that enter the mycelial network to make it useful in new ways.<br>  Like the insects do on your planet.<br>  It's how we keep the life cycle progressing.<br>  This was you before you were you.<br>  That's what I am.<br>  I'm appearing like this to make you comfortable.<br>  Comfortable? You kidnapped me!  - And I'm finding my way back! - You can't.<br>  Watch me! Watch me!  And when I'm done, I'm not gonna work through my anger.<br>  I'm gonna let it sit there and fester for eternity!  Please.<br> I need your help.<br>  You don't get to ask for my help, May.<br>  Then who are we to turn to?  Who am I to turn to besides you?  There's no one, Tilly.<br>  And I can't fail, or everything here,  my entire species, will die.<br>  [EXHALES SHARPLY, GRUNTS.]<br>  What do you need me to do?  Kill a monster.<br>  Burnham.<br> Section 31's liaison just got here.<br>  WOMAN [OVER SPEAKERS.]<br>: Attention all personnel.<br>  Security drill in progress, deck four.<br>  Burnham?  It's nothing, sir.<br>  He's, um  he's-he's just supposed to be on Qo'noS.<br>  He murdered an officer.<br>  Voq murdered an officer.<br>  Ash Tyler's a good man.<br>  Even if I could see my way to accepting  that distinction, he left this ship  to serve as Torchbearer for the Klingon chancellor.<br>  Now he's into black ops.<br>  I know Tyler.<br>  Better than most.<br>  Just like you knew your former captain?  She certainly doesn't seem like  the Philippa Georgiou I remember.<br>  The war changed her.<br>  Call me provincial, but I prefer people  whose truth I can take at face value.<br>  So  what truth are you keeping from me?  Sir?  That moment you saw Tyler,  the moment that you had your phaser on Georgiou.<br>  I don't know you very well, but I know you well enough.<br>  [INDISTINCT ANNOUNCEMENT OVER SPEAKERS.]<br>  [QUIETLY.]<br>: It's a longer conversation, Captain.<br>  But I ask that you bear with me  until a more appropriate time.<br>  Done.<br>  Just don't make me chase after you for the information.<br>  Thank you, sir.<br>  [INDISTINCT ANNOUNCEMENT OVER SPEAKERS.]<br>  [EXHALES.]<br>  [QUIET CHATTER.]<br>  It's good to see you.<br>  I feel the same.<br>  [SIGHS.]<br> Not sure she does.<br>  Your captain thinks I need a babysitter.<br>  She's our new chief of security.<br>  It's her job to be curious.<br>  How the hell did you end up with Section 31?  It's a very interesting journey, actually.<br>  - Tell me.<br> - But it's classified a word that pops up  pretty frequently in my new vocabulary.<br>  You always were a man of secrets.<br>  Michael.<br>  I had to leave Qo'noS.<br> I'm never going back.<br>  I think everyone at 31 thinks of it  as a place where they make sense.<br>  Not in spite of who they are but because of it.<br>  They can be of service.<br> They're good people.<br>  Like the Terran emperor?  I'm concerned for Spock's safety as long as she's involved.<br>  I won't let that happen.<br>  I need you to believe that.<br>  That's a really big ask, Ash.<br>  I know.<br>  I'm supposed to report to the bridge.<br>  Stamets is briefing us on a plan to rescue Tilly.<br>  Rescue Tilly from where?  Whoa.<br> Whoa, what happened here?  The creature destroys everything it touches.<br>  Wait, wait, when did you first see it?  It arrived when your Stamets opened the door to our world.<br>  Doesn't make any sense.<br>  No, careful!  The tree bark contains a vicious toxin.<br>  It's lethal for us.<br>  Thank you.<br>  The creature uses the toxin to slaughter us.<br>  We have no tools  or weapons to defend ourselves.<br>  Well, you're far from helpless, May.<br>  The way you and I, uh-  I guess "met" is a funny word- but it's some of  the most sophisticated science I've ever seen.<br>  I mean, you literally entered my brain as a spore.<br>  Thank you.<br>  I appreciate your mastery of science as well.<br>  Let's go see what we're dealing with.<br>  But you you have to promise me  that you will get me back on Discovery.<br>  It's a little hard to dive into this  knowing you plan on holding me hostage forever.<br>  There's a chance Ensign Tilly is still alive?  There is, sir.<br>  She was taken into the mycelial network  against her will.<br>  How do we get her back, Mr.<br> Stamets?  Every time we jump,  Discovery passes through the mycelial network for  a few milliseconds,  and during that very brief window of time,  we are actually inside it.<br>  I'm proposing we do  a partial jump.<br>  A predetermined course with no set end point?  Exactly.<br> Half in, half out of the network.<br>  Discovery will hold position long enough  for me to leave the cube and find Tilly.<br>  BURNHAM: For us  to leave the cube.<br>  You're not gonna do this alone.<br>  Let's say I let you use this ship as a doorstop.<br>  Can we survive prolonged exposure to the network?  The mycelia will attack the ship,  decomposing it as soon as we enter,  but tritanium is not their favorite food,  so we'll have about an hour  before they eat through the hull.<br>  That's an hour to find Ensign Tilly.<br>  So far, I hate this plan.<br>  It'll be critical  for everyone to avoid places on the ship  where mycelial space and normal space intersect.<br>  Anyone who touches the barrier will find themselves  twisted around the axes of both environments.<br>  Like the bodies we found  on the Glenn.<br>  From what I know of that young woman  she'd put her life on the line for any one of us.<br>  That she would, sir.<br> In a heartbeat.<br>  Bryce.<br> Open a ship-wide channel.<br>  [SPEAKERS CHIME.]<br>  All personnel, this is Captain Pike.<br>  Starfleet is a promise.<br>  I give my life for you; you give your life for me.<br>  And nobody gets left behind.<br>  Ensign Sylvia Tilly is out there,  and she has every right to expect us.<br>  We keep our promises.<br>  This way! Quickly!  Move, move! Move!PIKE [OVER SPEAKERS.]<br>: Please report to your stations  in designated safe zones in the starboard section.<br>  Let's go, let's go!  Good luck,  and Godspeed to us all.<br>  Commander Saru modified these  to maintain communication with the bridge.<br>  They now have special filters to limit interference.<br>  The reaction cube is  the only place on the ship where it's safe  to contact the mycelial barrier.<br>  PIKE [OVER COMM.]<br>: Stamets,  are you ready to execute this very bold,  deeply insane plan of yours?  "Execute" might not have been my choice of words, but  that I am, sir.<br>  Black alert.<br>  Let's jump.<br>  [ALARM BLARING.]<br>  [ENGINES POWERING UP.]<br>  [HIGH-PITCHED WHIRRING.]<br>  [RUMBLING, GRINDING.]<br>  [RUMBLING.]<br>  What's happening?  I don't know!  [METALLIC SCREECHING.]<br>  [DEEP CREAKING.]<br>  That's probably for me.<br>  [ECHOING BOOM.]<br>  MAY: More havoc in my home.<br>  The JahSepp have never encountered  mass like this.<br>  Please assure them, this isn't an attack.<br>  I won't assure them of anything.<br>  I don't know the humans on that ship.<br>  But I do.<br> And you know me.<br> You've been inside my head.<br>  Trust me, we have a much better chance  of defeating this thing with what's on board.<br>  You won't abandon us?  What are you doing with your tiny finger?  It's, um Just  Pinky swear.<br>  I told you I would try to help you.<br>  Where I come from, we keep our promises.<br>  [DEEP RUMBLING, METAL GROANING.]<br>  We have to hurry.<br>  [MECHANICAL WHIRRING.]<br>  Wow.<br>  It worked.<br>  BURNHAM [OVER COMM.]<br>: Burnham to Commander Saru, do you read me?  [SHIP RUMBLING.]<br>SARU: I'm here, Burnham.<br>  Uh, the sensors show the mycelium  have already begun to attack the hull.<br>  Move quickly.<br>  Ready?  [RUMBLING, CRACKLING.]<br>  Hello?  [METAL CREAKING.]<br>  Computer, report life signs.<br>  Damn it, where is everybody?  [RUMBLING.]<br>  Maybe they died trying to save you.<br>  Hey, thanks for that.<br>  [RUMBLING.]<br>  What was that?  The JahSepp have already started breaking down the hull.<br>  [GASPS.]<br>  - The monster has come here.<br> - Why did it board the ship?  It pursues Discovery every time you fly through the network.<br>  Whatever it's doing,  I'm not letting it terrorize my people.<br>  They're my family.<br>  Exactly.<br>  [WEAPON POWERS UP.]<br>  [METAL RATTLING IN DISTANCE.]<br>  Fall in.<br>  That's soldier for "Get behind me.<br> "  [DEVICE BEEPING.]<br>  I'm reading a human life sign.<br>  Section 14, weapons storage.<br>  Why is Tilly arming herself?  Whatever you are, I'm holding a type-three phaser rifle.<br>  It is more powerful  and generally larger than the type-one or type-two.<br>  Uh, which I guess is why they call it a three.<br>  BURNHAM: Tilly?  Tilly.<br>  - Michael? - Is that May?  - Tilly, get down.<br> - No, it's not what you think.<br>  She needs our help.<br>  Are you?  It's me.<br> It's me.<br>  I'm okay.<br> I'm fine.<br>  Thank you for coming to get me.<br>  BURNHAM: Always.<br>  STAMETS: Restored to one piece,  atom by atom.<br>  We're getting you out of here.<br>  We have less than an hour before Discovery's  irreparably compromised; we need to go.<br>  "Compromised"? We'll be annihilated.<br>  I told her I would stay.<br>  There's-there's some sort of predator  - A monster! - A monster that is,  that is in the network, and it's killing off her species.<br>  [HEAVY THUD.]<br>  [VOICE WAILING IN DISTANCE.]<br>  Behind me.<br>  This monster, May- what can you tell us about it?  It started as a surge of unknown energy.<br>  We began to reconstitute it,  but it became this creature out of our control.<br>  Its skin  is indestructible.<br>  We die when we try to break it down.<br>  Wonderful.<br>  [VOICE CONTINUES WAILING.]<br>  [PANTING.]<br>  [WHIMPERING.]<br>  Hugh?  But he died.<br>  [CRYING.]<br>  This isn't real.<br>  I thought I imagined seeing him.<br>  Stay away!  Is this some mycelial manifestation?  Have you, have you created this from my memories?  He's real!  What?  Kill it.<br>  [WHIMPERING.]<br>  - Stand down, May.<br> - Kill it.<br> Kill it!  Kill it! Kill it! Kill it! You promised!  Wait!  You let it go!  Burnham to the bridge.<br>  We found Tilly.<br> [SHIP RUMBLING.]<br>  How soon can you get back?  There's been a complication.<br>  We won't survive complications, Commander.<br>  [RUMBLING, GASPING.]<br>  I know.<br>  But something resembling Dr.<br> Culber is here.<br>  [URGENT CHATTER.]<br>  - Repeat that, Commander.<br> BURNHAM:- Dr.<br> Culber.<br>  - Remember? Before you came aboard, he PIKE:- I know who he was.<br>  - I need you to make it make sense.<br> BURNHAM:- I can't.<br>  Commander Stamets went running  [RUMBLING.]<br>  Commander Burnham?  Michael?  - Mr.<br> Saru? - I am working on it, Captain.<br>  What if it is the real Dr.<br> Culber?  Nothing in the known universe would make that possible.<br>  Your known universe.<br>  Dr.<br> Culber was a healer.<br>  He would never harm any living being.<br>  MAY: You refuse to see what's right in front of you.<br>  Look.<br>  BURNHAM: What is this?  Bark from the yeel tree.<br>  It's deadly to us.<br>  This was all over him.<br>  He uses it to attack us.<br>  [RUMBLING.]<br>  He  He's not using it to attack.<br>  He's using it to defend himself.<br>  Like armor.<br>  Which would give him motivational  and intentional thought.<br>  Which means he is alive.<br>  [SPORES CHITTERING, SHIP RUMBLING AND GROANING.]<br>    [GASPING.]<br>  - Burnham, can you hear me? BURNHAM:- Yes, Commander Saru.<br>  I hate to rush you,  but mycelia have penetrated 78% of the exposed hull,  and that number is rising quickly.<br>  We're trying to locate Commander Stamets and Dr.<br> Culber.<br>  [RUMBLING, GRUNTING.]<br>  BURNHAM: What's happening?  Do not worry about us.<br> Just hurry.<br>  [RUMBLING CONTINUES.]<br>  [SHIP CREAKING.]<br>  Red alert! Transfer helm control to Airiam's station.<br>  The hull of the port nacelle is too compromised.<br>  I need you to hold her together under thrust.<br>  TYLER: This is Agent Tyler  transmitting on secure emergency channel.<br>  Control, do you read?  What the hell kind of communicator is that?  LELAND [OVER COMM.]<br>: Copy, Agent Tyler.<br> Status?  Discovery could use an assist, sir.<br>  Say no more.<br>  [RUMBLING.]<br>  Explain that to me.<br>  Is that Leland?  Not his call, Chris.<br> We're standing by to assist.<br>  I don't know what the hell took you so long,  but we'll talk about that later, at length.<br>  [RUMBLING.]<br>  Can you stabilize us with your tractor beam?  Firing in three  two one.<br>  [ELECTRONIC HUMMING.]<br>  Five minutes.<br>  If this goes south, I'm pulling Discovery out.<br>  - That's not your call.<br> - You have one of my agents.<br>  Captain Leland, please don't risk the Discovery crew for  On my bridge, you will speak only when addressed, Tyler.<br>  And, Leland, my ship, my call.<br>  You will hold until I give the order.<br>  - Are we clear? LELAND:- My engines are about to overload.<br>  We won't be able to hold for long, Chris.<br>  [ELECTRICAL CRACKLING.]<br>  [WHIMPERS.]<br>  You're not real.<br>  I am.<br>  W- When I was lost here, you found me.<br>  Do you remember?  You found me in so many places.<br>  You took me to the Metropolitan Museum of Art,  when we were on leave.<br>  It was our third date.<br>  And-and you were walking so fast  because you were excited to show me the de Koonings.<br>  All of them in one room.<br>  I had to run to keep up.<br>  And as you walked, you held out your hand behind you  because you knew that I would grab it.<br>  And I did.<br>  And I knew everything about you in that moment.<br>  And I'm here now.<br>  And here's my hand.<br>  [CULBER CRYING.]<br>  I thought I was losing my mind.<br>  Dr.<br> Culber?  [SPORES CHITTERING.]<br>  [GASPING.]<br>  Oh, no.<br> May, no.<br> Oh, no.<br>  Don't, please.<br> Don't do this.<br>  Hey.<br> Hey.<br> May.<br> May, put it down.<br>  I told you,  he's killing us.<br>  May, look at him.<br>  He's-he's trying to protect himself.<br>  CULBER: It burns.<br>  Everywhere they land on me.<br>  TILLY: May, you see him?  To him, you're the monster.<br>  This is not who you are.<br>  If you kill him,  it will ruin you.<br>  Can I?  [WEAPON POWERS DOWN.]<br>  BURNHAM: How  How is he here?  When I was trapped in the network,  I had moments of lucidity.<br>  I saw flashes  as if I was moving between this world and ours.<br>  That's when I found him.<br>  Hugh?  Hugh?  Hugh? No.<br>  No! No!  No.<br>  [RUMBLING.]<br>  [CRYING.]<br>: No.<br> Please don't go.<br>  Please.<br>  [SPORES CHITTERING.]<br>  I brought him here.<br>  Thermodynamics.<br>  Energy cannot be created or destroyed.<br>  It only changes states.<br>  Even in death.<br>  His energy passed through me  while I was the link to the network.<br>  Like a lightning rod.<br>  When he took shape,  it-it could only recognize him as a foreign body,  and it attacked him  the way healthy cells attack cancer.<br>  [SHIP RUMBLING.]<br>  We have to go.<br>  - Now.<br> - Uh-huh.<br>  All of us.<br>  I'm taking you home.<br>  [RUMBLING, CREAKING.]<br>  The engines are overloading! We have to disengage!  [URGENT COMM CHATTER.]<br>  I'm shutting down primary regulators  to buy us three minutes and 30 seconds.<br>  You realize you're not in charge?  Even Section 31 has court-martials.<br>  Would they court-martial you if they knew what you did  six years ago on Deneva to the wrong ambassador?  A minor offense, even if it were provable.<br>  If someone accessed the data behind your firewall,  it would be easy to prove.<br>  You may want to consider that.<br>  Three minutes.<br>  Try not to blow us up.<br>  Such a worrier.<br>  LELAND: We've bought you time.<br>  [RUMBLING, GRUNTING.]<br>  But not much.<br>  Copy that.<br> Owo, prepare to disengage  tractor rigs.<br> Mr.<br> Saru,  they need to get a move on.<br>  [RUMBLING, SHOUTING.]<br>  Hugh,  the cube is our airlock between normal space and the network.<br>  It's safe to cross here.<br>  See?  I'm right here.<br>    [RUMBLING CONTINUES.]<br>  I can't, Paul.<br>  I can't go with you.<br>  Why isn't it working? Why can't he go through?  His energy may have come from your world,  but everything else, everything we used  to build his body, came from ours.<br>  TILLY: So what? You brought me here.<br>  You can, you can use the cocoon to transport him there.<br>  MAY: I-I moved you.<br>  We did not create you.<br>  Our matter is not your matter.<br>  You're saying you can't rebuild him out there?  I'm saying I don't know.<br>  I couldn't maintain my own form without inhabiting you.<br>  [RUMBLING CONTINUES.]<br>  CULBER: Paul.<br>  The JahSepp can reclaim my matter.<br>  [SPORES CHITTERING.]<br>  What are you doing?  You have to let me go.<br>  PIKE: Burnham, we are out of time!  Understood.<br>  It's now or never.<br>  I can't be the cause of this.<br>  I can't leave you twice.<br>  If you stay,  it'll be twice as deadly for the network.<br>  We'll find another way.<br>  You're devoted to creation, to life.<br>  And there are a million reasons to love you, but that's mine.<br>  Please don't ruin that for me.<br>  [PANTING.]<br>  [RUMBLING CONTINUES.]<br>  Wait a minute.<br> Wait a minute.<br>  May, you said you couldn't rebuild yourself  in our world because you don't have human DNA.<br>  Right!  Right.<br> That was the missing ingredient.<br>  The cocoon on our side is made  entirely of atoms from the human world.<br>  If you take Culber's DNA and add it to the cocoon,  - then maybe he - Maybe not.<br>  Either way, if we use the cocoon,  our door closes.<br>  How many beings have lived within each other?  I feel I know you as deeply as I know myself.<br>  I was gonna say that.<br> I was just worried it would sound weird.<br>  It's not something  I ever thought that I would have.<br>  We have connected across evolution and across species.<br>  But when Commander Stamets lost Hugh,  he lost everything.<br>  And if we have a chance to fix that,  we have to try.<br>  I really believe that the universe  will bring us back together somehow.<br>  You promise?  Promise.<br>  [RUMBLING.]<br>  SARU: Commander.<br>  On our way.<br>  Now, May.<br>  I'll see you on the other side.<br>  Burnham to the bridge.<br>  Black alert.<br>  [RUMBLING.]<br>  Leland, now!  They're activating the spore drive!  Out of the way!  [SHIP WHIRRING, RUMBLING.]<br>  [SHOUTING, GRUNTING.]<br>  [SHIP WHIRRING, SPARKS CRACKLING.]<br>  [GRUNTING.]<br>  [WHIRRING GROWS LOUDER.]<br>  [RUMBLING.]<br>  [WHIRRING GROWS LOUDER.]<br>  [EXPLOSIVE BOOM, WHIRRING FADES.]<br>  [PANTING.]<br>    Commander Burnham?  BURNHAM: We made it.<br>  [EXHALES.]<br>  Stand down red alert.<br>  Mr.<br> Saru,  have Dr.<br> Pollard meet the team in Engineering.<br>  Mr.<br> Tyler.<br>  You'll stay on the bridge.<br>  Liaison protocol.<br>  TILLY: Come on.<br>  [SPORES CHITTERING.]<br>  [GASPS.]<br>  [GASPING.]<br>    Paul?  [CRYING.]<br>  Old friends who don't shake hands?  You're a long way from home, Admiral.<br>  Indeed.<br>  Starfleet has new and critical information  about the seven signals.<br>  The first one that appeared  led Discovery to an interstellar asteroid.<br>  But by the time you arrived, the signal was gone.<br>  We detailed a research vessel to scan for subspace readings,  and the findings were unexpected.<br>  For a brief window,  the signal appears to have left behind  a trail of tachyon radiation.<br>  Tachyons? Quantum field like that  could imply time travel.<br>  Or it could be the by-product of cloaking devices  or transporters.<br>  You're both right.<br> Or maybe you're both wrong.<br>  Either way, the only one with  any sort of connection to these signals is Lieutenant Spock,  who's still a fugitive.<br>  I need both of you to find him, and I need you  to help each other.<br>  Come on, fellas.<br>  Cut the manlier-than-thou bullshit.<br>  Leland,  you camouflaged yourself  from a Starfleet captain, your friend,  in the middle of a rescue mission.<br>  - Admiral, our camouf - Save it.<br>  And, Captain Pike, Section 31 may not be  the shining beacon of righteous conduct you want it to be,  but they are a critical intelligence division,  and we have more pressing priorities than debating  Article 14 of Starfleet's charter.<br>  Nation building is never pretty.<br>  That is the unappetizing truth,  and you know it.<br>  Now, I don't care  if you feel like you are on opposite sides.<br>  We are all on the same team.<br>  [EXHALES.]<br> We go back a long way, Chris.<br>  But my job requires me to walk a line, and  I crossed that with you.<br>  I apologize.<br>  It's accepted.<br>  I'll try to remember that my path is  sometimes clearer than yours.<br>  Well [CHUCKLES.]<br>  that's the understatement of the millennium.<br>  Now tell me what you know  about the shuttle.<br>  Shuttle was a dead end.<br>  Mr.<br> Spock knows how to cover his trail.<br>  Burnham might know more about where he'd be than she realizes.<br>  I'll talk to her.<br>  As we're working together,  I assume my temporary liaison officer is permanent.<br>  For the time being,  Agent Tyler is yours.<br>  Unless you would prefer Captain Georgiou.<br>  - No, thank you.<br> - No.<br>  COMPUTER: Incoming message from Captain Philippa Georgiou.<br>  [EXHALES.]<br>  [SIGHS.]<br>  Put it through to the science lab.<br>  [DOOR WHOOSHES OPEN.]<br>  [DOOR WHOOSHES SHUT.]<br>  I heard you bought us a few minutes.<br>  Is that any way to thank the savior of the Discovery?  I know you want to be paid back, in spades.<br>  Maybe I'm an altruist.<br>  Maybe I'm a Terran.<br>  [CHUCKLES.]<br> In fact, you were.<br>  Much more fun than this Vulcan stoicism.<br>  I really need to know your intentions.<br>  Toward Spock.<br>  I want to find him before a vigilante mob does,  or a posse of trigger-happy  Starfleet cowboys.<br>  I'm pretty sure you want the same thing.<br>  There's just no world  where I could give that serious consideration.<br>  I've had your life in my hands a dozen times.<br>  [CHUCKLES SOFTLY.]<br>  You're gonna have to start trusting me eventually.<br>  Said the scorpion to the frog.<br>  Have a little faith, Michael.<br>  BURNHAM: I envy those who can believe  there is a greater hand writing our story,  who chooses the words to keep chaos at bay.<br>  Connection.<br>  Joy.<br>  Love.<br>  And resurrection.<br>  With these words, the path becomes clear for a moment,  and then disappears.<br>  [DOOR WHOOSHES OPEN, SHUT.]<br>  [SNIFFLES.]<br>  If I have a path  [DOOR WHOOSHES OPEN.]<br>  I'm still searching for it.<br>  We all are.<br>  That's how we find our way,  by choosing to walk forward,  together.<br>  And if there is a greater hand  leading us into an uncertain future  I can only hope it guides us well.<br>  My people belive in the great balance  They are either predator or prey.<br>  Now I realize the great balance  Is a lie!  - Ships are power up they weapons.<br> - Warm up the phasers.<br>  Who ever is listen, consider your move very carefully!  They are capable of destroying every village across the planet.<br>  They are committing genocide?   Star Trek: Discovery SO2EO5- Saints of Imperfection     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e04" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e06" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

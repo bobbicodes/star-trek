@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e13 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e13 - Such Sweet Sorrow Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e13 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e13"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e13 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e13" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;Such Sweet Sorrow</div>
+
+            <h1>Star Trek: Discovery (2017) s02e13 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Such Sweet Sorrow</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  Who the hell are you?  What's your name?  Me Hani Ika Hali Ka Po.<br>  I ran away because I wasn't ready.<br>  - Supposed to become - The queen.<br> Okay.<br>  Let's get you home.<br>  Boreth is not for the faint of heart.<br>  No Klingon, let alone a human,  has ever taken a time crystal from the monastery  without great sacrifice.<br>  A warning, Captain, the present  is a veil between anticipation and horror.<br>  You may still choose to walk away from this future.<br>  But if you take the crystal, your fate  will be sealed forever.<br>  Every Section 31 ship is required to check in  on an hourly basis, but this ship checked in  ten minutes past its hour.<br>  - You're not Gant.<br> - Gant expired with the rest of the crew.<br>  You are the most effective tool  to acquire the Sphere archive from the Discovery.<br>  Control isn't just contained to Leland anymore.<br>  It has the ability to co-opt people  and entire ships without being detected.<br>  - I'll alert Starfleet as to - Captain?  That's a Section 31 ship.<br>  They are all Section 31 ships.<br>  We're outgunned.<br>  We can't delete the data.<br>  That leaves us only one option.<br>  We destroy the ship.<br>  Owosekun, send a ship-wide alert:  we are evacuating Discovery.<br>    Michael.<br>  Personal log, star date 1051.<br>8.<br>  - Thank you.<br> - You got it.<br>  We're in the process of abandoning our ship  in order to destroy it.<br>  This is actually happening, yet somehow  I still can't believe it.<br>  Long-range sensors show Control is on the move  and gaining quickly.<br>  It's infiltrated our subspace radio relays,  so we can't reach Starfleet for backup.<br>  Ship-to-ship communication is all we've got.<br>  Discovery to Enterprise, we're at 20, 15,  ten, nine,  eight  seven, six, five  Engaging reverse thrusters.<br>  Three two  Docking sequence initiated.<br>  Evacuation corridors deploying.<br>  Bridge is five by, and hold for airlock breach.<br>  Discovery contains the one thing in all the galaxy  that Control needs, the data to become fully conscious.<br>  My mother sacrificed everything to stop Control  from getting that data,  and now she's counting on us to finish the job.<br>  But is this really the only solution?  I look in the mirror  and can hardly recognize myself anymore.<br>  All of these questions without answers.<br>  There are seven signals, but we've only seen four.<br>  We have a time crystal that we don't know how to use.<br>  Captain Pike has always had faith that they play a part  in some grand design.<br>  Now more than ever  I wish I had his certainty.<br>  Burnham, let's move.<br> The ship's almost clear.<br>  It's time to get the crystal over to Enterprise.<br>  The signal led us to Boreth for this.<br> Why?  My mother's gone, the suit's destroyed,  Now Discovery.<br>  It can't just be about endings, can it?  We can figure it out, Commander, but only if we're walking.<br>  I cannot let everything my mother sacrificed for  be for nothing.<br>  Sometimes  we know the role we're meant to play, sometimes we don't.<br>  I'm not sure which is better, to be honest.<br>  And we don't know if we'll have the strength, do we?  Until the moment comes.<br>  Final crew are departing, Captain.<br>  - We should proceed.<br> - Understood, Mr.<br> SARU.<br>  - You got that? - Yes, sir.<br>  Shields unable to absorb full impact!  Goodbye.<br>  Remote auto-destruct enabled.<br>  Life support, environmental controls, and gravity generators  will deactivate in five minutes.<br>  All Discovery crew is accounted - for on the Enterprise, - Captain.<br>  - Field generators disengaged? - Affirmative.<br>  Shields are also off-line, and the warp core  has been prepared for overload.<br>  Have we forgotten anything?  There will be no half measures, sir.<br>  She will go with the dignity she deserves.<br>  Commander.<br>  Deck one.<br>  You brought Siranna's knife.<br>  My sister would not be pleased to hear  that I had left it behind.<br>  And it gives me hope that we will endure.<br>  Captain on the bridge.<br>  She's all yours, Chris.<br>  She looks as good as I remember.<br>  Welcome home, Captain.<br>  Good to be back.<br>  Wish it were under better circumstances.<br>  Don't we all.<br>  All major systems are back online,  and we'll have no more holographic communications  ever.<br>  Probably for the best.<br>  Lieutenant Amin, status update.<br>  Sensors show Leland and his armada  are picking up speed, Captain.<br>  Captain Georgiou has just arrived, sir.<br>  Permission to come aboard?  Granted.<br> Have her come on up.<br>  Number One, take us to a safe distance, please.<br>  Aye, Captain.<br>  Captain Georgiou, welcome to the Enterprise.<br>  Orange? Really? Ugh.<br>  Your report on Specialist Gant  was rather enlightening.<br>  Nanobots.<br>  Yes.<br> Now is not the time.<br>  Nonsense.<br> It's good to get a little distance  from something you love.<br>  On the other hand, I look forward to hunting Leland down  to the ends of the galaxy so I can watch  every piece of technology exit his skin bit by bit.<br>  Leland didn't deserve what he got.<br>  Better him than me.<br> Or you.<br>  We're at distance, sir.<br>  All right, everyone.<br> Eyes front.<br>  We'll never see another like her.<br>  Initiate remote auto-destruct.<br>  Auto-destruct initiated.<br>  Counting down.<br> Five, four,  three, two,  one.<br>  Detonation.<br>  Auto-destruct failure.<br>  That is not possible.<br>  Arm photon torpedoes.<br>  Photon torpedoes ready.<br>  Fire.<br>  Captain, Discovery's shields are up.<br>  - What the hell? - Again.<br>  Analysis.<br>  Given recent events, I believe the Sphere datamay be the cause.<br>  It's protecting itself.<br>  We tried to delete the data; it wouldn't let us.<br>  If the data has merged with Discovery, that would explain  its ability to use DiscoveryÃ¢ÂÂs resources  to ensure its survival.<br>  Are you saying we won't be able to destroy the ship?  Leland's ships are now in range,  Captain.<br>  An undetonated photon torpedo  is lodged in EnterpriseÃ¢ÂÂs hull,  deck five, section two.<br> Magnify.<br>  We've lost shields!  Commander, we've been boarded.<br>    Aah!  - Goodbye.<br> - Aah!  That is not possible.<br>  Arm photon torpedoes.<br>  Photon torpedoes ready.<br>  Stop!  Excuse me, Captain.<br>  It won't work.<br>  What do you mean?  The Sphere's data has already merged with Discovery.<br>  We should have anticipated it would use our ship  and our shields  to protect itself, like it's always done.<br>  You sound rather certain.<br>  I am.<br>  How long until Leland gets here?  An hour.<br> Maybe less.<br>  - Options.<br> - We know we can't delete the data.<br>  Nor, it seems, can we destroy Discovery.<br>  Even if you jump away, Control will not stop coming.<br>  Eventually Leland, or some version of him,  would find you.<br>  Ergo, DiscoveryÃ¢ÂÂs very existence is the problem.<br>  Of course.<br>  As long as Discovery exists here and now,  this will never be over.<br>  You are proposing  we remove Discovery from the galactic equation  entirely?  How, exactly, are we supposed to do that?  The crystal.<br>  This is why we have it.<br>  To take the data out of this time  so Control can never get it.<br>  Discovery has to go to the future.<br>     Star Trek: Discovery S02E13 - Such Sweet Sorrow    How do we get Discovery to the future  before Leland catches up with us?  Dr.<br> Burnham's suit was destroyed on Essof IV.<br>  That was the only method of time travel we know of.<br>  We have the technical designs  from Section 31.<br>  We can attempt to rebuild it.<br>  Do it.<br> To my physical specifications, please.<br>  That's not possible, sir.<br>  The suit was tailored to Dr.<br> Burnham's DNA.<br>  Which makes my MRNA the closest genetic match.<br>  I'll do it.<br>  My mother started this.<br> I'm gonna finish it.<br>  Even if we could adapt the code to your biology,  the exoskeleton is made from a composite alloy  that we can't synthesize.<br>  Well, the alloy is tritanium-based.<br>  It might be possible to melt down  part of a cargo bulkhead to cast a mold.<br>  Not to sweat the details,  but do you even know how to fly the thing?  I learned the basics from her logs.<br>  I'm sure there'll be some trial and error  opening the wormhole.<br>  If Discovery were on autopilot,  it could follow you through.<br>  How will you find your way back?  Everything we know about the signals  suggests they're indicative of a design.<br>  I'm willing to trust that.<br>  Are you saying you believe  that another signal will just reveal itself  because we need it to?  These signals could only have been set  by an individual with access to a time suit  and knowledge of our specific circumstances.<br>  We believed your mother was the only Red Angel.<br>  However, the bio neural signature identified another.<br>  You.<br> Her efforts were focused entirely  on the Sphere data.<br>  She stated that she did not set the signals.<br>  Therefore, you did.<br>  But if it was me, why?  What am I trying to lead us to?  That remains to be seen.<br>  But I agree with Captain Pike.<br>  There is intention to your design.<br>  I'll have our engineering team start the fabrication process.<br>  And the time crystal.<br>  There is still the matter of activating it.<br>  My parents used a stellar-lensing array.<br>  If we can locate an unstable red giant  The odds of finding one  in any given sector are pretty high.<br>  But pretty low of finding one  in a supernova state specifically.<br>  It can take hundreds of years.<br>  So pick a nova and fire an antimatter missile  into its core.<br>  We would be directly responsible for destroying  all life within dozens of light-years, if not more.<br>  - Yeah.<br> - Uh  We're not doing that.<br>  I thought there were no bad ideas.<br>  - That's a lie.<br> - That's a bad one.<br>  Admiral, Captain Pike,  there's something you need to see.<br>  And then there were five.<br>  Do we have a lock on the signal?  Still working on it.<br>  Sensors show Captain Leland  Control is five minutes out.<br>  Red alert.<br>  Mr.<br> SARU, we'll return to Discovery  with all essential personnel.<br>  Commander Stamets, you will jump us to that signal.<br>  - Yes, Captain.<br> - Copy that.<br>  I'll get Enterprise to the signal as fast as possible.<br>  I'll join you.<br>  Have any personnel not directly involved  with fabricating the time suit start  retrofitting all shuttles and pods for combat operations.<br>  You should do the same.<br>  It'll be us against whatever Leland's bringing.<br>  Actually, our odds might be a little better than that.<br>  I took the liberty of retrofitting our shuttle  and landing pod complement with enhanced phasers,  and I commandeered the new experimental tactical flyers,  assuming the shit would hit the fan.<br>  Well done, Number One.<br>  Godspeed, Captain.<br>  You, too, Admiral.<br>  We'll rendezvous at the fifth signal.<br>    And where has the signal led us now?  Class M planet Xahea.<br>  Really? Xahea?  Wait, for real?  What do you know, Ensign?  - The queen.<br> - The queen?  Yeah, yeah, no, no.<br> I-I-I know the queen of Xahea.<br>  We share a love of engineering.<br>  And what might Xahea have to do  with powering the time crystal?  Well, Xahea's remarkable for its natural dilithium supply.<br>  And its queen, Her Serene Highness  Me Hani Ika Hali Ka Po  or-or Po for short, she, uh, she's only 17,  but she developed a technology to recrystallize it.<br>  To recrystallize dilithium?  Well, if true, Starfleet would no longer  need to seek new sources of dilithium for its warp cores.<br>  She's brilliant but she won't tell anyone how she did it.<br>  She-she doesn't trust anyone with that information.<br>  So, besides being brilliant, she's also prudent.<br>  - Mr.<br> Bryce, open a channel.<br> - Yes, sir.<br>  Let's see if Ensign TILLY can convince  Her Serene Highness to help us figure out  why the signal brought us here.<br>  I think she'll be intrigued, sir,  and probably happy she doesn't have to stuff herself  into a cargo pallet.<br>  What?  Hmm? Nothing.<br>  Reset the cube and don't forget to purge  the secondary EPS relay.<br>  - Yes, sir.<br> - Quickly, quickly.<br>  We have shuttles and pods to retrofit.<br>  Are you all right?  From the jump.<br>  I- I'm fine thank you.<br>  - Listen - Listen  You go.<br>  Um once Commander Burnham  takes this ship to wherever she's going  I'm thinking I might take a break  from star ships.<br>  I passed up a job at the Vulcan Science Academy  a few months ago.<br>  Or maybe I'll just live on a station for a while.<br>  I don't know.<br>  Forward motion.<br>  I get it.<br>  I thought a lot about it, and you were right.<br>  If I can take anything  from all this,  it's that forward motion  is the most honest choice  for both of us.<br>  Thank you for saying that.<br>  I hope that  whatever life you find from here,  whoever you find it with  that you're happy, Hugh.<br>  You, too, Paul.<br>  Once the Enterprise catches up with us  I'll be joining them.<br>  Of course.<br>  I need to see how the fabrication team is doing  with the suit.<br>  Ice cream is the last thing I was expecting.<br>  Oh, she's all about sugar.<br> You have no idea.<br>  Your Serene Highness, may I  TILLY!  Is that spumoni?  My calculations for small-particle dispersion  in hydrogenated carbohydrates were so on point.<br>  But I just end up with goo.<br>  Fascinating.<br>  Po, this is  Commander Michael Burnham.<br>  Your roomie.<br>  You look taller in your photos.<br>  Thank you  And this is Captain Pike.<br> This is the captain.<br>  Your Highness, Me Hani Ika Hali Ka Po.<br>  Wow, you're good.<br>  - Po's fine.<br> - Thank you.<br>  Can you eat and walk? I'll fill you in on the way.<br>  Mm-hmm.<br>  So, you have a time crystal,  which I've only ever read about,  and no method by which to activate it.<br>  And you have a time suit.<br>  Which genius built that?  My mom.<br>  Hmm.<br> I had a special mom, too.<br>  Ugh.<br>  So you want to use the suit  to travel through time  - with this ship flying behind you, yes? - Yes.<br>  And then you want to cut the ship loose  and come back alone?  - Hmm.<br> This endeavor would be  rather ridiculous if Michael intended  to return with the ship.<br>  One of the fun things about becoming queen  of the most politically relevant  planet in the galaxy is that  I don't have to listen to any snark.<br>  - I made it an actual law.<br> - What?  Oh, uh, we believe that thereÃ¢ÂÂs Ugh.<br>  A reason the signal brought us to your planet.<br>  What's happening?  It's nuclear particle physics.<br>  Pretty sure she's calculating  the reaction rate between particles.<br>  E = mc squared stuff.<br>  I like you.<br>  - I like you, too.<br> Good.<br>  We're friends now.<br>  The goop in this bowl is vile.<br>  I can modify my dilithium incubator  to trigger an ongoing cascade of energy  within the crystal by combining it  with dark energy.<br>  It'll replicate the power of a supernova.<br>  And charge your crystal.<br>  I get to make a supernova.<br>  Today rocks.<br>  I will need energy, though.<br>  Like, Planck-level.<br>  That's a little more than the EPS grid  normally allows.<br>  We could pull from the spore drive.<br>  It would take 12 hours for the spore drive to recover.<br>  How are we supposed to fight off dozens of enemy ships  without being able to jump away?  We'd be going into battle without our spore drive.<br>  If that's what it takes to power the suit,  - we'll have to make it work.<br> - Good.<br>  There is just one problem.<br>  Certain death in battle wasn't enough of a problem?  This is bigger.<br>  Charging the crystal this way is like using a waterfall  to get a drink of water.<br>  It'll work, but then you drown.<br>  I don't follow.<br>  I believe what they wish to convey  is that continuous regeneration  of energy will ultimately overwhelm  the structural integrity of the crystal.<br>  Causing it to burn out.<br>  Meaning, I can take Discovery  to the future.<br>  But I won't be able to come back.<br>  It's a one-way trip.<br>  You're leaving? Forever?  That is correct.<br>  To ensure the Sphere data remains  out of Leland's reach,  Michael must remain in the future.<br>  Permanently.<br>  What does that even mean?  Where in the future?  Assuming I don't get lost in the wormhole,  in theory,  my mother should have returned  to her anchor point on Terralysium.<br>  So hopefully I will land there, too.<br>  And there's no technology there,  - so Discovery will be safe.<br> "In theory"?  "Hopefully"? Michael, you could land anywhere in any time.<br>  We are aware.<br>  Apparently,  this is what I'm meant to do.<br>  Trust the mystery.<br>  Are you sure there's no other way?  If there were, we would have found it.<br>  Commander Burnham will use the suit to open a wormhole.<br>  Discovery will be on autopilot behind her.<br>  Our job is to clear a path.<br>  Anything in the vicinity will be  either destroyed or pulled into the future  with her, and we cannot risk that.<br>  This is crazy.<br> We have a spore drive.<br>  Sorry, love bug, we don't.<br>  We need the power to charge the crystal.<br>  It won't be up and running again  until long after Michael's gone.<br>  Captain, the Enterprise will arrive in 57 minutes.<br>  Control is only ten minutes behind them.<br>  All right.<br>  This is what you've trained for.<br>  Eyes up for Commander Burnham.<br>  I wish there was more time.<br>  There isn't.<br>  I love you.<br>  All of you.<br>  Thank you for the greatest moments of my life.<br>  Thank you all.<br>  Let's get that crystal charged and get to work.<br>  You're afraid.<br>  It'll be fine.<br>  Better than fine, whatever happens.<br>  - You give me too much credit.<br> - No.<br>  You taught me to walk tall and straight into the heart of it.<br>  Just like you'll teach your crew one day  when you have your own ship to command.<br>  Thank you for helping us.<br>  You're helping us pretty much save the entire galaxy.<br>  You didn't have to do that.<br> You could have just  Stayed out of it?  No.<br>  My people, my planet, they're at risk, too.<br>  Oh, can I just say that I love the way you say that?  "My planet.<br> " "My people.<br> "  Look how far you've come.<br> It's beautiful, Po.<br>  Even this thing is bizarre and super weird,  but it's beautiful.<br>  Pair production's begun.<br>  There'll be enough dark energy for the crystal soon.<br>  I'm gonna miss you, young lady.<br>  What do you mean? I'm not going anywhere.<br>  What?  No.<br> No, you can't stay on board, you're the queen.<br>  Exactly.<br> My planet is my sister.<br>  If I die, I die protecting her.<br>  That's the only queen I know how to be.<br>  Besides, what am I supposed to do  wave a hanky from my throne?  We're a team, all of us.<br>  You're stuck with me.<br>  This is stupid.<br> What?  You flinging yourself into the future  like some galactic rubber band with a martyr complex.<br>  It doesn't have to be like this.<br>  It does have to be like this  for a million reasons you will never understand.<br>  I understand perfectly.<br>  You're very invested in being selfless, Michael.<br>  And I'm not the only one willing to exploit that, you know.<br>  You can add this up however you want.<br>  I'm getting in that suit and I'm doing what I need to do.<br>  And if we're both still alive when this is all over,  then you can talk to me about my gaping character flaws.<br>  How did you know?  Our katras.<br>  We had tried to reach you through Starfleet.<br>  Control took down our subspace relays.<br>  We only have ship-to-ship.<br>  You're truly leaving us, Michael.<br>  We can't allow the data to stay.<br>  It's the only way.<br>  Michael, you do not have to do this.<br>  Mother, yes, I do.<br>  I had lost everything.<br>  I was broken  and I was alone.<br>  You both put me back together.<br>  Piece by piece.<br>  Even though you had a son,  you took me in as your daughter.<br>  And as much as I tried to push you away,  you never let me go.<br>  And I love you for never letting me go.<br>  And I need you both to know  that what you gave me,  I will carry it everywhere I go.<br>  And I will never let you down.<br>  Michael, we are so proud of you  and your courage  and what you are about to do for everyone.<br>  It is the secret wish of every parent that  our children make right the mistakes  we ourselves have made.<br>  I know I have not always been  the ideal father.<br>  Or husband, Amanda.<br>  I am Impossible.<br>  I will accept improbable.<br>  Well, that's big of you, Father.<br>  For my failures I humbly ask both of you  for forgiveness.<br>  Of course.<br>  Promise me that you'll take care of Spock.<br>  I will always be here for our son, always.<br>  Even as I keep my distance,  as he has asked.<br>  He loves you very deeply.<br>  So do I.<br>  Michael.<br>  We love you.<br>  Time travel is not for the faint of heart.<br>  Every jump, I say a silent thank you  to whatever brilliant being  invented polyphobic meta-material.<br>  Without her or him, I'd be dead from radiation,  temperature fluctuations, or painful blood clots.<br>  Humans were not meant for this.<br>  And that's the easy part.<br>  Navigation, on the other hand  Now I really hope whoever you are, watching this someday,  you're not crazy enough to try a jump,  but if you're as half as stubborn as I am,  let me tell you how to do it the right way.<br>  Nav system appears right before your eyes.<br>  All personnel, this is the captain.<br>  20 minutes until the Enterprise arrives.<br>  Captain Georgiou, report to the ready room.<br>  Commander Burnham, to the bridge immediately.<br>  You announced that you're leaving forever,  and I wasn't even there to sob and wail and throw myself  - at your feet.<br> - You were a little busy.<br>  And our goodbye needed to be  Nonexistent.<br>  It's not who we are, Michael.<br>  It's not who any of us are.<br>  Some people are still working.<br>  Uh, Po is designing siege weapons, which I can't even  Anyway, we're here  because we're staying with you.<br>  No.<br>  No, I can't let you do this.<br>  We're not asking permission.<br>  This is impossible.<br> You have lives.<br>  You have people who love you.<br>  Families who love you.<br> You'll never see them again.<br>  Commander, our families accepted the possibility of this moment  when we joined Starfleet.<br>  Committing to a life  amongst the stars is, in itself,  a resolution to leave some things behind.<br>  But I don't know what the future holds.<br>  Nobody does.<br>  We just have now.<br>  We are coming with you, Michael.<br>  Further argument would be futile.<br>  Please accept this.<br>  I am sure  what you are about to say will be beautiful,  but it is done, Michael, and we are running out of time.<br>  That's kind of a problem, actually, because the crystal  isn't charging as fast as it should be.<br>  I got you, Red.<br> Lead the way.<br>  All personnel  Michael.<br>  You're not coming, are you?  I wish I could say yes.<br>  B But someone has to make sure nothing like Control  ever happens again, someone inside the gray areas.<br>  In Section 31?  Otherwise we could be right back here no matter where you end up.<br>  Commander Burnham, the Enterprise will be here  in 11 minutes.<br> Are you on your way?  I'll be right there.<br>    There is a battle coming, Siranna.<br>  I do not know if this message will reach you in time.<br>  The odds are not in our favor.<br>  If we never see each other again,  you must know, sweet sister,  how much I love you.<br>  I'll never know if I made you proud.<br>  I hope so.<br>  But even if I haven't, I made myself proud.<br>  And I can, um, feel how you respect that.<br>  Mom, I can feel it.<br>  I can feel I frightened you by making my own path.<br>  I hope you see this one day and that you'll forgive me.<br>  I'll keep all of you deep within me.<br>  I wish we had more time.<br>  I wish I could tell you this in person, but  you're my rock, Tazzy.<br>  Every test I tanked, the 28 times I wanted to quit,  and after my injury.<br>  It only takes one person, I guess, to save another.<br>  - You're my best friend You're my best friend,  and you always could translate Mom and Dad to me  and vice versa.<br>  Even though I still don't know  what Dad's talking about half the time.<br>  I know you think I was their favorite  but I'm just louder.<br>  They love you so much.<br>  They would do anything for you.<br>  It's time.<br>  Lieutenant DETMER, put some distance between us and Xahea.<br>  - This is our fight, not theirs.<br> - Yes, Captain.<br>  Captain,  I have no confirmation Her Serene Highness  has left the ship.<br>  We'll have to have  that diplomatic meltdown some other time.<br>  I won't bother asking if you've all committed to this decision.<br>  In that case,  one last bit of housekeeping before I can leave this ship.<br>  DiscoveryÃ¢ÂÂs going to need a new captain.<br>  Serving as your captain has been  one of the greatest honors of my career.<br>  You are exceptional officers.<br>  Exceptional individuals, every single one of you.<br>  Lieutenants DETMER and Owosekun,  I wouldn't be here if you hadn't saved my life on the way  to that asteroid.<br>  Lieutenant Nilsson, you've stepped up for Airiam  in a way that honors her.<br>  Lieutenants Bryce and Rhys, you're calm under pressure.<br>  And Commander SARU,  I'm gonna miss the hell out of you.<br>  Lieutenant Spock  there aren't words.<br>  Commander Nhan has requested permission  to stay aboard Discovery.<br>  If I can be of help, that is.<br>  Well it would be our privilege to have you, Commander.<br>  As for you  most people will never get a chance  to learn what's in their own hearts.<br>  If we figure it out, it's often not what we expected,  or even what we would have chosen for ourselves.<br>  I am very grateful, Commander,  to have been here to watch you discover your heart.<br>  Thank you.<br>  I know that you I know that all of you  will face your destinies with bravery and honor.<br>  Even those moments to come  that will test the strongest among us.<br>  Thank you sir.<br>  Mr.<br> SARU,  you have the Conn as Commander Burnham leads you  through the wormhole.<br>  As to what happens after that  I would prefer if we focus on our respective tasks for now  and discuss the captaincy later.<br>  There are many things to consider.<br>  Enterprise to Discovery.<br>  Control's fleet will be arriving  in four minutes, 58 seconds, Captain.<br>  Thank you, Number One.<br> Mr.<br> Bryce,  make sure anyone else who wants to leave is on their way.<br>  - Aye, Captain.<br> - The rest of you  back to work.<br>  Captain Pike.<br>    At this rate, the crystal won't be charged  before Leland arrives.<br> And you do know  that the suit is utterly useless without the crystal, don't you?  Preacher, choir.<br> Why do you think I asked for help?  Sir, sorry, I,  I get a little snarky when I'm stressed.<br>  The problem is the cage.<br> It's interfering with the charge.<br>  Yeah, but without the cage  Everyone will see visions of the future  and their heads will explode, I know.<br>  Okay, ideas.<br> Go.<br>  Well, we could move the charging unit inside the cage.<br>  And potentially redistribute the charge  to the point of instability?  No.<br> Next?  Well, what if we, uh, increase  the diameter of the cage openings?  That way, the wavelength  of the charging frequency can move through faster.<br>  And that may let the effects of the crystal seep out,  which is why the cage is there.<br>  Attention: final shuttles are departing.<br>  Transporter power diverting  to defense systems in three minutes.<br>  Okay, out, both of you.<br>  Make sure nobody else comes in.<br>  Wait.<br> You're not gonna  Got a better idea?  The mission's the mission, whatever I see.<br>  Look, buck up, guys.<br>  I'll be fine.<br>  Thank you, Jett.<br>  I still dislike you.<br>  Feeling's mutual.<br>  An undetonated photon torpedo is lodged  in EnterpriseÃ¢ÂÂs hull!  Mr.<br> Bryce, open a ship-wide channel, please.<br>  Aye, sir.<br>  Channel open.<br>  This is Commander SARU.<br>  All crew to stations immediately.<br>  Red alert.<br>  Captain, we are standing by.<br>  Leaving now, Mr.<br> SARU.<br>  I haven't been sure what to make of you lately,  but I'm glad to have had you on our side for this.<br>  More fun to come, assuming we survive.<br>  Good luck.<br>  Glad to have you on our side, too, Mr.<br> Tyler.<br>  As am I.<br>  Does that mean you trust me?  Why do you ask?  Because there's something I need to do.<br>  And it means leaving before any of this starts.<br>  Initializing.<br>  I'm Terran, by the way.<br>  From your mirror universe.<br>  What mirror universe?  Attention, all vessels.<br>  Leland's fleet has arrived.<br>  Captain on the bridge.<br>  Nine more enemy vessels just dropped out of warp, Captain.<br>  We are surrounded.<br>  All enemy vessels armed and ready.<br>  Shields up.<br>  Prepare for battle.<br>  This is Captain Pike.<br> We have one job.<br>  Protect Commander Burnham until she reaches her target.<br>   Section 1 is on our way.<br>  Get it done.<br>  In 5  4 3 2 Mark.<br>  Go, Michael, now!   Star Trek: Discovery S02E13 - Such Sweet Sorrow     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e12" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e14" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

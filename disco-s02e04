@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e04 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e04 - An Obol for Charon Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e04 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e04"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e04 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e04" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;An Obol for Charon</div>
+
+            <h1>Star Trek: Discovery (2017) s02e04 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">An Obol for Charon</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  BURNHAM: With the Enterprise in Spacedock,  Captain Pike and Discovery's mission  to find any rational explanation  for the seven signals continues to escape me.<br>  And with it, perhaps, any chance  of a relationship with my brother Spock.<br>  Computer, show me Starfleet's rendering of the seven signals.<br>  Spock drew these signals  two months before they appeared to us.<br>  It's damn near identical.<br>  BURNHAM: Amanda?  [WHISPERS.]<br>: I stole Spock's medical file.<br>  I've been waiting for an update on my officer, Spock.<br>  Your guy is wanted for murder.<br>  Killed three of his doctors, then fled the starbase.<br>  AMANDA: I thought that he had left it in the past,  but it's back.<br>  - What is it? - Your brother called it the Red Angel.<br>  That vision changed him forever.<br>  It wasn't because of a vision.<br>  - It was because of me.<br> - What did you do?  I will find him.<br>  No.<br>  I will.<br>  Got it.<br>  TILLY: After the dark matter hit me  - It's me.<br> - I started to see a ghost.<br>  Her name was May, but she's dead.<br> Tilly.<br>  - I am losing, Michael.<br> BURNHAM:- You don't need sickbay.<br>  - You need Stamets.<br> - We should have results  - in one second.<br> - There he is.<br>  That's the captain.<br> That's where he flies.<br>  Just as I suspected.<br>  - You are hosting a eukaryotic organism.<br> - A fungus?  This might hurt a bit.<br>  [GRUNTS.]<br>  Security breach by unknown alien species in Engineering.<br>  Engage quarantine protocol Alpha-Omega.<br>  Energize.<br>  Teleporter incoming.<br>  - Captain.<br> - Welcome aboard Discovery, Number One.<br>  The failures cascaded through all our primaries.<br>  Helm, nav, both impulse and warp drive.<br> Chief Louvier  has an engineering team working 'round the clock.<br>  I don't think Enterprise will ever have a chief engineer  more in love with his ship.<br>  Apparently, Enterprise is the only ship  in the fleet that's had any problems.<br>  You know, he warned me.<br>  The damn holographic comm system.<br>  Tell Louvier to rip out the entire system.<br>  From now on we'll communicate  using good, old-fashioned view screens.<br>  Truth is I never liked the holograms.<br>  They look too much like ghosts.<br>  [CHUCKLES.]<br>He told you I'd say that.<br>  No.<br> I told him.<br>  Cheeseburger.<br> Fries.<br> Habanero sauce.<br>  You want to order some lighter fluid with that?  That goes with the shake.<br>  Sorry to keep you in Spacedock.<br>  I've made use of the time, Captain.<br>  You've been looking into the allegations against Spock.<br>  It's hard to comprehend, let alone believe,  that he murdered three people  at the psychiatric facility on Starbase Five.<br>  How's the crew taking it?  They don't know the details.<br>  Only that he's in trouble.<br>  There's something else.<br>  Tell me.<br>  Starfleet's classified his case Level One.<br>  Line officers don't usually warrant that kind of scrutiny.<br>  It's unprecedented.<br> Which is why I've done a little digging.<br>  Sanctioned?  Better you don't know the answer to that.<br>  Before I look at that,  I need to know why you saw fit to detour Federation protocols.<br>  Something about this investigation isn't adding up.<br>  I'm not letting him go without a fight.<br>  As usual, we agree.<br>  MALE OFFICER [OVER COMMS.]<br>: Captain Pike to the ready room.<br>  I'm late for a briefing.<br> I'm glad you came.<br>  I'm sorry you can't stay longer.<br>  Next time.<br>  Be careful, Captain.<br>  You, too, Number One.<br>  We should give it a name.<br>  [CHUCKLES.]<br>: Other than May.<br>  I know it looks like a blob,  but this is one of the most sophisticated life-forms  I've ever encountered.<br>  It has sentience, intention.<br>  Tilly, the mycelial network doesn't just connect life.<br>  It contains it.<br>  It's an incubator.<br>  You mean, like, um like a home?  I've been wondering why it appeared to me as May,  which got me thinking about the real May  that I met when I was, um, 14.<br>  I was, um I was a weird kid.<br>  [CHUCKLES.]<br>: You know? Like, not a lot of friends  and nobody who really believed in me, including me.<br>  But she did.<br>  She wanted to connect to me, and she tried so hard.<br>  But I don't really think  I was the friend to her that she needed.<br>  I'm certain  you were much kinder than you give yourself credit for.<br>  You always are.<br>  Thank you, but  I didn't even know she died.<br>  I feel like I took her for granted.<br>  That girl who thought I was special.<br>  Oh!  I've cross-referenced what we're calling the Red Angel  with all known winged  and avian life-forms in the Federation.<br>  So far, I've found nothing.<br>  [WHIRRING.]<br>  Sorry.<br>  The universal translator sometimes has trouble  reconfiguring my lingual clicks and pops.<br>  My answer to you was, "Nothing in the known universe.<br> "  Which might suggest it's not a species.<br>  - Maybe one of a kind.<br> - A mutation.<br>  Well, whatever it is, figuring out how it's connected  to these signals will help us identify it.<br>  If only we knew what it needs.<br>  Commander Nhan, USS Enterprise.<br>  Glad to be here.<br>  Welcome back aboard.<br> [SNIFFLES.]<br>  Could you pass the salt?  Commander Saru,  can you shed any light?[COUGHS.]<br>  My apologies.<br>  I woke up this morning fighting  an acute rhino virus.<br>  So you have a cold.<br>  I had a cold last week, which sucked.<br>  Saurian.<br> Six nasal canals.<br>  It happens to the best of us, Linus.<br>  Everyone to your stations.<br> Detmer, set a course  for 108 mark four.<br> Maximum warp.<br>  Aye, sir.<br> [SARU COUGHING.]<br>  Mr.<br> Saru, you look like hell.<br>  You've been burning the candle at both ends lately.<br>  Go get some rest.<br>  As you wish, sir.<br>  Burnham.<br> A word.<br>  I understand your first officer is on her way to Spacedock.<br>  Was her visit informative?  Number One is very resourceful.<br>  People have a tendency to end up owing her favors.<br>  She uncovered  some classified information  on Starbase Five.<br>  That is the warp signature of the shuttle  that Spock stole from the psychiatric facility.<br>  I put us on an intercept course.<br>  We should reach his position in the next few hours.<br>  S- Sir,  after everything that's happened,  I need to excuse myself from seeing Spock.<br>  Not sure I follow.<br>  I don't want to make things worse for him.<br>  He's a fugitive, whatever the circumstances.<br>  And as Amanda suggested  [SIGHS.]<br> I'm probably the last person  who should insert themselves into this problem.<br>  I disagree.<br> He is lost, Captain.<br>  You are better suited to help him.<br>  I've thought this through.<br>  Please, trust me.<br>  My abiding trust in you  doesn't eclipse the mission at hand.<br>  Facing whatever happened to Spock,  it's not gonna be easy for any of us.<br>  Reaching him has to be the priority.<br>  Detmer, status?  Something has grabbed us out of warp, sir.<br>  Speed dropping to sub-light.<br>  - Helm going unresponsive.<br> PIKE:- Shields up.<br>  Red alert.<br> Owosekun,  are we talking tractor beam?  More powerful than that, sir.<br>  I'm unable to raise shields.<br>  Preliminary analysis indicates a multiphasic stasis field.<br>  It's disrupting our shield harmonics.<br>  DETMER: We're at a full stop, sir.<br>  Whatever has us, w-we're locked into place.<br>  Like a damn fly in a web.<br>  And there is the spider.<br>     Star Trek: Discovery SO2EO4- An Obol for Charon  [ORIGINAL STAR TREK THEME PLAYS.]<br>  BURNHAM: Starfleet has never encountered anything like it.<br>  565 kilometers in diameter  with a mass of 6.<br>39 x 10 to the 20th power kilograms.<br>  It melds organic and nonliving matter.<br>  It's also ancient.<br>  Initial scans put it at 100,000 years old.<br>  "Organic"?  Are you saying it's some kind of a life-form?  Maybe it is a damn spider.<br> I hate spiders.<br>  It is premature to assign  any anthropomorphic distinction or intent.<br>  As of yet, it hasn't responded to any hails.<br>  But there is this.<br>  [OSCILLATING SHRIEK PLAYING.]<br> The sphere is vibrating.<br>  The computer extrapolated what it might sound like  based on the surrounding ambient radiation.<br>  [SHRIEKING STOPS.]<br>Well, it has my ship,  and I don't know what in the hell it wants.<br>  Communicate with it or disable it.<br> And quickly, please.<br>  [SPEAKING KLINGON.]<br>   [SPEAKING KLINGON.]<br>   [SPEAKING FRENCH.]<br>   [ALARMS BLARING.]<br> [CREW SPEAKING IN MULTIPLE LANGUAGES.]<br>  [SPEAKING ANDORIAN.]<br>   [SPEAKING NORWEGIAN.]<br>   [SPEAKING GERMAN.]<br>   [SPEAKING ITALIAN.]<br>   BRYCE: Captain Pike.<br>  [SPEAKING WELSH.]<br>  [IMITATES EXPLOSION.]<br>  [COMMS CHIMES.]<br>Saru.<br>  [SPEAKING HEBREW.]<br>  [BARNHAM SPEAKING MANDARIN.]<br>  [SPEAKING MANDARIN.]<br>  [SPEAKING SPANISH.]<br>  [SPEAKING SPANISH.]<br>  [SPEAKING WOLOF.]<br>  [COMPUTER SPEAKING WOLOF.]<br>  [COUGHS.]<br>  [COMPUTER SPEAKING OTHER LANGUAGES.]<br>  [COMPUTER SPEAKING VARIOUS LANGUAGES AT ONCE.]<br>  COMPUTER: Confirmed.<br>  Did it work?  Yes.<br> I can understand you.<br>  DETMER: I still can't read my controls.<br>  I think this is Tau Cetian.<br>  Am I the only one who bothered to learn a foreign language?  I have localized  the backup bridge translator.<br>  For the time being,  everyone who speaks Earth English can communicate.<br>  The rest of the crew and Discovery's computer are another matter.<br>  The bridge may be temporarily fixed, but the virus will continue  spreading through our comms system.<br>  I can try purging it  from the translator's main interface.<br>  We have to be able to talk to the computer  and the rest of the crew to have any chance  of breaking free from that sphere.<br> Do it.<br>  Yes, sir.<br>  [COUGHING.]<br>  I'll go.<br> You should stay and monitor bridge stations.<br>  [PANTING.]<br>: I have placed all systems on automatic.<br>  And given our current circumstances,  you will need a translator just to operate the turbo lift.<br>  Are you sure you can do this?We are wasting time.<br>  We've run a full diagnostic, Captain,  and this section remains unaffected by the virus.<br>  I will update you if anything changes.<br>  PIKE: Thank you, Ensign.<br>  If we can't fly this thing, Commander,  we may have to jump away.<br>  The spore drive will be ready, sir.<br>  Bring the drive online,  and then we'll couple the shunts to me,  in case we've got to skedaddle.<br>  [RENO HUMMING SOFTLY.]<br>  Da, Da, Da, Da, Da, Da.<br>   The universal translator for this section is no mÃ¡s.<br>  Can I help you?  Uh, unless you can reroute the plasma regulator  to silo off the relay junction, then,  uh, no.<br>  You're, um?  Jett Reno, from the Hiawatha.<br>  I hitched a ride off that asteroid.<br>  Chief engineer sent me to firewall off  the critical propulsion systems.<br>  I didn't realize a greenhouse  could be "critical" or "propulsive,"  but, hmm, what do I know?  I'm just a gear head, not a farmer.<br>  STAMETS: A farmer.<br>  Oh, please, let us know what you think, because we care.<br>  You should.<br> Antimatter and dilithium  might be old-school, but they don't let you down.<br>  Why soar when you can crawl?  You don't know me, Doc.<br> I'm un-insultable.<br>  Especially by a guy who thinks he can run a ship  on mushrooms that I pick off my pizza.<br>  Spores are clean, renewable.<br>  Yeah, do they come with house dressing?  Do you have any idea how many planets  have been ruined by dilithium mining?  How many battles were fought  to corner its supply? Of course you don't.<br>  You're one of those people who never even consider it.<br>  And you're one of those people that does the ha-ha jokey thing  and then gets all huffy and in high dudgeon  when you can't think of a comeback.<br>  Do you have gum?  Grape.<br> I  You know, it was only a couple centuries ago that  the Earth nearly choked to death on pollution.<br>  Then we all woke up, and within a generation,  everything from a truck to a toaster  Do you want Sorry.<br> Sorry  was covered in solar panels.<br>  Yesterday's solar panels are today's fungi.<br>  Hmm.<br> I can fix stuff  with duct tape, if you want.<br>  Do you think May had anything to do with the sphere?  What a giant entity from our universe  and a mycelial species from the network?  Well, they have as much in common  as me and that grease monkey.<br>  I could fix that analogy with duct tape, too.<br>  [SPEAKING RUSSIAN.]<br>       [EXHALES.]<br>  Burnham to bridge.<br> The universal translator  is back up and running ship-wide on all systems.<br>  [COUGHING.]<br>  Saru! What is going on?  This is not just a cold.<br>  [COUGHS.]<br>  No, it is not.<br>  [GRUNTING.]<br>[SCREAMS.]<br>  [ALARM BLARING.]<br>  [DEEP, INCREASING HUM.]<br>  What's that hum?  Get down!  Okay, there's more where that came from.<br>  We've got a hundred gigaelectron volts  surging through the local relays.<br>  Computer's isolated the compartment  in order to contain the damage.<br>  We've still got our life support.<br>  Yeah, but it could kill us.<br>  If our oxygen ignites, we'll cook like french fries.<br>  Well, we could divert the power to act like a  - a-a lightning arrestor.<br> - We could use the door  as a ground.<br>  Then the surge would dissipate through the frame  of the ship.<br> The question is,  how do we conduct the surge from there to there?  No, a gas could, once it ionizes.<br>  I infuse the spores with an argon-xenon mixture  to slow decay.<br>  We could link up the canisters  to contain the gas, our version of a lightning rod.<br>  That's actually not a stupid idea.<br>  It's my version of the house dressing,  - but it saves your life.<br> - Huh.<br>  Bridge.<br> What happened?  Did the sphere fire on us?  OWOSEKUN: Negative.<br>  EPS conduits are overloading.<br>  Systems are going haywire.<br>  The virus is spreading.<br>  What is happening to the ship?  - We have to get to the bridge.<br> - No, no, no, no, no.<br>  Right now we got to get you to sickbay.<br>  Gas her up.<br>  [WHOOSHING, BEEPING.]<br>  - Gas transference at 100%.<br> - You're gonna do that manually?  Uh, yeah, 'cause obviously you're not.<br>  Flick the switch.<br>  [RENO SCREAMS.]<br>[POWER WHIRRS DOWN.]<br>  [POWER WHIRRING UP.]<br>  Are you okay?  I feel like I've been hit by lightning  for the second time this week.<br>  Reno?  Reno? Reno, are you all right?  Weird dream.<br>  I was playing drums for Prince,  and there were doves and a parade.<br>  Okeydoke.<br>  Wait.<br>  It's gone.<br>  [CLACKING, SCREECHING.]<br>  [DEEP GROWLING.]<br>  Tilly!  She won't let  she won't let go!  She won't let go.<br>  [ALARM BLARING.]<br>  [COUGHING.]<br>  [COUGHING.]<br>What's happening to him?  I'm hoping Dr.<br> Pollard can tell us.<br>  Well, comms is down, so I need to see what the situation is  in sickbay, anyway.<br>  POLLARD: Triage plasma burns on level one.<br>  Send non-critical to sickbay two.<br>  PIKE: Doctor.<br>  POLLARD: Bring him here.<br>  [PANTING.]<br>Elevated heart rate,  spiking adrenal levels,  increased neural activity.<br>  The pain would render the average humanoid unconscious.<br>  [GRUNTS.]<br>  What do we do about those?  Nothing.<br> It is an effect of  my condition.<br>  Ocular discomfort?  No.<br> Kelpiens can see far deeper  into Th-the light spectrum than humans.<br>  I keep seeing flashes of ultraviolet light,  invisible to you, but quite the opposite  for me.<br> Are these symptoms  common among Kelpiens?  This is pointless.<br> And the ship is being  further immobilized as we waste time.<br>  There is no reason to believe the sphere is benevolent.<br>  Now, please  Commander.<br>  Dr.<br> Pollard is trying to help you.<br>  [SIGHS.]<br>  Yes.<br> It is unique to my people,  and it is terminal.<br>  Are you certain?  I have never been more certain of anything in my life.<br>  When I awoke  in discomfort this morning  [PANTS.]<br>  I hoped it was just a passing cold.<br>  But now I have to face the truth.<br>  I do not understand why  but I am beginning to think that  the sphere is is triggering  the Kelpien biological process known as  Vahar'ai.<br>  It is the event that signals  when Kelpiens are ready to be  culled for slaughter by the Ba'ul,  the predator species on my homeworld  of Kaminar.<br>  But there are no Ba'ul here.<br>  It does not matter.<br>  Kelpien ganglia only enflame  in this manner as we near our end.<br>  I am a  a slave to my biology.<br>  We are not gonna let you die.<br>  There has to be something  that we can do.<br>  There is not.<br>  Kelpiens undergoing Vahar'ai  either die in the culling  or are driven to madness by the effects  of Vahar'ai.<br> Either way,  death is inevitable.<br>  STAMETS: The mycelial entity has attached itself to Tilly.<br>  We're trying to free her.<br> Engineering to bridge.<br>  Engineering to bridge.<br> Come in.<br>  Comms are down.<br>  Along with most of the ship.<br>  TILLY: Don't feel bad.<br>  I know you have to keep me in quarantine.<br>  Or us.<br>  I feel a little weird.<br>  [WEAKLY.]<br>: I should  I should be terrified, but I'm not.<br>  May means me no harm.<br>  Are you able to see May again?  How do you know this is benign?  May was scary, and she was clingy, and she,  like, never shut up, but  she never hurt me.<br>  She said she had a plan for me.<br>  She said that I was her only chance.<br>  Did you ever think she was manipulating you?  That's what she said you were doing she said that you  you were trying to poison me against her.<br>  Okay, if that thing wasn't freaking me out, she is.<br>  The blob seems to be secreting a psilocybin hallucinogen  to influence her emotions.<br>  RENO: So you're saying  she's on a bad trip?  Or maybe it's just trying  to calm her down so she won't be scared.<br>  Or so she won't fight back?  BURNHAM: If Saru thinks that somehow the  the sphere triggered Vahar'ai,  maybe escaping its grip would stop what's happening to him.<br>  The problem is freeing ourselves  before it destroys the ship.<br>  If it wanted to destroy us, why the slow attack?  It's inefficient, right?  It must need something.<br>  It's taking what it needs.<br> Without the computer,  all our primary systems begin to fail, including the warp core.<br>  The EPS grid's unstable, and it's cutting off  entire sections, including Engineering.<br>  Life support's down to 60%, but who's counting?  It is not logical for a virus to kill its host.<br>  You're attaching a known medical diagnosis to an unknown entity.<br>  SARU: There may be a way to  slow the virus.<br>  If we can analyze its properties,  we may be able to develop digital antibodies.<br>  That could give us back enough control to break the ship free.<br>  SARU: In theory, but it will be  a slow process, like  army ants eating a water buffalo.<br>  I'm on it.<br> Going to the science lab.<br>  You will need my help.<br>  PIKE: Saru, Commander Burnham can handle this.<br>  There's no reason to risk your health any further.<br>  I am dying, Captain  but I am most certainly not dead.<br>  [COUGHS.]<br> The antibodies  are s-slowing the virus's progress.<br>  Life support at 47%.<br>  You are wondering why I kept this from you.<br>  You don't have to bear it alone.<br>  How  do I explain  to the woman who has fought  over and over for the right to take her next breath  that I come from a race that submits?  I'm your friend.<br>  There will never be judgment between us.<br>  Well, to my shame  hiding is my nature.<br>  I have learned multiple languages,  yet never shared my own,  fearful of revealing my own  alienness.<br>  May I  request a favor?  Of course.<br>  Anything.<br>  I have kept detailed personal logs  since joining Starfleet.<br>  I would ask you  to officially catalogue them, so that when  General Order 1 no longer applies to the Kelpiens  they will know a journey like mine  is possible.<br>  [VOICE BREAKS.]<br>: It would be my privilege.<br>  Did you record your life before Starfleet?  Uh, you might say my life began  when I was granted refugee status by the Federation.<br>  While being processed at Starbase Seven  [SIGHS.]<br>  I saw for the first time  life-forms from across the universe,  some with less than I had,  yet, with a dream  of something better.<br>  I listened.<br>  Every story I heard [SNIFFLES.]<br>  created a space inside me  to feel more, to  love more.<br>  I joined Starfleet  to help those in need  the way I was helped.<br>  You are  the most empathic soul  I know.<br>  There was just one  painful caveat to my signing up.<br>  [VOICE BREAKING.]<br>: I could never return home.<br>  Why? [GROANS SOFTLY.]<br>  Oh.<br>  More flashes of ultraviolet light.<br>  They are growing  in strength and frequency.<br>  - I'll get something from sickbay.<br> - No.<br> No.<br>  I will be fine.<br>  The captain asked you  to return to the bridge as soon as possible.<br>  I can continue the work here.<br>  OWOSEKUN: Spock is still at maximum warp, Captain.<br>  If we're stuck here much longer, we're going to lose him.<br>  Reallocate power from the transporters  to long-range sensors.<br>  I don't want to lose contact with his shuttle.<br>  Even with sensors at max, we won't be able  - to track him for much longer.<br> - Contact Engineering.<br>  See if they can reroute impulse power to the deflectors.<br>  If we can raise shields, we might be able  to disrupt the stasis field just enough to break free.<br>  If so, can we jump away?  Negative, sir.<br> We don't have enough power  to create the necessary hull cavitation.<br>  Comms are still down in Engineering, sir.<br>  Security protocols are also malfunctioning,  locking off parts of the ship.<br>  How are we doing, Commander?  The digital antibodies are doing their job,  but progress is sluggish.<br>  I'm running out of options.<br>  If we lose Spock, we lose any chance of protecting him.<br>  Permission to go to Engineering.<br>  We can't talk to them here, but maybe  I can help them get power to shields.<br>  Permission granted.<br>  [MYCELIAL CREATURE SQUEALING SOFTLY.]<br>  [TILLY PANTING.]<br>[BUTTONS BUZZ.]<br>  - What's wrong? - The doors won't open,  - and that thing reattached itself to Tilly.<br> - Can you detach it?  I could cut it off.<br> She wouldn't even lose a freckle.<br>  Bad idea.<br>  If it's a symbiote, removing it might kill her.<br>  Well, thanks for stopping by.<br>  I came to see if we can find a way to boost power to shields.<br>  No.<br> With the systems fluctuating,  this section is partitioned off.<br>  We can't get to the warp core.<br>  Michael  [LOUD, GASPING BREATHING.]<br>  I feel really tired.<br>  What is happening?  That blob is sending her  in and out of consciousness.<br>  Why is it doing that to her?  It's not like we can ask it.<br>  Actually, we can.<br>  This is a harmonic interface.<br>  It-it links my neurons to the mycelial network.<br>  With modification,  it could link May to Tilly's central nervous system.<br>  Let May speak using Tilly's mouth.<br>  Wait.<br> What did you say?  We're gonna talk to it.<br>  We need it to tell us what it wants.<br>  So do we.<br>  The sphere it's been trying to tell us something,  and we haven't been listening.<br>  - Well, damn, woman, go! - We got her.<br>  Saru,  could the sphere be trying to talk to us?  Using the virus as a way to make first contact?  [OSCILLATING SHRIEK PLAYING.]<br>  Yeah.<br> Yes, of course.<br> I've been so blind.<br>  The ultraviolet wavelengths are repeating, like  like letters would in  in a sentence everywhere.<br>  Okay, Saru.<br> Saru, stop.<br> You're hurting yourself.<br> [COUGHING.]<br>  No, no.<br> No.<br>  You called me an "empathic soul,"  and it is true.<br> My ganglia  respond to shifts in my environment,  like an early-warning system.<br>  So it is it is no coincidence  that I started feeling sick just before  the sphere engaged us.<br>  - Why would? - I know what it is trying to say.<br>  Not first contact, Burnham.<br>  Last contact.<br>  I think it came to us to die.<br>  [LOUD WHOOSHING.]<br>  May?  Still me.<br>  RENO: Signal's piss-poor.<br>  We need to amplify it.<br>  Cortical implant.<br>  What, you're talking about trepanation?  Drilling a hole in her skull? Yeah.<br>  Are you gonna fix her up with duct tape after?  Maybe.<br> Commander?  I think she's right.<br>  And I think you think that, too.<br>  Then we do this together.<br>  This is all I had laying around.<br>  Please tell me you have a laser scalpel.<br>  No.<br> We're gonna do this old-school.<br>  We need to sterilize that drill bit.<br>  First aid kit's over there.<br>  I was able to raise shields.<br>  We've gained some ground, but we're still  being held by the stasis field.<br>  Power levels coming and going, Captain.<br>  Security reports two dozen crew still trapped below deck.<br>  Life support failing.<br>  I'm reading an energy buildup from inside the sphere.<br>  Spiking 10,000 degrees Kelvin and rising.<br>  Is it powering up weapons?  Reading no identifiable weapons,  but its internal temperature is now 20,000 degrees Kelvin.<br>  Divert all non-essential power to weapons.<br>  Lock on that thing's radial axis and prepare  to fire photon torpedoes on my order.<br>  Aye, sir.<br> Arming torpedoes.<br>  SARU: Captain, hold your fire.<br>  I do not believe the sphere means us any harm.<br>  All evidence to the contrary.<br>  That thing's about to destroy us.<br>  It's not destroying us, Captain.<br>  It's trying to send us a message.<br>  We received its message.<br> I'm about to send our reply.<br>  Captain, what if Vahar'ai, my death process,  was triggered because the sphere is also dying?  You want to run that by me again?  We Kelpiens have a defining trait  hard-wired into our DNA: empathy.<br>  I can feel the sphere reaching out,  trying to share something before it expires.<br>  Sir, I trust Saru's feelings implicitly.<br>  - That sphere didn't come to attack us.<br> SARU:- Captain,  I believe I have discerned its means of communication.<br>  Detmer, status on Spock's shuttle?  Exits our sensor range in six minutes.<br>  Once we lose his warp signature,  - we won't be able to reacquire it.<br> - Set an intercept course.<br>  I want us hauling ass the second we break free.<br>  Aye, sir.<br>  Keep talking and make it fast.<br>  What if the sphere  was not attacking our universal translator,  but attempting to teach us its language  because it wants to be remembered,  to preserve its history  using Discovery,  but it cannot unless we power down and let it in?  That thing snatched us out of warp and almost gutted the ship.<br>  What if we lower shields,  and that's exactly what it needs to end us?  [SARU PANTING.]<br>  Computer, adjust view screen display  to ultraviolet.<br> [COMPUTER TRILLS.]<br>  That is the light pattern I have been seeing  everywhere, repeating again  and again, generated by the sphere's virus.<br>  Computer, run the light pattern  through the universal translator.<br>  Captain, I believe we are looking  at a multitude of languages  so advanced, and knowledge so vast  that it simply overloaded our system.<br>  This sphere is 100,000 years old.<br>  Imagine what it knows, what it's seen.<br>  Captain, this falls under Discovery's  original mission statement  as a science vessel.<br>  STAMETS: Well, I'll be.<br>  An amplified cortical implant.<br>  Hey, kiddo.<br>  What's your favorite song?  What?  Your favorite song sing it for me.<br>  [HUMS SOFTLY.]<br>  Though I'm past one hundred thousand miles   BOTH:  I'm feeling very still  And I think my spaceship knows which way to go   Tell my wife I love her very much   She knows.<br>  [HIGH-PITCHED WHIRRING, TILLY WHIMPERS LOUDLY.]<br>  [GASPS, SIGHS.]<br>  [PANTING.]<br>  [SOFT WHIRR.]<br>  [PANTING LOUDLY.]<br>  May?  [IN MAY'S VOICE.]<br>: You wanted to talk to me?  Here I am.<br>  What do you want? Who are you?  I'm from a species known as the JahSepp.<br>  We lived harmoniously until an alien intruder began to arrive  at random intervals,  ravaging our ecosystem irreparably.<br>  So, you came for help to rid your species  of a destructive alien presence?  You are the destructive alien presence.<br>  The-the the jumps?  Discovery's jumps?  I broke through the confines of the network  to reach you, at great risk.<br>  Risk? You infected my friend.<br>  You don't belong inside of her.<br>  You fly the ship from within the cube, I can reach you.<br>  In Tilly, I found the memory of May Ahearn, someone I knew  she'd be sympathetic to, if given a second chance.<br>  Once she trusted May, I planned to persuade her  to deliver my message to you.<br>  Oh, I can only ask for your forgiveness.<br>  I knew better.<br>  I know better.<br>  I'll do whatever it takes to fix this.<br>  All I ask is that you let Tilly go.<br>  I can't.<br>  I have other plans for her.<br>  [SCREECHES.]<br>  - Wrong! - Oh.<br> No!  [YELLING.]<br>  Tilly!  The sphere's  internal temperature is approaching  ten-to-the-sixth-power Kelvin and rising.<br>  Our weapons will just disintegrate in that heat.<br>  Solar temperatures.<br>  A sign of core collapse.<br>  Captain, if we are correct,  once the transmission is complete, the sphere can die  knowing that it will live on after it is gone.<br>  We can choose to fulfill our part in its destiny,  or simply let it fade away unremembered.<br>  Spock's shuttle is almost out of sensor range, sir.<br>  Prepare to lower shields.<br>  If this goes south, overload the warp core  and eject it at the sphere on my command.<br>  Even at half the distance, the blast will decimate it.<br>  When it lets go, we divert all power to shields  and try to ride the shock wave to a safe distance.<br>  Assuming it doesn't vaporize us first.<br>  If there's even half a chance you're correct,  I'm bound by my oath and conscience  not to let it vanish forever.<br>  Commanders, take your stations.<br>  I'll follow your lead.<br>  Lieutenant Detmer, lower shields.<br>  Aye, sir.<br> Shields down.<br>  [WHOOSHING.]<br>  [RUMBLING AND CRACKLING.]<br>  SARU: Bryce,  all channels open.<br> Owosekun,  divert all computing resources to Communications.<br>  Yes, Commander.<br> Here goes nothing.<br>  [POWER WHIRRING DOWN.]<br>  Transmission is downloading.<br>  All library computers  are processing at 20% above maximum.<br>  Whatever the sphere is saying, we're getting all of it.<br>  - How long until it blows? - Seconds.<br> Power  and energy levels are off the chart.<br>  Detmer, can you put enough distance between us in time?  Negative, sir.<br> We're still being locked by the stasis field.<br>  Transmission complete.<br> Detmer, eject the warp core.<br>  Computer controls not responding, sir.<br>  Detonation confirmed.<br>  Hard astern.<br> Full impulse now.<br>  SARU: Ah.<br>  It is so beautiful.<br>  The light is almost like music.<br>  Yes, it is.<br>  I'm at a loss as to how we're still alive to see it.<br>  The sphere's stasis field reversed polarity  a nanosecond before detonation  and pushed us clear.<br>  Its final act was to save us  so we could tell its story.<br>  Hand me the damn torch.<br>  [BOTH GRUNT.]<br>  [TILLY GASPING.]<br>  [WHIMPERING.]<br>  Tilly.<br>  Breathe.<br> Breathe, Tilly.<br> [HYPERVENTILATING.]<br>  Breathe.<br>  Breathe, breathe.<br> Slow it down.<br>  Breathe.<br> Come on, you're okay.<br>  You're still you.<br>  [HYPERVENTILATING.]<br>Tilly.<br>  Slow.<br> Shh.<br>  [OVER COMMS.]<br>: Stamets to Burnham.<br> We got Tilly.<br>  She's okay.<br>  [EXHALES.]<br>  [SIGHS.]<br>  Now it is my turn.<br>  Take me to my quarters, please.<br>  [BREATHING RAGGEDLY.]<br>  [DOOR WHOOSHES OPEN.]<br>  I left home with a handful of seeds.<br>  Is this from your homeworld?  It is the blossom that marks the  the passing of seasons on Kaminar.<br>  Somewhere along the way, I I lost who I was.<br>  So focused on being  the best Kelpien in Starfleet.<br>  Defined by my rank  and uniform  until that is all I became.<br>  You are wrong.<br>  Look at what you've achieved.<br>  You found yourself among the stars.<br>  You found your bravery.<br>  Your strength.<br>  You've saved so many lives, Saru.<br>  Including mine.<br>  [BREATHING RAGGEDLY.]<br>  It is time.<br>  In that first drawer, you will find a Kelpien knife,  a keepsake I use to prune my flowers.<br>  I need you  to to sever my ganglia  and end my suffering.<br>  I need your help  so that I can die now,  peacefully,  before the pain and madness overtakes me.<br>  [SNIFFLES.]<br>  [SIGHS.]<br>  Thank you, Michael.<br>  [SOBBING.]<br>  Do we have to do this?  Is it truly inevitable?  I am sorry.<br>  [SOBS.]<br>  I know how hard this is for you.<br>  How many people you've already lost.<br>  I would do it myself, but  I am too weak.<br>  After all this time  after everything that we have been through together  I realize now  that you are my family, Saru.<br>  I feel the same  about you.<br>  You are the only one who knows me.<br>  You replaced the sister I had on Kaminar.<br>  [SNIFFLES.]<br>  Siranna.<br>  That knife was hers.<br>  I left her  without so much as a good-bye.<br>  You promise me  no matter how frightening or painful it may be  promise me  you will  mend your relationship with Spock.<br>  If you and I can build this type of bond,  I'm certain you can do the same with him.<br>  Please.<br>  I promise.<br>  Good-bye, Michael.<br>  I love you, Saru.<br>  Michael? What is wrong?  I- I bare I barely touched it.<br>  They fell out on their own.<br>  [CHUCKLES SOFTLY.]<br>  I I, uh  don't understand.<br>  I should be  [BOTH LAUGH.]<br>  POLLARD: Your vital signs have returned to normal.<br>  How are you feeling?  I have never felt this way before.<br>  Fear has always been the governing principle of my life.<br>  But now  it is gone.<br>  More than that, I feel  power.<br>  My own power.<br>  Well,  consider yourself certified for duty, Commander.<br>  Despite speaking 94 languages,  there are times when words are not enough.<br>  Initial reports  are coming in from the science teams.<br>  The sphere didn't just give us its language.<br>  We have recorded everything it has seen and experienced  the last 100,000 years.<br>  Its legacy.<br>  And your legacy has a new chapter.<br>  A new and deeply troubling one.<br>  The Kelpien way of life  has always been oriented toward death  and the role the Ba'ul play in it.<br>  My people call it "The Great Balance.<br> "  It is our central, organizing truth.<br>  But you proved it wrong.<br>  Precisely.<br>  And you asked me before why I could not go home.<br>  It is because I made a promise to Captain Georgiou  to uphold General Order 1,  not to interfere with the destiny of my species.<br>  But now,  knowing that what my people have accepted as the truth  is a lie?  What does this mean for us?  For my species?  My my planet?  COMPUTER: The war between the Quaternary star systems  and the Roquar'ri Imperium lasted a solar cent  [RECORDING SHUTS OFF.]<br>  From the sphere?  [STAMMERS.]<br> The computer's translation.<br>  It's like we've found our galaxy's Dead Sea Scrolls.<br>  Federation scientists will be studying this for centuries  thanks to you and Saru.<br>  I hope it was worth the cost.<br>  Cost us nothing, sir.<br>  I combed through the sphere's sensor records  and found the last thing that it saw:  Spock's shuttle.<br>  I was able to track it beyond our sensor range.<br>  Conn,  Commander Burnham is sending you  the coordinates of Spock's shuttle.<br>  Plot a course, and don't spare the horses.<br>  DETMER: Aye, sir.<br>  From now on,  I'll work to keep you clear  about whatever happens with your brother.<br>  Thank you, Captain, but I have had a change of heart.<br>  I can't abandon him.<br>  No matter the mistakes that I've made,  I need my brother to know that I will always be there for him.<br>  No matter what.<br>  [DOOR WHOOSHES OPEN.]<br>  We need to close the door to the network.<br>  Forever.<br>  Just making final calculations.<br>  MAY: Hi, hi.<br> Hello? Hello? It's me.<br>  Did you see that?  - See what? - May.<br>  She was there, and then she was gone.<br>  Um [LAUGHS.]<br>  you might still be coming down off your hallucinogen.<br>  - No, I swear.<br> I swear.<br> RENO:- Yeah.<br>  No, it's natural to be paranoid  in your condition.<br> Something is not right.<br>  Something's not right.<br>  MAY: Hello?  Tilly.<br> Hello?  [ECHOING.]<br>: Tilly.<br> Hello, hello  Wow.<br>  Have you always been a superior being?  MAY [ECHOING.]<br>: Hi.<br> Hello? Hello?  [ECHOING HOOTS.]<br>Because  the harmonics in your aura  You know, I was thinking  the exact same thing about your aura.<br>  What's that dust on your face?  dust on your face?  It's on yours, too.<br>  STAMETS [ECHOES.]<br>: yours, too.<br>  That tastes like  RENO: Psilocybin?  STAMETS: Psilocybin?  It dosed us.<br> It dosed us.<br>  Slap me really hard.<br>  Why'd I do that?  To get me focused enough to find the med kit.<br>  I need to hit us both with a shot of impedrizine  so we can come down.<br>  Now I need to give one to Tilly.<br>  Wait a minute.<br> Where is she?  Tilly?  Wait.<br>  Oh, my God, they took her.<br>  No.<br> No, no, no, no, no, no, no, no.<br>  [SUCKS AIR IN.]<br>  Tilly?  No!  Ensign Sylvia Tilly is out there.<br>  And we have an hour to find her.<br>  - You kidnapped me! - I need your help.<br>  Try not to blow us up.<br>  Don't be so worried.<br>  Burnham to the bridge.<br> We have a complication.<br>  We wont survive complications.<br>   Star Trek: Discovery SO2EO4- An Obol for Charon     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e03" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e05" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

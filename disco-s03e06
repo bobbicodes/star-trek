@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e06 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e06 - Scavengers Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e06 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e06"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e06 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e06" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;Scavengers</div>
+
+            <h1>Star Trek: Discovery (2017) s03e06 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Scavengers</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			[narrator.]<br> Previously on Star Trek: Discovery:  You get a fresh start in a new quadrant.<br>  By my count, we're even.<br>  [Book.]<br> Till next time.<br>  [Burnham.]<br> Philippa?  Are you okay?  Why would you ever, ever ask me a question like that?  [Burnham.]<br> Nobody knows  if the Burn was an accident,  but devastation flashed in an instant across all known space.<br>  [Adira.]<br> Senna knew the algorithm to find Federation Headquarters.<br>  - These coordinates? - Will take you where you need to go.<br>  You didn't tell her about me.<br>  - How are you here? - I don't know.<br>  Captain, we're here.<br>  [Saru.]<br> Mr.<br> Bryce, hail Federation Headquarters  and tell them the U.<br> S.<br>S.<br> Discovery is reporting for duty.<br>  I'm Admiral Charles Vance, commander-in-chief, Starfleet.<br>  This is my chief security officer, Lieutenant Willa.<br>  Welcome home.<br>  [dramatic music playing.]<br>  [Saru.]<br> In the past three weeks,  Discovery has evolved even more than we could have imagined.<br>  Her battle scars have been healed.<br> Internal systems updated.<br>  Programmable matter has been integrated with our pre-Burn technology.<br>  Even her nacelles are now detached, improving maneuverability  and enabling us to be more efficient in flight.<br>  Her retrofit is nearly complete.<br>  It is quite extraordinary, the journey we have had.<br>  We are grateful to have assisted Federation planets  in the deepest regions of the galaxy and equally grateful to be home.<br>  We are now ready to be of service here in any way we can be.<br>  Welcome back to the fleet, Discovery.<br>  And your crew?  Adapting and retraining as needed.<br>  Commander Burnham is overseeing the process.<br>  Thank you, Captain Saru.<br> Okay, let's get to it.<br>  Reilling 7 needs additional shields.<br> They're dealing with solar flares.<br>  - Kardashev? - We'll bring them some shades.<br>  - If they can last a week.<br> - They can.<br>  Kaijur 12 needs replicator replacement technology.<br>  They've got a severe food shortage.<br>  Captain Rahma, that'll be your assignment.<br>  Aye, sir.<br>  Captain Bandra, Le Guin will take the supply run to Na 'Seth.<br>  - See you in two months.<br> - Yes.<br>  With respect, admiral,  given severely limited warp travel, if time is of the essence  No question.<br> I could use ten of you right now.<br>  But as my only rapid responder, I need you here.<br>  Rapid responder? Sir.<br>  Discovery has an experimental advanced drive system  that enables us to respond instantaneously anywhere in the galaxy.<br>  Word of this critical asset will not leave this room until I say so.<br>  Now, Argeth is on yellow alert.<br>  Our intel says that the Emerald Chain  might be making another move in the next 12 hours.<br>  The Andorian-Orion syndicate?  [Vance.]<br> In this part of the quadrant, yes.<br>  Osyraa and the Chain have been pushing hard lately.<br>  I don't know what they're after on Argeth, but they're not gonna get it.<br>  If things heat up, I need you to jump.<br>  We will be ready, admiral.<br>  Dismissed.<br>  [beeping noises.]<br>  - Are we supposed to get new holo-PADDs? - You already have them.<br>  Cool.<br>  Okay.<br> This is my new favorite thing.<br>  Your new badges also function as tricorders  and communicators and personal transporters.<br>  We'll get to those later.<br>  There are also upgrades to your consoles.<br>  Check it out.<br>  Doesn't seem that different.<br>  [Willa.]<br> Our team kept the interface similar for ease of transition,  but once you engage  Whoa!  What just happened?  That's the retrofitted programmable matter.<br>  It reads your bio-signs.<br>  - Do we really need all of this? - Hell, yeah, we do.<br>  [Willa.]<br> It's adaptive, learns and adjusts to your reflexes  to create an interface style unique to you.<br>  Feels smooth.<br>  And cool.<br>  Like glass.<br>  Whoops.<br> Didn't expect to This isn't the mess hall.<br>  [clears throat.]<br> Bye.<br>  Apparently, he hasn't adapted yet.<br>  [console trills.]<br>  Lieutenant Nilsson, we are being hailed by a vessel outside  - of the Federation's distortion field.<br> - [Willa.]<br> No one gets here  - unless they know where they're going.<br> - On-screen.<br>  [suspenseful music playing.]<br>  [purring.]<br>  Grudge?  [Book over recording.]<br> Hey, Michael.<br>  I'm recording this message in case I can't tell you in person.<br>  I was on my way to the Bajoran exchange when this guy next to me  started talking about a black box,  and I think his black box is one of the ones you're looking for.<br>  It's on Hunhau, Emerald Chain territory.<br>  I'm gonna do some looking around.<br>  If things don't go well,  I'll set the ship to bring Grudge to you if I'm not back in 24 hours.<br>  Now, despite her glacial emotional process,  her initial reluctance towards you is melting away.<br>  I'll come find you two, okay? I won't be long.<br>  This was three weeks ago.<br>  What would the black box tell us about the Burn?  Since it has a record of a ship's last moments,  every vessel destroyed by the Burn  should have stopped recording at the same microsecond.<br>  But the two I found in my year here didn't.<br>  If Book found a third one and it shows the same variance,  that means the Burn didn't happen all at once.<br>  Suggesting what?  Suggesting the Burn had a point of origin.<br> We can triangulate the data to locate it.<br>  We have got to get to Hunhau.<br>  I'm so sorry, Michael, but at the moment, we cannot.<br>  - Why? - The admiral has ordered Discovery  to be ready to jump to Argeth within the next 12 hours.<br>  - Ah, it won't take me that long.<br> - Commander.<br>  To be clear, the situation there could heat up any time in the next 12 hours.<br>  Captain,  the Federation cannot stabilize  while the cause of the Burn remains a question.<br>  And there's a man's life at stake.<br>  There are many lives.<br>  Today, I saw how vulnerable the Federation has become.<br>  The admiral would not be convinced by a cat in a ship.<br>  I understand this will be difficult, but, please, resume your duties  and prepare the crew for a possible jump to Argeth.<br>  Yes, sir.<br>  [dramatic music playing.]<br>  [Burnham.]<br> I can't do nothing.<br>  You're the only person who'd say yes to going on an unsanctioned mission.<br>  If I'm right about this,  I'll be bringing back proof about what caused the Burn.<br>  You're far too smart not to realize you're dropping Saru in the fire.<br>  He's trying to prove his legitimacy,  and his Number One is running all around the galaxy, disobeying direct orders,  which has a very familiar ring.<br>  I'd rather regret something I did than something I didn't.<br>  Now we're getting somewhere.<br>  Are you in or out?  - Georgiou? - You had me at "unsanctioned mission.<br>"  [theme music playing.]<br>  Hunhau is an M-class planet.<br>  Sparsely populated.<br> Looks like they mainly salvage ships.<br>  Just so I'm clear, what is our primary objective?  The black box.<br>  And Book.<br>  So, what does this cat-loving friend have  that made you fall for him like a 2-year-old on the edge of a well?  Excuse me?  The Tyler thing ended in disaster.<br> Surprise, surprise.<br>  So, I get why you wouldn't want to have feelings for the blob whisperer.<br>  I don't have feelings for the blob whisperer.<br>  - And Tranceworms aren't blobs.<br> - I was referring to the cat.<br>  And you seem to know this ship pretty intimately.<br>  I spent a lot of time here.<br>  I didn't love here or anything.<br> I had my own ship.<br>  - What? - You said, "Love here.<br>"  I said, "Live here.<br>"  - Love here.<br> - You're not qualified to judge.<br>  Your emotional spectrum runs from cranky to homicidal.<br>  And why are you bringing up Tyler, anyway?  San?  It's raising my heart rate.<br> I don't even need this caffeine now.<br>  Espresso.<br>  [echoing.]<br> Do you want an espresso?  No.<br>  Philippa?  What is going on? I know something's happening with you.<br>  [console trilling.]<br>  - [Georgiou.]<br> Looks like a war zone.<br> - [Burnham.]<br> It was caused by the Burn.<br>  I've seen these ship graveyards all over.<br>  The populated area's shielded, I can't get a lock on Book's life sign.<br>  We're being hailed.<br>  This planet's a private salvage yard.<br>  Why don't you get our gear?  What are you doing here?  I must be here to buy some salvage, meatsack.<br>  All buyers go to the local Bajoran exchange.<br>  I'm not interested in getting ripped off by an avatar.<br> You insult me.<br>  My servant and I are transporting down.<br>  Do that and my auto-defense systems will take you out.<br>  I decide who's authorized to land and when.<br>  You don't look smart enough to run this dump.<br>  How soon before your boss finds out  I have real dilithium onboard I am willing to part with  and you're making me hover like a peasant?  Hang on.<br>  - Real dilithium? - What did I just say? Imbecile.<br>  You want to let this prize go?  You don't think your boss is watching you? I am losing my patience.<br>  - Well - Form a sentence!  All right.<br>  You're cleared to land.<br> But I've got my eyes on you.<br>  I don't care about your eyes unless they were dangling from my belt.<br>  - Really? - He is a bully.<br>  They crumble like a cookie when they meet a bigger one.<br>  What is that?  Cat collar.<br> To find Grudge if she got lost.<br>  That cat can't get lost.<br> It's got its own gravitational pull.<br>  Book never went anywhere without the receiver.<br>  So, I reverse-engineered it.<br> What he used to find her will now find him.<br>  The things we do for love.<br>  Let's just find what we're here to find, before I strangle you.<br>  [Grudge meowing.]<br>  Grudge?  Hello.<br>  [lighthearted music playing.]<br>  On my bed.<br>  Hey there, partner.<br>  Pick you up.<br>  Just full disclosure, I'm not a cat person.<br>  You're gonna have to go back in the box.<br>  Computer, locate Burnham.<br>  [computer.]<br> Commander Burnham is not onboard.<br>  Did you eat her?  Computer, scan Shuttlebay for Cleveland Booker's ship.<br>  Unable to locate.<br>  Come here, kitty.<br>  Come.<br>  No, no, no.<br>  No, no, no.<br> Grudge.<br> [chuckles.]<br>  You gotta come here, bud.<br> You gotta go back in the box.<br>  I don't like you.<br>  [dramatic music playing.]<br>  [Burnham.]<br> Book said he already found a black box,  but if you see any others while we're down there, grab them.<br>  [Georgiou.]<br> Out from under the idiot's nose? Child's play.<br>  No merchandise until I get your dilithium.<br>  You don't get your weapons back until you leave.<br>  If I wanted to kill you, I wouldn't need a weapon.<br>  And from the looks of this place, they'd name a holiday after me.<br>  Who put you in charge?  I'm Osyraa's nephew.<br> This is her territory.<br>  - What makes you think? - What makes you think?  Don't tell me you have actual brain matter or whatever nephews have.<br>  [Burnham.]<br> Where do you get your help from? All these people.<br> Beta 6?  Marin-Jira?  They owe Osyraa.<br>  They work for us forever.<br> It's pretty simple.<br>  I'd love to meet this Osyraa.<br> She sounds like my kind of girl.<br>  We're going over there.<br>  She's looking for self-sealing stem bolts from the late 24th century.<br>  Down there.<br>  Hang a right at the entrance.<br> Next to the plasma coils.<br>  You should be able to find what you're looking for.<br>  I'm particularly interested in any pre-2400 items.<br>  These ships are old as dirt.<br> There's plenty of good scrap in them.<br>  Here.<br>  Please.<br> Half of those parts didn't even exist in that era.<br>  Now, this has all its original parts, 930 years old and still works.<br>  Don't touch.<br>  [man 1.]<br> Move it.<br>  - Captain, there's more over there.<br> - Let's go.<br>  [man 2 over PA.]<br> Attention, Sector 6 arriving workers.<br>  Report immediately to Smelting Forge 3  for mandatory security protocols and implantation.<br>  [man 3.]<br> I'm sorry.<br> I have to do this.<br>  Try to relax.<br> It'll only hurt for a minute.<br>  Get off me, traitor.<br>  [man 4 groans.]<br>  Hey, come on.<br> Watch that elbow, Lai.<br>  - I'm good.<br> - Not since that regulator  tried to separate you from it.<br> I got this, okay?  Hey, Lai.<br> I found some Tala bark.<br> It might help with your elbow.<br>  Anything from you is nothing I need.<br>  [Book.]<br> Ryn, let him go.<br>  They think I wanna be this guy.<br>  They know Osyraa will kill you slow if you say no.<br>  Try not to take it personal.<br> We're all trying to  - [Ryn.]<br> Who's that? - Um  A friend.<br> Just keep your eyes down.<br>  Hey, drop it!  What?  - Show me.<br> - Hey, come on.<br> Take it easy.<br>  [Tolor.]<br> You!  Shut up.<br>  - Are you stealing from me? - It's just a water ration.<br>  Just a water ration.<br>  We work hard to bring you all the water you need.<br>  I guess that's not enough.<br>  Tolor, please [grunts.]<br>  [weapon charges.]<br>  [suspenseful music playing.]<br>  [Tolor.]<br> Open the door.<br>  We haven't tested the new system updates on the perimeter pylons.<br>  Maybe you'll go free or you might not.<br>  There's only one way to find out.<br>  - Three.<br> - [weapon discharges.]<br>  - [Lai.]<br> Please, don't.<br> - Two.<br>  One.<br>  [Tolor.]<br> Faster.<br>  I guess it does work.<br>  Get back to work.<br>  [Gray.]<br> I don't get it.<br>  Why you are shutting yourself away in this goldfish bowl?  [Adira.]<br> I'm working.<br>  There's a basketball court out there and bocce and fencing.<br>  Enticing.<br>  Adira, we're on this amazing moving world,  and I've only seen where you sleep, work and eat.<br>  And these are all vital functions.<br>  Could we make a new memory, please?  [Stamets.]<br> Who moved the intermixed pods? Ergonomics don't make any sense.<br>  That's way above my pay grade.<br> Talk to the admiral.<br>  Yes.<br> Well, the admiral expects us to jump to Argeth at any time.<br>  This place is in chaos.<br> Nothing's where it's supposed to be.<br>  Oh, these crazy kids and their chaos.<br>  Linus, don't do that.<br>  Sorry.<br> New badge.<br> Hm?  The spore drive's new and improved.<br>  I redesigned it so you won't have to use shunts.<br>  [inspiring music playing.]<br>  [Stamets.]<br> Well, it's a lot more comfortable.<br>  A little gooey.<br>  Nano gel.<br> It acts as a quantum transducer.<br>  Slips right off.<br> No residue.<br>  Thank you.<br>  [Georgiou.]<br> His death was efficient.<br>  [Tolor.]<br> Thank you.<br>  Now you know what happens when you break rules.<br>  [Georgiou.]<br> So I saw.<br>  A little messy but I assume that's the point.<br>  I want to buy the tech for that system.<br>  Proprietary, owned by Osyraa.<br>  - Not for sale.<br> - How disappointing.<br>  How do you control the perimeter fence?  - From your office? - I can't say.<br>  The controls are in your pocket.<br> You keep touching them.<br>  Servant, we're shopping.<br>  Uh, I want those magnetic interlocks and two plasma conduits.<br>  Ma'am, you also wanted warp coils to melt down for cortenum.<br>  - Buy me some time.<br> - Okay, go.<br>  What rubbish do you have here?  [Tolor.]<br> Well, we've got some tritanium power coils.<br>  - Bring me more.<br> - On the back shelves.<br>  [woman over PA.]<br> Forty-five minutes to shift change.<br>  - You weren't supposed to come.<br> - The hell I wasn't.<br>  And you sent a passive-aggressive holo.<br>  What? I sent a passive-passive holo which said I'm coming here.<br>  - Didn't say, "Come here.<br>" - It didn't need to.<br>  That was the aggressive part.<br>  - I gotta get you out of here.<br> - You can't.<br> I'll get myself out.<br>  If I cross that perimeter, what happened to that guy happens to me.<br>  I know.<br>  I got the black box, okay?  It's in the wall of my quarters.<br> You need to get it and go.<br>  I'm not leaving you.<br>  You see that clock?  Forty-three minutes until the shift change.<br>  Then I'm in one of those ships up top for a week.<br> There's no time.<br>  - Forty-three minutes is plenty of time.<br> - Osyraa breaks people.<br> Understand?  Ryn the Andorian, he was born into the Emerald Chain.<br>  He tried to rally the people.<br> They were beginning to listen.<br>  She hacked off his antennae and made him the guy that plants this thing.<br>  Now he's a pariah.<br>  [Burnham.]<br> We are gonna get you and everybody out.<br>  And I have an idea.<br>  Remember Iso 7?  - What's taking them so long? - I pay her to be thorough.<br>  Found what we were looking for.<br> They were buried pretty deep.<br>  Uh, I'll need 40 minutes to properly clean and inspect them.<br>  Forty minutes? [scoffs.]<br>  That's a lifetime.<br>  [clanging.]<br>  [Tolor.]<br> What the hell? Get a drone to stay on them.<br>  What do you idiots think you are doing?  Let's do a pre-check on oxygen-nitrogen levels in Main Bay.<br>  - What about the? - New stabilization system?  About to get to that.<br> So, if it overloads when Commander Stamets engages,  just lock down and reroute to containment.<br>  - Got it? - Okay.<br>  - Ensign Tilly.<br> - Oh.<br> Sir, uh, sorry.<br>  I was re-running some tests with the new spore drive  in case we need to jump quickly.<br>  I appreciate your diligence.<br>  Might I speak with you privately?  [suspenseful music playing.]<br>  It's about Michael, right?  I was hoping you could explain her absence.<br>  Sorry, no.<br> Uh  Came into my room, and Grudge was there.<br>  And I'm sure she has a reason for keeping us both in the dark.<br>  Commander Burnham left to pursue a mission of her own,  against my direct orders.<br>  Oh, shit, shit, shit.<br>  - Sorry.<br> - My sentiments exactly.<br>  I will be honest, ensign.<br>  I have not felt this mistrusting of her since we served on the Shenzhou.<br>  I assumed, after all we have endured together,  that this feeling would never return.<br>  Sir, you know, Michael is one of the people  that I love most in this world, but  she made a choice and now because of that, you don't have one.<br>  Tell the admiral.<br>  I expected you to try talking me out of it.<br>  I know.<br> Me, too.<br> But Discovery still has a lot to prove.<br>  And if Admiral Vance finds out and you're not the one who told him,  the entire crew will get painted with the same brush.<br>  That is astute, ensign.<br>  I might have done the same thing in her shoes,  just for the record.<br>  For the record, I do not believe you would have.<br>  I see tritanium over there.<br>  [Georgiou.]<br> Good.<br> Maybe I'll keep you around.<br>  [suspenseful music playing.]<br>  How long before they notice?  [alarm blaring.]<br>  [woman.]<br> Get back to work.<br>  You know what to do?  - How many weapons can you build from this? - We'll have time for one.<br> There we go.<br>  One blast, then we'll have the perimeter controls.<br>  - I love me.<br> - Let's go.<br>  [man.]<br> Freeze!  Hands in the air!  Hands in the air!  I told as many of the others as I could.<br> I don't know if they believed me.<br>  You did good, Ryn.<br>  Here.<br> I got it, the black box.<br>  Who are these friends of yours?  Very handy.<br> Excellent friends.<br>  - Okay.<br> - Five minutes till shit gets real.<br>  What if I can't do this?  You got those for standing up to the Chain.<br>  You got this.<br>  All you gotta do is, uh, run.<br>  You and I are getting out of here.<br>  All of us, on a transport ship.<br>  There is no doubt Commander Burnham made a serious error in judgment,  but you can be assured that the absence of our Number One  will not impact our ability to respond to any potential conflict on Argeth.<br>  - [Willa.]<br> Cuyahoga's back.<br> - Make sure they clear the ship  before doing the baryon sweep.<br>  Glad to hear you can cope without your Number One  because we're having trouble keeping our head above water with diplomacy.<br>  Emerald Chain has pulled out of talks.<br>  Stand by to jump on my orders.<br>  We will begin preparations.<br>  Dismissed.<br>  [Georgiou.]<br> You think you're two steps ahead of us, but you're not.<br>  I don't know why you're even bothering.<br> You're too stupid.<br>  You didn't come here for salvage.<br>  At this point, I'm almost proud it occurred to you.<br>  [man.]<br> Sir.<br>  I found what you're looking for.<br>  Thirty units of pure dilithium.<br>  [Tolor laughing.]<br>  Not as smart as you thought.<br>  Now who's the meatsack?  It would be a bad idea to fire that weapon.<br>  If Osyraa sniffed out what we had and wanted to know our story,  she would kill you for killing us.<br>  [man over PA.]<br> Attention, Sector 5 workers.<br>  - Report for shift change.<br> - Let's go!  [all clamoring.]<br>  - Stay with me.<br> Let's go! - [woman.]<br> Get to the ship!  [computer.]<br> Unauthorized perimeter door access.<br>  [screaming.]<br>  [dramatic music playing.]<br>  Go! Go!  [Ryn.]<br> The perimeter fence is still on.<br>  They'll come through.<br>  [Georgiou.]<br> San!  [Burnham.]<br> Get the controller.<br>  Get the controller.<br>  We can't stay here.<br>  [Georgiou.]<br> Got it.<br>  You gotta be kidding me.<br> I was just starting to enjoy myself.<br>  [perimeter fence powering down.]<br>  - Let's go.<br> Let's go! - [Ryn.]<br> This way!  [Book.]<br> Perimeter's down! On me.<br> Move!  Come on.<br>  - Get on the transport ship.<br> Come on! - Come on.<br> Go, go, go! Come on!  Come on!  [Book.]<br> To the ship.<br>  [Ryn yells.]<br>  Hey, hey, hey.<br> I've got you.<br> I've got you.<br>  Stay with me, okay?  [all clamoring.]<br>  Hey, hey, hey.<br> Hey, look at me!  - Get out of here.<br> - Stay with me.<br>  [whoops.]<br>  [console trilling.]<br>  [Book.]<br> Michael!  Michael!  - I've got you.<br> - [Ryn.]<br> Yeah.<br>  [groaning in pain.]<br>  Stay with me, okay?  Stay with me.<br>  [Georgiou.]<br> Salvage this, you son of a bitch.<br>  I've alerted Sickbay on Discovery.<br>  [Book.]<br> The black box I promised.<br>  I hope it helps you find what you're looking for.<br>  Thank you.<br>  [suspenseful music playing.]<br>  So  we are going to talk about what happened back there.<br>  - You could have gotten us killed.<br> - Don't you think I know that?  Then tell me what's going on.<br>  You don't know, do you?  Philippa, how long has this been happening?  A couple of weeks and it's getting more severe.<br>  You could have come to me.<br>  I could have helped.<br>  Until I understand what's going on, there's nothing to ask for.<br>  That's not true.<br> Discovery is filled with  You will tell no one.<br>  This isn't the Terran universe.<br>  A vulnerability is not a death sentence.<br>  You're not alone.<br>  We'll get through this.<br> Trust me.<br>  I remember another Michael Burnham telling me to trust her.<br>  She looked just as sincere as you do now.<br>  And we know how that ended.<br>  [indistinct chatter.]<br>  [tender music playing.]<br>  You're talking to yourself.<br>  I don't think you're crazy, for what it's worth,  but I'm curious.<br>  You won't believe me.<br>  You have no idea what goes on around here.<br>  Okay, let me just say, there's no head injuries.<br>  Okay.<br>  I was talking to my boyfriend.<br>  He's Trill.<br> I got my symbiont from him  when he died.<br>  Um  My understanding of Trill is  that you're supposed to be carrying his memories, not  His soul?  I don't know how it happened this way either.<br>  Maybe because we were so close.<br>  Well, I'm, um, filling in the blanks a bit,  but it sounds like  you're holding on to someone you love.<br>  And I did that  with Hugh while he was gone.<br>  Before he died, I thought of life and death  as this linear thing with a distinct beginning and end.<br>  And now I know  life will always surprise me.<br>  So,  if you tell me that he's still with you  - What's his name? - Gray.<br>  Gray.<br>  I believe you.<br>  He says I need to make friends.<br>  But I don't know.<br>  Well, he realizes you have a lot to give.<br>  What, you think I have something to give?  Are you kidding?  You can accomplish things none of us can even imagine.<br>  Including me, and I've imagined more than most.<br>  You're kind of, like, the bomb, huh?  I was until you showed up.<br>  I like this guy.<br>  He, um He says he likes you.<br>  Well, he's clearly a genius.<br>  I think I can help you with this.<br>  How's he doing? Any news?  Dr.<br> Pollard said it'll take some time,  but he's gonna make it.<br>  I'm glad.<br>  And you?  Yeah.<br> I mean, device is gone for good.<br>  Neck's a little stiff, but she said the swelling should go down.<br> I hope.<br>  Time to face the firing squad, huh?  [Burnham.]<br> Uh  We'll see.<br>  Look, uh  I'm sorry I put you in this position.<br>  You didn't.<br>  I hope you don't regret it.<br>  How could I?  [tender music playing.]<br>  [buzzes, then transport stops.]<br>  Thank you.<br>  Thank you for saving my life.<br>  Glad I found you.<br>  We always find each other.<br>  This is not the science lab.<br>  [groans.]<br>  [both laugh.]<br>  We have these new badges.<br>  So, we have Adira to thank for this?  God, I hated those things.<br>  I hated them more.<br>  It's amazing.<br>  And she's only 16.<br>  She trusted me today.<br>  And that's bad why?  Because I've never had time to be a tween's confidante.<br>  Paul, she's not gonna invite you to her slumber party.<br>  [tender music playing.]<br>  Why do you think you reached out to her today?  Because she's brilliant  and seemed to have a hard time with people or doing anything besides work.<br>  Remind you of anyone?  And  because she loves someone who died  but isn't gone.<br>  I never ever thought I'd meet anyone  who knew what that was like, and  I guess I'm grateful to her.<br>  But I wanna help her somehow.<br>  She has no idea.<br>  So tell her.<br>  [Vance.]<br> Your job is to follow orders, captain.<br>  But I need to rely on your judgment.<br>  Commander Burnham's mission was 100 percent rogue  but also an unexpected opportunity.<br>  If asked, I may have deemed the intel worth the risk.<br>  Noted, sir.<br>  Commander Burnham, why don't you tell me what I'm about to say?  The source of the Burn is not an issue that you have the luxury of pursuing.<br>  - Correct.<br> - Because every day  you have a hundred fires you have to put out.<br>  Correct.<br>  And I disobeyed a direct order  and undermined my captain's authority and yours.<br>  Correct.<br>  For a hot second there, it looked like Discovery  may have had to engage with the Emerald Chain  without her Number One.<br>  Did you think of the position you put your captain in, Starfleet in?  As far as I'm concerned, when you jumped through that wormhole,  you were doing your job.<br> You're here now.<br>  And every mission you start from zero.<br>  The only reason you're not in the brig is because you saved lives.<br>  Am I being clear, Commander Burnham?  Very clear, sir.<br>  Permission to speak.<br>  Well, it better be the best thing I've ever heard.<br>  For the last year,  I have spent every single day  searching for the source of the Burn.<br>  Until we solve the mystery of how it happened and why,  I believe the Federation will never be  can never be brought back together again.<br>  Well, we'll see what your intel brings.<br>  I will leave it up to you, captain,  to determine the consequences of her insubordination.<br>  Thank you, admiral.<br>  I am sorry.<br>  The admiral made some excellent points,  and I will continue to reflect on the way I have handled all this.<br>  We both made mistakes.<br>  I was particularly disappointed.<br>  - That was - While I agree with your intentions,  the decision I am now forced to make  comes down to one thing and one thing only, commander.<br>  It's not about your skill, it's not about your ability.<br>  It is about trust.<br>  In your defense,  you were clear in your ambivalence when I asked you to be my Number One  and my desire to  return to a sense of things as they were.<br>  But as we keep learning  things are not as they were.<br>  No, they're not.<br>  I take no pleasure in this  but  as of now,  you are relieved of your duty as my Number One.<br>  You will restrict yourself to chief science officer duties only.<br>  Saru.<br>  You're doing the right thing.<br>  One day,  we will find the answers we are all looking for, Michael.<br>  [dramatic music playing.]<br>  [closing theme playing.]<br>     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e05" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e07" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

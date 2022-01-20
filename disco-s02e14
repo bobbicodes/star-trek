@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e14 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e14 - Such Sweet Sorrow, Part 2 Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e14 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e14"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e14 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e14" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;Such Sweet Sorrow, Part 2</div>
+
+            <h1>Star Trek: Discovery (2017) s02e14 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Such Sweet Sorrow, Part 2</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1  Previously on Star Trek: Discovery  CORNWELL: Control will not stop coming.<br>  Eventually, Leland will find you.<br>  SPOCK: Ergo, Discovery's very existence is the problem.<br>  Discovery's shields are up.<br>  It's protecting itself.<br>  Sphere's data has already merged with Discovery.<br>  - Options.<br> - We know we can't delete the data.<br>  Nor, it seems, can we destroy Discovery.<br>  As long as Discovery exists here and now,  this will never be over.<br>  Discovery has to go to the future.<br>  SARU: We have the technical designs from Section 31.<br>  - We can attempt to rebuild it.<br> - Do it.<br>  Once the Enterprise catches up with us, I'll be joining them.<br>  I hope though you're happy, Hugh.<br>  NICOLA (OVER COMM): Admiral, Captain Pike,  there's something you need to see.<br>  And then there were five.<br>  Commander Stamets, you will jump us to that signal.<br>  BURNHAM: Class M planet, Xahea.<br>  Really? Xahea?  - Tilly! - (LAUGHING)  I know the queen of Xahea.<br>  So, you want to use the suit to travel through time  - with this ship flying behind you, yes? - Yes.<br>  There is just one problem.<br>  Continuous regeneration of energy will ultimately burn out the crystal.<br>  It's a one-way trip.<br>  You're not coming, are you?  I wish I could say yes.<br>  DETMER: Attention, all vessels.<br>  Leland's fleet has arrived.<br>  PIKE: Leland and his ships will give us one hell of a fight.<br>  BURNHAM: We are surrounded.<br>  All enemy vessels armed and ready.<br>  - Shields up.<br> - Prepare for battle.<br>  (ALARMS BLARING)  Battle stations, report.<br>  Shields at maximum, sir.<br>  Weapons armed and ready, Captain.<br>  Transmit to all ships.<br>  (OVER COMM): This is Captain Pike.<br>  We have one job:  get Commander Burnham and Discovery through the wormhole.<br>  (FRANTIC CHATTER)  Section 31 is in our way.<br>  (OVERLAPPING CHATTER OVER COMMS)  PIKE: Once Burnham launches in the suit,  Second Squadron will match course and speed  to cover her and defend her perimeter.<br>  Squadrons Three and Four will be the front line of defense  against the Section 31 fleet.<br>  You will lead the attack and draw their fire  to give us the time we need.<br>  Enterprise will maintain fire on the fleet  to cause distraction for as long as we can.<br>  But as soon as Burnham is detected out there,  we have to keep her safe.<br>  (OVERLAPPING CHATTER OVER COMMS)  PIKE: All shuttles and pods, use attack formation Gamma Six.<br>  Squadrons One and Three, coordinate positions  to disrupt and target all main enemy vessels.<br>  This is Starfleet.<br>  Get it done.<br>  Mr.<br> Saru, ETA on that suit.<br>  The components are being synthesized  and assembled as we speak.<br>  BURNHAM: Don't adjust the composite automatically.<br>  I'll do it manually after each piece is cleared for assembly.<br>  I'm not detecting any micro-variances.<br>  No, I need a surgical spanner,  not a standard engineering coupler.<br>  Stop.<br> Look me in the eyes.<br>  The silicon injectors need to be purged  after each binding is molded.<br> Watch me.<br>  The bayonet joint on this oxygen sensor's wide open.<br>  Are you trying to kill her?  - Oh, shit.<br> - Get off the assembly.<br>  - I got it.<br> - Sorry, Commander.<br>  High speed, low drag, Commander.<br> The longer it takes her  to open that wormhole, the fewer make it home.<br>  SARU (OVER COMM): Yes, sir.<br>  What's the intel on how much perimeter space she'll need  to get far enough away from that wormhole?  Commander Burnham needs to remain  at the outermost radius of the battle  - at .<br>0004 arc-seconds.<br> - In English, please.<br>  I can't blow a path through what you're saying.<br>  Tight enough so none of the Section 31 ships  get pulled into the future, loose enough so none of our guys  get destroyed by the event horizon.<br>  Lieutenant Spock will remain on comms throughout to guide her.<br>  Reno, where are we with the time crystal?  Four minutes, 18 seconds away until fully charged.<br>  Can you cut that in half?  Violate the basic laws of physics?  Uh, no.<br>  Commander, we've scanned the Section 31 armada.<br>  There's only one life sign: Captain Leland's.<br>  The rest of the ships are empty.<br>  Drones.<br> Nasty ones.<br>  Lieutenant Bryce, have you had any success reaching Starfleet?  Subspace relays are still down, Commander.<br>  - Attempting to circumvent, - but we're still being jammed.<br>  It is just us.<br>  Any, uh, words of wisdom?  "Be extremely subtle,  even to the point of formlessness.<br>  Be extremely mysterious,  even to the point of soundlessness.<br>"  "Thereby you can be the director of your opponent's fate.<br>"  I'm surprised a Kelpien, of all beings,  has studied Sun Tzu.<br>  I am surprised a Terran is surprised by anything.<br>  BRYCE: Incoming hail.<br>  It's Leland, sir.<br>  You will see a human face.<br>  It is not a human being.<br>  Am I clear?  - ALL: Yes, sir.<br> - Put it through.<br>  Leland, we were just talking about you.<br>  Everybody hates you.<br>  Congratulations.<br>  LELAND: You know why I'm here.<br>  Give me what I've come for,  or die for it.<br>  By authority granted me under the Articles of the Federation  and Starfleet Charter,  I order you to surrender your vessels.<br>  No terms, no deals.<br>  LELAND: Last warning.<br>  Transmit the data to me,  or you'll be destroyed.<br>  By my count, we have over 200 vessels,  and you might have 30.<br>  Count again.<br>    (ALARM BLARING)        (ORIGINAL STAR TREK THEME PLAYS)  (OVERLAPPING CHATTER OVER COMMS)  (FRANTIC CHATTER)  (ALARM BLARING)  Multiple torpedoes locked on us.<br>  - Evasive pattern Delta Five.<br> - Aye, sir.<br>  All power to forward shields.<br> Fire full spread.<br>  - Damage report.<br> - Breach in section two.<br>  Decks nine and ten.<br> Seven confirmed dead.<br>  Shields at 86%.<br>  Shields at 82%.<br>  We have a breach on deck 12.<br>  Emergency bulkheads engaged successfully.<br>  - I've got a leg panel.<br> - Back plate complete.<br>  We need an adjustment on 1.<br>0, 2.<br>3 and 4.<br>2.<br>  I'm on it.<br> I got it.<br>  Reno, we need that time crystal now.<br>  One minute away.<br> Charge at 98%.<br>  (GRUNTS)  All squadrons on those drones immediately!  Captain Pike, it's Po.<br> Do you copy?  Pull her up.<br>  She's flying directly beneath them.<br>  Give me her shuttle feed.<br>  Your Highness,  uh, who told you you could fly a Federation vessel?  First, I invoke diplomatic immunity for stealing this shuttle.<br>  All due respect, Your Highness, get out of there.<br>  Captain, listen, your squadron's gonna get obliterated.<br>  What?  (EXPLOSION, ALARM BLARES)  I thought these drones looked off-key.<br>  They have a refracted lattice shield design.<br>  You can see it in the wave patterns.<br>  They can't be defeated one-on-one.<br>  Attack has to be two at a time,  targeting port and starboard emitters simultaneously.<br>  Po, are you sure?  I'll put my life on it.<br>  (EXPLOSION)  All squadrons  formation Double Alpha.<br>  Team up and begin target acquisition.<br>  Follow the queen.<br>  (EXPLOSION)  SARU: Mr.<br> Rhys,  set all phasers for automatic targeting,  - maximum power and range.<br> - Aye, Commander.<br>  (EXPLOSION)  Owo, bring the emergency generators on line.<br>  Shields holding at 70%.<br>  Leland won't destroy this ship immediately.<br>  He'll cripple us and take the data.<br>  Then he'll break Discovery down for parts.<br>  Do you have anything relevant to offer?  Invite him aboard.<br>  Whatever you have in mind, this is not a two-pronged mission.<br>  The first priority is to get Discovery to safety with Commander Burnham.<br>  - (EXPLOSION) - For you, perhaps.<br>  You should know me well enough by now to know  I leave very little to chance.<br>  Especially when it comes to revenge.<br>  RENO: Good to go.<br>  Crystal's fully charged.<br>  Ensign Tilly, go with her and make sure  it gets to Commander Burnham safely.<br>  He means in case one of us gets dead along the way.<br>  Hurry!  I'm going, I'm going.<br> Get off my ass.<br>  Sir.<br> Get off my ass, sir.<br>  What the hell?  They're gonna make a run on weakening Discovery's shields.<br>  Divert all power to starboard shield deflectors.<br>  Number One, bring us around and place us between  - those drones and Discovery.<br> - Aye, Captain.<br>  (GRUNTING, GROANING)  Shields down to 54% and dropping fast.<br>  (ALARM BLARING)  Lieutenant Mann, target the largest 31 vessel  - and fire on their shield generators.<br> - Aye, Captain.<br>  The entire fleet is receiving signals  from Leland inside that ship.<br>  (EXPLOSION)  - Has the shuttle bay been evacuated? - Yes, Commander.<br>  The housing is prepped.<br>  I need that last panel.<br>  Right here.<br>  (GRUNTING)  (COUGHING)  Michael?  I'm good.<br> You?  - You okay? - Yeah.<br>  (GROANING)  Everybody.<br> Reno?  I'm a cat.<br> Five more lives at least.<br>  Hey.<br> You okay?  We're good.<br>  - (GROANS) - BURNHAM: Oh, no!  No, Commander! Oh, my God.<br>  Oh, my God.<br>  (GRUNTING)  Take this.<br>  Get him to sickbay.<br>  I'm gonna clean up this mess  so nobody else gets impaled.<br>  You're okay.<br>  SPOCK: Michael.<br>  Michael.<br> Let's go.<br>  - Shields unable to absorb full impact.<br> - Shields?  We're at 60%.<br> Discovery's at 38.<br>  At this rate, neither ship is gonna last much longer.<br>  We're not on our heels yet.<br> Maintain offensive focus.<br>  Make them come to us.<br>  (GROANING)  Commander, we are overloaded in sickbay.<br>  Class four casualties in here, class three in the corridor.<br>  Cortical stimulation's failing!  Any free hands to help us down here?  Hey, I need that bio-bed.<br>  SARU (OVER COMM): I am sorry, Doctor.<br>  All personnel on board are occupied.<br>  - Do your best.<br> - (GRUNTING)  No, I'm gonna do a half-assed job,  because now's the perfect time.<br>  The suit is ready.<br>  Are you?  It's your mother, and it's you.<br>  Trust what you've done together.<br>  I do.<br>  (WHIRRING, CLICKING)  (SIGHS)  Damn.<br>  You will be the target out there.<br>  I'll pilot a shuttle to make sure  you reach the perimeter point.<br>  What are you talking about?  You're supposed to guide me by comms.<br>  - You can't protect me in that.<br> - There is no time for debate.<br>  I will return to Discovery  as soon as you open the wormhole.<br>  (RUMBLING)  I said  I heard you.<br>  You better.<br>  Stay in my wake.<br>  Discovery bridge, this is Lieutenant Spock.<br>  Prepare to lower shuttle bay force field  and drop aft shields for 3.<br>5 seconds on my mark.<br>  Understood, Lieutenant.<br> Captain Pike,  we are preparing to lower aft shields.<br>  Cover fire would be most appreciated.<br>  (GROANING)  We got you, Saru.<br>  - All vessels.<br> - Yes, Captain.<br>  PIKE: We've calculated that Commander Burnham  will need two minutes and 47 seconds to reach  safe distance and open the wormhole.<br>  All squadrons, form a tactical escort around her  on her path and screen enemy fire.<br>  I want a cocoon around her until she gets to her destination.<br>  On it, Captain.<br> If she doesn't make it  off the battlefield and far enough away  to open the wormhole, neither do we.<br>  Lower shields in five.<br>  Four.<br>  Three.<br>  Two.<br> One.<br>  (ENGINE POWERING UP)  (PANTING)  COMPUTER: Interstellar debris density:  72% above nominal.<br>  Scanning for nominal local coordinates.<br>  (GROANING)  Michael.<br>  BURNHAM: I'm okay.<br>  I got this.<br>  All battle groups  form a shield wall against those ships.<br>  Maintain protective formations.<br>  Discovery and Enterprise will lead.<br>  Nobody gets through us until Burnham reaches her target.<br>  Commander, sensors are showing that something  beamed aboard while our shields were down.<br>  (WEAPON FIRING)  (GRUNTING)  - (SCREAMS) - (GRUNTS)  NHAN: He's going for the Sphere data.<br>  - Everybody, stay here.<br> - Like hell.<br>  (RUMBLING, ALARM BLARING)  (PANTING): Sir.<br>  Sensors show Captain Leland beamed aboard Discovery.<br>  We'd have to lower our own shields to beam a team on board.<br>  Discovery would have to lower theirs.<br>  We can't do it, Chris.<br>  I know.<br>  - (RUMBLING) - (GRUNTS)  I will override the security codes.<br>  You try accessing the lock mechanism directly.<br>  How much longer before you gain entry?  Five minutes.<br>  Less if you stop bothering us.<br>  (CRACKLING, RUMBLING)  - (GASPS) - (MONITOR BEEPS)  Commander, shields down to 38%.<br>  Hold the line, Lieutenant.<br>  Yes, sir.<br>  After we are done breaking and entering,  would you like to join me in making Leland scream?  Yum, yum.<br>  We are at a safe distance, Michael.<br>  Understood.<br>  (EXHALES) Stand by.<br>  HELMET COMPUTER: Insufficient vertices calculated.<br>  Temporal interface access standing by.<br>  It's not working.<br>  Navigational system's stuck in the present; it won't move forward.<br>  Why won't it move forward?    (YELLING)  Captain.<br>  An undetonated photon torpedo  has breached the hull.<br>  If it blows,  it'll rip a hole four decks wide in our saucer section.<br>  (GASPS)  Everything I saw   this is how it starts.<br>  I saw this exact moment  when I touched the crystal.<br>  Was that torpedo lodged, Lieutenant? And is it live?  Deck five, section two.<br>  And yes, sir.<br>  Lower blast shields five and two.<br>  Lieutenant Mann, deploy the DOT Sevens.<br>  - Aye, Captain.<br> - I want them standing by for repair.<br>  Lieutenant Amin, can we seal off  - the bay where the torpedo landed? - (GRUNTS)  (GRUNTS) Only one of the blast shields'll drop, Captain.<br>  The other one's jammed.<br>  Lieutenant Nicola, do we have anyone from Munitions available?  All occupied, Admiral.<br>  I'll fix the door on-site.<br>  Get me a PADD.<br>  Number One, I'm with you.<br>  We'll have to disarm simultaneously.<br>  Figure out what kind of weapon  we're dealing with and send me the schematics.<br>  Yes, ma'am.<br>  (RUMBLING)  Shield-emitter in zones five and seven are damaged.<br>  We'll break into pieces  if we go into the wormhole without shields.<br>  If we even get there.<br>  Come on, Burnham.<br>  BURNHAM: Spock, the navigation interface still won't let me set  a destination point in the future.<br>  SPOCK: Without a destination point,  we will not be able to open the wormhole.<br>  - Michael.<br> - No.<br>  Nothing.<br>  If I set the signals, why can't I move us forward?  There have been seven signals and we have only seen five.<br>  Why would I bring us all this way to get  stuck in this moment and die here?  NHAN: Door's almost open.<br>  Squadrons four through nine are down.<br>  We're losing too many fighters.<br>  Life support failing on decks seven through 13.<br>  Shields at 11% and dropping.<br>  Ten percent we're at nine.<br>  All remaining power to forward shields.<br>  Come about starboard 90 degrees.<br>  We have an incoming energy signature.<br>  It's massive.<br>  It's a Klingon cleave ship, sir.<br>  But I'm detecting non-Klingon power signatures, too.<br>  Those are Ba'ul fighters.<br>  We're being hailed, Commander.<br>  - Put it through.<br> - Yes, sir.<br>  (EXHALES) Brother.<br>  Siranna.<br>  I received your message.<br>  I will never again let you fight alone.<br>  You  have learned to pilot a fighter.<br>  SIRANNA: We were on our way when one of your crew  hailed us to unify our efforts.<br>  Who?  Captain, we're being hailed by the Klingons.<br>  (RUMBLING)  On screen.<br>  Sorry it took us a while to get here, Captain.<br>  Cavalry arrived just in time.<br>  I see you've brought some new friends.<br>  Not the term I would choose, Captain.<br>  However, the Klingon Empire will always  fight to preserve our future.<br>  Works for me.<br>  The D7 will arrive momentarily, Captain.<br>  Please transmit tactical analysis  of all enemy vessels to us.<br>  Stand by for transfer.<br>  - (SPEAKING KLINGON) -       - (CREW SHOUTING IN KLINGON) -   Siranna, the drones have altered course  to intercept your fleet.<br>  Promise me you will be safe.<br>  I can promise you that I will fight as a Kelpien, Saru.<br>  Warriors of Kaminar,  hold your course and calculate target locks.<br>  SARU (OVER COMM): All ships.<br>  The Klingons and Kelpiens have joined our fight.<br>  Transmit encrypted data on the enemy fleet  and advise all squad commanders  to coordinate their efforts with our new allies.<br>  (INDISTINCT COMM TRANSMISSION)  Michael, the Ba'ul ships  arrived here piloted by the Kelpiens  - because your signal led Discovery to Kaminar.<br> - Not now, Spock.<br>  Yes, now.<br> Precisely now.<br>  The signal's purpose was not simply to liberate the Kelpiens  but to prepare them for this.<br> For this very moment.<br>  You used each signal to lead Discovery  to an element we would need to win this battle.<br>  Starting with Reno on the asteroid.<br>  And to Boreth, to acquire the time crystal.<br>  To Xahea to find the one woman  in all the universe who could power it.<br>  And to Terralysium to identify safe harbor  once we're through the wormhole.<br>  I saw us fail.<br>  I saw everyone die.<br>  The crystal showed you a possible future.<br>  To avoid it.<br>  We assumed I jumped from somewhere in the future  to set the signals, we didn't know from where.<br>  I jumped from here.<br>  From this moment.<br>  SPOCK: That is correct.<br>  In order for us to push forward, you must go back  and set the events of the past in motion,  which you have not yet done.<br>  Right.<br>  Because we've been stuck in an open loop  in this time, this time.<br>  I have all the pieces to close it.<br>  Once you do, Control cannot evolve.<br>  So I'll go back to the asteroid and set the first signal  and then set all the rest again.<br>  They will lead you back here.<br>  And then do you believe we'll be able to go  to the future we want?  Of that, I cannot be certain.<br>  So you're asking me to take a leap of faith.<br>  One that is only logical.<br>  COMPUTER: Unable to locate Sphere data.<br>  (PHASERS BLAST)  GEORGIOU: I know where it is.<br>  Leland, you look well.<br>  For a couple of batteries and a data core  stuffed in a meat sack.<br>  - Kind of like an A.<br>I.<br> sausage.<br> - Ew.<br>  Women, stop talking.<br>  Remember this?  That's a quantum signal amplifier.<br>  I gave it to you to transfer  the Sphere data to my ship.<br>  I assume you're holding it now to demonstrate  Why you won't find the Sphere data anywhere here.<br>  Where can I access my data?  - Your data? - Hmm.<br>  So many fun ways to answer that question.<br>  Torpedo's in there.<br>  It's safe to enter.<br>  PIKE: Number One, status update.<br>  On-site, Captain.<br>  The blast door is jammed.<br>  Its release mechanism is fried.<br>  I'm trying to override the primary circuits  and reroute through secondary relays.<br>  Admiral, how are things on your end?  Bad.<br>  PIKE: Define "bad," please, Admiral.<br>  Secondary detonation's already been triggered.<br>  I'd say about 15 minutes before it takes out half the ship.<br>  (MAN SCREAMS)  (WOMAN COUGHING)  NURSE: What about the injured on deck 12?  We get them stable, we get them out.<br> You got it?  On it.<br>  TILLY: Dr.<br> Pollard!  - Bio-bed.<br> - Okay.<br>  - Easy, easy.<br> - (GROANING)  MAN: Dr.<br> Pollard.<br>  You, over there.<br> Take bed two.<br>  I could use an extra hand here.<br>  I got this.<br> Get back to the bridge.<br>  Tilly, go.<br>  Go.<br>  POLLARD: Nilsson, now!  TILLY: I'm sorry, Commander, I'm  CULBER: Paul?  Hi.<br>  - Hugh? - Hi.<br>  But  I know you're in a lot of pain.<br>  Paul,  your injuries  are pretty severe.<br> I'm going to induce coma.<br>  - (GROANS) - You'll be fine.<br>  (DISTANT): Just listen to my voice.<br> You can hear me.<br>  I thought I could make my home on Enterprise.<br>  (GROANS)  You're doing fine.<br>  Then I realized that, uh, you're my home.<br>  So I came back.<br>  (WHIRRING)  Everything  always came back around to you.<br>  I'm just sorry it took me so long to see it.<br>  So you go to sleep now, okay?  And you let me take care of you.<br>  I'm your family.<br>  Wherever we go from here   we go together.<br>  (RUMBLING)  BURNHAM: I've set all my jumps.<br>  All five.<br> I think  SPOCK: The future is still unwritten, Michael.<br>  The outcome can still change.<br>  (GRUNTS)  Spock!  Go, Michael! Now!  (BURNHAM PANTING)  (SCREAMING)  (DISTORTED SCREAMING)    (GASPS)  HELMET COMPUTER: First signal.<br>  Destination point: USS Hiawatha.<br>  Stardate: 1025.<br>19.<br>  This little dot is the only one willing to tell us where it is.<br>  SARU: It appears to be an interstellar asteroid.<br>  OWOSEKUN: The USS Hiawatha, thought destroyed  by the Klingons ten months ago.<br>  PIKE: Man, they came down hard.<br>  I'm Commander Jett Reno, Engineering.<br>  (GRUNTING)  (SCREAMS)  (GASPS)  HELMET COMPUTER: Second signal.<br>  Terralysium.<br> Stardate: 1027.<br>32.<br>  In 64 minutes the radiation will reach the upper atmosphere,  causing an extinction level event.<br>  SARU: If we were brought here,  perhaps this is why.<br>  Discovery will not allow a catastrophe on her watch.<br>  DETMER: The asteroid successfully diverted  all the debris from the planet's atmosphere.<br>  (GEORGIOU AND NHAN GROAN)  - Where's my data? - Hell.<br>  (GRUNTING)  We have a hull breach in zone four.<br>  - Working on shields.<br> - Working on gravity systems.<br>  Commander, shields aren't responding.<br>  SARU: Shield failure in zone four.<br>  Any available crew respond.<br>  I'm in four.<br> I'm gonna swap the particle matrix and emitter,  and get the shields back on line.<br>  I just have to keep my eyes closed.<br>  - What? - I've only done this once,  and I was blindfolded for a drinking game.<br>  Ensign, we cannot depart without shields.<br>  Yeah, I'm aware.<br>  COMPUTER: Global gravity systems failure.<br>  Global gravity systems failure.<br>  (GRUNTING)  (SCREAMS)  (GRUNTING)  It doesn't have to be this hard.<br>  Not hard is boring, and I hate boring.<br>  (GRUNTING)  COMPUTER: Gravity restored.<br>  (GROANING)  HELMET COMPUTER: Third signal.<br> Kaminar.<br>  Stardate: 1035.<br>86.<br>  SIRANNA: You brought hope back with you.<br>  You and your Red Angel.<br>  Damn it.<br>  The matter/antimatter intermix regulator  is still fully functional.<br>  I can't disable it.<br>  Let's try reprogramming the guidance system.<br>  Maybe a conflicting command will force it to shut down  until it acquires a new target.<br>  You're sure there's no way to reprogram the blast door instead?  I wish there were.<br>  Captain, plans A and B didn't work.<br>  We're now into the Hail Mary part of the operation.<br>  That's been just about everything today.<br>  How much time do we have left?  Less than five minutes.<br>  Report back to the bridge, I'm giving you the conn.<br>  And, uh, Admiral, do everything you can to buy Burnham more time.<br>  I'll be down in a moment.<br>  Wait.<br>  Admiral.<br>  (SPEAKING KLINGON)  (L'RELL LAUGHING)  And I thought my chancellorship would be bloodless.<br>          HELMET COMPUTER: Fourth signal.<br>  Boreth.<br> Klingon territory.<br>  Stardate: 1048.<br>66.<br>  PIKE: A new time crystal could let us send the Sphere data  into the future after all.<br>  HELMET COMPUTER: Fifth signal.<br> Xahea.<br>  Stardate: 1050.<br>8.<br>  PIKE: And what might Xahea have to do with powering the time crystal?  PO: My dilithium incubator it'll replicate the power  of a supernova and it'll charge your crystal.<br>  (ALARM SOUNDING)  Michael?  (PANTING)  It's done.<br>  My mom said she was trapped  950 years into the future from Doctari Alpha.<br>  That was 20 years ago.<br>  Burnham to Discovery.<br> I'm setting coordinates  for the Beta Quadrant, Terralysium,  930 years from this launch point.<br>  That should take us where we need to go.<br>  Commander, the quantum fluctuations within the wormhole  make it difficult to track your position using standard sensors.<br>  How do you intend to guide us through?  I'll send a signal.<br>  The sixth signal.<br> Like the North Star, that's what this is.<br>  You can follow it to me on the other side.<br>  Copy, Commander.<br>  I'm approaching the briefing room now.<br>  Copy that, Captain.<br>  - Standing by to assist.<br> - Thank you, Number One.<br>  (DOOR WHOOSHES OPEN)  (SCREAMS)  (GRUNTING)  Your algorithm was the easiest to predict.<br>  You would want fast access  to the ship's two most valuable assets.<br>  The data is in the spore console.<br>  (BOTH YELL)  (LOCKS DOOR)  You think this cage will hold me?  (PIKE GRUNTS)  What if we transfer the antimatter to antimatter pods?  Too risky.<br>  You sure you can't reprogram the guidance system?  (EXPLOSION)  I've tried.<br>  This thing is gonna blow in 90 seconds.<br>  There's an emergency lever for the blast door.<br>  I can bring it down manually,  from the inside,  and seal off the rest of the ship.<br>  - No.<br> - We are out of time.<br>  That last light will change, this torpedo will blow,  and everyone on the bridge,  maybe everyone on this ship, will die.<br>  And if you do this, you die.<br>  This is my ship, my responsibility.<br>  This isn't where your story ends.<br>  And I think you know that.<br>  If I'm meant for a different future,  this thing can't possibly go off with me in here.<br>  Maybe not.<br>  But how many people will pay the price if you're wrong?  Kat  Go.<br> It's time.<br>  And, Chris   whatever your path may be, you can handle it.<br>  (BEEPING RAPIDLY)  Discovery to Enterprise, are you all right?  We're okay.<br>  But we lost the admiral.<br>  SARU: Burnham, we are running out of time.<br>  Okay, it's time to go, Spock.<br>  Get back to Discovery.<br>  Michael,  I cannot.<br>  What?  When my vessel was hit  My engines are disabled.<br>  Discovery can lock onto you with a tractor beam.<br>  There is no time.<br> And even if there were,  they would need to lower their shields to bring me aboard,  and they will not survive doing so.<br> Not in this battle.<br>  Not with the amount of damage that ship has already sustained.<br>  You must go.<br>  I just got you back.<br>  I don't want to let go.<br>  Neither do I.<br>  I already lost you once.<br>  You never lost me, Michael.<br>  As a child,  I was truly lost.<br>  The path of my father,  the path of my mother.<br>  You came into our lives and you taught me  it was possible to travel both.<br>  You found me.<br>  You saved me.<br>  That wasn't me.<br>  That was always in you.<br>  You are my balance, Michael,  you always have been, and I  am afraid  that I will not find it again without you.<br>  Okay.<br>  Listen to me.<br>  Listen to me, little brother.<br>  This is the last advice I'll ever be able to give you.<br>  There is a whole galaxy out there  full of people who will reach for you.<br>  You have to let them.<br>  Find that person who seems farthest from you,  and reach for them.<br>  Reach for them.<br>  Let them guide you.<br>  I will.<br>  I only wish I could be certain  of your safety.<br>  (SIGHS)  You will.<br> (CHUCKLES)  (SNIFFLES)  I'll send the last signal.<br>  I'll send it through the wormhole  when we get to the other side.<br>  I will watch the stars for it.<br>  (GRUNTING)  Oh, enough with the tantrum already.<br>  Let's end this now, shall we?  You should know I've magnetized the spore cube.<br>  Enjoy.<br>  (WHIRRING)  (DISTORTED ALARM AND CHATTER)  SPOCK (OVER COMM): Spock to Enterprise.<br>  My shuttle's engines are disabled.<br>  I will not be returning to Discovery.<br>  Hold your position.<br> We'll transport you out.<br>  Commander Saru, how are your shields?  Ensign Tilly, where are we?  Almost there.<br>  (POWERING UP)  (PANTING)  Somebody owes me a beer.<br>  We are good to go, sir.<br>  Shields back up to 40%.<br>  More than enough, Captain.<br>  PIKE (OVER COMM): Stand by to transport, Spock.<br>  (SPEAKING VULCAN)   Michael.<br>  I love you, too, brother.<br>  (CRYING)  Commander Burnham, on your mark.<br>  Burnham to Discovery.<br> Let's go.<br>  Lieutenant Detmer, full power.<br> Follow our signal.<br>  (PANTING)  All vessels, aim at 3-mark-5-mark-2.<br>  Clear a path.<br>  Goodbye, Captain Pike.<br>  Goodbye, my friends.<br>  My family.<br>  We're on our way, Paul.<br>  We're on our way.<br>  This does not end here.<br>  Actually, it does,  and it's going to hurt.<br>  And I'd like to hear you scream now.<br>  (SCREAMING)  No!  (GIGGLES)  Captain, they're all dead in the water.<br>  Open fire.<br>  Georgiou to bridge.<br> I'm in Engineering.<br>  Leland is dead.<br>  Control is neutralized.<br>  SARU: Copy, Commander.<br>  We are on our way.<br>  (SOFTLY): Go.<br>  Go, go.<br>          COUNCIL MEMBER: State your name and rank.<br>  Ash Tyler, Acting Commander, Section 31.<br>  Christopher Pike, Captain of the USS Enterprise.<br>  Number One.<br> How long is this gonna take?  You were present during the attack?  - I was.<br> - I was.<br>  Discovery was Control's primary target.<br>  - We were just in the way.<br> - When was that?  I believe the exact date is in the logs.<br>  Discovery was attempting to escape while badly damaged.<br>  The spore drive must've suffered a catastrophic failure in battle.<br>  It just went  Boom.<br>  Seconds before Discovery's disappearance,  our long-range sensors detected high-energy gamma rays  and gravitational waves consistent with a  quantum singularity.<br> How do you explain that?  It is hardly my responsibility  to provide what your own sensors could not.<br>  - I saw Discovery explode.<br> - I saw Discovery explode.<br>  They're all gone.<br>  That's your official response?  For the third time, yeah.<br>  Anything else?  Commander Michael Burnham,  - do you think she ? - Do I think she what?  PIKE: Commander Burnham went above and beyond before her death.<br>  Section 31, whether by error or corruption,  took its eye off the ball  and is indirectly responsible for this catastrophe.<br>  We agree the organization requires  a radical overhaul  and perhaps far more transparency.<br>  With the loss of Admiral Cornwell  and Captain Georgiou,  we'd like to remove the "Acting" from your title,  make it permanent.<br>  Wasn't so long ago,  I had to fight just to wear a Starfleet uniform.<br>  And that dedication, coupled with a perspective,  Commander, it's safe to say that your worldview  is uniquely suited  to the dualities intrinsic to Section 31.<br>  Have you eliminated Control entirely?  We have.<br>  SPOCK: The destruction of Discovery was tragic  but does in and of itself resolve the issue.<br>  Even more radical steps must be taken  to ensure that type of scenario never repeats itself.<br>  I'm eager to hear your recommendations, Lieutenant.<br>  Regulation 157, Section Three,  requires Starfleet officers to abstain  from participating in historical events.<br>  Any residual trace or knowledge of Discovery's data,  or the time suit, offers a foothold  for those who might not see how critical,  how deeply critical, that directive is.<br>  Therefore, to insure the Federation never finds itself  facing the same danger, all officers  remaining with knowledge of these events must be  ordered never to speak of Discovery, its spore drive,  or her crew again.<br>  Under penalty of treason.<br>  Thank you, Mr.<br> Spock.<br>  We'll take it under advisement.<br>  SPOCK: Personal log.<br>  Stardate: 1201.<br>7.<br>  124 days have passed  since your disappearance.<br>  It has been difficult,  but we've managed not to reveal the truth  of Discovery's fate to Starfleet.<br>  To have done so was to risk  rendering your sacrifice meaningless.<br>  If we learned anything,  we learned we're not yet ready to learn everything.<br>  Mother and Father are diplomatically immune from interrogation,  and they fully understand our silence  is meant to keep you safe.<br>  We have sworn never to speak your name  in the presence of others.<br>  Yet I feel you with me, always.<br>  With every moment, I grow more sure-footed in this  in-between place.<br>  More certain of who I am becoming.<br>  You teach me, sister, even now.<br>  Every night I look to the stars for your signal,  and every night I have to remind myself  of the scientific truth that time is relative.<br>  124 days for one  is the blink of an eye for another.<br>  It is difficult to reconcile, logically.<br>  But to paraphrase an Earth physicist,  "The universe  is under no obligation to make sense to me.<br>"  I believe that you were successful.<br>  I choose to believe it.<br>  That is the only gift  I have left to give you.<br>  It may not be logical, but I am  proud to bear it.<br>  PIKE (OVER COMM): Mr.<br> Spock to the bridge.<br>  You've detected an anomaly, Captain?  Number One's running it now, but, uh,  looks like it's in the Beta Quadrant.<br>  NUMBER ONE: That's correct, sir.<br>  And we have confirmation.<br>  The location of the seventh signal.<br>  51,000 light-years from our present position.<br>  I'll run the analytics.<br>  (SIGHS) Where to, Number One?  You're the captain,  Captain.<br>  I hear we discovered a new moon at Edrin II.<br>  That we did, sir.<br>  Thank you, Number One.<br>  In that case,  let's give her a spin.<br>  That sound good to you, Mr.<br> Spock?  Yes, Captain.<br>  Let us see what the future holds.<br>  Ready for warp, sir.<br>  Hit it.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e13" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e00" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

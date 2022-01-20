@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e05 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e05 - Die Trying Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e05 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e05"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e05 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e05" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;Die Trying</div>
+
+            <h1>Star Trek: Discovery (2017) s03e05 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Die Trying</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  BURNHAM: Identify space-time location.<br>  You have reached year 3188.<br>  BURNHAM: The Federation as we know it disappeared overnight.<br>  But I did find part of a transmission.<br>  This is Admiral Senna Tal.<br>  The Federation lives on.<br>  I am Admiral Tal.<br>  SARU: Although human,  young Adira has been joined with a Trill symbiont.<br>  Welcome to the circle.<br>  SARU: Once they join with a host, that host has the ability  to access the memories of all former hosts.<br>  BURNHAM: Including Admiral Tal's.<br>  That's beautiful.<br> What is it?  A lullaby.<br>  [GRUNTS.]<br>  Are you okay?  No, obviously.<br>  What the hell are you doing here?  Besides saving their asses.<br>  NHAN: I stayed for Airiam.<br>  She was a science officer,  but she paid the price of a soldier.<br>  I felt like someone should honor that.<br>  I am grateful for your support of my captaincy.<br>  It would be my privilege to be your Number One.<br>  ADIRA: Senna knew the algorithm we need  to find Federation headquarters.<br>  - These coordinates - They'll take you where you need to go.<br>  SARU: Captain's log, supplemental.<br>  After a journey of 930 years   and a return to Earth that we could not have anticipated   we are finally on the verge of reaching our destination:  Federation and Starfleet headquarters.<br>  Separate entities that must now abide together;  a sign of this new time, I suppose.<br>  I can only hope that they are as eager for us to arrive  as we are to be home.<br>  Captain.<br>  Number One.<br>  [LAUGHS SOFTLY.]<br>  Every report, record and log that you asked for  is ready to be handed over to Starfleet.<br>  Words aren't enough.<br>  Are they?  930 years  I trust that what matters most will have endured.<br>  I know that there will be protocol.<br>  I know that we'll have a lot of questions about The Burn.<br>  But there are other things that  I'd like to inquire about, as well.<br>  You are thinking about your mother.<br>  Yes, sir.<br>  And I know that I'm lucky  to have someone to hope for.<br>  I believe that here,  there are answers for you,  and solace for all of us.<br>  BURNHAM: I really hope so, sir.<br>  [INDISTINCT CHATTER.]<br>  Lieutenant Detmer, status report?  Captain, we're here.<br>  Federation headquarters.<br>  Must be some kind of distortion field.<br>  It is a security measure designed to mask their location.<br>  But they are expecting us.<br>  You may proceed.<br>  Aye, sir.<br>    [GASPS SOFTLY.]<br>  [LAUGHS.]<br>: Wow.<br>  We wouldn't have made it without you.<br>  Without everybody.<br>  BURNHAM: Fascinating.<br>  The distortion field seems to be sustained  by the collective energy of every ship within it.<br>  Detecting neutronium-alloy fibers.<br>  Those-those used to be theoretical.<br>  Some of these hulls are organic.<br>  Some-some are completely comprised  of holographic-containment walls.<br>  OWOSEKUN: Is that a new Constitution?  I bet it can sleep a crew of a thousand!  No, 2,000.<br>  Detached nacelles? Where do they even put the warp core?  Must be a scout.<br> Wonder what its range is like.<br>    That's a flying rain forest.<br>  [LAUGHTER.]<br>    [EXCITED CHATTER.]<br>  [CHATTER CONTINUES.]<br>  TILLY: The USS Voyager.<br> Ho!  "J.<br>" That's-that's ten generations of evolution?  OWOSEKUN: 11.<br>  Would love to hear those stories.<br>  SARU: Mr.<br> Bryce,  hail Federation headquarters.<br>  And tell them the USS Discovery  is reporting for duty.<br>  Aye, sir.<br> Hailing now.<br>  - Sir, they're scanning us.<br> - Oh, as expected.<br>  They require a moment to process the arrival  of a thousand-year-old ship.<br>  Captain, I no longer have control.<br>  On comms, sir.<br> They'll be docking us remotely  and request that the captain, first officer, and Tal  prepare to be beamed over from here.<br>  Their scans must be advanced enough to pick up her symbiont.<br>  [LAUGHS.]<br>  - They're ready, sir.<br> - Ah.<br>  Lieutenant Nilsson, the conn is yours.<br>  [LAUGHS SOFTLY.]<br>           [ORIGINAL STAR TREK THEME PLAYS.]<br>  [INDISTINCT CHATTER.]<br>    You picked a hell of a day for a homecoming.<br>  Charles Vance, commander in chief, Starfleet.<br>  This is my chief security officer, Lieutenant Willa.<br>  Captain Saru, USS Discovery.<br>  Commander Michael Burnham.<br> First officer.<br>  At ease.<br>  I can't say we've come across many Kelpiens out here lately.<br>  Has there been any kind of  disturbance on Kaminar?  Status quo last we checked.<br> They're just far enough away  that contact's been limited since The Burn.<br>  That's pretty much the case with most  Federation planets these days.<br>  Kaminar joined the Federation.<br>  Sir, the Cuyahoga is reporting  Orion and Andorian vessels in the Sigma Draconis system.<br>  It's the Emerald Chain.<br>  Osyraa's been becoming more brazen by the day.<br>  - I want updates in real time.<br> - Yes, Admiral.<br>  You're Senna Tal.<br>  Per the scans.<br>  Uh, Adira Tal, now, sir.<br>  Senna never meant to keep you waiting.<br>  He just couldn't bear to leave Earth  without seeing snow one last time.<br>  Well, he was, uh  always sentimental.<br>  But let's keep this clear.<br>  He and I were familiar, you and I are not.<br>  Uh, yes, sir.<br>  Lieutenant Willa,  take Adira Tal to medical for a full diagnostic.<br>  Sir, the situation with the Kili refugees  has gotten worse.<br> Sickbay is overflowing.<br>  We're having to perform triage in the corridors.<br>  MALE: Patient three just started seizing, Doctor.<br>  ENSIGN: Dr.<br> Eli says they have four hours left, at best.<br>  VANCE: Is there a diagnosis yet?  ENSIGN: Cascade failure of the nervous system  brought on by misfolding proteins.<br>  Something called "prions.<br>"  They're not contagious, but there's no cure yet, either.<br>  There won't be until you find out where they became infected.<br>  We could help you analyze their travel.<br>  We're already in their logs,  compiling a roster of every planet  they visited before they came here.<br>  See what you can do to help.<br>  My apologies if I overstepped.<br>  Uh, simply put, we are anxious to help our Federation family.<br>  Of course.<br>  I appreciate the offer, but a debrief must come first.<br>  Your journey here must be quite the story.<br>  A story we are eager to tell, Admiral.<br>  Not as eager as I am to hear it.<br>  BURNHAM: We're still analyzing  the cause of the spatial and temporal   variances in our exiting the wormhole.<br>  Early indications suggest  that Discovery may have hit a pocket  of abnormal gravity waves.<br>  And this "Red Angel" suit of yours it's no longer accessible?  I sent it back into the wormhole to initiate the final signal.<br>  It was then programmed to self-destruct.<br>  There was but one time crystal, Admiral.<br>  It was always going to be a one-way trip  for the Sphere data and for all of us.<br>  And what exactly is this data we're now accountable for?  BURNHAM: The Sphere is a benevolent  life-form that merged with Discovery.<br>  Its data is a record of everything seen  and experienced by this entity  in the 100,000 years leading up to our departure.<br>  100,000 years.<br> Well.<br>  Discovery's just full of surprises, isn't she?  You may be the last Kelpien who still retains  biochemical traces of Vahar'ai.<br>  And your limbic system's been getting quite a workout, Commander.<br>  Are you prone to emotional exaggeration?  Our AIs have evolved quite a bit since your day.<br>  ELI: My primary diagnostic scanners can read anomalies as small  as aberrant protein coding in your neurons,  so you can't lie to me.<br>  That'll be all, Eli.<br>  Admiral, if-if we may, we have a few questions of our own.<br>  I bet.<br>  Given what you shared of Kaminar, I am curious  as to what remains of the rest of the Federation.<br>  38 member worlds that we're aware of.<br>  Down from 350 at its peak.<br>  There may be others, but since the subspace relays went down,  we're having difficulty finding each other.<br>  Where we sit now represents  not just the headquarters of Starfleet Command,  but also the entire civilian government  of the United Federation of Planets.<br>  And it's been that way since The Burn.<br>  BURNHAM: Sir, if I may ask,  - regarding The Burn, we - I am not at liberty  to discuss intelligence with you yet, Commander.<br>  You're not lying to me,  but there is nothing in our database  to verify a Red Angel or a Control.<br>  Our intelligence says that  Discovery was destroyed in 2258, with no mention  of a displacement-activated spore drive.<br>  So, two truths now exist in one space.<br>  That never goes well.<br>  Starfleet's operating procedures would have included the erasure  of any files related to our vessel,  to eliminate the possibility of a recurring threat.<br>  We came here to ensure that Control did not evolve.<br>  I can't possibly corroborate that.<br>  A quick history lesson.<br>  The Federation has spent most of the 30th century  fighting a war to uphold the Temporal Accords,  an interstellar treaty outlawing time travel to prevent anyone  from the past from changing the future, and vice versa.<br>  Your presence here, by definition, is a crime.<br>  Everything we have ever done has been in accordance  with the ideals of the Federation, sir.<br>  If we hadn't made the jump,  all organic life in the universe would've ended.<br>  And we wouldn't be having this conversation,  - Admiral.<br> - If that's true,  then we owe you a debt beyond words.<br>  But from where I sit, and I sit here,  trusting you is a risk I cannot take without evidence.<br>  The safety and security of whatever's left  of the Federation must take priority over everything else.<br>  And so, until we sort through this,  I'll be requisitioning Discovery for analysis and retrofit.<br>  - Admiral - Not open to debate, Captain.<br>  We'll also be looking through your logs  and debriefing your crew,  and assuming their stories match yours,  determine where they can be reassigned.<br>  Reassigned?  Uh, sir, may I ask why?  No.<br>  Now, you claim you're acting  in accordance with Federation ideals.<br>  I would ask that you continue to do so,  by putting the needs of Starfleet  ahead of the needs of your crew.<br>  BURNHAM: The Federation that I remember  would understand that there  is no other crew with our experience.<br>  And certainly no other crew that can operate the spore drive.<br>  Correct on both counts.<br>  Why aren't you fighting for us to stay together, then?  We are no longer "out there," Michael.<br>  We serve Starfleet by executing the admiral's orders.<br>  Vance should make use of who we are now, not diminish us for it.<br>  Well, that is entirely his call.<br>  Then let's help him make the right one.<br>  - I understand his motives.<br> - Well, so do I.<br>  But I also know that if this crew gets pulled apart now,  some of us might never recover.<br>  Now, if we can just get our hands on the roster  of where the Kili have been, then we can help isolate  the origin of the infectious protein,  we can jump there, we can find a cure,  we can help make a difference for the Kili  and show the admiral why we need to stay together.<br>  "Get our hands on"?  I believe we are in a unique position to help,  and we will do so by requesting the roster via proper channels.<br>  Our first Federation act will not be to pilfer its property  and violate a direct order.<br>  That is a lesson  I thought you would have learned by now, Commander.<br>  Of course.<br>  DETMER: They're breaking us up?  SARU: There is no precedent for  - us.<br> - [MURMURING.]<br>  So please, I ask you to trust the process.<br>  What is truly important is that we are all back home now.<br>  [INDISTINCT CHATTER.]<br>  We'll be calling you in by department.<br>  Engineering, spore drive specialists,  - operations, tactical - [OVERLAPPING CHATTER.]<br>  So you were dead?  Yes.<br> As I said.<br>  - Clinically dead? - Well, I was  emotionally dead, too and I was murdered.<br>  That can really do a number on you.<br> [CHUCKLES.]<br>  But my murderer and I are good now.<br>  So, you were on an asteroid and ?  Commander Burnham fell out of the sky.<br> With Captain Pike.<br>  It was raining Starfleet officers.<br>  Did you bring any snacks? I'm-I'm starving.<br>  So you would consider yourself "essential personnel"?  Have you been talking to Detmer?  Because I can't seem to get away from this question.<br>  What do you know about the Emerald Chain?  What is that some sort of Risan  - party drug? - It's the Andorian/Orion syndicate.<br>  I've never heard of them.<br>  I'm gonna need something to drink.<br>  All this is after I got my hair blown out  and became a Terran captain/dominatrix,  and before we jumped through a wormhole into the future.<br>  [LAUGHS.]<br>: So, I mean,  I love Starfleet, I really do,  but ask me if any of this was in the handbook.<br>  Was any of this in the handbook?  No.<br>  Nhan.<br> Security officer, USS Discovery.<br>  SFB534-0679.<br>  Failure to comply is insubordination.<br>  I'm sorry.<br>  Now, how long was the duration of the  Nhan, D.<br> Security officer, USS Discovery.<br>  Throw me in the brig, hologram.<br>  Lieutenant Willa, we submitted a request  to see the roster of planets the Kili refugees visited.<br>  We've not yet heard back.<br> If we know where they went,  we could find out what caused this.<br>  We're a science vessel.<br>  And the situations we've encountered  Sorry, Commander.<br> We're still in the process  of determining your intentions here.<br>  We are not temporal agents, Lieutenant.<br>  We need more than your word, Captain.<br>  Lieutenant Willa  I'm sure we would respond the same way  if the situation were reversed.<br>  But one fact is unassailable: we have a spore drive and it works.<br>  We can travel anywhere in the blink of an eye.<br>  And we want to help.<br>  All we are asking is to be permitted to look at the roster.<br>  Best case, you save lives.<br>  Worst case, you hate us a little more for wasting your time.<br>  I'll need to speak with Admiral Vance.<br>  HOLO SECURITY OFFICER: Our scans picked you out right away.<br>  A rigorous debrief is protocol for Terrans.<br>  HOLO SECURITY OFFICER 2: We also know you're a murderer  in at least two universes.<br>  Don't look at him.<br>  - Look at us.<br> - So, this will be your second universe,  your third timeline.<br>  Depends on how you look at it.<br>  I like to look at it like this.<br>  - Why are you blinking? - Why aren't you?  - What was your connection to Control? - We dated.<br>  All Terrans are duplicitous by their biology.<br>  Or biplicitous by our duology.<br>  Neither "ology" has anything to do with it.<br>  You may not be aware, but in the past hundred years,  we've discovered a chimeric strain  on the subatomic level in the Terran stem cell.<br>  Silly holo.<br>  You cannot rattle me by introducing a completely  fabricated biological component to my nastiness  and inherently bad behavior.<br>  I'm extremely wicked, even for a Terran.<br>  Who are you? What if you're not a holo?  Make her stop.<br>  What if you're a human programmed to think he's a holo?  - [CHUCKLES.]<br> - You broke my holos.<br>  Blinking at their harmonic rate disrupts the holo protocols,  creating a reference loop that shuts them down.<br>  Upgrade your programs and stop wasting my time.<br>  Why are you wearing glasses?  Um, they make me look smarter.<br>  I like 'em.<br>  I might decide to like you.<br>  Debrief as you will.<br>  FEMALE [OVER P.<br>A.<br>.]<br>: Trauma unit to medbay 6.<br>  - Vitals are dropping.<br> - [ALARM SOUNDING.]<br>  - [GROANING.]<br> - Pressure is spiking, heart rate is climbing.<br>  MALE: Scan again.<br>  FEMALE: Two more cc's, right away.<br>    VANCE: You believe they became ill on Urna?  That planet's been deserted for centuries.<br>  Y-Yes, but Urna is well, once was an industrial seat.<br>  A hub for the enrichment of unstable metals.<br>  The Federation was just beginning to sound the alarm  about toxicity a thousand years ago.<br>  The atmosphere was thinning,  and they feared high concentrations of UVB radiation  would mutate the biology of everything on the surface.<br>  And that is what happened.<br>  If the Kili stopped there, they scavenged there  for indigenous plants, fruit, any kind of nutrition.<br>  And whatever they ate was mutated.<br>  It was infected with misfolding proteins  that have been spreading in their bodies ever since.<br>  How do we fix the problem?  We need a healthy protein sample  of the plant they ingested to make an antidote.<br>  But as all of Urna was affected,  such a sample no longer exists.<br>  In the 23rd century, there was a Federation seed-vault ship,  the USS Tikhov.<br>  It held samples of every plant in the galaxy.<br>  If it still exists, it will have seeds  from before the planet's environmental collapse,  and we can synthesize an antidote from that.<br>  The Tikhov is still around, but it's five months away.<br>  Our spore drive can get us there and back in plenty of time.<br>  Your ship can get us there  with that one man Stamets.<br>  Willa, download Discovery's specs.<br>  Everything on the spore drive, and scramble a Federation team  to pilot her.<br> I want it flying in an hour.<br>  - Yes, sir.<br> - Admiral!  You have a crew ready and able to fly now.<br>  You're going to waste precious time teaching  a new crew the ins and outs of a thousand-year-old ship  flying through a mushroom network?  Watch your tone, Commander.<br>  You're not home yet.<br>  SARU: Admiral,  I would ask that you allow Discovery  to serve as she is able.<br>  It and Commander Burnham  are ideally suited for this kind of away mission.<br>  Understanding it is a matter of trust,  I will remain here with you to assist.<br>  Lieutenant Willa and two of our security officers  will go with Commander Burnham.<br>  Get back fast.<br>  Otherwise, it comes down on him.<br>    DETMER: Undocking is complete, Commander.<br>  Bring us to safe distance, please.<br>  Hope this fossil of a ship can do what you say it can.<br>  Welcome aboard, Lieutenant Willa.<br>  We're ready to go, Commander.<br>  We have three hours left to retrieve the seed sample  and create an antidote for the Kili.<br>  Let's show them who we are.<br>  You might want to hold on to something.<br>  Black alert.<br>  [ALARM SOUNDING.]<br>  Whoa.<br>  OWOSEKUN: We're at the programmed coordinates,  but there's no sign of the Tikhov.<br>  Scans show an ion storm in range.<br>  Bring it up.<br>  OWOSEKUN: If these were the last-known  coordinates of the Tikhov, it must be in there.<br>  Yellow alert.<br>  Lieutenant Rhys, prepare tractor beams.<br>  We'll have to pull it out of the storm  before we can beam on board.<br>  - Aye, Commander.<br> - Lieutenant Detmer, get us over there.<br>  - Aye, Commander.<br> - It's going to be a bumpy ride.<br>  Shields up.<br>    Shields holding at 90%.<br>  Commander, I've located the Tikhov.<br> Magnifying now.<br>  It's running on auxiliary power.<br>  Warp drive is off-line.<br>  There's unusual radiation.<br>  That must be interfering with our scans.<br>  I can't get an accurate read of life signs.<br>  How are we doing on tractor beams?  - Not steady enough.<br> - I'm working on it.<br>  [THUNDEROUS CRASH.]<br>  [FRANTIC CHATTER ECHOING.]<br>  Shields are holding.<br> You've got time.<br> You've got this.<br>  - Lieutenant? - Engaging reverse thrusters.<br>  I just need to get us clear.<br>  [THUNDEROUS CRASH.]<br>  - Go.<br> - Locking on.<br>  RHYS: Got her.<br>  Pulling her out now.<br>  And we're clear.<br>  Bryce, have Dr.<br> Culber report to the bridge.<br>  Nice work, Keyla.<br>  [QUIETLY.]<br>: Hey, you did great.<br>  A closer call than it should have been.<br>  Owo, what's the toxicity of the radiation on that ship?  Scanner says it's non-ionizing,  so it shouldn't be a threat to health.<br>  But its composition is just odd.<br>  - Tilly? - Already analyzing it.<br>  Who needs what?  There may be a medical emergency on the Tikhov.<br>  For the last 500 years, each planet of the Federation  has taken turns keeping watch over the seed vault.<br>  Looks like a Barzan family was most recent.<br>  - We joined the Federation? - In the 25th century.<br>  Never imagined.<br>  I haven't seen a Barzan since I joined Starfleet.<br>  You will today.<br> I want you with us on this.<br>  We don't have time to play catch-up,  so get your "hellos" out of the way fast.<br>  Anyway, the atmosphere on board is attuned  to Barzan biology, so we'll need breathing devices.<br>  So I can lose mine.<br> First time for everything.<br>  The seed vault itself  can only be accessed by beaming into and out of it,  so the transporter chief will need to stay at the ready.<br>  Understood.<br>  Tilly, let me know what you find on radiation.<br>  And, Rhys, you have the conn.<br>  Let's go.<br>  CULBER: What the hell?  BURNHAM: Someone must have compromised the seed vault.<br>  None of these plants should be here.<br>  Barzan atmosphere lends itself  to a more accelerated plant growth.<br>  Your eyes.<br>  Real air, real me.<br>  Well, radiation's nominal.<br>  Whatever the source, it's dissipated.<br>  Levels are safe.<br>  - How many in the family? - Four.<br>  Parents are scientists.<br> They have two kids.<br>  - [BEEPING.]<br> - Oh, that's weird.<br>  A life sign just blinked on, and then off again.<br>  Residual radiation must still be interfering  with our instruments.<br>  We might not be able to rely on them.<br>  Okay, seed vault should be this way.<br>  [BEEPING.]<br>  You're curious about my badge.<br>  I'm bored.<br> I thought I could break it down for parts.<br>  Play with it.<br>  It's clear, Emperor, what you're capable of.<br>  What's not clear to me is why you chose to come here.<br>  - I have a curious nature.<br> - Really?  April 5 is my birthday.<br>  A Terran holy day.<br>  April 5, 2063 first-ever contact  between Terrans and a Vulcan survey ship.<br>  But then your people slaughtered everybody on board.<br>  Vulcans need to learn to stay in their lane sometimes.<br>  And it's not like it's a high holy day.<br>  I've been fascinated by Terran history and methodology  since I was a boy.<br>  There are very few species  that do things simply to do them.<br>  We're mostly untroubled by pesky motivations.<br>  Except for revenge.<br> We do like that one.<br>  It seems you've created an empire based on the maxim,  "Because we feel like it.<br>"  So why would you ever join a Starfleet crew?  If you simply wanted to butcher them, you would have.<br>  Much as I enjoy being fetishized  and I do  I'll answer your questions if you answer mine first.<br>  No, you won't really do that.<br>  - Correct.<br> - And even if you did, you'd lie.<br>  So the only way I'll glean any information  is via the questions you ask me.<br>  So, please.<br>  Who's really in charge now?  The Burn appeared to have been quite the humbling experience  for the Federation.<br> Who was responsible?  - That's two questions.<br> - Pick one.<br>  There are conflicting theories,  but no hard proof  pointing at any one particular bad guy.<br>  Sounds like the Federation lost a step.<br>  Or five.<br>  And yet it endures.<br>  Unlike the Terran Empire, which fell centuries ago.<br>  Were you aware that the distance between  our two universes started expanding  sometime after your departure?  There hasn't been a single crossing  in over 500 years.<br>  You didn't know that, did you?  You're all alone now.<br>  I think  you and the Federation are afraid.<br>  Because whoever did this must be merciless.<br>  A threat to whatever or whomever you hold dear.<br>  The weakness of people  is generally other people  isn't it?  You're not wrong.<br>  But that could also explain  why you'd fall in line with Discovery.<br>  There's a person  on the crew  you care about, isn't there?  [FEMALE HUMMING FAINTLY.]<br>  The family.<br>  Behind us.<br>  [LAUGHTER, INDISTINCT CHATTER.]<br>  [HUMMING GROWS LOUDER.]<br>  [HUMMING CONTINUES.]<br>  [PLAYING SAME MELODY.]<br>  Adira played that same melody.<br>  How is that possible?  What?  [LAUGHTER.]<br>  Nothing.<br>  See if you can find any sign of the family.<br>  I'm going in the vault.<br>  [COMM CHIRPS.]<br>  Burnham to Discovery.<br> Do you copy?  I'm right outside the seed vault.<br>  - One to beam in.<br> - Aye, Commander.<br>  [EXHALES.]<br>  Wow.<br>        [LAUGHTER.]<br>  You okay?  I wish I'd gone home.<br>  Before we came to the future.<br>  My species is known for two things:  diligence and poverty.<br>  What little we get, we invest in our children.<br>  Your family must have been so proud when you joined Starfleet.<br>  They were devastated.<br>  I can only imagine when they heard about my death.<br>    [SOFT LAUGHTER.]<br>  When was the last time you heard your own language?  Now.<br>  Now is the last time.<br>  CULBER: I'll check in with Burnham.<br>  If you want to search the logs, I'll be fine.<br>  - Yeah? - Yeah.<br>  ATTIS: Personal log, Dr.<br> Attis.<br>  Stardate 802861.<br>  Living aboard the Tikhov  and caring for the Federation seed vault  these past four months has brought us closer than ever.<br>  Get out of the ion storm, distress calls  go nowhere, still can't identify the light that hurt them.<br>  I'm trying.<br> I'm trying!  The vault.<br>  I must find a cure  [SPEECH DISTORTED.]<br>  CULBER: Nhan, come here.<br>  The rest of the ship is on auxiliary, but  whatever's behind here seems to be  NHAN: Running on full power?  [QUIETLY.]<br>: Do it.<br>  Cryostasis is normally used  to preserve the living for revival, but  - they're already gone.<br> - You're sure?  Attis.<br>  Attis is alive.<br>  He's still trying to save them.<br>  That's what all these plants are about.<br>  He broke open the seed vault trying to grow a  a cure.<br>  I think you mean a miracle.<br>  And if he's still alive, where is he?  COMPUTER VOICE: Verbalize code for entry.<br>  Uh  - Access denied.<br> - Damn it.<br>  Access denied.<br>  No, the seeds are not yours!  They're ours.<br> They need them.<br>  - They're going to come back.<br> - Please, we're here to help!  What?  BURNHAM: He was fighting me.<br>  He didn't want me to get to those seeds, and   there was something about his face.<br>  It folded in on itself before he disappeared.<br>  It was as if his entire body was  out of phase, somehow.<br>  I saw something like that on the log.<br>  It was like he was out of sync with himself.<br>  Well, any ideas as to what might have caused this?  Well, I'd have to examine him first, but I'm not confident  he'd be able to fill in any more than we already know.<br>  But from what you're saying,  his grief seems to have disconnected him from reality.<br>  He hasn't gone crazy, if that's what you're suggesting.<br>  Well, his family is clearly deceased,  and he won't accept that.<br>  Barzans don't have the same idea of death as humans.<br>  If there's logic to his behavior,  then maybe we can reason with him.<br>  And we need his voice code to access the vault,  or those refugees are as good as dead.<br>  The admiral has given us this chance.<br>  We can't fail.<br>  Any ideas on how to stop the phasing  long enough to talk to him?  The phasing itself  It might explain why he survived and his family didn't.<br>  If we can figure out what happened,  then maybe we can fix him.<br>  The team should be nearly done analyzing the radiation.<br>  Are these values from a magnetic  or a mass spectrometer?  TILLY: Duh.<br>  Which means magnetic.<br>  I know what "duh" means.<br>  Can we just irradiate your entire personality?  Calibrating for cosmic background radiation.<br>  - I was just going to ask you to do that.<br> - Ask me to do that?  Duh.<br>  Your relationship isn't very professional.<br>  It's how we work.<br>  I've been trying to raise the bar.<br>  - BURNHAM: Tilly? - Yes, hi, Michael.<br>  I'm here.<br> You also have  Commander Stamets and Commander Reno.<br>  - We're analyzing the radiation.<br> - BURNHAM: Listen.<br>  Dr.<br> Attis is the only survivor.<br>  He described the ship being hit by a bright light  and the bodies of his family are showing  high concentrations of beta particles.<br>  Well, that could be any number of things.<br> I mean  He's also phasing uncontrollably.<br>  Okay.<br> Now we're on to something.<br>  Beaming is the only way in or out  of the seed vault, right?  I'm gonna look for the nearest star.<br>  You're thinking CME.<br>  - Yup.<br> - What am I missing?  The ship may have been hit by a CME  a coronal mass ejection.<br>  Kind of like a star burp.<br>  TILLY: "Burp" in this instance would be  a-a massive radioactive proton storm.<br>  It should kill anyone instantly, but if Dr.<br> Attis was  in the process of beaming into the vault when the CME hit,  the protons would've interfered with the ship's magnetic  shielding and destabilized his body's polarization on  a quantum level.<br>  - Right.<br> - Bingo!  Oh, yup, CME almost, uh, six weeks ago.<br>  And now his body's in limbo.<br>  May I never say the same about myself.<br>  Is there a way to bring him back in phase?  TILLY: I think so.<br>  But I'm pretty sure he's not gonna like it.<br>  - [ALARM SOUNDING.]<br> - COMPUTER VOICE: Warning.<br>  Power failure.<br>  Warning.<br>  Power failure.<br>  [GRUNTING.]<br>  Warning.<br> Power failure.<br>  - No! No, no, no, no, no, no! - Warning.<br> Power failure.<br>  Tilly, do you have him?  TILLY: Boosting our transporter's magnetic field  to match stable radiance.<br>  You should see him    now.<br>  Got him, thank you.<br>  Dysfunction aside  you all make a pretty good team.<br>  Dysfunction is the team.<br>  We've just accepted it.<br>  No, we haven't.<br>  NHAN: We're not trying to stop you  from finding a cure.<br>  We just need one set of seeds.<br>  There are other families in trouble.<br>  We want to help them, too.<br>  You need to talk to him.<br>  I couldn't even come close to understanding him  - the way Nhan does.<br> - That's my point.<br>  It's too personal for her.<br>  Because they share the same ethos,  she's not being honest with him.<br>  He needs to know that his family is gone,  however brutal that may be,  and that if he doesn't get help soon, he's going to die.<br>  He has limits.<br>  And the Kili do, too.<br>  Dr.<br> Attis, it's time to let go.<br>  Your family's gone.<br>  And I think you know that.<br>  Just like I think you know there isn't anything  on board that can change that.<br>  But there is something on board  that can help other families.<br>  Like yours.<br>  I know you had to watch them die.<br>  I'm sorry.<br>  No one should ever have to go through that.<br>  But there are others that are about to walk  where you've been walking,  and you have a chance to stop it.<br>  Please help us.<br>  Help them.<br>    [SNIFFLES.]<br>  COMPUTER VOICE: Verbalize code for entry.<br>  Amma.<br>  Tolpra.<br>  Amma and Tolpra.<br>  Two most beautiful moons in our entire star system.<br>  They're my daughters.<br>  Dr.<br> Attis  thank you.<br>  [WHIRRING.]<br>    Tilly, prepare to beam Dr.<br> Attis directly to sickbay.<br>  No.<br>  - I won't go.<br> - CULBER: Dr.<br> Attis,  you are severely irradiated from the original CME.<br>  All of your internal organs will have been damaged.<br>  Without treatment, you will die within days.<br>  I won't leave my family.<br>  That man in there  is incapable of making rational decisions about his own health.<br>  Just because you don't understand a choice  doesn't make it irrational.<br>  Well, think of the ship itself, then.<br>  It contains a living history of the Federation.<br>  We need that now more than ever.<br>  We can't take him against his will, either.<br>  He expressed his wishes clearly.<br>  Since when does Starfleet not consider cultural mitigations?  Hugh, why don't you take these seeds back to Discovery,  start working on an antidote?  Thank you.<br>  One to science lab.<br>  I respect Dr.<br> Attis's personal choice,  but Starfleet has always had its own mores.<br>  One of them being never to leave a person behind.<br>  So it's him versus Starfleet, then?  Sometimes there is no good choice.<br>  Only what you can live with.<br>  I don't think that I can live with letting  part of the Federation's history die with him.<br>  Then I'll stay.<br>  Nhan, if you stay, you'd be giving up your career.<br>  Considering what Airiam and I went through,  let's just say I'm good here.<br>  I'll make sure Attis's family gets home for a proper burial.<br>  And that the first Barzan watch is completed successfully.<br>  And I'd like to see my home again.<br>  I never thought I would.<br>  Are you gonna argue with me?  [BOTH LAUGH.]<br>  A year ago, I would have.<br>  You know, I have never forgotten  what you said at Airiam's funeral.<br>  That one of the reasons we join Starfleet is  to reach for the best in ourselves and each other.<br>  And I have never seen  anyone reach for the best in others quite like you, Michael.<br>  Don't ever stop.<br>  [SNIFFLES.]<br>  [WHISPERS.]<br>: I really hope our paths cross again.<br>  Me, too.<br>  [COMM CHIRPS.]<br>  One to beam back.<br>  It's my understanding, per Lieutenant Willa's report,  that Lieutenant Detmer and  Lieutenant Owosekun successfully  took Discovery into an ion storm to get to the Tikhov.<br>  BURNHAM: Yes, sir.<br>  And Commander Nhan remained on duty there for the Federation.<br>  SARU: Our entire crew understood  the mission and were prepared for any potential implications.<br>  We stand ready for more.<br>  Well, you should know we don't have five-year missions anymore.<br>  Exploration is a-a luxury we cannot afford.<br>  Admiral, are you familiar  with Earth's Renaissance painter Giotto?  Where are you going with this?  The period before the Renaissance  was referred to as the "Dark Ages.<br>"  A frightening time.<br>  Humanity was under siege from wars  and plagues and was, well, losing its way.<br>  Giotto helped spark the Renaissance  when, with his art, he helped create  the three-point perspective.<br>  He saw depth.<br>  SARU: He saw entirety.<br>  And he gave what he saw to the world.<br>  It made a difference.<br>  For the first time in a long time, humans looked up.<br>  Discovery is a servant of the Federation, but I believe  that our unique perspective from a revered time may  May help us to look up.<br>  Yes, sir.<br>  We have been in triage for a long time.<br>  Sir.<br>  We have a spore drive that can take us anywhere,  and a crew that operates as one breathing organism,  and Sphere data that offers thousands of years of wisdom.<br>  Keep us together and let us help.<br>  That's all we ask.<br>  But your crew they're only now beginning  to wrangle with the trauma they went through.<br>  Your pilot Detmer  her baselines are unsteady, to put it mildly.<br>  We've all put our lives in Detmer's hands,  and we'd do it again, sir.<br>  All right.<br>  But you go where I say, when I say.<br>  We're not in the Renaissance yet.<br>  BOTH: Yes, sir.<br>  Anything else?  - No, sir - The Burn.<br>  Sir.<br>  Are you at liberty to discuss it with us now?  We have more theories than ships in the fleet at the moment.<br>  The Federation never found  enough data to support one over the other.<br>  - Which theory do you believe? - Doesn't matter.<br>  Unless you have a new piece of evidence that has gone unnoticed  for 120 years  we have far more immediate concerns.<br>  Challenge accepted.<br>  And understood, sir.<br>  Captain.<br> Commander.<br>  Welcome home.<br>  [SOFT GROANING.]<br>  Oh, Lieutenant Willa.<br>  Did you find anything about that music that I asked you about?  Nothing to find.<br>  Half the people here know some version of it, including me.<br>  Don't you find that strange?  The Barzan planet, the Tikhov,  they're unimaginably far away from here without dilithium.<br>  And there's no way Dr.<br> Attis  could have come anywhere near this sector.<br>  How is it that everyone knows the same piece of music?  Some things get in the ether.<br>  BURNHAM: Philippa.<br> Let me run  something by you.<br> There's this piece of music  Philippa.<br>  Philippa?  Are you okay?  Michael.<br>  I asked if you were okay.<br>  Why would you ever, ever ask me a question like that?  SARU: Does it feel like home to you?  Not yet.<br>  But I truly hope it will.<br>  The Federation is an ideal that saved my life.<br>  Not once, but many, many times.<br>  It's the people who saved mine.<br>  Over the last year, I've come to realize that  the Federation is its people.<br>  I can't separate the two anymore.<br>  One living organism?  [QUIETLY.]<br>: Yeah.<br>  I do value your perspective, Michael.<br>  But I would ask that you choose your words more carefully  with the admiral than you did before your departure,  or it will impact us both.<br>  Yes, sir.<br>  So much we still do not know.<br>  But I am certain of one thing.<br>  We are both looking up.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e04" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e06" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

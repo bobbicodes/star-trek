@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e05 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e05 - Choose Your Pain Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e05 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e05"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e05 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e05" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Choose Your Pain</div>
+
+            <h1>Star Trek: Discovery (2017) s01e05 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Choose Your Pain</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			[NARRATOR.]<br> Previously on Star Trek: Discovery:  [LORCA.]<br> I would like to extend an official invitation  to join the Discovery and be a member of our crew.<br>  Sir, I've been court-martialed and convicted.<br>  [SARU.]<br> You are dangerous, and you are someone to fear,  Michael Burnham.<br>  [LORCA.]<br> Discovery is now the only Starfleet ship  with a displacement-activated spore hub drive.<br>  We will be able to materialize anywhere in the known universe.<br>  [BURNHAM.]<br> This spore drive travels on a network of mycelium.<br>  We just can't control where we go.<br>  But maybe the Tardigrade can.<br>  [GROWLING.]<br>  [STAMETS.]<br> We're ready to jump, sir.<br>  Go.<br>  [VOQ IN KLINGON.]<br>  [IN KLINGON.]<br>  This was sent for you.<br>  [COMPUTER.]<br> Do you accept the last will and testament  of Captain Philippa Georgiou?  I am leaving you my most beloved possession.<br>  Handed down through my family for centuries.<br>  [SCREAMING.]<br>  [GASPS, THEN BREATHING HEAVILY.]<br>  [TILLY SNORING.]<br>  Dr.<br> Culber, I've been studying the creature  since it came on board.<br>  It's incredibly regenerative, but with each jump Discovery makes,  it cries out.<br>  And the last 48 hours, it seems sluggish.<br>  Depressed.<br>  We don't know if it experiences stress or pain like we do.<br>  You think I'm anthropomorphizing.<br>  You discovered how to use the Tardigrade for navigation.<br>  A victory that maybe isn't a victory anymore,  given the creature's deteriorating condition.<br>  Let me run some tests.<br>  Thank you.<br>  [LORCA.]<br> In less than three weeks, the Discovery has prevented  the destruction of the dilithium mines at Corvan 2,  broken the Klingon supply line at Benzar,  and routed an attack  through the Ophiucus system.<br>  The reason you've been brought here today  is it has become increasingly imperative  that we duplicate Discovery's spore-drive technology,  and get it into as many Starfleet vessels as possible.<br>  To that end,  I ordered Lieutenant Stamets to release the schematics  of our propulsion system immediately after our first successful jump.<br>  Our classified facility in Jefferson, Iowa received them  and is building units according to those specs.<br>  We need more Tardigrades to ensure safe, accurate navigation.<br>  Every ship, every starbase,  every colony is on the hunt for these creatures.<br>  In the meantime, we want Discovery to dial back on its missions.<br>  - No, hold on a second - [CORNWELL.]<br> There is concern  at the highest levels of leadership about taxing our prime asset.<br>  Discovery should be out there.<br> Winning battles.<br>  We believe the enemy may have identified Discovery  as our secret weapon.<br>  You are hereby ordered to rein in your use of the spore drive  unless authorized by Starfleet.<br>  With respect to the war effort,  the fleet will pick up the slack caused by your absence.<br>  That's a lot of slack.<br>  We'll manage.<br>  [TILLY.]<br> Hi, roomie.<br>  Oh, my God, you look awful.<br>  Thank you, Tilly.<br>  That's it.<br> We're gonna have lunch right now.<br> I mean it.<br>  I mean that you're gonna tell me what's going on with you.<br>  There's nothing to tell.<br>  Uh, okay.<br> Um, that's okay.<br> I get it.<br>  It was bound to happen sometime.<br>  There's so many interesting people on this ship,  I'm sure you've made tons of friends by now.<br>  Tilly, it's not you.<br>  It's me.<br>  Well, since that is very rarely the case in my case,  I would love to hear how it's not me.<br>  I'm out of sorts.<br> And preoccupied.<br>  About?  The Tardigrade.<br>  Each time we use the spore drive, it gets weaker.<br>  You're stressed.<br>  I barely have a job here.<br> I've never been less busy.<br>  But then that gives you the time and space  to actually process what you're going through emotionally.<br>  I don't like it.<br>  Really?  I love feeling feelings.<br>  [DEVICE HUMMING.]<br>  [GRUNTS.]<br>  Ah! Turn it down.<br>  Sorry.<br> I didn't know you were still in here.<br>  Just saddling up for the ride, admiral.<br>  Why you didn't get your damn eyes fixed?  Oh you know, Katrina, I don't trust doctors.<br>  Should I take that personally?  It's punishment for blindsiding me  in that pathetic excuse for a strategy session.<br>  Cut the crap, Gabriel.<br>  By the way, there's something I didn't bring up,  lest you think I was piling on.<br>  The matter of Michael Burnham.<br>  No, no, no.<br> Starfleet regulation 139  eight-two allows you to conscript virtually anyone in time of war.<br>  And so I have.<br>  This organization's only convicted mutineer  is viewed by many, justifiably or not,  as the cause of our conflict with the Klingons.<br>  To see her avoiding justice does nothing for general morale.<br>  When I accepted the command, I was given the fullest latitude  to fight this war how I saw fit.<br>  But why give everyone another reason to judge you?  [SCOFFS.]<br>  Are you uncomfortable with the power I've been given, admiral?  I'm your friend.<br>  Mm-hm.<br>  It's my ship.<br>  My way.<br>  [COMPUTER.]<br> Warning.<br> Incoming warp signature detected.<br>  [ALARM WAILING.]<br>  Klingon class D7 battle cruiser identified.<br>  Tractor beam engaged.<br>  [GRUNTING AND SHOUTING.]<br>  [YELLING.]<br>  [IN KLINGON.]<br>   [CORNWELL.]<br> The pilot was killed in the subsequent firefight.<br>  Capitan Lorca was captured by the Klingons.<br>  Do we know where he was taken, admiral?  No.<br> By the time we responded to the shuttle's distress beacon,  the enemy's warp trail had dissipated.<br>  Since you're acting captain,  I'm sending you what little intel we have.<br>  This was a targeted abduction.<br>  It's possible the Klingons have learned of the existence  of Discovery's propulsion system, and taken Lorca to learn more.<br>  We need him back, Mr.<br> Saru,  before they pry those secrets out of him.<br>  - We will find him, admiral.<br> - Good luck.<br>  Lieutenant Detmer, set course  for the shuttle's last known coordinates, maximum warp.<br>  Lieutenant Owosekun, establish search parameters sector by sector.<br>  Calculate potential escape vectors  correlating to all known Klingon bases,  colonies, and planets, within five light-years.<br>  [DOOR OPENS.]<br>  Burnham.<br> What are you doing on the Bridge?  I came to speak to Captain Lorca.<br>  I'm afraid that won't be possible.<br> Commander Airiam,  alert Lieutenant Stamets that we may be making multiple jumps  in rapid succession throughout Klingon space  to see if we can track the ship that made the abduction.<br>  - Yes, sir.<br> - Multiple jumps?  Do you have an issue with that plan?  I just don't know how feasible it'll be.<br>  I'm concerned that we are negatively impacting  the Tardigrade with each jump we make.<br>  I was told it's virtually indestructible.<br>  I disagree with that assessment.<br>  Do you have proof that we're harming it?  - Not as of yet.<br> - I am not finding this information  to be helpful in any way.<br>  We are about to embark on a rescue mission  to save the life our captain.<br>  Are you suggesting we forgo that?  No, of course not.<br>  I'm just worried.<br> I don't know how much more  the Tardigrade can sustain.<br>  The more you hurt someone, the less helpful they become.<br>  Focus on the task at hand.<br> There will be no more discussion  of the Tardigrade until the captain's back safe.<br> Understood?  - Yes, sir.<br> - You may go.<br>  [SIGHS.]<br>  Computer  list Starfleet's most decorated captains, living and deceased.<br>  [COMPUTER.]<br> Working.<br>  [SARU.]<br> Based on their service records, is it possible  to identify the qualities most essential to their success?  [COMPUTER.]<br> Characteristics most often cited include bravery,  self-sacrifice, intelligence, tactical brilliance, compassion.<br>  Computer, initiate new protocol.<br>  Please, record all data related to my performance  as acting captain of Discovery,  and cross-reference with success parameters.<br>  Note where deviations occur.<br>  [COMPUTER.]<br> State the purpose of the new protocol.<br>  There is an element aboard this ship  that causes me to second-guess myself.<br>  That cannot continue.<br>  I must remain clearheaded in pursuit of today's mission.<br>  [COMPUTER.]<br> Alternative solution: Eliminate destructive element.<br>  Not an option.<br>  [PEOPLE SCREAMING AND KLINGON VOICES SHOUTING NEARBY.]<br>  - [GASPS.]<br> - [LORCA.]<br> Who are you?  The name is Mudd.<br> Harcourt Fenton Mudd.<br>  Harry for short.<br> And I reiterate Ouch!  Where are we?  On a resort off Antares Minor.<br>  - [GRUNTS.]<br> - Try the spa.<br>  - The hot-stone massage is delightful.<br> - Where are we?  Typical Starfleet.<br> No fun at all.<br>  We are on a Klingon prison vessel.<br>  Particularly nasty one.<br>  What's a civilian like you doing on a Klingon prison vessel?  The only crime I'm guilty of is loving too much.<br>  It's true, captain.<br>  I fell for a woman far beyond my reach.<br>  Sweet Stella.<br>  [CHUCKLES.]<br> Her family didn't approve of me,  so, I had no choice except to try and buy her father's respect.<br>  Scary, scary man.<br>  So, I borrowed a large sum from some non-traditional lenders,  and gifted her with a moon.<br>  It worked like a charm.<br>  Until I fell behind in my payments.<br> Hm.<br>  The creditors came after me.<br>  Chased me into enemy territory, right into the Klingons' arms,  who deposited me here,  where I await my fate.<br>  [MAN GROANING.]<br>  Oh, I wouldn't bother with him, captain.<br>  I believe the technical term for his condition is  "out to lunch.<br>"  Here comes the floor show.<br>  Choose your pain.<br>  [GRUNTING.]<br>  [SIGHS.]<br>  [MUDD.]<br> They may look stupid, our Klingon hosts.<br>  They're anything but.<br>  They regularly give us the choice to choose our pain.<br>  We can accept the beating ourselves, or pass it on to our cellmates.<br>  It's our captors' way of keeping us from bonding.<br>  You seem conspicuously free from bruises.<br>  I've learned how to choose wisely.<br>  Don't judge.<br>  You're gonna wanna stick with me.<br> I'm a survivor.<br>  Just like you.<br>  You should know that Lieutenant Stamets rarely,  if ever, listens to me.<br>  - I can handle him.<br> - Please.<br>  - Show me how.<br> - [BURNHAM.]<br> Lieutenant Stamets.<br>  Your spore drive is genius.<br>  Beyond genius.<br> What you've achieved for the war effort,  for the whole of science itself, it's a contri  I know I'm brilliant.<br> What are you trying to get out of me?  Why are you with her?  Burnham is worried about the physical effects  that Discovery's jumps are having on the Tardigrade.<br>  I've done my own evaluations, and I must concur.<br>  Scans of its frontal lobe show significant cumulative deterioration  - every time we go to black alert.<br> - We need to find a work-around.<br>  Making Ripper the critical component for the s-drive is unsustainable  for the creature and your invention.<br>  We could lose them both.<br>  And with them, any chance of saving Captain Lorca.<br>  Aren't there actual people on this ship  requiring your attention, doctor?  Actually, the CMO does need my help with an Andorian tonsillectomy.<br>  To be clear, the Tardigrade was your contribution.<br>  I never intended to utilize a living creature as a navigation tool.<br>  I didn't, either.<br>  You say "portabella," I say "portobello.<br>"  You are the cause of this situation, Burnham.<br>  - What are you doing with your mouth? - I am swallowing the urge  - to set the record straight.<br> - That won't get us anywhere.<br>  Do you wanna be right, or do you wanna fix this?  [SNORING.]<br>  I didn't realize there were more of us in here.<br>  I've been pulled out of rotation.<br>  Sometimes they let us heal up, so we last longer.<br>  Shit, you're a captain?  [GROANS.]<br>  Here.<br> Eat.<br>  You go ahead.<br>  Sorry sir, but I have to insist.<br> We never know when they'll feed us.<br>  You get keep up your strength.<br>  I already lost one captain.<br> I won't lose another.<br>  What's your name, soldier?  - Lieutenant Ash Tyler.<br> - And the captain you lost?  Steven Maranville, of the U.<br>S.<br>S.<br> Yeager.<br> The finest, sir.<br>  You were at the Battle of the Binaries?  They gave it a name, huh?  - That's where I was captured.<br> - You've been here seven months?  [CHUCKLES.]<br>  - That's funny to you? - Sorry, sir.<br> It's just, um  If that's true, I'm tougher than I thought.<br>  Or a liar.<br>  Nobody survives Klingon torture for seven months.<br>  Why are you doing here? They got a reason to keep you alive?  The captain of this ship  she's taken a liking to me.<br>  You must've picked up a few details.<br>  What's the crew complement of this vessel?  Can't be certain.<br> Thirty, maybe 40.<br>  [LORCA.]<br> You got a sense of the layout of the decks?  Mm-mm.<br>  I gotta get my hands on an active comm relay  to signal my ship for extraction.<br>  We're deep in enemy territory.<br>  There's no way a Federation ship can make it out this far undetected.<br>  Oh, my ship can.<br>  It's like a ghost.<br>  [BUG SCURRYING.]<br>  Mudd, if I see that pet of yours again  Come on, come on, come on.<br>  Apologizes, lieutenant.<br> Stuart has boundary issues.<br>  And besides  we're both a little hungry.<br>  You'd take food out of the mouths of the only two men  - standing between you and death? - Damn right, I would.<br>  Because this is all Starfleet has left me.<br>  I used to have a life, captain.<br> A good one.<br>  A respectable business.<br> That all got blown up,  because of your goddamn war.<br>  Starfleet didn't start this war.<br>  [MUDD.]<br> Of course you did.<br>  The moment you decided to boldly go where no one had gone before.<br>  What do you think would happen when you bump into someone  who didn't want you in their front yard?  You're siding with the enemy?  [MUDD.]<br> I'm not siding with anyone.<br>  But I sure as hell understand why the Klingons pushed back.<br>  Starfleet arrogance.<br>  Have you ever bothered to look out of your spaceships  down at the little guys below?  If you had, you'd realize that there's a lot more of us down there  than there are you up here.<br>  And we're sick and tired of getting caught in your crossfire.<br>  [LORCA GRUNTS.]<br>  [GASPING.]<br>  [STAMETS.]<br> So, we need the spore drive to save Captain Lorca,  but the spore drive is killing the Tardigrade.<br>  All right, let's start with our mushroom,  prototaxites stellaviatori,  a species made up of exotic material found not only in normal space,  but in a discreet subspace domain known as the mycelial network.<br>  Its fungal roots, a.<br>k.<br>a.<br> mycelium, spread across the universe,  fanning out into infinity to create a matrix  that serves as our intergalactic freeway system.<br>  Enter the Tardigrade, whose unique genetic makeup  allows it to navigate through the network,  because of its symbiotic relationship with the mycelium's spores.<br>  Like its microscopic cousins on Earth,  the Tardigrade is able to incorporate  foreign DNA into its own genome via horizontal gene transfer.<br>  When Ripper borrows DNA from the mycelium,  he's granted an all-access travel pass.<br>  [TILLY.]<br> Once Lieutenant Stamets conveys  the coordinates of a selected destination directly into Ripper  he knows exactly where to go.<br>  The Tardigrade's DNA is sequenced into the computer.<br>  Can't we build a virtual Ripper?  Trick the mycelium into thinking  it's communicating with the real thing,  then navigate the ship that way?  [STAMETS.]<br> That's what I am doing with my earlier research.<br>  Trying to use software to engage with the network.<br>  You were only able to achieve small jumps.<br>  See, now I know why.<br> The spores and the drive  were functioning at a fraction of their capacity  until we presented the mycelium with an animate copilot.<br>  That's the key.<br> The Tardigrade's alive.<br>  We just need to integrate the same sequence into a compatible species.<br>  One that understands its role in this process and engages willingly.<br>  You guys, this is so fucking cool.<br>  [CHUCKLES.]<br>  I'm so sorry.<br>  No, cadet.<br>  It is fucking cool.<br>  - Let's do it.<br> - [CHUCKLES.]<br>  [L'RELL.]<br> Have you ever been tortured, captain?  Your English.<br> It's excellent.<br>  I'm descended from spies.<br>  Languages are useful, particularly when it comes  to understanding those who seek to destroy the Klingon Empire.<br>  [LORCA.]<br> Little old me?  You've been busy these past three weeks, Captain Lorca.<br>  It was you who first surprised us in the Corvan system.<br>  Appearing out of nowhere.<br>  And then disappearing without a trace.<br>  Undetectable.<br>  Like a ghost.<br>  No other Starfleet vessel can do that.<br>  What is your vessel's secret?  I have no idea what you're talking about.<br>  Mm.<br>  You suffer from extreme photosensitivity.<br>  Well, we all got something, honey.<br>  I hear you're seeking solace in the arms of a human male.<br>  We don't even have the right number of organs for you.<br>  Why so hard-up?  [L'RELL GRUNTS.]<br>  Now who's being sensitive?  How strange space must look to you now,  seen through those damaged eyes.<br>  A cosmos full of agonizing light.<br>  Another creature might have slunk back into the darkness.<br>  But not you.<br>  You seek glory.<br>  [L'RELL CHUCKLES.]<br>  Perhaps you realize, glory must be earned  through sacrifice  and pain.<br>  [LORCA YELLS.]<br>  [SARU.]<br> Lieutenant Rhys, when will analysis  of our long-range sensor data be complete?  It is our only hope of closing in on Captain Lorca's location.<br>  We've narrowed it down to three potential courses,  all of which pass near or through the Mempa System.<br>  Very good.<br>  Alert Mr.<br> Stamets when you're ready  to proceed with our rescue mission.<br>  Lieutenant Stamets has taken the spore drive offline, sir.<br>  I don't understand.<br> You'd think any number of species  would be compatible recipients of the Tardigrade DNA sequence.<br>  I had the computer run all known life forms in the Federation database.<br>  Should I try to access the classified database  - at the Daystrom Ins? - No cadet.<br> You should not.<br>  Why did you shut down the spore drive?  On the Bridge, we're trying to pinpoint coordinates  that lead to Captain Lorca.<br>  We're working on something extremely important.<br>  - A substitute for the Tardigrade.<br> - Why?  Burnham informed me that our jumps are depleting it.<br>  She brought these concerns to me, as well.<br>  And I told her to stand down until Captain Lorca  was safely back on board Discovery.<br>  Obviously, this was not the response she wanted.<br>  So far, we found one viable workaround.<br>  This hypospray contains Tardigrade DNA and replication catalysts  that will initiate rapid horizontal gene transfer in a host.<br>  The interface process requires an evolved organism.<br>  A species with a highly functioning nervous system.<br>  And one that, like the Tardigrade,  shares genetic information with mushrooms.<br>  The animal kingdom diverted from its fungal counterparts  600 million years ago, but Homo sapiens still share over half  of our DNA with them.<br>  You want to use a human?  Eugenics experiments are forbidden.<br>  I know.<br>  - And that's why we need more time.<br> - I gave you an order.<br>  Do you understand?  [BURNHAM.]<br> Captain Saru, I understand that you are upset.<br>  You're in command.<br>  It's a time of crisis.<br>  And your culture trains you  to be on the heightened lookout for enemies.<br>  But I assure you,  I'm not one of them.<br>  How dare you treat me like one of your xenoanthropology subjects?  You're not an enemy, Burnham.<br> You are a proven predator.<br>  I know this not only because my instincts tell me that you are,  but because your actions show me that you are.<br>  Saving this Tardigrade will neither bring back nor change the fact  that this is exactly the kind of behavior  that killed Captain Georgiou.<br>  [RHYS.]<br> Bridge to the captain.<br>  We believe we have identified the battle cruiser  - that is holding Captain Lorca.<br> - Acknowledged.<br>  Lieutenant Stamets,  bring the drive back online, and prepare the Tardigrade to jump.<br>  Confine yourself to quarters immediately.<br>  [KLINGON GRUNTS.]<br>  Now let's be adults, and use our words, please  [STUART SQUEAKS.]<br>  Stealing food was just a diversion.<br>  He's been transmitting everything we say to the enemy.<br>  When I first got here, I dropped a little conversational nugget  to see if either of you could be trusted, and I just had my words  parroted back at me by the Klingon captain.<br>  You've fed intel on every prisoner that passed through here.<br>  - Ah! - [MUDD.]<br> No! Stuart.<br>  Stuart.<br>  [SCREECHING.]<br>  You almost killed him.<br>  You're finished.<br> And when it's time to choose our pain,  we're choosing you,  until there's nothing left.<br>  [SIGHS.]<br>  Captain, are you really gonna let this idealistic young man  humiliate himself by siding with you?  Hm?  Have you no decency, Lorca?  Actually, that was a trick question.<br> I know you don't.<br>  We both know you lost that with your last command.<br>  What's he talking about?  [MUDD.]<br> The tragic tale of the U.<br>S.<br>S.<br> Buran.<br>  It was ambushed about a month into the war.<br>  The Klingons boarded it and blasted it into smithereens.<br>  Only one crewman managed to escape.<br>  Gabriel Lorca.<br>  Apparently, the honorable captain was too good  to go down with his ship.<br>  Mudd's only half right.<br>  We were ambushed, and I did escape.<br>  But I didn't let my crew die.<br>  I blew them up.<br>  I knew what awaited them on Qo'noS.<br>  Degradation.<br> Torture.<br>  Slow, public death.<br>  It's the Klingon way to spread terror.<br>  Not my crew.<br>  Not on my watch.<br>  Well, they say confession is good for the soul.<br>  Too bad none of us have one anymore.<br>  Commander Airiam, set displacement parameters  to bring us within weapons range  - of our target Bird-of-Prey.<br> - Aye, sir.<br>  - Lieutenant Stamets, are you ready? - [STAMETS.]<br> Yes, captain.<br>  Black alert.<br>  [ALARM WAILING.]<br>  [GROWLING.]<br>  [SCREECHING.]<br>  Go.<br>  [SHRIEKING.]<br>  [RIPPER GROANING.]<br>  The creature has gone into a state of extreme cryptobiosis  by reducing the water content levels of its body  to less than 1 percent.<br>  Its vital signs have slowed to the point we can barely detect them.<br>  Rehydrate it and bring it back.<br>  Mr.<br> Rhys, have we been detected?  - Negative.<br> - Captain Saru, I'm not  Location of Klingon prison ship.<br>  Point-seven AUs from our position,  Bearing 13, Mark 59.<br>  Match their course and speed, maintain our distance.<br>  Cut all systems and run silent.<br>  [CULBER.]<br> Captain.<br> We're not done here.<br>  This isn't like waking someone from a nap.<br>  This is an extreme reaction to adverse conditions.<br>  The Tardigrade is in survival mode.<br>  So are we, doctor.<br> Crack it open if you have to.<br>  - In my opinion, that will kill it.<br> - As it is our only way  to get out of Klingon space, it is a risk we must take.<br>  Captain, neurological tests indicate  that this creature may be sentient.<br>  If that ends up being true,  I will face the consequences of my actions.<br>  I do not enjoy being in this position,  but I have 134 souls to protect today.<br>  Be ready to force the creature to comply.<br>  I will not be party to murder.<br>  Doctor, I was not talking to you.<br>  Do you understand my orders,  and can I count on you to follow them, Lieutenant Stamets?  Yes, sir.<br>  Choose your pain.<br>  [RIFLE POWERING UP.]<br>  Choose me, captain.<br>  - I fully support that idea.<br> - [TYLER.]<br> You do this for me.<br>  Choose me.<br>  Choose your pain.<br>  Oh, thank you, thank you, thank you.<br>  Thank you, thank you, thank you.<br>  [SHOUTING AND GRUNTING.]<br>  [RIFLE POWERING UP.]<br>  [NECK CRACKS.]<br>  [NECK CRACKS.]<br>  [MUDD GASPS.]<br>  Where the hell did that come from?  Getting out was always a two-man job.<br>  I just waited till I found the right man.<br>  You played me.<br> Oh.<br>  Bravura, Mr.<br> Tyler.<br> I doff my cap.<br>  Now should we proceed to our Raider?  There is no we, Mudd.<br> You sold us out.<br>  You stay.<br>  - You can't be serious.<br> - Oh, but I can.<br>  [YELLS.]<br>  You can't do this.<br> I can't take it in here anymore.<br>  Please.<br> I promised Stella I would come home to her.<br> Please.<br>  I promised.<br>  No.<br> No.<br>  No.<br>  You can't walk away from me, Lorca.<br>  I'm coming for you.<br> You hear?  You haven't seen the last of Harcourt Fenton Mudd.<br>  [SHOUTING AND GRUNTING.]<br>  Hey.<br>  Get up, soldier.<br> Get up.<br>  I'm slowing you down, sir.<br> Go.<br>  All right, take cover.<br>  I'll find a way out and come back.<br> Understand?  [RIFLE POWERING UP.]<br>  Did you really think you could leave me?  After all we've been through.<br>  [YELLS.]<br>  [YELLING.]<br>  [SCREAMING.]<br>  [GASPING.]<br>  Tyler, I found the docking bay.<br>  Get up.<br> Let's go.<br>  [SCREAMING.]<br>  Redirect all auxiliary power to shields.<br> Blue panel on the right.<br>  Five Raiders in pursuit.<br> Closing fast.<br>  Your eyes.<br> That happened when you destroyed the Buran, didn't it?  We choose our own pain.<br>  Mine helps me remember.<br>  [OFFICER.]<br> Target positions of incoming  Raiders and prepare to establish  Klingon Raiders, sir.<br> Five ships and counting,  - heading right towards us.<br> - Red alert.<br>  We must've been spotted, sir.<br>  Shall I lock on and prepare to fire?  The leader of the pack seems to have charted an erratic flight pattern.<br>  We are now within their weapons range.<br> Should I lock phasers, sir?  Predator packs often split into smaller groups while in pursuit.<br>  One group initiating the chase,  while another travels ahead of the prey's escape path.<br>  Hail that Raider.<br>  Initiating communication will expose our position.<br>  The lead vessel is being chased.<br> It's our captain.<br>  [RICHTER.]<br> Federation Starship Discovery to Klingon Raider.<br>  - Identify yourself.<br> - Well, what do you know?  The cavalry showed up.<br> This is Captain Lorca.<br>  Two to beam out.<br> Now.<br>  Bridge to transporter room.<br> You have a lock?  - [OFFICER.]<br> Aye, sir.<br> - Lower your shields, Captain Lorca.<br>  Captain to Bridge.<br> You got us.<br> Jump.<br>  - Jump now.<br> - Lieutenant Stamets,  have you revived the Tardigrade?  [STAMETS.]<br> We are able to jump commander.<br>  The Klingon Raiders detected our transporter signature.<br>  - They're locking weapons.<br> - Black alert.<br>  Go.<br>  Easy, soldier.<br> You're home.<br>  - Thank you, captain.<br> - For what?  Dragging you back into the war on a ship with a target on its back?  There's no place I'd rather be.<br>  Bridge to Stamets.<br>  Congratulations, lieutenant.<br> Excellent work.<br>  Lieutenant Stamets, do you copy?  Sir, Stamets is in Engineering, but it seems  his life signs are in distress.<br>  [COMPUTER.]<br> Warning.<br> Failure to initiate  spore-drive deactivation sequence.<br>  Spore chamber active.<br>  Density at 68 percent.<br> Drive system online.<br>  - Open this door.<br> - Induction coil saturated.<br>  Captain, he  He injected himself with the Tardigrade DNA and compound.<br>  Is he dead?  [GASPS.]<br>  [STAMETS GRUNTS.]<br>  - Did we make it? - Yes.<br>  [LAUGHING DELIRIOUSLY.]<br>  [DOOR BEEPS.]<br>  Come.<br>  Captain Lorca has been rescued.<br>  On the subject of the Tardigrade, there has been a setback.<br>  Cadet Tilly brought me up to speed.<br>  Sir  permission to speak freely.<br>  Are you really afraid of me?  I am not.<br>  I am angry at you.<br>  Angry because of how much you stole from me.<br>  I am deeply jealous  that I never got the chance you had.<br>  To be Captain Georgiou's first officer.<br>  You stood by her side and learned everything she had to teach.<br>  The anticipated scenario, you would move up and out.<br>  Captain your own starship.<br>  And I would take your place.<br>  I never got that chance.<br>  If I had, I would've been more prepared for today.<br>  You did well.<br>  Very well.<br>  She would've thought so, too.<br>  [SARU.]<br> Her telescope.<br>  She left it to me.<br>  It's yours now.<br>  You should have the privilege to see the universe the way she did.<br>  [SARU.]<br> Burnham.<br>  Captain Lorca has yet to be cleared for command.<br>  I have much to attend to,  and I could use your help with one thing.<br>  Of course.<br>  Dr.<br> Culber believes the Tardigrade is sentient.<br>  It remains in a state of cryptobiosis.<br>  We have no claim on its soul.<br>  Go save its life, Burnham.<br>  That's an order.<br>  [TILLY.]<br> May the sun and moon watch your comings and goings  in the endless nights and days that are before you.<br>  Are you sure this will work?  No.<br> But if this is its response to an adverse environment,  what does it consider to be hospitable?  This creature has traveled to the ends of the universe.<br>  My hope is that what makes it most happy is to be free.<br>  [FAINT GROWLING.]<br>  [COMPUTER.]<br> Initiating performance review, Acting Captain Saru.<br>  Protocol canceled.<br>  I know what I did.<br>  [STAMETS.]<br> Stop.<br>  Stop what?  Stop worrying.<br>  Stop doctoring.<br>  Well, one tends to worry  when they're doomed to love a brilliant but reckless maniac  who's willing to risk his life for glory.<br>  The captain was in danger.<br>  Captains are in danger every day.<br>  You were in danger.<br>  I've spent my entire career  trying to grasp the essence of mycelium.<br>  Now for the first time  I do.<br>  I saw the network.<br>  An entire universe of possibilities I never dreamed existed.<br>  It's unspeakably beautiful.<br>  I also knew you'd leave me  if I let anything else endanger that creature.<br>  - Oh.<br> So, you do listen to me.<br> - Not really.<br>  - You sold that with a look.<br> - Don't do anything that stupid again.<br>  You may not care about you  but I do.<br>  You sure you feel okay?  Yes, dear doctor.<br>  I feel okay.<br>  Okay.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e04" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e06" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

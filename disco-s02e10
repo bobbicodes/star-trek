@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e10 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e10 - The Red Angel Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e10 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e10"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e10 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e10" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;The Red Angel</div>
+
+            <h1>Star Trek: Discovery (2017) s02e10 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">The Red Angel</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  You are the only one who has had contact with the Red Angel.<br>  You said you don't understand why it chose you.<br>  SPOCK: It guided me to a remote planet  and showed me  the end.<br>    SPOCK: My perception of reality was challenged  by visions from a time-traveling entity.<br>  Who should help me but you, of course?  After all, the entire Klingon war was your doing.<br>  CULBER: That version of me  that called your quarters home,  that version of me is dead.<br>  And I'm not going back.<br>  Would you please just move forward  and let me do the same?  CORNWELL: Whether I can issue orders or not,  we have to get a team onto that station and reset control.<br>  Michael, you have to open the airlock.<br>  No.<br> I'm not gonna eject you into space.<br>  I will unlock this door.<br>  I will kill you.<br>  Everything is because of you.<br>  Because of me?  You have to find Project Daedalus.<br>  Where is Project Daedalus?  [GASPING.]<br>  PIKE: Commander Airiam reminds us that resilience  is an unshakable virtue.<br>  She was fiercely loyal  to her crew  to Starfleet.<br>  And, in her final moments,  she sacrificed herself for that loyalty.<br>  That is how she'll be remembered.<br>  TILLY: Some people choose to live their lives  as if nothing is a miracle,  but Airiam fought for her life,  and so everything was.<br>  Everything that she saw, everything that she felt,  all of her memories, they made a kind of  constellation for her.<br>  I'm I'm grateful to her for that lesson.<br>  She was my friend.<br>  STAMETS: She said once,  without a hint of self-pity,  that the paths of trillions of particles  had been forever changed, simply because  she and her husband smiled at each other.<br>  She was happy that together  they made the universe a little less orderly.<br>  DETMER: I just felt the weight  of what I had lost  but she showed me that my augmentation didn't make me  an imitation of myself.<br>  It made both of us new.<br>  And that there could be a future.<br>  She was right.<br>  BURNHAM: There are so many reasons to join Starfleet.<br>  We get to reach for the stars.<br>  We get to reach for the best in ourselves.<br>  But, most important,  we get to reach for each other.<br>  We get to do what we love  alongside colleagues who become friends  who become family.<br>  And who better to stand with, shoulder to shoulder,  facing those pivotal moments?  Who more painful to let go?  I am so sorry, Airiam.<br>  On Kaminar, we sing songs of remembrance  for those who have been taken from us too soon.<br>  This is a song of remembrance for Airiam.<br>  [SARU SINGING IN KELPIEN.]<br>  [SINGING CONTINUES.]<br>  [SINGING CONTINUES.]<br>  [SINGING CONTINUES.]<br>  You spoke beautifully.<br>  Thank you.<br>  I'm so sorry.<br>  I'm sorry you were confined to quarters for so long.<br>  I told Captain Pike you weren't responsible.<br>  It's okay.<br>  If I were in his shoes, I'd have done the same.<br>  I just wish it had played out differently.<br>  Yeah.<br>  Michael.<br>  I can feel what you're trying to do, Ash.<br>  I can.<br>  But Section 31 created Control,  and some future version of it came here.<br>  And now Airiam is gone.<br>  You don't think I knew what was happening, do you?  Of course not.<br>  But your duty is still to them.<br>  So  PIKE: Let's start with everything we know.<br>  The A.<br>I.<br> is from the future.<br>  It infected Airiam and forced her  to copy some of the Sphere data into Control  so Control could evolve.<br>  We stopped her before that could happen.<br>  How did the Section 31 program  designed to eliminate threats become the threat?  Time travel.<br>  The one variable we cannot  possibly predict is the future.<br>  And clearly, that future A.<br>I.<br> is built  on advanced technology of which we have no understanding.<br>  - How do we stop it? - SARU: To the best of our knowledge,  the future A.<br>I.<br> only infected Airiam and Control.<br>  Airiam's neural system was erased before her funeral.<br>  As for Control, it was used only by Section 31.<br>  We destroyed the station where Control was located,  and, per your suggestion, Admiral,  we advised all Section 31 ships to run diagnostic tests.<br>  All came out clean.<br>  PIKE: Let's not celebrate just yet.<br>  The A.<br>I.<br> that infected Control  could have sent itself off-station.<br>  We have to assume that it's lying dormant for now,  but it could reemerge at any time.<br>  And when it does, we have to be able to destroy it somehow.<br>  [DOOR WHOOSHES OPEN.]<br>  Hi.<br> Oh, um Sorry, uh, Captain Admiral.<br> Everyone.<br>  I-I should have knocked.<br>  Although it-it is kind of pointless, these doors  pretty much open right on their own most of the time.<br>  Ensign, did you need something?  Uh, uh, well, actually, I found I have something.<br>  I mean, I found something.<br>  Um  So I was, uh  I was reviewing some scans of Airiam's system,  and I-I found this weird code, and at first,  I figured, uh, it's just some junk from an old update,  but then I discovered it's actually a file  that was implanted there by a digital parasite.<br>  The file is called Project Daedalus.<br>  Those are the last words Airiam said to me.<br>  The file also contains  a bio-neural signature of the Red Angel.<br>  Michael, it's you.<br>     Star Trek: Discovery S02E10-The Red Angel    [ORIGINAL STAR TREK THEME PLAYS.]<br>  PIKE: While Dr.<br> Culber hasn't been officially reinstated,  I've asked him to oversee analysis  of the data Tilly uncovered.<br>  SPOCK: The results are conclusive?  Well, every test that I've run on Commander Burnham  is a 100% match to the bio-neural signature  found in Airiam's Daedalus file.<br>  We have to consider the source.<br>  Airiam was compromised.<br>  The A.<br>I.<br> could have had her plant information  to throw us off course.<br>  I see no logical or strategic reason  for Airiam to have provided a false positive.<br>  And even if she had, it would have read too perfect.<br>  Humans have a few neural wild cards  that anything artificially generated couldn't replicate.<br>  I would have caught it.<br>  We're saying that Michael, our-our Michael Burnham,  is going to wake up one day,  access time-travel technology that doesn't exist yet,  and take it upon herself to save the galaxy.<br>  That supposition fits  her emotional profile rather precisely,  particularly her drive to take responsibility  for situations often beyond her control.<br>  Thank you for sharing that with the group, Spock.<br>  SPOCK: We must also assume the cataclysmic events I foresaw  when the Angel appeared to me are a result  of Control evolving, achieving consciousness.<br>  Let's assume for a moment I am the Red Angel.<br>  If I knew about an apocalypse, why wouldn't I say so?  Perhaps you simply have a penchant for the dramatic.<br>  Okay.<br>  SPOCK: The suit was emitting  tetryonic radiation, which would limit  traditional radio and sensor communication.<br>  That would explain my difficulties  in mind-melding with it.<br>  And why it put seven signals in the sky.<br>  It was trying to get Starfleet's attention, maybe to warn us.<br>  BURNHAM: But the first three signals  appeared on the asteroid,  Terralysium, and Kaminar,  with four left to reveal themselves.<br>  If I'm guiding Starfleet  to these specific places  on some sort of path, why?  What do these locations have in common?  SARU [OVER COMM.]<br>: Admiral.<br> Captain.<br> We've just received word  that a Section 31 vessel is on its way.<br>  The Federation has cleared Discovery, Lieutenant Spock  and Commander Burnham of all charges.<br>  If you came all this way to arrest somebody,  you wasted a trip.<br>  We're aware, Admiral.<br>  Chris, I'm sorry  for the loss of your crew member.<br>  We're here to make sure nothing else from the future  can attack the Federation.<br>  We're already working on a strategy.<br>  GEORGIOU: In other words,  you're accumulating input,  which only invites debate.<br>  No debate, no innovation.<br>  I prefer a little totalitarian efficiency,  but that's me.<br>  LELAND: Admiral,  we have a solution.<br>  I'm cringing already.<br>  The Angel is the only one with answers about the future,  the A.<br>I.<br> and perhaps how to stop it.<br>  And we can't predict when or how it will appear.<br>  Correct.<br> So  we set a trap, we capture it  and make it work for us.<br>  The Red Angel's bio-neural signature  was hidden inside Airiam's data  in a file called Project Daedalus.<br>  Are you absolutely certain it was a match to Michael?  It's me.<br>  SARU: As the Angel travels through time,  she opens a micro-wormhole  along with the possibility that a future A.<br>I.<br> will follow her.<br>  We can't let that happen again.<br>  Agreed.<br> Which is why we have to stop her  from traveling back and forth.<br>  We have to capture her.<br>  Me.<br>  So, how do you propose we trap her?  20 years ago, we discovered the Klingons  were researching time travel.<br>  Obviously a critical threat, a warrior race  with the ability to rewrite the past and shape the future?  They'd have wiped us out  before we could even walk out of the primordial soup.<br>  No offense.<br>  None taken.<br>  They would've.<br>  LELAND: We found ourselves  in a temporal arms race, so to gain a strategic advantage,  we developed "The Daedalus Project.<br>"  It's ours.<br>  [PADD BEEPING.]<br>  Section 31's grand design for time travel.<br>  You created the Red Angel?  The suit was on the verge of being tested  when it was destroyed by Klingon spies.<br>  We thought they had abandoned the project permanently.<br>  Until the signals began.<br>  LELAND: Once the suit appeared alongside the signals,  we started working on a way to capture it.<br>  A mousetrap, if you will, to get our technology back.<br>  And the individual using that technology?  She will not be harmed.<br>  There are gaps in your story that I find disconcerting.<br>  I've told you everything you need to know.<br>  - Not if I'm the mission, sir.<br> - Burnham.<br>  GEORGIOU: I have the technical specifications  and a list of, uh, equipment required.<br>  Provided I may borrow some of your top minds to build it.<br>  You can work with Commander Stamets.<br> He's one of our best.<br>  SPOCK: Even if they succeed,  there is still the matter of predicting  the Angel's next appearance.<br>  She has not consistently accompanied  the arrival of the signals.<br>  Signal or no signal,  there has to be a pattern to my jumps.<br>  And once we find it, we'll find me.<br>  I'll figure out a way to close the wormhole once she gets here.<br>  The graviton beams on our ship should be powerful enough.<br>  I would be happy to assist you  with the calculations, Captain Leland.<br>  Admiral?  Let's go build a mousetrap.<br>  BURNHAM: Georgiou, wait.<br>  What aren't you telling me?  [SIGHS.]<br> How many times have you asked me that?  Aren't you getting bored?  I'll stop asking when it stops being a question.<br>  I know there's more to that Daedalus story.<br>  We shared what we needed to share.<br>  - At least, I have.<br> - Philippa.<br>  I'm putting my life in your hands.<br>  You asked for my trust.<br>  I'm giving you a way to earn it.<br>  I'm not the one with the information  you need to hear, Michael.<br>  Leland?  It's my experience it's often our best intentions  that cause us to do the most harm,  especially to those we care for.<br>  STAMETS: This is the Red Angel.<br>  A suit that lets someone travel through time  via micro-wormholes.<br>  But wormholes are inherently unstable,  so the Angel needs to hold them open  or she won't be able to get home again.<br>  And as I understand it,  to keep the wormhole open, the suit generates  a membrane, a protective layer that travels with her,  and one end stays attached  to her starting point in the future.<br>  An anchor.<br>  When she wants to go home, it snaps her back  like a rubber band.<br>  TILLY: Our phase discriminators  will hold the Angel in stasis beams  so the membrane can't snap her back.<br>  And then we'll lower her to a platform,  where an electromagnetic pulse  will shut down the time crystal that powers her suit.<br>  STAMETS: And, uh, then we  raise the containment field,  and that will hold her here for as long as we want.<br>  And then, uh, we can question her,  and nothing from the future will be able to reach us.<br> Right?  What's that look on your face?  I was thinking you may be  smarter than the Stamets I knew.<br>  You're also much more neurotic.<br>  Have you considered medication?  Um, based on my calculations,  the phase discriminators should function properly.<br>  - The problem is - [DOOR WHOOSHES OPEN.]<br>  Uh, hey, Tilly.<br>  Is, um, Admiral Cornwell here?  I thought she might be  TILLY: Yeah.<br> What? No, she's not.<br>  No, but it is it's great  uh, so great that you're here.<br>  Please, your wide-eyed attempt  to release this fabulous male tension  is a buzzkill.<br>  You never learned to relish  a little discomfort, Red?  Who raised you?  My-my mom.<br> My mom.<br>  - But she wasn't around a lot.<br> - Stop talking.<br>  You said there was a problem, Paul?  Uh, yes, with the the phase discriminators.<br>  Uh, we'd need the equivalent of 12 warp cores  to generate enough energy to-to run them,  and if we can even locate  that much power, it will be almost impossible to control.<br>  Not for you.<br>  In fact, we don't need warp cores.<br>  One of the Project Daedalus testing sites  was on Essof Four.<br>  Y-Yes, I've read about that place.<br>  So much deuterium.<br>  We can use it to create a plasma reactor  to power up our phase discriminators.<br>  And then, snap, we have our mouse.<br>  You are savvier than he was.<br> CULBER: Um  you-you do know that he's gay, right?  Don't be so binary.<br>  In my universe, he was pansexual,  and we had DEFCON-level fun together.<br>  And you, too, Papi.<br>  Did you just call me Papi?  Uh, well, in my universe  and pretty much any universe I can possibly imagine,  I'm gay.<br>  And so is he.<br> Of course you are.<br>  I'm glad we all see  what's right in front of us.<br>  And now, if you'll excuse me,  I need to talk to Captain Pike about setting a course  for Essof Four.<br>  [WHISPERS.]<br>: What just happened?  Commander.<br>  Hey.<br> I just  [SIGHS.]<br> Look,  my job is to preserve as many lives as possible  at any cost.<br>  But what you said at the service  It is hard to let go.<br>  You did the right thing.<br>  I'm grateful you were there.<br>  Strange way to get to know someone, but  after seeing how hard you fought for her,  the real her  Let's just say I'm grateful you were there, too.<br>  SARU: The wormhole used  by the Red Angel would close on its own eventually,  but we must find a way to force it closed immediately  or risk another A.<br>I.<br> infiltration.<br>  Unfortunately, Discovery's graviton beam  is not powerful enough to  Which is why I said I'd do it from my ship.<br>  I'll have Specialist Tyler help.<br>  We'll close it fast.<br>  Did Captain Pike decide  that I needed a monitor?  Is that why you're here?  I chose to work with you  because I wanted to assess you myself.<br>  Section 31 has engaged  in questionable practices of late.<br>  Given that we will be working together  and the lives of those I care for may be in your hands,  I need to know that you can be trusted.<br>  If you can tell the answer, I'm not doing my job very well.<br>  Even without my ganglia,  I still have strong instinctive reactions  to dangerous situations and individuals.<br>  And?  I believe you will work  to protect your crew and ours  to the very best of your ability.<br>  I also believe  there are many things you are not saying.<br>  [DOOR WHOOSHES OPEN.]<br>  Excuse me.<br>  Mr.<br> Saru.<br>  May I have a moment with Captain Leland, please?  Certainly, Commander.<br>  [DOOR WHOOSHES OPEN.]<br>  Captain, we're preparing a strategy to capture me.<br>  I have a right to know everything you do.<br>  As in everything you know.<br>  You are capable of some intricate moral gymnastics.<br>  And that's your job, right?  But I am giving you one chance  to explain everything as you need to explain it.<br>  I knew your parents.<br>  They worked on Project Daedalus for Section 31.<br>  I had them stationed on Doctari Alpha.<br>  No.<br>  We were stationed there  because my parents wanted a change of scenery.<br>  And we only stayed as long as we did  because I wanted to see a star go supernova.<br>  You were there because of me.<br>  Your parents  Your parents were killed there  because of me.<br>  My parents were scientists.<br>  My father was a xenoanthropologist.<br>  My mother was an astrophysicist.<br>  They wouldn't have been involved in Section 31.<br>  She was also an engineer.<br>  A brilliant one.<br>  They were working on a theory that sudden technological leaps  across certain cultures, including those on Earth,  weren't happenstance  but the result of time travel.<br>  No.<br> They would have known that certain leaps,  including technological advancements,  can be explained.<br>  I wasn't convinced, either.<br>  Until they built the suit.<br>  No.<br>  No, they didn't mention anything like this to me.<br>  Because it was classified.<br>  And very dangerous.<br>  What did you have to do with this?  The suit was missing a key component: a time crystal,  the element that would enable it to jump through time.<br>  We got Intel from an operative on Qo'noS  that a time crystal had hit the black market  near the Orion Outpost.<br>  I used my assets in the sector to steal it.<br>  See, I thought that we had made it untraceable.<br>  But the Klingons tracked it to Doctari Alpha.<br>  Where a star was about to go supernova,  releasing a massive amount of energy.<br>  This whole time  I thought  We were there because of you?  For a time crystal?  And you let the Klingons track it?  I was young, I was ambitious, I  I was careless.<br>  I should have done more to protect your parents.<br>  I know how much this has cost you, and I'm so sorry.<br>  I hope [GRUNTS.]<br>  That's for my mom.<br>  [BOTH GRUNT.]<br>  That's for my dad.<br>  This isn't over.<br>  [DOOR WHOOSHES OPEN.]<br>  [GROANS QUIETLY.]<br>  [DOOR WHOOSHES SHUT.]<br>  I just uploaded all the Section 31 signal data.<br>  - Did you know? - Know what?  That Leland was responsible for the death of my parents.<br>  You knew, didn't you?  - No.<br> - Don't lie to me, Ash.<br>  Michael, I don't know what you're talking about.<br>  Every moment you work for Section 31,  you're announcing who you are.<br>  You're saying this is your compass, this is your course.<br>  You can live with that?  Section 31 has a specific mission.<br>  I don't always agree with their tactics,  but I do believe in their mission.<br>  - No matter who pays the price? - It's not black-and-white.<br>  They-they also do a lot of good.<br>  [SCOFFS.]<br>  I'll take that as a "yes.<br>"  [SIGHS.]<br>  [DOOR CHIMES.]<br>Come.<br>  Admiral, uh, they said you were here.<br>  Do you have a moment?  I do.<br>  You, uh, used to be a therapist.<br>  Yes, I'm aware.<br>  What's on your mind, Doctor?  [LAUGHS.]<br>  Doctor.<br>  I can understand how that might sound strange to you.<br>  I would assume  everything is strange to you now.<br>  Your experience transcends  everything we know about identity.<br>  I've never felt more alone in my life.<br>  Even sitting here.<br>  Commander STAMETS is the person who knew you most profoundly.<br>  You used the past tense.<br>  Well, you are new.<br>  I remember Paul.<br>  I remember loving him,  but if feels like a dream.<br>  It's someone else's life.<br>  And I don't know what I feel about him now.<br>  Do you feel pressure to feel something?  I can't give him what he needs.<br>  And I don't want to hurt him.<br>  All right.<br> You know that.<br>  - You know you don't want to hurt him.<br> - That's not enough.<br>  Enough for what?  Enough for the man I know loves me.<br>  And who I once loved.<br>  Love is a choice  Hugh, and one doesn't just make that choice once.<br>  One makes it again and again.<br>  [PADD CHIMES.]<br>  I'll let you get back to it.<br>  Doctor.<br>  The only way to make a new road  is to walk it.<br>  Thank you, Admiral.<br>  [DOOR WHOOSHES OPEN.]<br>  [GRUNTING.]<br>  SPOCK: I'm sure Captain Leland appreciates your choice  of high-density urethane foam in lieu of his nasal cartilage.<br>  Spock, no offense, but you're the last person  I want to talk to right now.<br>  You are angry.<br>  An understandable reaction.<br>  You lost your friend.<br>  Knowing her death was unavoidable  would not provide solace.<br>  You also learned that you are the Red Angel,  which does not make logical sense despite  its correlation to your emotional profile.<br>  Spock  Finally,  you discovered your parents were killed  because of Captain Leland's negligence,  which does not make their loss  any more acceptable.<br>  I do wish I'd been there when you struck him.<br>  I believe I would have found the moment  satisfying.<br>  You have experienced a series of events  in which both emotion and logic have failed you.<br>  In my experience of this, it is  uncomfortable.<br>  Very.<br>  [SIGHS.]<br>  [SIGHS.]<br>  What you said about  me always finding a way to blame myself  You are right.<br>  I brought my guilt into your home.<br>  I'm sorry.<br>  You were a child  with a child's understanding of an event  that even adults would struggle to comprehend.<br>  However, if it will  ease your suffering,  I accept your apology.<br>  [SIGHS.]<br>  Thank you for coming to talk to me.<br>  It was unexpected.<br>  And helpful.<br>  I had not anticipated this conversation, either,  but I appreciate it, as well.<br>  So, why did you come to see me, then?  In your absence, I made a discovery.<br>  I now understand the variance in the signal patterns-  what causes the Angel to appear at certain times and not others.<br>  And?  The variance is you, Michael.<br>  We don't have to wait.<br>  We can set the trap directly on Essof Four.<br>  PIKE: The plan was to power the trap there and take it  wherever we find the Angel.<br> What's changed?  We've been trying to track her by the signals,  asking when she might appear somewhere.<br>  But what we should have been asking is why.<br>  Why does she appear where she does?  Each signal brought Discovery to  a location where lives were saved.<br>  The Angel appeared at some of those locations, but not all.<br>  Leaving no clear pattern to suggest intent.<br>  However, there is a pattern to her appearances  without any signal.<br>  As when Spock was a boy and it warned him that I was in danger,  when it appeared to me on the asteroid when I was injured,  seeing it gave me strength,  knowing that help was on the way.<br>  You were saving your own life.<br>  The Grandfather Paradox.<br>  Future Burnham would not exist  if Present Burnham were to perish.<br>  When Michael's life was in danger,  her guardian Red Angel intervenes.<br>  Which means I have to be the bait.<br>  What does that mean exactly?  The place doesn't have a breathable atmosphere.<br>  We set a trap, I go down.<br>  You let me start to suffocate.<br>  - Are you insane? - Absolutely not.<br>  The Angel will protect her, Captain,  or her efforts to communicate with us,  to save the galaxy, would be for naught.<br>  And if anything were to not go as planned,  Dr.<br> Culber will be right there to resuscitate me.<br>  But we do not believe he will ultimately be necessary.<br>  I'm not looking forward to it, Captain, far from it,  but we do not see any other way.<br>  What you are asking me to allow  is in direct opposition  to the oath I took as a Starfleet captain.<br>  I understand, but with all due respect,  between risking myself and risking all sentient life,  there is no choice.<br>  Captain, if we're going to capture the Red Angel,  you have to let me die.<br>  SPOCK: To call Essof Four inhospitable  would be a gross understatement.<br>  Temperatures fluctuate wildly.<br>  And its carbon monoxide atmosphere  is laced with perchlorate dust  which will quickly prove lethal  to any oxygen-breathing life-form.<br>  But the facility itself has oxygen, doesn't it?  That is correct.<br>  [WHIRRING.]<br>  GEORGIOU: So we're going to the Ninth Circle of Hell to capture  a Red Angel.<br>  I'd enjoy the irony of that if this weren't so dangerous.<br>  Commander Stamets,  your work must be precise.<br>  We have to succeed on the first attempt.<br>  We won't have another opportunity.<br>  Once Commander Burnham is strapped into that chair,  the roof will recede,  she'll be exposed to the toxic atmosphere,  and she will have exactly two minutes to live.<br>  And she'll suffocate painfully.<br>  PIKE: Dr.<br> Culber, be prepared  to breach the target area and resuscitate.<br>  I will.<br> Don't worry, sir.<br>  SPOCK: But you cannot revive her too early,  or the Angel will not appear.<br>  And if she does not,  we will lose much more than the life of Michael Burnham.<br>  All sentient life will be lost.<br>  Hey.<br>  May I come in?  Yeah.<br>  I'm glad you're here.<br>  You have to know, what happened to your parents  Please don't apologize.<br>  What I said to you was not fair.<br>  I was angry,  and I didn't know where to put it.<br>  I think you put it where you knew it would be okay.<br>  I don't I don't want that to be our last conversation  if, um  No, don't even think that way.<br>  This will work.<br>  You have an entire crew dedicated to saving your life.<br>  You have me.<br>  [SHUDDERS.]<br>  I'm scared.<br>  Me, too.<br>  Captain, the facility is prepped and ready.<br>  The away team is on site.<br>  Welcome to the bridge, Lieutenant Nilsson.<br>  Standing by, Captain.<br>  STAMETS: Bringing phase discriminators online.<br>  We didn't get a chance to talk at Airiam's funeral.<br>  I just wanted to say I'm sorry.<br>  Thank you.<br>  Paul  This isn't the time.<br>  Might not ever be the time.<br>  Are you ready?  As I'll ever be.<br>  Michael Burnham,  always willing to sacrifice everything  for the good of others.<br>  [EXHALES.]<br>  We'll monitor exposure time  from the moment the roof retracts.<br>  Why didn't you just tell me about my parents?  [EXHALES.]<br>  It wasn't my story to tell.<br>  But I could make certain it was told.<br>  I got to go.<br>  [DOOR CLANKS OPEN.]<br>  Let us hope the Angel lives up to her name.<br>  Captain Leland,  are you and Mr.<br> Tyler ready to go?  Standing by to close the wormhole in the Angel's wake.<br>  Make it fast.<br>  Trust me, the last thing I want  is another A.<br>I.<br> infecting our systems.<br>  Michael  [COMM CHIRPS.]<br>  I know, Ash.<br>      What if it doesn't work?  Were you to perish,  I would be charged with killing a Starfleet officer.<br>  Again.<br>  It would therefore be ideal  if you survived.<br>  Such a way with words, Spock.<br>  On your mark, Commander.<br>  Ready.<br>  Shutting down life support.<br>  Starting timer now.<br>  PIKE: Two minutes and counting.<br>  [TIMER BEEPING STEADILY, INDISTINCT CHATTER.]<br>  [CLUNKING.]<br>  [WHOOSHING.]<br>  [GASPS.]<br>  [TIMER CONTINUES BEEPING.]<br>  [WHOOSHING.]<br>  [GROANING.]<br>  [BURNHAM SCREAMS, GROANING.]<br>  [GROANING.]<br>  [BURNHAM SCREAMS, GASPING.]<br>  [SCREAMS.]<br>  [GASPING.]<br>  Oxygen saturation level's at 85%,  and falling fast.<br>  If it drops below 40, she won't make it.<br>  Ensign Tilly, tachyon update.<br>  Ensign, are you picking up any spikes in the tachyon radiation?  Sorry, sir.<br> Um, no change.<br>  What if she isn't coming?  [GASPING.]<br>  CULBER: Oxygen saturation is down to 62%.<br>  Heart rate spiking.<br>  GEORGIOU: She wants out.<br>  It's over.<br>  We're coming to get you, Michael.<br>  Wait.<br> She's saying something.<br>  [GASPING.]<br>: Var-Var  Variance.<br>  She said "variance.<br>"  I don't give a damn what she said.<br>  Get the oxygen.<br> Follow me.<br>  Michael means that she is the variance.<br>  She is creating a situation where  the Red Angel will have no choice but to save her.<br>  That thing is not coming,  and Michael is shaking her head no!  SPOCK: Because she does not want interference.<br>  We must let it proceed.<br>  Oxygen is down to 42%.<br>  If I don't get to her, she'll die.<br>  Yes, Doctor.<br>  That is the idea.<br>  [AIR HISSING.]<br>  [GASPING.]<br>  Status reports.<br>  No change in tachyon levels.<br>  Sensors stable on my end, too.<br>  No sign of the Red Angel.<br>  [BURNHAM CONTINUES GASPING.]<br>  Your call.<br>  PIKE: This operation is over.<br> Away team, get her out of there.<br>  We can't, sir.<br>  Lieutenant Spock is  holding us hostage.<br> Says we have to let her die.<br>  PIKE: Damn it, Spock, stand down!  I'm sorry, Captain.<br> I cannot.<br>  PIKE: Spock, stand down! That's an order!  SPOCK: I am sorry, Captain.<br> I cannot.<br>  [GASPS WEAKLY.]<br>  [MONITOR BEEPING RAPIDLY.]<br>  [FLATLINING.]<br>    [PANTING.]<br>  Ops, beam Commander Burnham directly to sickbay now.<br>  I can't, Captain.<br> There's too much interference  to get a lock on her.<br>  Interference from what?  I'm detecting a massive surge  in tachyon radiation.<br>  - Captain! - Get us over there! Now!  - Shields up.<br> Red alert.<br> - [ALARM WAILING.]<br>  Get ready, Spock.<br>  [RUMBLING, ALARM BEEPING.]<br>  [GRUNTING.]<br>  It's coming.<br>  - I need eyes.<br> - Working on it.<br>  [ALARM CONTINUES WAILING.]<br>  I'm having trouble stabilizing the beam.<br> I need more power!  Keep firing.<br> I'll override the security buffers.<br>  Get that damn thing closed as soon as you can!  [GASPING.]<br>  Now!  [ALARM BEEPING.]<br>  Authorizing security buffer override.<br>  COMPUTER: System offline.<br>  Tyler, I need [BEEPING.]<br>  - System online.<br> - Never mind.<br>  Authorizing security buffer override.<br>  Working.<br>  Let's go.<br> It is not that hard.<br>  Let's go.<br> Let's go.<br>  [Ã LA LELAND.]<br>: It is not that hard.<br>  [GROANING.]<br>  [GASPING WEAKLY.]<br>  Tyler, you should have the power you need now.<br>  Wormhole's closed!  Reengaging atmosphere.<br>  [GASPING.]<br>  Systems back up.<br>  Can you get out there to Burnham?  Not yet.<br> It's not safe.<br>  Firing EMP.<br>  [GRUNTING.]<br>  We have the Red Angel.<br>  Raising containment field now.<br>  [PANTING.]<br>  Mom?  People think time is precious.<br>  But it's not.<br>  Time is savage.<br>  It always wins.<br>  What we do now, in this moment  has the power to determine the future.<br>  We haven't come this far to lose everything now.<br>  Burnham to Discovery.<br>  Blow this place to hell.<br>   Star Trek: Discovery S02E10-The Red Angel     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e09" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e11" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

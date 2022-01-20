@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e02 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e02 - Battle at the Binary Stars Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e02 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e02"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e02 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e02" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Battle at the Binary Stars</div>
+
+            <h1>Star Trek: Discovery (2017) s01e02 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Battle at the Binary Stars</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 - This is mutiny.<br> - Move, Saru.<br>  We're locked on.<br>  Fire!  GEORGIOU: Belay that order!  Captain, please.<br>  I'm trying to save you.<br>  I'm trying to save all of you.<br>  Stand down.<br>  Captain! Incoming!  Warp signatures detected.<br>  GEORGIOU: Ambassador Sarek,  it's good to see you again.<br>  Thank you for receiving us, Captain Georgiou.<br>  The pleasure is ours.<br>  As discussed, this is my ward,  - Michael Burnham.<br> - Hello, Michael.<br>  Welcome to the USS Shenzhou.<br>  And congratulations  on your recent commencement.<br>  Respect is earned, as is friendliness.<br>  Yet diplomatic niceties must be observed.<br>  This is hardly a negotiation.<br>  First contact, then.<br>  The only human  to attend the Vulcan Learning Center and Science Academy  rejoins her own kind.<br>  You can see my analogy, more or less.<br>  Less.<br>  I will leave you now.<br>  Live long and prosper.<br>  Behave.<br>  Energizing.<br>  On Vulcan, lateral vector transporter technology  has been discarded due to the massive amount of power  it requires.<br>  Starfleet has phased out that design as well.<br>  Shenzhou is old, but she gets us where we need to go.<br>  MAN (OVER P.<br>A.<br>): Attention, all personnel, stand by  Is this vessel not up to your standards?  I have no standards when it comes to this ship.<br>  It was always my intention  to join the Vulcan Expeditionary Group.<br>  Sometimes the universe allows for the making  of unexpected memories.<br>  Emotional platitudes are not what I was hoping for.<br>  Well, you've really been away from humans for a long time.<br>  WOMAN (OVER P.<br>A.<br>): Dr.<br> Nambue.<br>  I'd say you're too confident for your own good,  but I've seen your record.<br>  As I have seen yours.<br>  And your confidence is justified.<br>  As is yours.<br>  Ready to see your new home?  (DIGITAL BEEPING, INDISTINCT CONVERSATIONS)  MAN: Captain on the bridge.<br>  Not too shabby, huh?  It appears to be functional.<br>  GEORGIOU: I understand your hesitation, Michael.<br>  It's hard leaving Vulcan and everything you've known behind.<br>  But I assure you,  this can be your new home, if you want it to be.<br>  Thank you Captain.<br>  (ALERT SOUNDING)  How many Klingon vessels have entered the system?  Tracking.<br>  24, Captain.<br>  The Klingon High Council  consists of 24 houses.<br>  That can't be a coincidence.<br>  The number of ships it suggests that someone  is attempting to unify the Empire again.<br>  Against us.<br>  Commander Burnham, you have endangered  your vessel and your shipmates.<br>  You have attacked  a superior officer.<br>  You violated the chain of command.<br>  You are relieved of duty.<br>  Security, remand her to the brig.<br>  MAN: Yes, Captain.<br>             (ORIGINAL STAR TREK THEME PLAYS)  (MALE SPEAKING KLINGON)  (KLINGON CHILDREN CHANTING)  (KLINGON CHILDREN CHANTING)  (GRUNTING)    CONNOR: Starships Clarke, Shran,  T'Plana Hath, Kerala,  Sue, Ride, Earhart, Dana, Edison,  and Yeager have dropped out of warp.<br>  Where is the admiral?  The Europa is still 800 AUs out.<br>  Captain,  the Klingons are no longer jamming ship communications.<br>  Januzzi, open a channel.<br>  Aye, Captain.<br>  Unidentified Klingon vessel,  this is Captain Philippa Georgiou  of the USS Shenzhou.<br>  We are on the outermost borders of Federation space,  but make no mistake  you and your artifact are in our territory.<br>  We regret the situation has resulted  in the death of your warrior.<br>  We offer you two choices.<br>  Leave immediately or open a dialogue with us.<br>  Hopefully, it is the latter,  so that we can reengage with the Klingon Empire  and prove to you that now, as always  we come in peace.<br>  we come in peace.<br>  Battle stations.<br>  (SCREAMING)  OPS, damage report.<br>  (SCREAMING)  Ensign Connor?  WEETON: Transferring ops to this station, Captain.<br>  Direct hit.<br>  Hull breaches, decks 13 through 15.<br>  Emergency force fields in place, bulkheads holding.<br>  Get her to sickbay.<br>  - Secondary tactical off-line.<br> - Shields.<br>  At maximum, Captain, and holding for now.<br>  Helm, evasive maneuver seven-alpha.<br>  Connor, can you make it to sickbay?  Yes, Captain.<br>  The USS T'Plana Hath is under heavy attack  from three Klingon vessels.<br>  Detmer, make your heading 219 mark 6.<br>  Aye, Captain.<br>  - Mr.<br> Gant? - Phasers armed and ready, Captain.<br>  - Locking on target.<br> - Fire.<br>  Computer, how badly have we been hit?  You have been confined to the brig.<br>  - Query denied.<br> - (DOOR WHOOSHES OPEN)  Who's there?  Where are the medical officers?  Connor.<br>  What happened?  The bridge was hit.<br>  Who else was hurt?  Is-is the captain all right?  She told me to go to sickbay.<br>  B-But this isn't sickbay.<br>  We're at war.<br> You should be on the bridge.<br>  I can't help.<br>  I'm locked up for mutiny.<br>  Why are we fighting?  We're Starfleet.<br>  We're explorers, not soldiers.<br>  Connor, you took a blow to the head.<br>  Activate that comm panel  and call Dr.<br> Nambue.<br>  Yes, I I need help.<br>  (SCREAMS)  (SCREAMING IN DISTANCE)  SAREK: Michael Michael.<br>  Michael.<br>  My mind to your mind.<br>  My thoughts to your thoughts.<br>  Come back to me.<br>  (GASPS)  COMPUTER: Major hull breach.<br>  Major hull breach.<br>  Deck one, deck three,  deck six, deck seven,  deck eight, deck nine.<br>  Status.<br>  Additional hull breaches, decks one, three, and six through  nine.<br>  The brig.<br>  COMPUTER: Shield at 15%.<br>  Diverting main power from compromised decks  to the bridge.<br>  Containment field failure is imminent.<br>  All repair personnel evacuate immediately.<br>  Sarek?  How is it possible?  A mind-meld across a thousand light-years?  More than a mind-meld.<br>  Ever since you were a child,  ever since the bombing at the Learning Center  that act of terror that forever changed your destiny  part of me, my katra,  has been with you.<br>  It also allows us this  unique form of connection.<br>  I see by your imprisonment that my counsel  concerning the Klingons did not yield the results you hoped for.<br>  I couldn't convince Captain Georgiou  to strike the Klingons first,  so I took matters into my own hands.<br>  You're disappointed.<br>  As you should be.<br>  I did not come here  to judge your actions.<br>  I came  because I sensed your  your despair.<br>  What's wrong?  Communicating with you in this manner,  the physical cost is significant.<br>  Then leave me.<br>  Please.<br>  Do you think I came here just to say farewell?  I would not put my well-being at risk for such sentimentality.<br>  The death and destruction raining down on Starfleet,  that was to be expected.<br>  What I cannot abide is a waste of resources.<br>  You're gifted.<br>  You are brave.<br>  You must do better.<br>  Because I know you can.<br>  You were never one to bolster my self-esteem.<br>  Perhaps that is where I failed you.<br>  No matter your shame, gather your strength.<br>  Find a way to help those who need you.<br>  Live long and prosper.<br>  Incoming warship on attack vector.<br>  They've locked on to us.<br>  Divert all power from nonessential systems  to aft shields.<br>  (INDISTINCT CHATTER)  (ALARM BLARING)  OPS.<br>  Yes, Captain.<br>  Emergency force field is holding.<br>  But shields and impulse engines are off-line.<br>  We are completely disabled.<br>  They're still coming.<br> Right behind us.<br> Weapons hot.<br>  The Klingon warship peeled off.<br>  Why didn't they finish us?  SARU: They don't need to.<br>  - Captain - (ALARM TRILLING)  We're being sucked into the binary stars' debris ring.<br>  This gravitational field is pulling us in.<br>  Fire reverse thrusters.<br>  They're not responding, Captain!  SARU: Shields are still offline.<br>  We are bracing for impact.<br>  All hands,  this is the captain.<br>  Prepare to evacuate.<br>  (LOUD CRASH)      SARU: Incoming transmission from the Europa.<br>  JANUZZI: Systems are getting back on line.<br>  GEORGI Thank you for the assist with that tractor beam, Admiral.<br>  What the hell happened, Philippa?  We hailed.<br> They fired.<br>  The Shenzhou,  Clarke, and Yeager are down on our side.<br>  We've sustained heavy casualties.<br>  From the looks of it, so have they.<br>  Maybe they're ready to come to the table.<br>  Open a channel to the Klingon flagship.<br>  Attention, Klingon leader.<br>  I am Admiral Brett Anderson.<br>  I speak with the authority of the entire Federation  when I propose a cease-fire  so that we might resolve this conflict  with no further bloodshed.<br>  T'KUVMA: Admiral,  I am T'Kuvma.<br>  I am pleased you are here.<br>  We have been waiting for someone worthy of our attention.<br>  Your offer of a cease-fire  is accepted.<br>  Good.<br> Because, if we're fighting,  we're not talking.<br>  Prepare to receive my envoy.<br>  We'll get ready for your arrival.<br>  Let's end this so we can get  (STATIC CRACKLING)  (DISTORTED): What was that?  - The Europa has disengaged.<br> - What's going on?  I can't explain it, Captain.<br>  There's an unknown energy source disrupting our scanners.<br>  Get me visuals.<br>  (INDISTINCT CHATTER OVER COMMS)  SARU: Captain, - I'm detecting a voluntary  antimatter containment breach on the Europa.<br>  They're going to self-destruct.<br>  SARU: Shields up to 47%.<br>    (T'KUVMA IN KLINGON)  Captain, the Klingon vessels are warping out of the system.<br>  All but one.<br>  - (BEEPING) - The Klingon flagship is hailing.<br>  They're broadcasting on all open subspace bands.<br>  Members of the Federation.<br>  What you call your most remote borders,  I call too close to Klingon territory.<br>  You only live now  to serve as witnesses of Klingon supremacy,  to be my herald.<br>  We do not desire to know you.<br>  But you will know our great houses,  standing as one under Kahless,  reborn in me, T'Kuvma!  Computer,  implement steps of brig emergency evacuation protocol.<br>  COMPUTER: Denied.<br> Ethical protocol state  prisoner evacuation to occur in life-saving circumstances only.<br>  This is a life-saving circumstance.<br>  I'm going to die in here unless you let me out.<br>  Speculation.<br>  Request to engage ethical protocols denied.<br>  How long before my cell's containment field fails?  Approximately eight minutes.<br>  At which point I will die.<br> Confirm?  Confirmed.<br>  Is the corridor outside the brig undamaged and still pressurized?  Affirmative.<br>  Then getting from my cell, through the blast door,  and into the corridor ensures my survival.<br>  Negative.<br>  Exposure to the vacuum of space for over 15 seconds  would result in respiratory distress,  shock and suffocation  before you are able to reach blast door.<br>  But if you open a meter-sized hole in the containment field,  the rapid depressurization will shoot me through  to the blast door in less than six seconds.<br>  Affirmative.<br>  But you will be unable to open the door  in your inhibited physical state.<br>  Then, ethically, you should open the door for me.<br>  Working.<br>  Request confirmed.<br>  Ethical protocols engaged.<br>  Chance for survival estimated at 43%.<br>  I'll take it.<br>  Depressurization commencing now.<br>  "All warfare is based on deception.<br>  When you are able to attack, you must seem unable.<br>"  Sun Tzu.<br> I recognize the quote.<br>  But I fear we are deceiving no one.<br>  We are most definitely unable to attack.<br>  We have no weapons, no warp,  no countermove at all.<br>  The Klingons have us.<br>  We have photon torpedoes.<br>  Now, we can't fire them, but we can  load the warheads onto a transport,  one small enough to evade their primary sensors.<br>  Upon impact, we can deliver  a kill shot directly into their hull.<br>  Devious, Saru.<br>  I approve.<br>  We'll use a worker bee to carry the torpedo.<br>  They're small enough to be mistaken for debris.<br>  Be ready in ten minutes.<br>  I will also run an analysis  to determine blast sites for optimum damage.<br>  Make it hurt, Saru.<br>  Oh, there is one problem, Captain.<br>  Our worker bees have no autopilot.<br>  And our transporter can't penetrate their shields.<br>  We won't need it.<br>  I'll be driving.<br>  Captain,  that's a suicide mission.<br>  Your priority is getting impulse engines  back online so that you can get the Shenzhou out of here  before I detonate the warheads.<br>  T'Kuvma lured Starfleet to a massacre.<br>  It's time I repaid him.<br>  BURNHAM: Captain, you can't do that.<br>  T'Kuvma has anointed himself the next Klingon messiah.<br>  If you kill him, you make him a martyr.<br>  Someone they can fight for endlessly.<br>  That might even be what he wants.<br>  But if you capture him,  you make him a symbol of defeat.<br>  Of shame.<br>  And if you take him as a prisoner of war,  you give the Federation leverage to sue for peace.<br>  How could you have done this?  I believed it was the only way  to avoid a full-scale war.<br>  When you first came aboard, seven years ago,  I worried your Vulcan training might some day  trump your humanity.<br>  Do you know why Sarek asked me to take you on?  I was a human who had  seen a life of loss but still chose hope.<br>  What an ego I had  thinking I could pick away the shell  the Vulcans put around you.<br>  I was so sure I could do it.<br>  Even convinced that you were ready  for the captain's chair.<br>  To think I knew you so little.<br>  You want to know how I turned on you?  I believed saving you  and the crew  was more important than Starfleet's principles.<br>  Was it logical?  Emotional?  I don't know.<br>  Let me deliver the warheads in your place.<br>  (WHOOSHING)  BURNHAM: They're gathering their dead.<br>  - Saru, forget the worker bee.<br> - SARU: Captain?  Spool up the transporters now,  and have engineering meet us there  with a torpedo warhead.<br>  I know how we take him.<br>  (T'KUVMA IN KLINGON)  SARU: Tactical advises  that they have coordinates on a slain Klingon officer.<br>  MAN: Sensors confirm loss of environment  No weapons activity  on the Klingon ship.<br>  They're drifting.<br>  Their shields are down.<br>  I'll beam you to an area  with minimal Klingon life signs.<br>  Let's go get our prisoner.<br>  Energize.<br>    (ALARM BLARING)  This is the aft section of the bridge.<br>  T'Kuvma must be close.<br>  (KLINGON CRYING OUT IN DISTANCE)  (VOQ SHOUTS)  (BOTH GRUNTING)  (SCREAMS)  (GRUNTING)  (GRUNTING)  (VOQ CRIES OUT)  (T'KUVMA SHOUTS)  (BOTH GRUNTING)  (SCREAMS)  (GASPS)  (SCREAMS)  (GROANING)  SARU: Burnham, I've lost the captain's life sign.<br>  Burnham? Burnham?  Get us out of here now.<br>  I can't transport her without a life sign.<br> (KLINGON GRUNTS)  I'm not leaving without her body.<br>  - More Klingons are coming.<br> - (VOICES APPROACHING)  Burnham, if she's deceased and you're in danger,  I have no choice.<br>  No!  (GROANING)  (KLINGON CHILDREN'S VOICES ECHOING)  (KLINGON CHILDREN'S VOICES ECHOING)  (CHILDREN'S VOICES STOP)  (CHILDREN'S VOICES STOP)  MALE JUDGE: To the charge of dereliction of duty,  to the charge of assaulting a fellow officer,  to the charge of mutiny  To all these charges, how do you plead?  (SOFTLY): Guilty.<br>  JUDGE: The accused cannot be heard.<br>  Guilty on all counts.<br>  Is there anything you would like to say  in your defense before a sentence is rendered?  From my youth on Vulcan,  I was raised to believe that service was my purpose.<br>  And I carried that conviction to Starfleet.<br>  I dreamed of a day when I would command my own vessel  and further the noble objectives  of this great institution.<br>  That dream is over  the only ship I know in ruins.<br>  My crew  gone.<br>  My captain  my friend,  I wanted to protect them from war,  from the enemy.<br>  And now we are at war  and I am the enemy.<br>  JUDGE: It is our ruling that the defendant,  Commander Michael Burnham, be stripped of rank  and hereby sentenced to imprisonment for life.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e01" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e03" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s04e03 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s04e03 - Choose to Live Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s04e03 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e03"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s04e03 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e03" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=4">Season 4</a>&nbsp;&nbsp;>&nbsp;&nbsp;Choose to Live</div>
+
+            <h1>Star Trek: Discovery (2017) s04e03 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Choose to Live</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  We got you, Gray.<br> We'll find a way to help you be seen,  truly seen.<br>  I can't believe I get to start my life again.<br>  BURNHAM: Book? You there?  BOOK: I keep seeing him.<br>  Leto.<br> I don't know if he knew,  if I ever let him know how much I loved him.<br>  I'm sorry.<br>  I'm gonna figure this thing out for you, whatever it takes.<br>  TILLY: Starfleet Academy feels like 1,000 years ago.<br>  Nothing feels simple anymore.<br>  It's okay to feel that way.<br>  I don't know if something's off or, uh, I'm off.<br>  I was kind of hoping that we could talk about it sometime.<br>  VANCE: What exactly is this anomaly?  STAMETS: We're not certain.<br>  We know it's there, we know it's moving,  but we can't get a handle  on what it is.<br>  I offer the services of the Ni'Var Science Institute.<br>  A crisis such as this requires all to contribute.<br>  This anomaly threatens us all equally.<br>  We must all work together.<br>    This is Commander Fickett of the USS Credence.<br>  We have your dilithium shipment ready.<br>  WOMAN: We are grateful to receive it, Commander.<br>  It has been a long time.<br>  FICKETT: Always happy to help.<br>  - Looking good.<br> - Everything is ready, Commander.<br>  - We have their coordinates.<br> - Good work.<br>  Thank you, Lieutenants.<br>  Computer, lower the shields for transfer.<br>  Locking on your coordinates now.<br>  - COMPUTER: Security breach.<br> - (ALARM BLARING)  (GRUNTING AND GROANING)  Commander!  Stand down.<br>  (ALARM CONTINUES BLARING)  I need to take your dilithium.<br>  You can wait your turn like everybody else.<br>  I'm afraid that's not possible.<br> Please step aside.<br>  It's not gonna happen.<br>  No.<br>  (GROANS)  Please, my friend, choose to live.<br>  (YELLS)  I'm sorry.<br>  VANCE: Fourth and most recent  in a string of identical dilithium thefts.<br>  Killing a Starfleet officer, though  that's new.<br>  The killer is a Ni'Var citizen  and a Qowat Milat nun known as J'Vini.<br>  Her cohorts are mercenaries  confirmed to be operating under her orders.<br>  Thanks to the tracker we planted in the dilithium she stole,  we now have her coordinates.<br>  You said these thefts began  shortly after the gravitational anomaly was discovered.<br>  Might there be a connection?  As of now, we have no indication of motive.<br>  J'Vini's crimes, however, are clear.<br>  She must be detained without delay.<br>  T'RINA: This would be an appropriate time  for the Qowat Milat to join us.<br>  Thank you, President T'Rina.<br>  RILLAK: Admiral, Ni'Var is a trusted ally of the Federation.<br>  Despite the fact that these crimes  were committed on Starfleet vessels,  we will not respond without Ni'Var's guidance.<br>  Thank you.<br>  Indeed, we are more than allies.<br>  It is my hope that we will soon be united  under the flag of the Federation.<br>  The dangers posed by the anomaly make our cooperation  all the more important.<br>  It is my understanding that,  at the moment, no inhabited systems are threatened  by its trajectory, yet it could change course at any time.<br>  That is the case, Madam President.<br>  Commander Stamets has been leading the efforts  to better understand its movements.<br>  He's eager to start collaborating  with the Ni'Var Science Institute.<br>  And they are ready to receive him.<br>  Here, too, we offer our services.<br>  This is an internal Qowat Milat matter,  and as such, we ask  that Starfleet turn her coordinates over to us.<br>  We believe J'Vini most likely is acting  as a galankhkan on behalf of a lost cause.<br>  VANCE: "Most likely"?  You have doubts?  No.<br>  I have faith.<br>  Why would she steal the dilithium?  The Federation is giving it away.<br>  I don't know.<br> This is the first news  we've heard of J'Vini in several years.<br>  But I trust she has a reason.<br>  The order must be allowed to discover that context.<br>  Mom.<br>  She killed a Starfleet officer.<br>  You cannot excuse that with context.<br>  We do not excuse J'Vini's actions.<br>  However, we must be the ones to pursue her.<br>  I fear no one but her sisters  will be able to bring her in alive.<br>  The unique ways of the Qowat Milat  must be respected.<br>  RILLAK: Admiral Vance,  would Starfleet be amenable to making this a joint mission?  A venture of mutual goodwill would reflect the spirit  of the pending union between Ni'Var and the Federation.<br>  Under the circumstances,  we would, of course, be amenable.<br>  As would the Qowat Milat.<br>  Well, might I suggest Captain Burnham  be permitted to represent Starfleet?  She has my confidence.<br>  And, dare I say, the confidence of her mother.<br>  Whatever J'Vini's circumstances, I think we can all agree  that these actions cannot be allowed to continue.<br>  Bring her in.<br>  Safely.<br>  I'll prepare to leave immediately.<br>  As will I.<br>  Captain.<br>  If we may speak frankly?  Of course.<br>  This joint mission is a political necessity.<br>  Ni'Var and the Qowat Milat must feel respected,  but make no mistake you are in charge.<br>  I thought we landed on "mutual goodwill" back there.<br>  Goodwill and leadership are two different things.<br>  This anomaly,  it is the biggest threat we have faced since the Burn.<br>  This is our moment to serve  and to show why restoring the Federation is so critical.<br>  We cannot do that without Ni'Var.<br>  But we also can't do it if those who attack us  don't see our strength.<br>  J'Vini must be brought in.<br>  Absolutely.<br>  If you feel your relationship with your mother will make this  - too difficult - No.<br>  No.<br> J'Vini took the life of a Starfleet officer.<br>  I will bring her to justice.<br>  I promise you that.<br>  Good.<br> I'm counting on you.<br>         (ORIGINAL STAR TREK THEME PLAYS)  (GASPS)  No, you're almost finished.<br>  I was gonna ask you a question if you have a second.<br>  For you, always.<br>  Oh, thanks.<br> I really appreciate it.<br>  So, um  (TILLY GROANS)  That was  disturbingly not delicious.<br>  Is something amiss with the replicator?  No, no.<br> I, um  sorry ordered mac and cheese on purpose.<br>  And there's something amiss with me,  and Dr.<br> Culber's trying to help me with it.<br>  Well, while your dislike of cheese  certainly renders you a rarity among humans,  I was not aware it was considered an actual  disorder.<br>  Oh, no, no, it's not.<br> Uh, um, I'm sorry.<br>  I am trying new things,  because my comfort zone has become uncomfortable.<br>  Or too comfortable.<br>  Unclear.<br>  Anyway, Dr.<br> Culber thought it might help  if I shake things up a little, so last night,  I slept with my pillow at the other end of my bed,  and then I took the long way to the bridge this morning,  and I was hoping I could, uh, try out a little gardening  by watering some of your plants.<br>  What is it you hope to gain from novelty?  To be honest, I'm not sure yet.<br>  I do keep thinking about those cadets at the academy  and just how certain they are  that they are exactly where they're supposed to be.<br>  You know?  And I used to have that.<br>  Clarity of purpose can be difficult to achieve.<br>  Sorry.<br> I know you-you have some places to go.<br>  It's not important.<br>  I confess to having dined quickly.<br>  I am speaking with Kaminar soon.<br>  Oh.<br> Well, give Su'Kal my best.<br>  Oh.<br> He would appreciate that.<br>  However, today's call is with the local council  to discuss our role  in retrofitting Kaminar's spaceport.<br>  My homeworld recently voted to return to the stars.<br>  I will look for something meaningfully unusual  for you to do.<br>  Till then, you are welcome to mist my plants.<br>  Oh, but do take care to not touch the swampkelp  while it is in bloom.<br>  Why? What happens if I do?  It is better if you do not know.<br>  Hey.<br>  Thought I'd find you here.<br>  Stamets give you another job?  Yeah.<br> It's more like a tachyon treasure hunt.<br>  - (CHUCKLES) - Not exactly in my wheelhouse,  but it keeps me close to the action.<br>  Such as it is.<br>  Speaking of action, mind if I requisition your ship?  Starfleet and Qowat Milat only.<br>  Yeah.<br> I see how it is.<br>  Love a man up and leave him without a ship.<br>  I will return it washed and waxed.<br>  And I thank you.<br>  How is he?  He's got a new theory.<br>  Primordial wormhole.<br>  Primordial wormhole, huh?  Four out of five factors point to yes.<br>  Um, one:  Gravitational distortions are consistent  - with wormhole behavior.<br> - Mm-hmm.<br>  Two: So is the shape of the gravitational well.<br>  Three: Its ability to change direction.<br>  Four: It contains a massive amount of accreted dark matter.<br>  Which reminds me,  I've given it a nickname: the DMA.<br>  Dark Matter Anomaly.<br>  Too much of a mouthful to say every time.<br>  Right.<br>  Everything points to a primordial wormhole  except one missing factor.<br>  Let me guess: tachyons.<br>  Always present at the birth of a wormhole.<br>  Without evidence of tachyons  We're back to square one.<br>  The evidence is in here.<br>  I just have to find it.<br>  Until I know what the DMA is,  I can't predict its behavior.<br>  And we can't prevent another  The Ni'Var Science Institute will be a great help.<br>  I'm, uh, sending the raw data now.<br>  Okay.<br> Keep me posted.<br>  I want to go to the Science Institute with you.<br>  Oh, uh  no, no, no, you really wouldn't.<br>  It's gonna be so boring.<br>  Field equations.<br> Manifolds.<br>  Torsion tensors.<br> Math, math, math.<br>  I need to be doing something.<br>  (SIGHS): Helping.<br> Come on.<br>  I, um  I can't bring these scientists up to speed  without a clinical forensic discussion  of your loss.<br>  I can handle it.<br>  Thank you.<br>  (EXHALES SHARPLY) It's me.<br>  Almost.<br>  I'll finally be a part of the world again.<br>  No more looking in from the outside,  feeling invisible.<br>  The world has no idea what it's been missing.<br>  The crew's gonna love you.<br>  I mean, not as much as I do, obviously.<br>  (LAUGHS)  Thank Dr.<br> Culber for me again?  Wait a few minutes and thank him yourself.<br>  In person.<br>  MAN: Dr.<br> Culber,  Guardian Xi is arriving.<br>  Guardian Xi, welcome.<br>  I believe I've prepared everything you need  for the incorporation.<br>  An atypical arrangement  as befits zhian'tara unlike any other.<br>  Adira Tal, greetings.<br>  ADIRA: Thank you so much  for doing this.<br>  It is my joy to assist.<br>  Do we have Gray Tal?  (LAUGHS): Oh, uh, he's right here.<br>  Greetings.<br>  Um, tell him that, um  I'm honored by his presence, and  I couldn't be more grateful for his help.<br>  (LAUGHS): He's-he's really grateful you're here.<br>  Guardians are kind of like his heroes.<br>  He was on his way to becoming one of you  before things went sideways.<br>  It is my hope that our work today  will allow you to resume your training.<br>  However, your unique situation  is attended by unpredictable dangers.<br>  I cannot guarantee that your consciousness  can find a new home in a synthetic body  without a host's mind to guide you in.<br>  We must accept the possibility  that you could be lost.<br>  Tell him that  I'm lost without this.<br>  I I've been living in an in-between place  for too long already.<br>  I have to try.<br>  He understands the risks.<br>  He's good to go.<br>  Do we have the consent of Tal?  We do.<br>  Then let us begin.<br>  SARU: It sounds difficult.<br>  Uh-huh.<br> My mother is bringing a Qowat Milat sister with her.<br>  I should add a tactical officer to balance the numbers.<br>  Can't have the mission appear to favor either party.<br>  This mission would be straightforward  if it weren't for the politics.<br>  Don't get me started on Rillak.<br>  Mm, I will not.<br>  But I would like to offer a  a recommendation for your tactical addition.<br>  Lieutenant Tilly.<br>  She has a long and impressive list of skills,  but combat falls kind of at the bottom.<br>  That may be so, but Dr.<br> Burnham and her Qowat Milat companion  are certain to be highly combat trained,  as are you.<br>  Given the delicate nature of politics,  you might consider making use  of Tilly's intuitive diplomatic skills.<br>  She does have a way of putting people at ease.<br>  I believe she may do the mission good.<br>  And it, her.<br>  Hmm.<br>  TILLY: But it can be a little hard to get out of your comfort zone  when you can barely get out  of the lab, you know?  So getting the opportunity to do this, this  this could be really good for me.<br>  Um, I'm so sorry.<br> Not that, um  not that it's good that your sister is getting arrested.<br>  Obvi Obviously, that's not  that's not good.<br>  That's-that's bad.<br> That's not good at all.<br>  You worry that I'm dismayed by your enthusiasm.<br>  I'm not.<br>  Absolute candor.<br>  I dig that.<br>  GABRIELLE: You told me that when Spock was accused of murder,  you didn't believe it.<br>  And your trust in your brother was justified.<br>  That's different.<br> I knew him.<br>  And I know her.<br>  Who is she to you?  I need to know who I'm dealing with.<br>  (TAKES DEEP BREATH)  When I first came to this future,  I was broken.<br>  A Qowat Milat sister nursed me back, unwavering,  for more than a year.<br>  Yes, you've told me.<br>  That sister was J'Vini.<br>  I was once her lost cause.<br>  She gave everything to heal me.<br>  I owe her everything.<br>  COMPUTER: Approaching destination.<br>  You need to leave your phasers on board.<br>  They are not the Qowat Milat way.<br>  We are not Qowat Milat.<br>  And they'll be set to stun.<br>  If you go in there with phasers, I'll never get through to her.<br>  You want to put us in front of a member of your order unarmed?  That's not gonna happen.<br>  Did I say unarmed?  We'll be at a huge disadvantage.<br>  It was agreed that the ways of the Qowat Milat  would be respected.<br>  (SNICKERS)  This is so outside my comfort zone.<br>  It's heavier than I expected.<br>  - Shwee! Oh.<br> - (SWORD CLATTERS)  Sorry.<br> So sorry.<br>  I moisturized my hands this morning.<br> Apologies.<br>  But don't worry, I'll be good to go.<br>  BURNHAM: Good, because  we're here.<br>  TILLY: I'm not reading any life signs on the surface.<br>  Check under the surface.<br>  She has to be someplace around here.<br>  TILLY: One inhospitable, uninhabited chunk of rock  makes as good a hideout as any other, so  why this one?  Mom, did J'Vini have ties to a person or place nearby?  If she did, she chose not to share it with her sisters.<br>  You were right there's a cavity directly beneath us.<br>  - Atmosphere? - It's breathable.<br>  And I'm getting a faint reading from the dilithium tracker  down there as well.<br>  COMPUTER: Warning.<br> Intruder alert.<br>  (GRUNTING AND GROANING)  (GROANS)  (SHUDDERING BREATHS)  Mom.<br>  J'Vini.<br>  J'VINI: I didn't want more blood to be spilled.<br>  That can stop right now.<br>  Choose to live by leaving immediately.<br>  Come after me, your lives are forfeit.<br>  We're totally gonna ignore that warning, aren't we?  Mm-hmm.<br>  Let's move.<br>  TILLY (QUIETLY): Okay.<br>  ADIRA: This isn't supposed to be happening.<br>  I can't see him anymore.<br>  I can't feel him with me.<br>  The unjoining was a success.<br>  However, I do not yet sense his presence  in the synthetic body.<br>  Hey.<br> Gray?  GUARDIAN XI: We must have patience.<br>  The process can take time.<br>  Please, keep me apprised.<br>  Thank you.<br>  Um, this-this can't this can't be it.<br>  We're supposed to just sit here and-and do nothing?  Well, it's like Guardian Xi said.<br>  It could take some time.<br>  It's him, but it's not  it's not him, and I don't really know what to do with that.<br>  Let's go for a walk.<br>  Dr.<br> Pollard will be here.<br>  Gray's monitors will alert us to even the slightest change.<br>  Come on.<br>  (SIGHS)  TILLY: Lost cause or lost civilization?  This feels like a mausoleum.<br>  The degree of desiccation suggests these pods  are several centuries old.<br>  Possibly older.<br>  Why would J'Vini bring dilithium to a crypt?  I have no idea.<br>  As your lieutenant suggested,  maybe she's simply utilizing this moon as a safe house.<br>  Hey, check it out.<br>  Grave robbers?  BURNHAM: Yeah.<br>  But  why would a grave robber bother doing this?  J'Vini's cloak.<br>  I've never seen a species like it.<br>  The database says unknown.<br>  I'm gonna go out on a limb and say that we found  her lost cause.<br>  Unlikely.<br>  If J'Vini had pledged her sword to it,  her oath would have ended with its demise.<br>  How are you so sure that there's an oath here at all?  I mean, you believe that she's operating from a place of honor?  Her mercenaries just killed one of her own sisters.<br>  She'd only draw against us if she believed  we pose a threat to her cause.<br>  No, Mom, she's not above the law.<br>  The reasons matter.<br>  I thought you'd understand that.<br>  Is that why you agreed to a joint mission?  Because you believe I'd give her the benefit of the doubt?  TILLY: Hey, I just had a thought.<br>  (CLEARS THROAT) My mom and I didn't really get along very well.<br>  She didn't really like children,  um, touching her or, like, needing things from her  or actually generally being around her.<br>  Um, but if she was here right now, I would just  I would give her the biggest hug.<br>  - (RUMBLING) - Oh!  - Seismic activity? - No.<br>  Controlled matter-and-antimatter reactions.<br>  The dilithium's been activated.<br>  This isn't a moon.<br> It's a ship.<br>  And J'Vini just powered it up.<br>  Where's the dilithium?  TILLY: Tracker says it's   right above our heads.<br>  There should be a way up there.<br>  GABRIELLE: Fan out.<br> Search the chamber.<br>  Or we could just take the turbolift.<br>  (CLICK)  (WHIRRING)  STAMETS: Given the nonlinear behavior  and topological structure of the DMA,  it appears that any planet within 12 A.<br>U.<br>  of the ergosphere, as Kwejian was,  will sustain gravitational shearing,  resulting in catastrophic instabilities.<br>  A primordial wormhole accounts for this shear,  but so far  Your theory and its challenges are clear to us.<br>  Fantastic.<br>  Given time, I would work this out myself, but  time is of the essence, so here we are.<br>  Um, uh, c-could we discuss the schedule for the day?  Science first, nap later?  Uh, I need all brains on deck here.<br>  Our scientists often work in a deep meditative state  to sharpen their focus and concentration.<br>  Oh, well, I'll, um  wait over there, then, in my own sharp state.<br>  Mr.<br> Booker.<br>  May I offer you a warm redspice?  Many find it to be soothing when experiencing  emotional distress.<br>  That obvious?  Your grief is to be expected.<br>  But your body language also expresses guilt.<br>  Illogical, as the cause of your loss was a force of nature,  and as such, not your fault.<br>  I wasn't aware Vulcans were so emotionally attuned.<br>  A common misconception.<br>  Vulcans experience emotions, some quite strongly.<br>  We simply choose to suppress them  in favor of a more logical approach.<br>  (CHUCKLES): Care to give me a few pointers on that approach?  The discipline of the arie'mnu requires a lifetime to master.<br>  For the uninitiated, respite would be fleeting at best.<br>  A drowning man only needs one breath.<br>  I believe you require a different set of tools  than I can offer, Mr.<br> Booker.<br>  As a Kwejian,  emotion is as essential to you as air and blood,  rendering the suppression of guilt inadequate.<br>  What you require is freedom from guilt.<br>  There must have been a sign it was coming.<br>  I missed it.<br>  If I hadn't, I could have saved my family.<br>  That is not illogical.<br>  TILLY: It is a truly bizarre reaction system.<br>  Uh, the controls must be housed somewhere else on the moon.<br>  Dilithium should be  Hmm.<br>  Bingo.<br>  Hello, little tracker.<br>  Can you power the ship down from here?  I think so, but J'Vini will definitely know  it's been sabotaged.<br>  Just see what you can do.<br>  BURNHAM: This shows a supernova.<br>  A moon leaving its world.<br>  That's the ship we're on.<br>  Their own planet became unlivable.<br>  And that's no mausoleum out there.<br>  BURNHAM (GASPS): Cryostasis?  The species in the cocoons are alive.<br>  Now we've found her cause.<br>  She's protecting them from grave robbers.<br>  Got it.<br>  - (WHIRRING, CLACKING) - Great work.<br>  What now?  Now  I need you to, uh, stay here.<br>  As bait.<br>  ADIRA: It was a mistake.<br>  Should have never let Gray do it.<br>  He'd be here.<br> He'd be safe.<br>  The choice wasn't yours.<br>  Yeah, but what if he's really gone?  And please don't tell me he'll always be here in my heart  or my memories or whatever.<br>  It's not the same.<br>  - No, it's not.<br> - (SIGHS)  But I'll tell you you're not alone.<br>  We're all here for you, Adira.<br>  You may find that connecting with someone  can be a guiding light when things get dark.<br>  SARU: I presume Gray remains in limbo?  It could last indefinitely.<br>  I think the uncertainty might be the hardest part for them.<br>  It is a challenging time for us all.<br>  Of late, I am often reminded of a Kelpien adage:  It is difficult to ride two valebeasts  with only one set of buttocks.<br>  (LAUGHING)  Try riding three of them.<br>  You are doing a tremendous job, Doctor.<br>  Uh, with both jobs.<br>  Serving as medical officer and ship's counselor cannot be easy.<br>  Well, that's why I'm here to help.<br>  Or at least try.<br>  Sometimes the most important thing we can do  is reach for one another.<br>  (SIGHS)  It's weird not feeling you,  not even knowing where you are.<br>  I keep thinking you're just  all alone.<br>  Lost, maybe.<br>  Um  Dr.<br> Culber said this thing about  connecting with people, uh,  being like a light in the dark.<br>  So  I figured maybe if you can't find your way, that  I could be the one to guide you.<br>  So I'm here,  reaching, and  I'll be here until you come back.<br>  So  so please come back.<br>    Sit here and be bait.<br>  (LAUGHS): I'm way outside my comfort zone now.<br>  J'VINI: Move away from the engine.<br>  - Now.<br> - I choose  I choose to live.<br> 100%, I choose to live.<br>  Absolutely.<br>  Michael?  You should have left, Gabrielle.<br>  I'm here to help you.<br>  I just need to understand  - TILLY: Captain? - GABRIELLE: No, Michael.<br>  I've got this.<br>  Please.<br> You don't have to do this.<br>  BURNHAM: J'Vini, let her go.<br>  You, get my warp drive back online.<br>  I know coming with us would mean that you abandoned your cause.<br>  What if you don't have to abandon it?  I know you don't want to kill her.<br>  And I think we can offer you a solution.<br>  You would say whatever you have to, to get me to drop my guard.<br>  BURNHAM: No.<br>  No.<br> No lies, I promise you.<br>  We have a few minutes  while Lieutenant Tilly repairs the systems.<br>  Oh, yeah.<br> At least.<br> I mean, I'm-I'm hurrying,  but I-I really did a number on this thing, so  BURNHAM: The species sleeping in the cocoons,  they're your lost cause, aren't they?  You can trust her, J'Vini.<br> She's my daughter.<br>  They're Abronians, the last of their kind.<br>  Their biomatter has high concentrations of latinum.<br>  It's what the grave robbers wanted.<br>  And the Abronian who wears your cloak was special to you?  Taglonen.<br>  I didn't know him.<br>  That doesn't matter.<br>  Going as fast as I can.<br>  I was traveling through the star system.<br>  Suddenly, I felt  love  community, family  and suffering.<br>  It was as if someone was calling out to me,  begging me for help.<br>  The telepathic distress signal was from Taglonen?  There was no one else in range.<br>  - These people were under attack.<br> - (GRUNTING, SWORDS CLANGING)  I needed to protect the rest of them.<br>  I accepted his cause as my own.<br>  This was not the path I expected,  but this is where I'm needed.<br>  I promised that as long as I was breathing,  no further harm would come to them.<br>  The carvings on the wall suggest the Abronians traveled here  while in cryosleep,  and this planet that we're orbiting  was meant to be their new home.<br>  And when they wake, I will make sure they claim it.<br>  - The dilithium was necessary.<br> - Why?  If they were supposed to be here, why move them?  You know about the gravitational anomaly near this sector?  Yes, we do.<br>  Without the dilithium, I wouldn't have been able  to move the Abronians to safety if it had come this way.<br>  If you had asked, we would have given you the dilithium.<br>  I did ask.<br>  Starfleet doesn't dispense dilithium to individuals.<br>  They would have wanted the name and location of the species  J'Vini was representing.<br>  BURNHAM: And you couldn't risk the Abronians' safety  by asking on their behalf and revealing their existence.<br>  Killing your officer was never my plan.<br>  But his death was not in vain.<br>  I believe that the Abronians were meant to wake  a long time ago.<br>  And there's no logical reason why they would have remained  in cryostasis after their arrival,  so I have to conclude that there was some kind of failure  in the cryo system.<br>  So  if we fix the problem and help them wake  won't your oath be fulfilled?  You have until she finishes.<br>  Uh, hi.<br>  Are you done?  We are.<br>  Within the scope of the data you provided,  we are unable to identify any factors  to indicate the presence of tachyons.<br>  In the absence of such evidence,  your hypothesis remains unproven.<br>  No.<br>  No.<br> This  has to be what it is.<br>  Lives are at stake.<br>  Your emotional response to factual analysis  is quite illogical for a scientist.<br>  Perhaps proof may be obtained another way.<br>  We do have a witness.<br>  Tachyons are superluminal.<br>  Upon hitting Kwejian's atmosphere,  they would have created Cherenkov radiation:  a glowing blue cast to the sky.<br>  Paul asked me the same thing a million times.<br>  I don't remember a glow.<br>  Stored memories often hold more details  than an individual can access.<br>  A mind meld could uncover them.<br>  STAMETS: No, no.<br>  You can't ask him to  He'd have to relive all of it.<br>  What if she's right, though?  You shouldn't be re-traumatized because of my failure.<br>  I'll figure out the DMA another way.<br>  Thank you.<br>  But if this is how I can help   I want to do it.<br>  - What do I do? - Just remember.<br>  My mind to your mind.<br>  (DISTORTED, ECHOING): My thoughts  - to your thoughts.<br> - Searched the entire force.<br>  - (VOICES OVERLAPPING, ECHOING) - Just do it! Now!  Come on back.<br>  (THUDDING)  T'RINA: I have what I need.<br>  BOOK: No, wait.<br>  There's something else I need to see.<br>  (CHITTERING, CHIRPING)  Look at them.<br>  It's like they're still here.<br>  T'RINA: You understand you cannot alter the memory.<br>  You can only relive it.<br>  BOOK: There's this moment of Leto I keep seeing.<br>  The last moment I saw him.<br>  (SPEAKS KWEJIAN)  KYHEEM: I'm happy you're here.<br>    BOOK: That's it.<br>  I had turned to my brother, but Leto looked back at me.<br>  That's what I missed.<br>  He saw me  and he knew I loved him.<br>  (SPEAKS KWEJIAN)  (LAUGHS)  (BOOK SPEAKS KWEJIAN)    (WHOOSHING)  (EXHALES)  Thank you.<br>  Thank you.<br>  My condolences are  inadequate.<br>  STAMETS: Are you all right?  You look  Did you  find anything?  There was no qualitative evidence  of superluminous radiation.<br>  Tachyons were not present.<br>  I'm sorry you had to go through that for nothing.<br>  It wasn't for nothing.<br>  I found the problem.<br>  (GASPS)  (EXHALES)  They'll wake in a few minutes.<br>  That's why you kept them safe.<br>  This path is at an end, J'Vini.<br>  The next path awaits.<br>  I'm sorry.<br>  (CLANKING, WHIRRING)  TILLY: I fixed the engine.<br>  That way, if the anomaly comes this way,  the Abronians can escape.<br>  Let me.<br>  I understand.<br>  (SPEAKING ROMULAN IN UNISON)  Hey.<br>  You may want to see this.<br>    It's the path they're meant to be on.<br>  You gave them that.<br>  We gave them that.<br>  TILLY: J'Vini said  she was unsure of her path until she met Taglonen.<br>  And then you said that there was another path ahead.<br>  The Qowat Milat are very big on the "path" thing, right?  Well, paths end and change throughout everyone's life.<br>  When we say "choose to live",  it's an abbreviated form of a longer saying:  "The path you are on has come to an end.<br>  Choose to live".<br>  If you find yourself at the wrong end  of a Qowat Milat sword, it's pretty easy to see  that particular path is over for you.<br>  You either move on to a new path and live,  or you stay and die.<br>  What if the death is more metaphorical?  In everyday life,  a path's end can be harder to recognize.<br>  You must be willing to look inside yourself  with absolute candor.<br>  Another thing you're very big on.<br>  Thank you for what you did today.<br>  You wondered why I agreed to a joint mission.<br>  In truth, it was because I was afraid  I might not be able to bring her in.<br>  And I knew you'd make me.<br>  (EXHALES): Oh  Well, you were right, Mom.<br>  Reasons do matter.<br>  She kept an entire species from extinction.<br>  It doesn't erase her crimes, but  it does mean something.<br>  The details of J'Vini's arrest are in her file.<br>  I would like to formally request that mitigating circumstances  be taken into account during her sentencing.<br>  Thank you, Captain Burnham, for your service.<br>  Your request won't be necessary.<br>  Admiral Vance?  President T'Rina.<br>  Starfleet remands the prisoner J'Vini to your custody  for extradition to Ni'Var.<br>  Peace and long life.<br>  Jolan tru, daughter.<br>  May you find peace with this.<br>  Tell me she'll be held accountable.<br>  It's up to Ni'Var now.<br>  You gave me a mission.<br>  Which you executed admirably.<br>  Your role in this matter has now concluded, Captain.<br>  Admiral.<br>  Patrick Fickett.<br>  First officer of the Credence.<br>  He had a partner, Ha'Ryl.<br>  He had two kids.<br>  Krenn and Na'el.<br>  I know.<br>  Then you know they deserve justice.<br>  I agree.<br>  I also know bringing Ni'Var into the Federation  will benefit millions.<br>  Justice will be served, Captain.<br>  In time.<br>  You're really okay with this?  I'd have preferred a different outcome.<br>  But it's hard to argue with the president  trusting in Ni'Var as we ask them to trust in us.<br>  Do you like music, Captain?  Sure.<br>  Think of us as, um, an orchestra.<br>  You're first chair violin,  with the showy, challenging solos.<br>  I'm the drum section,  setting the pace, providing backbone.<br>  She's the conductor.<br>  When she signals us, we play.<br>  It's not our job to know if the cellist is drunk  or the woodwinds and brass are at war.<br>  We each have our part,  and we must all trust that she knows the symphony.<br>  That was a lot of analogy.<br>  Well, they pay me by the letter.<br>  (BURNHAM LAUGHS)  - (DOOR CHIMES) - Come.<br>  - (CHITTERING, CHIRPING) - Hello.<br>  Ah.<br>  I hear percussion.<br>  What are we listening to?  It is the song of the Kaminar sea frog.<br>  I fell asleep to their chirps as a child,  and my recent stay rekindled my love for their lullaby.<br>  Very beautiful.<br>  Is it strange to be back?  It is  a work in progress.<br>  But I do my best each day to find balance.<br>  You suggested to Michael I go on today's mission, right?  I thought it might further your  quest for new experiences.<br>  I hope you found it helpful.<br>  I did.<br> Thank you.<br>  Can I try that?  Certainly.<br>  This is the swampkelp bloom?  It is.<br>  - So what happens if I touch it? - Uh!  (LAUGHS): I'm sorry.<br>  - (RELIEVED SIGH) - Just kidding.<br>  Sorry.<br>  (LAUGHS)  (BEEPING)  (INHALES)  (CHUCKLES)  (WHISPERS): Oh, my God.<br>  (LAUGHS)  Are you okay?  Are you you?  I'm definitely me.<br>  (LAUGHS)  - You okay? - Mm-hmm.<br>  (BOTH LAUGH)  Guardian Xi is on his way.<br>  - Take it slow.<br> We don't know yet - Thank you, thank you,  - thank you, thank you.<br> - (ADIRA LAUGHS)  I don't even know how to thank you.<br>  I had some words planned, but  they-they don't even come close, and I  It's okay.<br> You don't have to say anything.<br>  GRAY: Guardian Xi.<br>  We are so grateful you're back.<br>  You get a hug as soon as I see you in person.<br>  What's it like?  How do you feel?  I'm whole  and home  thanks to you.<br>  Wait, did you  You heard me?  I felt you.<br>  Reaching for me.<br>  Guiding me.<br>  I, um, I wasn't sure without Tal linking us anymore.<br>  We'll always be linked, Adira.<br>  Always.<br>  (CHIRPING, CHITTERING)  Kwejian forest.<br>  This was too painful a week ago.<br>  It was too painful this morning.<br>  It's still hard.<br>  But also  nice.<br>  What happened today?  I got a memory back.<br>  And I realized,  someday  if I'm lucky, the grief will fade.<br>  And if I don't want all my other memories to fade with it,  I'll have to open myself back up to them.<br>  Good and bad.<br>  BURNHAM: Your Ikhu Zhen amulet.<br>  It's been years since I've worn it.<br>  It didn't feel right.<br>  Now it does.<br>  You seem peaceful.<br>  In this moment  yeah.<br>  Sometimes that's all we get.<br>  (BURNHAM SIGHS)      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e02" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e04" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

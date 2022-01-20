@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e01 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e01 - That Hope Is You - Part 1 Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e01 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e01"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e01 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e01" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;That Hope Is You - Part 1</div>
+
+            <h1>Star Trek: Discovery (2017) s03e01 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">That Hope Is You - Part 1</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			 Last season on Star Trek: Discovery  As long as there's any possibility  of Control gaining access to Discovery's Sphere data,  everything will die always.<br>  You are proposing we remove Discovery  from the galactic equation entirely?  Discovery has to go to the future  to take the data out of this time,  assuming I don't get lost in the wormhole.<br>  It's a one-way trip.<br> My mother should have returned  to her anchor point on Terralysium.<br>  So, hopefully, I will land there, too.<br>  Apparently, this is what I'm meant to do.<br> I love you.<br> All of you.<br>  We are here because we're staying with you.<br>  - No.<br> - We're not asking permission.<br>  - We You - I'm sure what you are about to say  will be beautiful, but it is done, Michael,  and we are running out of time.<br>  I only wish I could be certain of your safety.<br>  I'll send the last signal.<br>  I'll send it through the wormhole when we get to the other side.<br>  I will watch the stars for it.<br>  Burnham to Discovery.<br>  Let's go.<br>  We are on our way.<br>    Little busy here, Cosmo.<br>    So what?    It doesn't belong to you.<br> It belongs to itself.<br>  Open your damn mind.<br>    - Nope.<br> - Warning.<br>  Space-time anomaly detected.<br>  No, no, no, no, no, no, no, no.<br> No!  Increase power to reverse thrusters  and switch to manual altitude control!  Unable to comply.<br>  Initiate heat shield!  Emergency heat shield initiated.<br>  Fatal impact imminent.<br>  Propulsion systems unresponsive.<br>  - Full system reboot! - Rebooting.<br>  Rebooting.<br>  Rebooting.<br>  Come on! Come on!  - Come on! - Reboot complete.<br>  Increase power to reverse thrusters,  and activate impact shield!  Life support failure.<br>  Life support failure.<br>  Life support failure.<br>  Life support failure.<br>  Initiating deactivation sequence.<br>  Burnham  to Discovery.<br>  Burnham to Discovery.<br>  Discovery, do you copy?  Discovery, do you copy?  Identify space-time location.<br>  You have reached year 3188.<br>  Computer.<br>  Life readings.<br>  Is there life here?  Anywhere?  Multiple life signs detected.<br>  Yes!  Yes!  Yes!  Wormhole closing.<br>  No, no.<br> No, no, no.<br>  No, no, no.<br>  Set temporal coordinates for location 5499, section 16,  course heading 214 mark five.<br>  Initiate final signal upon closure of spatial rift.<br>  Then initiate self-destruct sequence.<br>  Activate propulsion  - now! - Sequence initiated.<br>  Hydration pack.<br> Emergency ration pack.<br>  Phaser.<br>  Delta shield.<br>  Commander Michael Burnham, Starfleet.<br>  Commander Michael Burnham,  science officer, USS Discovery.<br>  Serial number SC0064-0974SHN.<br>  Science officer, USS Discovery.<br>  Serial number SC0064-0974SHN.<br>  Stand up.<br>  Walk.<br>  - Stop it! - It doesn't belong to you!  You think you can just take it  'cause you knocked me out of the sky?  I'm not trying to take anything.<br> That was an accident.<br>  No one comes all the way out here by accident.<br>  I am telling you, stop!  - Now, nobody has to get hurt.<br> - You might.<br>  I am not fighting you.<br>  You're fighting me.<br>  - My name - I don't want to know.<br>  Listen.<br>  I listen better without you holding that antique to my head.<br>  - Want to put that down? - No.<br>  Okay.<br> On three?  - One.<br> - I'm counting.<br>  Fine, you count.<br> Damn.<br>  One.<br> Two.<br>  Three.<br>  - My name is - I do not want your acquaintance.<br>  The nearest natural wormhole is a hundred light-years from here.<br>  That means you came out of a wormhole  you created with tech from I don't know where.<br>  You think ripping holes in space is a good idea?  Wasn't bad enough for you the Gorn destroyed  two light-years' worth of subspace?  Wait, the Gorn did what?  How many people do you think are on channels right now saying,  "I saw a crazy woman in a funny suit.<br>  Anyone want to buy some last known coordinates?"  - I - Where'd you get that weapon?  I don't want to know.<br>  Your rocket girl outfit scanned for tritanium alloy.<br>  Hasn't been anything like that in years.<br>  Do not call me "rocket girl".<br>  You're not from around these parts.<br>  Go back to your own parts.<br>  I can't.<br>  - Is this Terralysium? - It's Hima.<br>  Who are you?  Never mind! I don't want to know.<br>  Where where is Hima?  - What star system? - I'm on a clock.<br>  - What sector? - Bye-bye.<br>  What quadrant?  My name is Michael  It was not my intention to crash into your ship.<br>  I am sorry.<br>  For all of it.<br>  What's your name?  - I lost my crew.<br> - Oh, yeah?  They may be dead.<br>  I don't know where I am.<br>  I have nowhere to go back to.<br>  The only thing I can do right now  is trust something.<br>  Or someone.<br>  And I am sorry you don't want it to be   but it's you.<br>  So, please.<br>  Please help me.<br>  Comms?  Hey!  Don't touch anything.<br>  Transmitter, receiver, subspace amplifier.<br>  - Nice.<br> - You know what'd be really nice?  If you could whip up a new dilithium recrystallizer.<br>  Mine cracked like a lychee when you ran into my ship.<br>  I got to get my cargo to a certain planet  by a certain time, so,  unless you have benamite lying around,  and no one does, I can't fly quantum slipstream.<br>  Tachyon solar sails are slow as shit,  and don't even get me started on trilithium.<br>  All of which means, thanks to you,  I need more dilithium.<br>  The only place I can trade for it is at the Mercantile.<br>  And there is not one damn thing good about me  sticking my head up at the Mercantile.<br>  Right, baby?  Y you have a very large cat.<br>  Yes.<br>  She has a thyroid condition.<br>  Does she have a name?  Grudge.<br>  Because ?  She's heavy and all mine.<br>  The Mercantile.<br>  Is there a subspace comms array there?  A way that I can contact my ship?  They got nothing unless you got something to trade.<br>  You have something?  'Cause I need dilithium,  and I'm space broke.<br>  Apparently, I have antiques.<br>  Can you get the dilithium you need for this?  It's a tricorder.<br>  Cover that uniform.<br> Try to look normal.<br>  You ever gonna tell me your name?  Book.<br>  The name's Book.<br>  Your cargo is temperature-sensitive?  And you don't want anyone else to find it.<br>  I'm guessing your cargo used to be someone else's cargo.<br>  - It was never his.<br> - You stole it.<br>  I repatriated it.<br>  - You're a thief.<br> - Courier.<br>  Someone needs something to get somewhere, I bring it.<br>  And I can say two things about you.<br>  That moral compass of yours led you straight  into a midspace collision that could have killed both of us.<br>  What's the other thing?  You believe in ghosts.<br>  What does that mean?  That badge on your shirt.<br>  Sometimes you see a guy with one of those badges  getting himself all worked up about the Federation.<br>  The old days.<br>  True believers.<br>  Can't handle that it's gone.<br>  The Federation is gone?  That's impossible.<br>  What happened?  Beats me.<br>  What happened?  Collapsed, I guess.<br>  It was a long time ago.<br>  - After the Burn.<br> - What's the Burn?  "What's the Burn?"  How can you not know this stuff?  Seriously, where are you from?  I don't want to know.<br>  Please.<br>  The Burn was the day the galaxy took a hard left.<br>  Dilithium.<br>  One day, most of it just went boom.<br>  Dilithium is the heart of every warp-capable ship.<br>  What does that mean?  Did it destabilize?  - How? - I don't know.<br> A lot of people died.<br>  The Federation couldn't say for sure what happened or why,  or that it wouldn't happen again.<br>  Think they tried to hang on, but after a while,  they just weren't around anymore.<br>  That's not possible.<br>  Okay.<br>  When?  A hundred, 120 years ago.<br> Before I was born.<br>  No.<br>  No, the Federation isn't just about ships and warp drive.<br>  It's about a vision and all those who believe in that vision.<br>  That's nice.<br>  Do yourself a favor and take off that badge  before we get to Requiem.<br>  Next.<br>  Stand here.<br>  The Andorians and the Orions are working together?  - They don't get a lot of walk-ins here.<br> - Follow my lead.<br>  - Try not to get us shot.<br> - Next.<br> Step up.<br>  She stays out there.<br>  She's got something.<br>  I don't know what that is, and if I did, I wouldn't care.<br>  She's not a courier, she stays out there.<br>  Pretend you're not Andorian for one second  and don't be a surly bastard.<br>  You know those antique collectors who love to live in the past?  This stuff's like the holy grail to them.<br>  I know Andorians don't do fun,  but there's a real market for this stuff.<br>  Your bosses are watching.<br>  You want to be the one who tells them  you turned away a prime supplier?  Fine.<br>  No identification, no  Let them in!  - I wouldn't if it were up to me.<br> - It's not.<br>  This is gonna go bad if you have to have the last word.<br>  Where's the communications hub?  Relax.<br> I told you I'll take you there  - so you can call your damn ship.<br> - Order 7543  How does this work?  Holo seller fixes a price for an item.<br>  Holo buyer negotiates, they make a deal.<br>  Regulator signs off, confirms payment to the Orions.<br>  Orions pay couriers like me  just enough dilithium to pick up the item and make delivery.<br>  Then it's back here for another go-round.<br>  Every now and then, we get to make a deal for ourselves.<br>  Like your tricorder.<br>  A portable transporter?  Huh.<br>  Subspace array's through here.<br>  Keep your head down.<br>  We set now?  A deal's a deal.<br>  I hope you get what you need for it.<br>  Good luck.<br>  This is their vault, not their comms.<br>  You're in a stasis beam.<br>  You don't know what you're doing.<br> My  - my crew.<br> - Everybody's got a story.<br>  A broken tricorder won't cut it.<br>  I need all the dilithium I can get to finish my run.<br>  When I get out of this, I am coming for you.<br>  You and everybody else.<br>  I'm sorry.<br>  Do not move.<br>  You are under arrest.<br>  So, even if you managed to get into our vault,  what makes you think you could get out of here alive?  That wasn't rhetorical.<br>  - Answer the question.<br> - Where is your ship?  Who are you working with?  I don't have a ship.<br>  - Of course she's working with somebody.<br> - Yes, you have a ship,  - or you wouldn't be here.<br> - Where is the merchandise?  - The vintage tech.<br> - He asked.<br> Where's the merchandise?  I got robbed in the stasis beam.<br>  Nobody's that stupid.<br>  I am gonna hurt that man.<br>  Who?  Oh!  This is taking too long.<br>  I'm hungry.<br> Let's get a sandwich.<br>  Oh!  Damn.<br>  Finally.<br>  Here we go.<br>  Well, that's not right.<br>  Did you adjust the dosage again?  I've told you so many times not to do that!  This stuff has a real, integral consciousness.<br>  Yeah, it makes people truthful.<br> They talk.<br>  Yes, yes, I feel that.<br> I feel you.<br> I get that.<br>  I have a friend with red hair.<br> You cannot give her any.<br>  Where did you get the vintage gear?  Vintage is a matter of perspective, isn't it?  Because, to me, you are aqua, but to me, you are forest green.<br>  - How are you connected to the Federation? - Where's your ship?  I'm dying to talk about it.<br> I'm dying to talk about it,  because today does not happen to people.<br>  Ever.<br>  I might be angry about it.<br> I'm supportive.<br>  I mean, I'm so supportive!  I am reflexively supportive.<br> And what is that about?  I'm overcompensating.<br>  I got to talk to someone.<br> You need to sit.<br> Can you sit?  It's a super cool story.<br> It's just,  in a completely devastating way.<br>  Hadley, look, I need more dilithium, or I'm done.<br>  Uh-huh.<br>  I need you to access your highest self in this moment.<br>  - Why? - I'm accessing my highest self.<br>  Can we both just imagine  what this world would feel like if we accessed ?  If you stop talking?  Yes, that would feel nice.<br>  Which is why I'm walking away now.<br>  No deal.<br>  Well, Had wait.<br>  You're welcome.<br>  Cosmo, nice to see you again.<br>  We left everything that I have ever known or loved behind me.<br>  For the sake of creation!  Right? If you think about it Let's be honest  I saved all the things.<br>  Oh.<br>  And then I shot out of a wormhole and I hit a guy.<br>  What guy?  Uh, him, him.<br> You know? I He,  he stole somebody's cargo and he can't fly for shit  Wait.<br>  One of our guys?  - A courier? - Yeah.<br>  You guys have a real problem if your couriers  are stealing stuff and then colliding  with thousand-year-old women in space.<br>  - What cargo was he hauling? - I don't know.<br>  But it was temperature-sensitive and really valuable,  so it's probably ice cream.<br>  - Is he still in the building? - What's his name?  Book.<br>        You keep her name out of your mouth, Cosmo.<br>    She's a queen.<br>  Stop!  - Got to go.<br> - Is that him?  Yep.<br>  - Hey.<br> - Hi.<br>  Hello to you, too.<br>    You're not allowed a weapon in here.<br>      Get our cargo back first.<br>    Oh, man.<br>  Do you think I'm compensating for something?  They sprayed you with the stuff, didn't they?  They sure did.<br>  - Adrenaline will knock it out of you in a bit.<br> - Okay.<br>  What?  Give me the dilithium.<br> All right? You can come with me.<br>  I am done being reflexively supportive.<br>  Come on!  Where is the comms array?  Hang on!  We have to move.<br> They'll be tracking the aah!  I need to call my ship!  First things first.<br>  We have to go.<br>  - Go.<br> Go, go, go! - Oh.<br>  Get us out of here!  It needs 30 seconds to recharge.<br>  I may have broken your nose earlier.<br> I apologize.<br>  - Are you saying that in case we die? - Yep.<br>  Book, come on.<br>  It's still charging!  - Okay.<br> You're about to be really mad! - What?  They can't track us underwater or into solid material.<br>  Ah.<br> You're welcome.<br>  You pushed me off a cliff.<br>  Told you you were gonna be mad.<br>  If you're thinking about punching me again,  we're alive.<br>  I could have guessed coordinates inside a rock.<br>  They'll find us soon enough.<br>  I haven't been shot in a while.<br>  What was that?  Don't want your arm to get infected.<br>  Were you  - praying? - Something like.<br>  - Got a bite to it.<br> - Mm-hmm.<br>  Should probably still wrap it, though.<br>  You carry a handkerchief?  Man's got to blow his nose.<br>  I'm opening up whatever subspace channels still exist.<br>  But make it fast.<br>  Cosmo won't buy me dying that easy.<br>  They'll be scanning for us.<br>  That does a bit of everything.<br> Call your ship.<br>  You had this the whole time, and you're just showing me now?  Your people are waiting for you.<br>  Burnham to Discovery.<br> Come in.<br>  Discovery  please come in.<br>  Discovery, please come in.<br>  Maybe they made it to that planet, Terralysium.<br>  If any crew on any ship could make it through, it's mine.<br>  - True believer.<br> - Yeah.<br>  Time traveler.<br>  - Yeah.<br> - I figured.<br>  Don't know how you came by whatever you used to get here.<br>  All time travel technology was destroyed  after the temporal wars.<br>  Outlawed.<br>  There was no other way.<br>  For me   or my crew.<br>  I have to find them.<br>  I have to.<br>  Good.<br> We've still got a few hours.<br>  This wasn't just about Grudge being lonely.<br>  Nope.<br>  - Are you gonna tell me what's in the hold? - Nope.<br>  - Stop.<br> Freeze.<br> - Don't move.<br>  Don't.<br>  Drop your weapons.<br>  What good is a courier who lets his cargo get stolen?    Access code.<br>  - You don't want it.<br> - I think I do.<br>  - Oh, we definitely do.<br> - Really.<br>  You don't.<br>  Give us the code now.<br>  Okay, fine.<br>  - Sticky.<br> - What?  S-T-I-C-K-Y.<br>  What kind of code is that?  'Cause that's the damn code, all right?  Pick your own code on your own ship.<br>  Don't shoot it.<br>  It's served fresh.<br>  It looks smaller on the holo.<br>  It's not moving.<br> Is it dead?  Close your eyes.<br>  Oh.<br>  Oh  Oh.<br> Uh  Uh, Book?  Stay still, please.<br>  No! No!  Molly, no!  Thanks, girl.<br>  Hey.<br> Hey.<br>  You all right?  - Yeah.<br> - Yeah?  I really  really didn't know how this day was gonna turn out.<br>  Okay, good.<br>  How long have you been saving them, the trance worms?  Not long enough.<br>  They used to be everywhere, you know, before the  Before the Federation fell.<br>  There's no one around to enforce the Endangered Species Act.<br>  Except you.<br>  May I ask  You seem to have this connection to things.<br>  Plants, the trance worms.<br>  What is it like,  feeling everything?  Uncomfortable.<br>  My family are killers,  poachers.<br>  Every so often, one like me shows up in the gene pool.<br>  I don't know, something to do with balance, I guess.<br>  Do you still see them?  I'm not welcome.<br>  I'm sorry.<br>  But I wouldn't trade who I am for anything.<br>  I wouldn't want to be different.<br>  This is Cleveland Booker.<br>  Mandelbrot Set code nautilus.<br>  One more to come home.<br>  Your code is accepted, Book.<br>  Welcome to Sanctuary Four.<br>  "Sanctuary"?  They have a breeding cycle.<br>  We got her here just in time.<br>  Some of them still make it.<br>  This is what my planet used to be like.<br>  Till I had to leave it behind.<br>  How much did you leave behind?  930 years.<br>  Why?  To ensure the future.<br>  A future.<br>  Thank you.<br>  I didn't do it alone.<br>  I have no idea how to start looking for my ship.<br>  I think I know someone who could help.<br>  This is a courier waypoint,  but it used to be a Federation relay station.<br>  What happened?  Main reactor breach, probably.<br>  Long time ago.<br>  No one around to pick up the pieces anymore.<br>  Greetings.<br>  Please proceed to the attendant desk.<br>  Thank you.<br>  Hello.<br>  Welcome to Starfleet.<br>  May I help you?  I'm Commander Michael Burnham,  science officer, USS Discovery.<br>  Serial number SC0064-0974SHN.<br>  Uh  I am Aditya Sahil,  Federation liaison.<br>  It would be my honor to assist you, Commander Burnham.<br>  I need to locate the warp signature of a starship  with the identifier NCC1031.<br>  Yes, yes, of course.<br>  I'm afraid, uh, it's not here.<br>  I have two Federation ships in flight at the moment.<br>  These are the only Federation ships  in a 600-light-year radius.<br>  What about the other sectors?  I only have access to these sectors.<br>  You've been cut off from the other sectors?  Entirely?  Long-range sensors failed decades ago.<br>  I have not been able to scan beyond 30 sectors since then.<br>  I would imagine  it is the same for all others.<br>  May I ask  how is it you don't know  what we all know?  I'm from the past, Mr.<br> Sahil.<br>  From before the Burn.<br>  Before the collapse.<br>  My ship was right behind me, in the wormhole.<br>  So either they landed somewhere  way far out of comms range   or they're not here yet.<br>  Then  by the laws of temporal mechanics,  they could arrive tomorrow  - or - In a thousand years.<br>  Commander Burnham,  now I'll tell you a secret.<br>  I'm not a commissioned officer.<br>  You see, my father was.<br> His father before him.<br>  But unlike them, I was never officially sworn in.<br>  There has been no one to do it.<br>  Yet I watch this office every day,  as I have for 40 years, believing  one day others like me would walk through that door,  that my hope was not in vain.<br>  Today is that day.<br>  And that hope  is you, Commander Burnham.<br>  True believers.<br>  Of course.<br>  I don't know how much of the Federation still exists.<br>  I simply do my part to keep it alive.<br>  Now   I ask you to do me a great honor.<br>  This has been in my family for generations.<br>  Only a commissioned officer may raise it.<br>  And I've waited so long to see it on that wall.<br>  Mr.<br> Sahil,  you are as real a Federation officer  as any I have ever met.<br>  If you would do me the honor,  we need an acting communications chief  who can keep searching for my ship.<br>  Will you accept the commission?  Hope is a powerful thing.<br>  Sometimes it's the only thing.<br>  Our numbers are few.<br>  Our spirit is undiminished.<br>  If there are others out there, we'll find them.<br>  We will.<br>   Feels like a dream, this world.<br>  A strange, beautiful dream.<br>  All decks prepare for impact.<br>  I've been searching for clues as to what caused The Burn.<br>  Answers that might help to bring the Federation together again.<br>  So much we still do not know.<br>  It is quite extraordinary  - the journey we have had.<br> - There she is!  This science vessel is practically a museum.<br>  Yeah, well, museums are cool, so  That's what someone living in a museum would say.<br>  The Federation gave me a mission  and a promise.<br>  Five unidentified vessels incoming.<br>  Because the problems often seem insurmountable.<br>  Let's go.<br>    I'm about to do something that might get us both killed.<br>  I'm gonna enjoy this new world.<br>  Discovery carried us into the future.<br>  We'll make that future bright.<br>  You are going to figure out what caused The Burn.<br>  And help to rebuild the Federation.<br>  We all will.<br>  Hello.<br>  I'm not a cat person.<br> No, no, no, no, no.<br>     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e00" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e02" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

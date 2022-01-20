@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e01 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e01 - The Vulcan Hello Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e01 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e01"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e01 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e01" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;The Vulcan Hello</div>
+
+            <h1>Star Trek: Discovery (2017) s01e01 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">The Vulcan Hello</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 (MALE SPEAKING KLINGON)                              (OTHERS SHOUT KLINGON PHRASE IN UNISON)              "We come in peace.<br>"  (WIND RUSHING)  BURNHAM: We come in peace that's why we're here.<br>  Isn't that the whole idea of Starfleet?  GEORGIOU: Hey, I taught you that.<br>  You don't trust me, Captain?  I trust you with my life, Commander Burnham,  but it doesn't change the fact that you're lost.<br>  Very lost.<br>  Technically, we would be lost.<br>  How long until that storm  comes crashing down on us?  I estimate one hour,  17 minutes, 22 seconds.<br>  Which is why I've made sure we're not lost.<br>  The map says the well is this way, Captain.<br>  (THUNDER RUMBLING)  BURNHAM: This drought's going to last 89 years.<br>  The Crepusculans are facing extinction as a species.<br>  See those egg sacs?  Those are their offspring.<br>  GEORGIOU: They've survived here for over a thousand years, Michael.<br>  Right, and if we don't do something now,  they won't live another thousand hours.<br>  The ambient radiation  from a nearby drilling accident dried out their water table.<br>  If we can get in and out without making contact,  we can steer clear of General Order One.<br>  And there is the well.<br>  I stand corrected.<br>  Ye of little faith.<br>  Oh, never had a doubt.<br>  Tell me what I need to break through this bedrock.<br>  .<br>7-second field burst at level setting 13.<br>5.<br>  (PHASER WHIRS)  (DISTANT BOOM)  (THUNDER CRACKS)  (RUMBLING)  Georgiou to Shenzhou.<br>  Two to transport.<br>  (COMM STATIC)  (THUNDER CRASHING)  BURNHAM: The storm is moving faster than I thought.<br>  The ship won't be able to pick up our signatures.<br>  Unless we can contact Lieutenant Saru,  we could be trapped here until it's over.<br>  Let's take a walk.<br>  (CREATURE CHITTERING)  (CHITTERING)  Follow my footsteps, Michael, even lines.<br>  Why? Captain, where are we going?  It's your turn to trust me, Number One.<br>  But now we're really lost.<br>  We're far too small to be seen with the naked eye.<br>  And you can't set a course without a star.<br>  Is it wise to be heading  - away from the village? - It's hard to imagine  you've served under me for seven years.<br>  I think it's time  that we talked about you having your own command.<br>  I'm grateful, Captain.<br>  Though I would be significantly more so  if I thought we had any chance of ever returning to the ship.<br>  Just keep walking, Michael.<br>  What will you do  if you were stuck here for 89 years?  A likely scenario  unless we die here in the desert.<br>  But say you lived.<br>  As a xenoanthropologist, I could reveal myself  to the natives, learn their culture,  try to fit in if possible.<br>  And you, Captain?  What will you do if we're trapped here for 89 years?  That's easy.<br> I'd escape.<br>  These are our footprints.<br>  You've walked us in a circle.<br>  Not exactly a circle.<br>  (THUNDERING)  (WHOOSHING)  How did they find us?  I set a star.<br>  (METALLIC TRILLING)           (ORIGINAL STAR TREK THEME PLAYS)    BURNHAM: First Officer's Log, Stardate 1207.<br>3.<br>  On Earth, it's May 11, 2256,  a Sunday.<br>  The crew of the U.<br>S.<br>S.<br> Shenzhou  has been called to the edge of Federation space  to investigate damage done to one of our interstellar relays.<br>  Blast burns around the hole are inconclusive.<br>  Were they caused by an asteroid,  or was it deliberately destroyed  to limit Starfleet communications?  And if so, by whom?  Despite the risks of our mission,  I remain optimistic.<br>  It's hard not to be in the face of such beauty  in this case, a binary star system.<br>  Around these two suns,  ice, dust and gasses collide  to form the planets future generations will call home.<br>  A humbling reminder that all life  is born from chaos and destruction.<br>  SARU: Based on initial readings,  I would say the relay doesn't appear  to have been damaged naturally.<br>  I don't like the look of that.<br>  Well, keep looking.<br>  Well, the comment was figurative;  I'm expressing concern.<br>  Finish your scans so you can express facts instead.<br>  BURNHAM: The bridge is yours, Mr.<br> Saru.<br>  SARU: Yes  Commander.<br>  Yes, Number One.<br>  Your chief science officer is worried.<br>  Something took a bite out of our relay.<br>  Saru thinks it was malicious.<br>  Saru's Kelpien he thinks everything's malicious.<br>  What do you think?  Any idea what it is?  By all indications, nothing intelligent.<br>  But?  Starfleet's reputation for tech hygiene is exemplary.<br>  When a relay goes down,  the Federation sends a ship to fix it.<br>  You think someone's trying to get our attention?  If they are, they have.<br>  Lieutenant Saru, what do we have?  Ah.<br> I have taken the initiative of keeping us  at maximum scanning distance  in case of anything threatening out there, Captain.<br>  Yes.<br> Number One tells me you suspect foul play.<br>  Despite the first officer's constant need  to dismiss my ideas  She apparently agrees with you.<br>  Really?  GEORGIOU: I'm shocked as well.<br>  Ensign Connor,  agreement between my senior officers.<br>  Note the date and time.<br>  Noted, Captain.<br>  BURNHAM: Is this amount of sarcasm  always necessary?  Necessary? No.<br>  - But I do like it.<br> - (BEEPING)  SARU: There is something else out there.<br>  What do you have, Saru?  Recalibrating sensors.<br>  CONNOR: Electronic alignment in process.<br>  (INDISTINCT CHATTER)  SARU: Active scans are being deflected.<br>  I'm having trouble locating the source.<br>  So something's out there,  but no one can tell me where or what it is.<br>  SARU: Ah, wait.<br>  I have it.<br>  (BEEPING)  No.<br> Recalibrating.<br>  GEORGIOU: Any time now, Mr.<br> Saru.<br>  I have it.<br>  GEORGIOU: Magnify.<br>  Is that what damaged our relay?  What am I looking at?  Object of unknown origin.<br>  Let's get more specific.<br>  I'm unable to bring it into focus.<br>  Number One?  BURNHAM: Range is 2,000 kilometers.<br>  Bearing 358 mark 269.<br>  Roughly 150 meters long, tucked into that accretion disk.<br>  Almost directly below us.<br>  It's in a sensor dead zone.<br>  Some kind of scattering field is confounding the ship's ability  to translate the image.<br>  As science officer,  I can provide a far more concrete and in-depth analysis  than simply reading data off a monitor.<br>  But considering it's scrambling our optical processors,  how are we going to be able to see it?  Thoughts, Number One?  With such little data, I'd prefer not to speculate.<br>  Oh, I will.<br> It's lurking.<br>  The scattering field it's emitting suggests intent.<br>  We see something we don't understand  and instantly cast judgment?  Maybe it's lost.<br>  Maybe it's afraid to show us its whole self.<br>  Hiding, but maybe hoping to be found.<br>  Here we are, speculating.<br>  I respectfully recommend we leave it alone.<br>  GEORGIOU: I'm not sure we have much choice.<br>  We can't lock on to it, and we don't have a shuttle  maneuverable enough to navigate the ring.<br>  I'll go.<br>  All I need is a thruster pack.<br>  SARU: With the high levels of radiation  kicking off those binaries, she'll have 20 minutes  until her DNA starts to unravel like noodles.<br>  Like noodles?  I'll be back in 19.<br> A flyby.<br>  SARU: It seems a waste of the ship's  resources.<br> What will be gained?  You do understand that being afraid  of everything means you learn nothing.<br>  There's no opportunity to discover,  - to explore.<br> - And here I thought  we were doing a deep-space communication relay audit.<br>  You're both right.<br>  Saru, go with her.<br>  - Captain! - Captain!  BURNHAM: Best to keep variables  to a minimum.<br> I wouldn't want  to put my colleague at risk.<br>  And you, Mr.<br> Saru, are you equally  happy not to be put at risk?  Oh, on any occasion, Captain.<br>  You realize,  once you reach that scattering field,  you could be cut off from all communication.<br>  We've come all this way, Captain.<br>  It would be irresponsible  to leave whatever that is unknown.<br>  Just a flyby.<br>  Just a flyby.<br>  FEMALE COMPUTER VOICE: Commencing airlock  depressurization sequence.<br>  (WHOOSHING)  (OVER COMMS): Commander Burnham, this is Ensign Danby Connor.<br>  On behalf of Captain Georgiou and the entire crew  of the U.<br>S.<br>S.<br> Shenzhou,  we'd like to welcome you to flight 819  with non-stop service to the "object of unknown origin.<br>"  The temperature outside is a brisk minus-260 degrees Celsius.<br>  We are forecasting some mild debris,  but anticipate a smooth ride.<br>  (COMM CHIRPS)  This is Commander Burnham.<br>  Commencing reconnaissance mission  to field void and unknown object.<br>  Data collection is on and nominal.<br>  All lights are green.<br>  JANUZZI: Establishing interlink frequency  with Commander Burnham's EV.<br>  Channel clear  and ready to transmit.<br>  DETMER: Confirming six-second directional thrust  for saucer realignment.<br>  COMPUTER: Commencing final prelaunch system checks.<br>  Life support: nominal.<br>  Oxygen/nitrogen saturation: nominal.<br>  Air pressure and flow: nominal.<br>  Communication module: active.<br>  (INDISTINCT CHATTER)    COMPUTER: Filters at 0.<br>01% saturation.<br>  JANUZZI: Preflight checklist complete.<br>  SARU: The object is 2,000 kilometers    Computer, enable igniter.<br>  COMPUTER: Ten seconds to thruster ignition.<br>  Ten, nine, eight,  seven, six, five,  four, three, two, one.<br>  (EXHALES, PANTS)  (GASPS)  (LAUGHING)  CONNOR: Body scan on line, heart rate  79 and rising, BP 130/70.<br>  That's a little elevated for her.<br>  She's having fun.<br>  DETMER: Almost to the debris field, Captain.<br>  Understood.<br>  Michael, watch your time.<br>  19 minutes, not a nanosecond longer.<br>  (SIGHS) Aye, Captain.<br>  I'm fully aware.<br>  Boost signal.<br>  Unable to comply.<br> Scattering field.<br>  It must be interfering with comms.<br>  Mission clock at 17 minutes,  30 seconds.<br>  Interference is starting  to degrade resolution.<br>  CONNOR: Routing additional power  to subspace antenna.<br>  (STATIC OVER COMM)  Shenzhou, do you copy?  COMPUTER: Distance to object 1,000 kilometers and closing.<br>  Shenzhou, do you copy?  Implementing automatic course correction.<br>  (GASPING)  (SIGHS)  Hello.<br>  Shenzhou, are you able to see this?  (STATIC CRACKLING)  Michael, can you hear me? Acknowledge.<br>  Michael? Can you hear me?  Acknowledge.<br>  JANUZZI: There's just too much interference.<br>  Shenzhou, do you copy?  Data Collection Unit, are you there?  FEMALE HELMET COMPUTER: Internal computer on line.<br>  Good.<br> Mission time?  12 minutes, 58 seconds.<br>  (THRUSTERS HISSING)  Plenty of time to take a peek.<br>  Even from this distance, it's clearly not debris.<br>  CONNOR: 12 minutes and 48 seconds until maximum radiation exposure.<br>  The commander is less than ten meters from the outermost  edge of the scattering field.<br>  I can't remember who said sculptures are  crystallized spirituality.<br>  Headlamp.<br>  But I see what they meant.<br>  This is Burnham in the blind.<br>  I'm above the object, which is old.<br>  Centuries old.<br>  It's difficult to tell if it was constructed or carved.<br>  The only word to effectively describe it is  wow.<br>  But I'll try to be more precise.<br>  Its surface has the appearance of stone  with an exoskeleton of metal alloy.<br>  Incredibly intricate.<br>  The construction and design are nothing short of astounding.<br>  I wish you could see what I'm seeing.<br>  It is sublime.<br>  It's impossible to discern a practical purpose.<br>  Going to land on it, get a closer look.<br>  Nice and easy.<br>  (THUDS)  (SOFT RUMBLING)  Hold on.<br>  My presence has triggered some sort of motion response.<br>  (SIGHS)  HELMET COMPUTER: Mission countdown: ten minutes, 15 seconds.<br>  Warning.<br> Proximity alert.<br>  Scanning for database recognition.<br>  Iconography confirmed: Klingon.<br>  I'm Commander Burnham  of the United Federation of.<br>  (ROARS)  (BELLOWS)  (STATIC CRACKLING)  DETMER: Still no sign of Commander Burnham.<br>  Mission clock  runs out in 15 seconds.<br>  There's still too much interference.<br>  Initiating  I have Number One.<br>  Telemetry only.<br>  Blood pressure is 70 and falling.<br>  She won't make it unless we get her back now.<br>  GEORGIOU: Transporter Control.<br>  Do we have her, Mr.<br> Weeton?  Pattern integrity's too weak, Captain.<br>  Saru, get a lock on her.<br> Boost her signal.<br>  Captain, there is no signal.<br>  You better get me a signal.<br>  Remotely fire her jetpack.<br>  (FILTERED VOICE): She's off line.<br>  CONNOR: She's floating free.<br>  Engineering.<br> Tractor beam?  Can't get a lock.<br> We're running manual calculations.<br>  The scattering field is still a problem, Captain.<br>  We can't transport her until she clears it.<br>  DETMER: She'll soon exhibit symptoms  of acute radiation syndrome.<br>  CONNOR: She's not gonna last much longer.<br>  Hang on.<br>  (DISTORTED VOICE CLEARING): Shenzhou, please respond.<br>  - JANUZZI: Commander Burnham? - (SUIT ALARM BEEPING)  Commander, please respond.<br>  Control to Commander Burnham.<br>  Commander, do you read?  Please respond.<br>  (MALE SPEAKING KLINGON)                        (WHOOSHING)  (ROARS)  (ALL ROARING)                (OTHERS SHOULD KLINGON PHRASE IN UNISON)  (OVERLAPPING CHATTER)  TESTING COMPUTER: Pupil Burnham.<br>  Pupil Burnham.<br>  (OVERLAPPING CHATTER)  CHILD: 14 solar years.<br>  (OVERLAPPING CHATTER CONTINUES)  TESTING COMPUTER: Klingon social order rests upon?  Inviolable honor/shame dynamic.<br>  Correct.<br> Klingon homeworld Qo'noS.<br>  Unwelcoming to the Federation.<br>  Correct.<br> Klingon political order.<br>  24 great houses.<br>  Correct.<br> Location of the most recent Klingon terror raid.<br>  Unacceptable duration between query and correct response.<br>  Number of survivors at the Human-Vulcan science outpost  at Doctari Alpha.<br>  Unacceptable duration between query and correct response.<br>  Number of survivors at Doctari Alpha.<br>  No.<br>  Unacceptable response.<br>  - Number of survivors - Please.<br>  (OVERLAPPING QUESTIONS)  Stop!  Program paused.<br>  Sarek.<br>  I'm sorry.<br>  I can do better.<br>  When emotion brings us ghosts from the past,  only logic can root us in the present.<br>  Maybe I can try to learn Vulcan.<br>  To be quicker with my answers.<br>  Your human tongue is not the problem.<br>  It is your human heart.<br>  (GASPS)  (MACHINERY HUMMING)  (PANTING)  MAN (ON COMM): Good.<br> You're awake.<br>  I was dreaming.<br>  Oh? What about?  Klingons.<br>  How did I get here?  We transported you back aboard three hours ago.<br>  BURNHAM: Three hours?  COMPUTER: Antiproton therapy regimen incomplete.<br>  - Commander, what are you doing? - Session terminated prematurely.<br>  - Medical Emergency - There's no time.<br>  Commander, wait.<br> The recombination process  is nowhere near finished.<br>  I need you back in the antiproton chamber.<br>  Do you understand the effect of genetic unspooling?  You don't want to die that way.<br>  Commander!  DETMER: The binaries are kicking off  serious QEs up and down the spectrum.<br>  GANT: Targeting gets hot, but I still  can't tell what I'm grabbing onto.<br>  I want to know what's out there, people.<br>  Okay, let's go around the horn again, by the numbers.<br>  What's going on?  Number One, you should be in sickbay.<br>  What  Have they made contact?  Who's "they"?  There are Klingons out there.<br>  We need to go to red alert.<br>  GEORGIOU: Michael.<br>  Almost no one has seen a Klingon in a hundred years.<br>  I have.<br> One attacked me on that object.<br>  Check my helmet cam.<br>  The footage was corrupted.<br>  SARU: Internal sensors show that the commander has entered the bridge  in an irradiated state.<br>  Without immediate treatment,  her condition will most certainly be terminal.<br>  He was warrior caste.<br>  His-his EV suit bore a Klingon house insignia.<br>  She also has a grade-three concussion.<br>  I'm not delusional.<br>  This has nothing to do with a concussion.<br>  Philippa  there are Klingons.<br>  Red alert.<br>  (ALARM SOUNDING)  Tell me what happened.<br>  He ambushed me.<br>  I hit my thruster pack to get away.<br>  I somehow knocked him into his blade.<br>  I killed him.<br>  But that object could be hiding a Klingon raiding party,  obscured behind that scattering field.<br>  GEORGIOU: If there are Klingons in this sector,  they may be responsible for the damage to our relay.<br>  If there are Klingons in this sector,  we should withdraw immediately.<br>  This is Federation space.<br>  Retreat is not an option.<br>  Whatever is over there  needs to show itself.<br>  If it's hiding Klingons, we've got to flush them out.<br>  Target phase cannons on the object.<br>  We cannot destroy another culture's property on a whim.<br>  I didn't say anything about destroying it.<br>  Let's make them think we're going to attack.<br>  Target the object.<br>  GANT: We're locked on.<br>  Something is scanning us.<br>  They've detected our weapons signature.<br>  Wait.<br>  (SHIP WHOOSHING)  (ALARM BEEPING)  (FILTERED VOICE): Impossible.<br>  CONNOR: No warp signatures detected, Captain.<br>  GEORGIOU: Then where did they come from?  Mr.<br> Gant, disengage phase-cannon targeting.<br>  Number One, get to sickbay.<br>  I need you fixed up and back on the bridge, stat.<br>  Mr.<br> Januzzi, contact Starfleet Command.<br>  Send an encoded message.<br>  Tell them we have engaged the Klingons.<br>  JANUZZI: Unidentified Klingon vessel,  this is the Federation Starship Shenzhou.<br>  Please respond.<br>  Unidentified Klingon vessel,  this is the Federation Starship Shenzhou.<br> Please respond.<br>                                                                                              (ALARM PULSING)                      (CHANTING CONTINUES)  JANUZZI: Unidentified Klingon vessel,  this is the Federation Starship Shenzhou.<br> Please respond.<br>  Unidentified Klingon vessel,  this is the Federation Starship Shenzhou.<br>  Please respond.<br>  Is there any chance they can't hear us?  You're transmitting on every subspace channel there is.<br>  Your orders, Commander?  Any response?  None.<br>  Commander, there is something  I'd like to show you.<br>  Their hull is covered in hollow, ornamental, metallic pods,  thousands of them, tightly interlocked,  forming a kind of armor.<br>  Not the most efficient defense.<br>  I suspect its purpose is more symbolic than practical.<br>  They contain Klingon biological material  in various states of decay.<br>  Remote dating is wildly divergent.<br>  Some bones date back thousands of years,  others only hours old.<br>  Their entire ship is covered with coffins.<br>  Commander, the captain listens to you.<br>  Tell her.<br>  We must withdraw.<br>  I'm afraid that's no longer possible.<br>  Your world has food chains.<br>  Mine does not.<br>  Our species map is binary.<br>  We are either predator or prey.<br>  My people were hunted.<br>  Bred.<br> Farmed.<br>  We are your livestock of old.<br>  We were biologically determined for one purpose  and one purpose alone:  to sense the coming of death.<br>  I sense it coming now.<br>  GEORGIOU: The Klingon flagship has a stealth mode.<br>  It's some kind of cloaking screen,  unlike anything we've ever seen, Admiral.<br>  There may be more vessels out there than we know.<br>  We've reached out with every form  of friendship greeting Starfleet has.<br>  They're blocking our hails.<br>  Uh, it feels like a setup.<br>  Maybe our relay got too close for Klingon comfort,  and they destroyed it to lure us out here.<br>  You remember my first officer  Michael Burnham?  Next time, you might try not disturbing  the property of a warrior race  we've hardly spoken to for a hundred years.<br>  Our only choice now is to navigate this situation  with as much finesse as possible.<br>  Admiral, if I may.<br>  The ideal outcome for any Klingon interaction is battle.<br>  They're relentlessly hostile, sir.<br>  It's in their nature.<br>  The Federation and the Klingon Empire  have always been on the cold side of war.<br>  We've had only fleeting run-ins with them for a century.<br>  And now you presume  to know their motivation  because it is "in their nature"?  Considering your background, I would think  you're the last person to make assumptions based on race.<br>  With respect, it would be unwise to confuse race and culture.<br>  The Europa and all fleet vessels within range  will be at your coordinates in two hours.<br>  Hold your position.<br>  Do nothing absent provocation, understood?  Understood, Admiral.<br>  COMPUTER: Signal terminated.<br>  That went well.<br>  What's the mood outside?  Saru is the only one talking.<br>  He strongly believes we should about-face.<br>  There is a space station at Eagle-Twelve,  three light-years away.<br>  The Andorian colony at Gamma-Hydra is six.<br>  Shenzhou is their only line of defense if the Klingons attack.<br>  Not if when.<br>  I have to hope that whatever happens here  can serve as a bridge between our civilizations.<br>  That's the diplomat in you talking.<br>  What does the soldier say?  Nothing good.<br>  SARU (ON COMMS): Captain to the bridge.<br>  Status?  Massive photonic activity on the Klingon object, Captain.<br>  Output is over one billion lumens per square meter.<br>  CONNOR: Optical sensors overloading.<br>  GEORGIOU: Bring plasmatic filters on line.<br>  CONNOR: Rerouting power.<br>  GEORGIOU: Is that a weapon?  It seems to be some sort of signal emitter.<br>  Where are my filters?  CONNOR: They're at 100%, Captain.<br>  (HIGH-PITCHED SOUND GROWING LOUDER)  (HIGH-PITCHED RINGING)  - (HIGH-PITCHED RINGING CONTINUES) - CONNOR: Initiating emergency shutdown.<br>  That noise is some kind of  electromagnetic subspace wave-form.<br>  Narrowing channel range.<br>  Adjusting orientation to minimize dispersal.<br>  Somebody turn it down.<br>  Aye, Captain.<br>  - All the way down.<br> - SARU: Acoustics are muted.<br>  That's the ship's superstructure in sympathetic vibration.<br>  It's a signal pulse.<br>  Is there a message?  This may be the message.<br>  Captain, what if they're calling for the same thing we are?  Backup.<br>  Long-range sensors to the maximum, Saru.<br>  If more Klingons are on their way,  I want as much notice as possible.<br>  Permission to leave the bridge, Captain?  - Are you kidding? - It's relevant.<br>  Granted.<br>  Ensign, get me a status report, deck by deck.<br>  Aye, Captain.<br>  Computer.<br>  COMPUTER: Working.<br>  Open dedicated subspace channel 222AA7.<br>  COMPUTER: Use of this frequency requires  - diplomatic authorization.<br> - Voiceprint authorize.<br>  Burnham Michael.<br>  COMPUTER: Confirmed.<br>  Commander Burnham.<br>  Hello, Sarek.<br>  I'm happy to see you.<br>  So many years.<br>  And still you allow emotional considerations  to impede your logic.<br>  They inform my logic.<br>  I need your help.<br>  I assume the timing of the call was not coincidental.<br>  The quadrant reports a new star in the sky.<br>  What have you done out there, on the edge of Federation space?  We've encountered the Klingons.<br>  How rare to meet one's own demons in the flesh.<br>  I killed one.<br>  In light of the fact that they killed your parents,  some might think that only fair.<br>  However,  if a death was necessary,  I am satisfied it was not yours.<br>  I'm most certain you did not call me for emotional solace.<br>  We're facing off.<br>  No fire has been exchanged.<br>  But they didn't turn on that beacon  until Starfleet was on its way to our position.<br>  I think they're summoning more of their kind.<br>  An odd proposition given that their empire  has been in disarray for generations.<br>  But you are describing something out of the ordinary.<br>  Restraint in the face of conflict.<br>  When a civilization acts in opposition to its instincts,  it may be under the influence of something, or someone, new.<br>  Great unifiers are few and far between,  but they do come.<br>  Often, such leaders will need a profound cause  for their followers to rally around.<br>  A war.<br>  Be very careful that your assumptions  are not being driven by your past.<br>  This isn't about what happened, Sarek.<br>  It's what's happening now.<br>  How did the Vulcans achieve diplomatic relations  with the Klingons?  That is a solution particular to us.<br>  One cannot assume it would work on a ship commanded by humans.<br>  Sarek please.<br>  I caution you, be considered  with how you use this information.<br>  You cannot save lives that have already been lost.<br>  Tell me.<br>  How did you keep the Klingons at bay?  GEORGIOU: Engineering, report.<br>  Internal damage, negative.<br>  Core is 100%.<br>  Captain, we have to fire on them.<br>  Hit that ship with everything we've got.<br>  GEORGIOU: Absolutely not.<br> They haven't powered weapons.<br>  They don't appear to pose an imminent threat.<br>  The Klingon threat is always imminent and inevitable.<br>  - Tactical log's ready.<br> - Thank you, Mr.<br> Gant.<br>  I'd like to remind you, we're wildly outgunned.<br>  240 years ago, near H'Atoria,  a Vulcan ship crossed into Klingon space.<br>  The Klingons attacked immediately.<br>  They destroyed the vessel.<br>  Vulcans don't make the same mistake twice.<br>  From then on, until formal relations were established,  whenever the Vulcans crossed paths with Klingons,  the Vulcans fired first.<br>  They said "hello" in a language the Klingons understood.<br>  Violence brought respect.<br>  Respect brought peace.<br>  Captain.<br> We have to give the Klingons a Vulcan "hello.<br>"  If their intention is to attack,  balling up our fists won't dissuade them.<br>  It would be logical for you to take into account  my success rate during our seven years together,  and execute my plan without further challenge  before we're dragged into war.<br>  Starfleet doesn't fire first.<br>  That's all, Number One.<br>  We have to.<br>  In my ready room.<br> Now.<br>  Lieutenant Commander, you have the bridge.<br>  SARU: Yes, Captain.<br>  Computer, privacy.<br>  Captain  How dare you challenge me?  I apologize for my insubordination.<br>  Don't you realize that kind of talk can destabilize a crew?  Don't underestimate them.<br>  I've overseen their exercises;  they're ready for battle.<br>  Battle is not a simulation.<br>  It's blood and screams and funerals.<br>  I taught you better than this.<br>  We don't start shooting on a hunch,  and we don't take innocent lives.<br> Period.<br>  I understand your history with the Klingons.<br>  My commitment to this course of action  is not emotional.<br>  We target its neck, cut off its head  You're still injured.<br>  - You're not thinking clearly - Thousands of lives will be  - lost because of failure to act.<br> - Whose lives?  Victims of your imaginary war?  And your life, Captain.<br>  Yours.<br>  Stand down, Commander Burnham.<br>  That's an order.<br>  You're right.<br>  I may not be myself.<br>  Easy, Michael.<br>  I'm sorry.<br>  You're relieved, Mr.<br> Saru.<br>  Where is the captain?  I provided her with Klingon intel  from a personal source on Vulcan.<br>  She's passing it to the admiral.<br>  Weapons, slot a pair of photon torpedoes in the tubes  and compute a firing solution  targeting the neck of that Klingon ship.<br>  SARU: Is the plan to fire on the Klingons, Commander?  We have to be ready in case that's what the captain decides.<br>  Are you acting on the captain's orders?  I'm your superior officer.<br>  We are in a high-risk scenario.<br>  Question chain of command again and I'll remove you.<br>  Commander.<br> It's just  Your breathing is elevated.<br>  Perspiration's visible at your hairline.<br>  I fear what you are doing  betrays the wishes of our captain.<br>  Target phasers.<br>  Take your station, Commander.<br>  This is mutiny.<br>  Move, Saru.<br> Tactical.<br>  GANT: We're locked on.<br>  Fire!  GEORGIOU: Belay that order!  Captain, please.<br>  I'm trying to save you.<br>  I'm trying to save all of you.<br>  Stand down.<br>  (INDISTINCT CHATTER)  - Captain! Incoming! - (COMPUTER BEEPING)  Warp signatures detected.<br>  Is it Starfleet?  No.<br>  Those ships are Klingon.<br>        <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e02" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

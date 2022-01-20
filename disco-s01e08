@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e08 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e08 - Si Vis Pacem, Para Bellum Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e08 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e08"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e08 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e08" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Si Vis Pacem, Para Bellum</div>
+
+            <h1>Star Trek: Discovery (2017) s01e08 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Si Vis Pacem, Para Bellum</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			[narrator.]<br> Previously on Star Trek: Discovery:  I need a team around me that's gonna help me carry the day.<br>  - And that includes you.<br> - I accept.<br>  - [grunting.]<br> - [neck cracks.]<br>  Getting out of here was always a two-man job.<br>  - [Tyler yells.]<br> - [L'Rell grunts.]<br>  [screaming.]<br>  [Lorca.]<br> My last chief of security and I went through a lot.<br>   I need someone I can trust, someone that understands war.<br>   - I think that's you.<br> - I'd be honored to serve on Discovery.<br>   [Lorca.]<br> We are creating a new way to fly.<br>   If the Discovery can be anywhere and gone in an instant,  that's how you beat the Klingons.<br>   Greetings from the United Federation of Planets.<br>  [in Klingon.]<br> I was hoping to get a high-ranking Vulcan,  but this is so much better.<br>  [theme music playing.]<br>  Sync and Corrections by: kDragon  This is Captain T'Shen Kovil of the Federation Starship Gagarin.<br>   - We are under attack.<br> - [alarm wailing.]<br>  I repeat, we are under attack by six Klingon vessels.<br>  Any Starfleet ship in range, please respond.<br>  [Lorca.]<br> This is U.<br>S.<br>S.<br> Discovery.<br> We've got your back.<br>   Klingon vessels locking weapons on us.<br>  - Detmer, evasive pattern beta nine.<br> - Acknowledged.<br>  Mr.<br> Rhys, could I trouble you to fire at something?  Aye, sir.<br>  - Rhys? - I see them, Captain.<br>  Owosekun, got anything? Owosekun.<br>  Negative.<br> I have power signatures that are off the charts,  but our sensors can't isolate individual ships  when they have those invisibility screens up.<br>  They can't fire till they're visible.<br> Keep fingers on the trigger.<br>  Get ready to move quickly.<br> Understood?  [all.]<br> Aye, Captain.<br>  Hard to port, Detmer.<br> Mr.<br> Rhys, lock on the Bird-of-Prey targeting Gagarin.<br>   - Shields holding at 70 percent.<br> - [Kovil.]<br> Thanks for the assist.<br>   Doesn't look like a fair fight to me, Kovil.<br>  - Can you go to warp? - Warp engines are down.<br>   [grunts.]<br> Our shields are almost gone.<br>  Sir, the Klingon destroyer just decloaked right under Gagarin.<br>   We picked up two battle cruisers.<br> They're flanking us.<br>  Concentrate fire on the destroyer.<br>  - Shields holding at 32 percent.<br> - Two Birds-of-Prey approaching, sir.<br>  Get us in between the Klingons and the Gagarin.<br>   Aye, sir.<br>  Direct hit.<br> Shields below ten percent.<br>  Did we get both torpedoes? Did we get them both?  [Rhys.]<br> I don't know, sir.<br> I can't-  [alarm wailing.]<br>  [Lorca.]<br> The Gagarin's gone.<br>  It's over.<br> Black alert.<br> Get us out of here.<br>  [computer.]<br> Black alert.<br> Black alert.<br>   [Lorca.]<br> Bridge to engineering, ready to jump?  Lieutenant?  - I'm ready.<br> - [Tilly.]<br> Aye, Captain.<br>  Spore drive ready.<br>  Go.<br>  [Lorca.]<br> There will be time to grieve.<br>  This is not that time.<br>  I want a full damage report immediately.<br>  Airiam, you have the conn.<br>  Aye, Captain.<br>  [Tilly.]<br> Feel all right, Lieutenant?  What are you doing down here, Captain?  Sorry, what?  What?  Did you just call me "captain"?  - That's absurd.<br> Why would I do that? -I don't know.<br> I must-  Are you daydreaming on the job?  Are you so bored here that your mind is wandering?  No, sir.<br> Sorry.<br> I didn't, uh, mean to-  Well, then don't.<br>  [Lorca.]<br> Where were the other ships patrolling this sector?  Why were we the only Starfleet vessel able to render aid?  The Hoover and the Muroc  were simultaneously ambushed along with the Gagarin.<br>   - All were destroyed.<br> - [sighs.]<br>  How many of the Klingon ships you engaged were equipped with invisibility screens?  All of them.<br>  All six.<br>  Then our latest intelligence reports are confirmed.<br>  Kol of House Kor has managed to revive the Klingon Ship of the Dead,  and is now sharing its stealth technology with any house that will offer him fealty.<br>  Eventually, every ship in the Klingon armada  will be able to attack us out of nowhere.<br>  That makes your mission at Pahvo Starfleet's highest priority.<br>  - What is your team's status? - Transported to the surface 18 hours ago,  and have maintained radio silence to avoid detection by the Klingons.<br>   [Terral.]<br> We lost 462 souls today, Captain.<br>   And that number will increase exponentially  until we are able to detect those invisible ships.<br>  I'm certain I have made myself clear.<br>  Abundantly.<br>  [Burnham.]<br> Personal log, Specialist Michael Burnham.<br>   Stardate 1308.<br>9.<br>  We landed on Pahvo 18 hours ago.<br>   It's a seemingly uninhabited planet, but a unique and, for us, strategic one.<br>   Every tree, rock, and blade of grass here vibrates with its own specific tone.<br>   Together, these combine to form a kind of music:  the signature sound of the planet, heard everywhere on the surface.<br>   The sound is even broadcast into space by a towering crystal structure,  a sort of naturally occurring transmitter.<br>   It is Starfleet's plan to modify the electromagnetic frequency  of Pahvo's signal and harness it as a form of sonar  that can detect the presence of the cloaked Klingon vessels  decimating our fleet, make them visible to our sensors,  and turn the tide of war in our favor.<br>   The transmitter is still 8.<br>4 kilometers north-northeast.<br>  You've been setting an accelerated pace since we got here.<br>  It's unfortunate that the transmitter's interference meant  we had to beam down 30 kilometers away, but look around,  - it could be worse.<br> - [Tyler.]<br> Yeah.<br>  It's two days until pickup.<br> We're making great time.<br>  Perhaps it's a great time for you humans.<br>  I, of course, could make it there in 15 minutes.<br>  Didn't know you were such a sprinter, Mr.<br> Saru.<br>  Kelpiens pursued by apex predators  have exceeded speeds of 80 kilometers per hour.<br>  They can also sense predators from as much as ten kilometers.<br>  And we particularly enjoy being discussed in the third person while present.<br>  - I'm sorry.<br> - But you are accurate.<br>  I possess visual, auditory, and tactile receptors  more acute than yours.<br>  Which is why I am being tortured  by this planet's constant noise, and you are not.<br>  [resonant droning.]<br>  [Tyler.]<br> Well, I can hear that.<br> What's going on?  [Saru.]<br> Keep this pointed at the ground.<br>  Greetings.<br>  We are explorers from the Federation Starship Discovery.<br>   - We come in peace.<br> - Thought this planet was uninhabited.<br>  It's not registering as a life-form, sir.<br>  According to this, it's actually not distinguishable  from the rest of the forest.<br>  [resonant chittering.]<br>  - I believe it wants us to accompany it.<br> - Transmitter's in the opposite direction.<br>  [indistinct conversation in Klingon.]<br>  [in Klingon.]<br> General Kol.<br>  The scar is an improvement, L'Rell.<br>  Earned in battle.<br> I wear it with pride.<br>  Congratulations.<br> House after house has vowed their allegiance to you.<br>  Do not mistake me for your fallen idol T'Kuvma.<br>  He sought unity.<br>  I seek only Klingon supremacy under my rule.<br>  The dissemination of the cloaking technology  has earned you many loyalists.<br>  I wish to count myself, my house, among them.<br>  Your loyalty isn't enough.<br>  What else can you offer me?  My skills as an interrogator.<br>  My spies tell me you have a prisoner who refuses to speak.<br>  Bring me some information that will add to my glory,  and I will consider your request.<br>  [growls.]<br>  [resonant sounds overlapping.]<br>  [sounds continue more loudly.]<br>  [Tyler.]<br> What's it saying?  - [negative beep.]<br> - Universal translator's got nothing.<br>  I don't think they mean us any harm.<br>  - You can't know that.<br> - If their intentions were nefarious,  I would be the first to sense a threat.<br> We need to establish communication.<br>  I am Commander Saru.<br>  As a first contact specialist,  I would like permission to analyze the sound you are emitting  to determine if it is a form of language.<br>  [resonant chittering.]<br>  [gasps.]<br>  Are you all right?  It was not painful, just disorienting.<br>  I believe I felt their intentions, their desire to converse.<br>  - This will take some time.<br> - We can't touch that transmitter now.<br>  General Order 1?  No.<br> Order 1 restricts us from revealing ourselves  to sentient beings that aren't warp-capable.<br>  We're well beyond that.<br>  Now our duty is to follow first contact protocol.<br>  And we can't borrow or alter their property  without them understanding our objective and agreeing to it.<br>  [grunts.]<br>  [in English.]<br> Scream.<br>  I said, scream.<br>  No.<br>  [both yelling.]<br>  - [guard laughs.]<br> - [retreating footsteps.]<br>  Good.<br> You were convincing.<br>  The guard is gone.<br>  Now we can talk.<br>  [Tyler.]<br> Think Saru can make the Pahvans understand  - why we need their transmitter? - [Burnham.]<br> He's got to.<br>  Convincing them to let us complete our mission is the only way.<br>  - Then we defeat the Klingons.<br> - And the war ends.<br>  - Easy.<br> - Easy.<br>  When all this fighting is over, I've got big plans.<br>  I know a little place at Lake Shasta.<br>  Take a little sailboat on the water.<br>  Lake's full of trout this time of year.<br> Ever had fresh-roasted trout?  - I haven't.<br> - What?  It's actual heaven.<br>  I'll camp on the beach.<br>  Watch the stars fall.<br>  Sounds perfect.<br>  What?  Our futures look different.<br>  You go back to your lake house  and I go back to prison.<br>  My sentence was life.<br>  This is just temporary.<br>  Well, maybe we just leave that transmitter alone.<br>  You can't go back to prison if we're still at war.<br>  - The needs of the many- - Are worth fighting for.<br>  Are worth dying for.<br>  But so are the needs of the few.<br>  Or the one?  [whispers.]<br> Come here.<br>  [comm chimes.]<br>  [man speaking indistinctly over comm.]<br>  Okay.<br>  - What is going on with you? - Excuse me?  At first, the tardigrade DNA booster seemed like a good thing.<br>  But now you're back to your old persnickety, grumpy self.<br>  So, what's the deal?  Nothing.<br>  You're dismissed, cadet.<br>  [woman speaking indistinctly over comm.]<br>  Okay, I'll admit that something has been happening to me.<br>  One minute, I know where I am, who you are,  what I'm doing, and then, all of a sudden,  what I know changes.<br>  - It gets jumbled.<br> - Have you told Dr.<br> Culber about this?  That would put Hugh in an impossible position.<br>  As a medical officer,  it would be his duty to report the effects of my genetic manipulation.<br>  I'd be sent to a Federation lab to be poked and prodded.<br>  On the other hand, if he doesn't tell  and Starfleet finds out, his career would be ruined.<br>  Either way, I hurt him.<br>  Um Okay.<br> We'll monitor these episodes.<br>  Hopefully, they'll pass, right?  You don't seem reassured.<br> Usually I'm good at that.<br>  That's kind of my thing.<br>  What happens to those who Starfleet captures?  In war?  They're imprisoned.<br>  Interrogated, humanely.<br>  Eventually, they're returned to their people  as part of any final peace settlement.<br>  So, you do not execute them.<br>  The Federation has no death penalty.<br>  I wish to defect.<br>  There's nothing here for me now.<br>  The p'taQ my people now follow has no honor.<br>  It is because of Kol I am alone.<br>  I had like-minded brothers and sisters.<br>  Even the one chosen by Lord T'Kuvma to be his successor.<br>  But he was chased away.<br>  Forever gone.<br>  Everyone is gone.<br>  My vessel is in a nearby hangar.<br>  Kahless willing, we will use it to both escape with our lives,  and you will guarantee me safe passage onto your ship.<br>  My ship?  Discovery.<br>   I know its shuttle delivered you to the trap on Cancri IV.<br>  - Why should I trust you? - Because we need each other, Admiral.<br>  And what other option do you have?  - [Burnham.]<br> How far did you get? - We are still establishing a vocabulary.<br>  - So, not very far.<br> - Are they native to this planet?  They are the planet.<br>  Everywhere you go, you can feel the symbiosis  between nature and the living spirit.<br>  Amazing to think that while we fight our war,  a place of peace and harmony not only survives   it thrives.<br>   - Is the transmitter their creation? - I can't be sure,  but they desperately want to know others and to be known,  and have been trying to share who they are with the rest of the universe since  since the beginning of their existence.<br>  [groans.]<br>  You look exhausted.<br>  It's the constant noise generated by this planet.<br>  It's better when I'm with our Pahvan friend, but  - still, it is ubiquitous.<br> - Think you can relay the details  of our mission to it before Discovery comes tocollect us?  Well, I sincerely hope so.<br>  For now, I think it would be best to call it a night.<br>  [resonant droning.]<br>  [gasps.]<br>  Can you please make it stop?  Even for a moment?  [gasping.]<br>  We were biologically determined for one purpose and one purpose alone.<br>  I sense the coming of death.<br>  I sense it coming now.<br>  We have come to Pahvo for your help.<br>   We have come to end this war.<br>   I'm so afraid.<br>   So afraid.<br>   [exhales.]<br>  Oh, hello, Commander.<br> Looks like someone got some sleep.<br>  - [Tyler.]<br> You do seem better.<br> - I am, thank you.<br>  I just apprised the captain of our new circumstances.<br>  How? Discovery's not supposed to be in comm range right now.<br>  Oh.<br> A simple modification.<br>  I altered the frequency of my communicator,  linking it to the planet's transmitter.<br>  - It boosted the signal sufficiently.<br> - Our new friend was okay with that?  The Pahvans are incredibly hospitable.<br> They will grant us anything we want.<br>  So, we have permission to complete our mission as planned?  Some parameters of the mission have changed.<br>  I require your communicators.<br>  Thank you so very much.<br>  What are you doing?  Oh, do not be alarmed.<br>  These are no longer necessary.<br>  The Pahvans have invited us to remain here with them.<br>  We can't do that.<br>  In time, you will experience this world as I do.<br>  You must remain open to it.<br>  Even your limited sensory abilities will improve eventually.<br>  Saru, something has happened to you.<br>  You are not thinking clearly.<br>  Not at all.<br>  The Pahvans have found a way to exist in perfect balance  and absolute harmony with their world.<br>  They have already achieved everything we say we seek  through our exploratory and diplomatic efforts.<br>  The only answers we require  for the advancement of all species is here.<br>  And it's ours for the taking.<br>  I must go tell our hosts we have accepted their offer.<br>  They will be so happy.<br>  One thing's for sure.<br> He lied about the captain.<br>  - No way he cut us loose.<br> - Saru has been compromised.<br>  - We can't abandon the mission.<br> - Not sure we have the Pahvans' permission.<br>  Wanna wait for the Pahvans' permission? Won't be any Pahvans if we don't proceed.<br>  You know the Federation has procedures.<br>  No starship may interfere with the normal development  - of any alien life or society.<br> - Saru said they would grant us anything.<br>  Right?  Modifying the transmitter is included in "anything.<br> "  - We can't trust anything he says- - May be our only way of ending the war.<br>  - What about Saru? - This isn't up for debate.<br>  Given Saru's condition, I'm the senior officer now.<br>  Certain we can get to your ship undetected?  I know this vessel as if it were my home.<br> It was my home, once.<br>  First I am ensuring the end of Kol's days.<br>  He neglected T'Kuvma's message.<br>  He desecrated this vessel with his fetid presence.<br>  Before we depart, I will set the ship's warp core to overload.<br>  - He really disappointed you.<br> - He disgusts me.<br>  My only regret is that I will not be able  to see his pretty painted face as he takes his final breath.<br>  [in Klingon.]<br> L'Rell, where are you taking the prisoner?  - You were not what I expected.<br> - Neither were you.<br>  [L'Rell grunting.]<br>  [groans.]<br>  At least you won't die in a cage, Admiral.<br>  - [yells.]<br> - [electricity sizzling.]<br>  [in Klingon.]<br> She took my blade and tried to escape.<br>  - I will dispose of the body.<br> - [low growl.]<br>  There will be no synthetic protein rations tonight, Lieutenant.<br>  Where's Burnham?  We had a fight.<br> She's walking it off.<br>  I am sorry.<br>  But soon, you will know what it means to exist without conflict.<br>  I'm going to find Burnham.<br>  - She must be starving.<br> - Commander.<br>  Can I ask you something?  When we first came here, the sounds of this place,  you said, were like a physical assault.<br> What changed?  I believe I was the problem.<br>  I did not understand what I was perceiving.<br>  I was not yet in harmony.<br>  The Pahvans  helped me.<br>  Sounds like you were fighting something, then you just stopped.<br>  - Yes.<br> - I don't know how to do that.<br>  What is it you are fighting?  Well, everybody wants to defeat the Klingons.<br>  I  I wanna hurt them.<br>  They tortured you.<br>  The feeling is understandable.<br>  But all that is past now.<br>  You don't just forget something like that.<br> You can't.<br>  What's the other option?  Allowing it to transform you into something worse than those who did this?  If it means I can make them suffer like they made me suffer,  then yes.<br>  Come here, Lieutenant.<br>  The Pahvans gave me something you might find useful.<br>  Understanding requires a common frame of reference.<br>  Try to feel the harmony,  the peace this world offers.<br>  [sighs.]<br>  [gasps.]<br>  Your intentions are false.<br> You've been trying to distract me.<br>  To delay me.<br>  Where is Burnham?  - Where has she gone? - [grunting.]<br>  [resonant droning.]<br>  Come on, come on, come on.<br>  [computer beeping.]<br>  Yes.<br>  [sighs.]<br>  [rustling.]<br>  Grafk.<br>  [gasps.]<br>  Torath.<br>  Silrek.<br>  [in Klingon.]<br> I will end Kol.<br>  I will avenge you all.<br>  I swear it to you.<br>  Come on, come on, come on.<br>  Yeah.<br> Michael Burnham to Discovery.<br>   Discovery, do you read me?  [phaser powering up.]<br>  [grunting.]<br>  Saru, please, stop.<br>  [groaning.]<br>  [phaser powering up.]<br>  [Saru panting.]<br>  Saru, this isn't you.<br>  [grunting.]<br>  Is this what harmony and balance look like?  Where is the peace you say you found here?  You have taken it from me.<br>  You won't stop taking.<br>  I would give anything  for a second  a millisecond of peace.<br>  But until the war is over, none of us can have it.<br>  Saru, staying here, it's not gonna fix anything.<br>  We have the power to end this conflict.<br>  Saru  we need you.<br>  - You will not take this away from me, too.<br> - [creature chittering.]<br>  [resonant droning.]<br>  [Tyler.]<br> Burnham.<br> You okay?  I am sorry.<br>  I was trying to protect you.<br>  You have to make them all understand.<br>  We were wrong to come here.<br>  Our war is not your mistake to correct.<br>  Please, listen.<br>  Saru told you who we are.<br>  And like you, we seek harmony.<br>  But we face a threat that doesn't share that same goal.<br>  But with your help and our technology,  we can put an end to this conflict.<br>  Isn't that why you exist?  To keep harmony and peace?  You have to help me finish what I've begun.<br>  If the Klingons discover you've helped us, they will hurt you.<br>  Please, don't do this.<br>  [loud thrumming.]<br>  [console chirps.]<br>  [Lorca.]<br> Discovery to landing party.<br>  We have a lock on your coordinates.<br>   - Prepare for transport.<br>  - [Saru.]<br> No.<br>  No, please.<br>  No.<br>  [whimpering.]<br>  [indistinct chatter.]<br>  - Keep it brief.<br> - Thank you.<br>  Saru.<br>  Please, look at me.<br>  [sighs.]<br>  Are you all right?  I lied to you and Lieutenant Tyler.<br>  I attacked you.<br>  I could have killed you.<br>  You weren't yourself.<br>  But I was.<br>  We are born afraid, we Kelpiens.<br>  It's how we survive.<br>  As such,  my whole life,  I have never known a moment without fear.<br>  The freedom of it.<br>  Not one moment.<br>  Until Pahvo.<br>  [in Klingon.]<br> Before her escape, the human confirmed that Discovery  possesses a powerful technology.<br>  Were it replicated, your conquest could reach far beyond  the limits of our empire.<br>  I had hoped for more.<br> You were reckless.<br>  - I was effective.<br> - She got away from you.<br>  Not for long.<br>  General Kol, if you don't see my value,  I will take my leave now.<br> [scoffs.]<br>  [Kol.]<br> Stop!  L'Rell.<br>  [growls.]<br>  [Kol grunts.]<br>  [snarls.]<br>  There will be more prisoners  before this war finds its end.<br>  A skilled interrogator will be crucial  as long as you vow allegiance  to House Kor.<br>  My Lord, I would be honored to serve you.<br>  Did you think I would not see through your deceit?  Show her how House Kor treats liars.<br>  [growling.]<br>  [officer.]<br> My Lord!  We have intercepted a massive signal.<br>  From a planet called Pahvo.<br>  A message?  An invitation.<br>  [Kol.]<br> Set a course for Pahvo.<br>  You said the adjustment to the Pahvan transmitter was a success.<br>  I thought it was, sir.<br>  The Pahvans repaired our signal inhibitor after Saru destroyed it.<br>  I watched it happen.<br>  Mr.<br> Bryce?  The signal strength has increased by a factor of ten to the 12th power.<br>  The music's gone.<br>  All that's being transmitted now is a massive electromagnetic wave.<br>  I don't understand.<br> The Pahvans-  Sir, Specialist Burnham integrated our technology as ordered.<br>  We should now be able to detect any invisible Klingon ships  - within range of the Pahvans' signal.<br> - Apparently not.<br>  Transmitter is sending out a new signal, limited to two subspace bands:  ours and the Klingons'.<br>  What you did, Burnham, was invite the enemy to join us here.<br>  No.<br>  The Pahvans did that.<br>  Their entire existence is an effort to bring harmony to discord.<br>  They know about our conflict.<br> They're trying to bring us together.<br>  - They think they're helping.<br> - [Rhys.]<br> Captain, long-range sensors  have detected an incoming Klingon vessel  - entering the system at high warp.<br> - Can you identify it?  It's the Ship of the Dead, sir.<br> The sarcophagus.<br>  We're the Pahvans' only line of defense.<br>  We have to protect them, sir.<br>  We have to fight.<br>  [resonant thrumming.]<br>  [theme music playing.]<br>  Sync and Corrections by: kDragon     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e07" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e09" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e13 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e13 - What's Past Is Prologue Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e13 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e13"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e13 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e13" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;What's Past Is Prologue</div>
+
+            <h1>Star Trek: Discovery (2017) s01e13 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">What's Past Is Prologue</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			Previously on Star Trek: Discovery  MADDOX: All hail her most Imperial Majesty,  mother of the Fatherland.<br>  All hail the Emperor,  Philippa Georgiou Augustus Iaponius Centaurius.<br>  ALL: All hail the Emperor!  BURNHAM: You're a fugitive wanted for my murder.<br>  You attempted a coup against the Emperor.<br>  Listen to me.<br>  I need you.<br> You need you.<br>  Your Georgiou is dead.<br>  - Just a ghost.<br> - GEORGIOU: Captain Michael Burnham.<br>  You brought us a gift?  BURNHAM: Captain Gabriel Lorca.<br>  CULBER: In his universe,  that Stamets exploited the network for his own gain.<br>  - He's the one who corrupted it.<br> - There's no difference  between his network and our network.<br>  It's just one.<br>  And that's why the damage is spreading.<br>  Eventually, everything everywhere will be exterminated.<br>  There's a clearing  in the forest.<br>  That's how they go.<br> (SHARP CLANK)  I'm sending you the coordinates to the Emperor's ship now.<br>  SARU: I would feel better if Captain Lorca were the one  making this request for a rendezvous.<br>  Trust me, so would I.<br>  -Acknowledged.<br> - We'll see you soon.<br>  You're sensitive to light.<br>  Lorca is sensitive to light, too.<br>  The Lorca I knew was my right hand.<br>  I trusted him with you.<br>  (GRUNTING)  BURNHAM: My so-called captain's not from my universe.<br>  He's from yours.<br>   Star Trek Discovery S01E13  (ORIGINAL STAR TREK THEME PLAYS)  LORCA: One year,  212 days of torture,  of agony, my friends,  my followers.<br>  But I have returned to give meaning to your suffering.<br>  Today is the day we reclaim our empire.<br>  Long live the Empire.<br> Long live the Empire.<br>  Captain?  Welcome back, Commander Landry.<br>  They told us you were dead.<br>  And you believed them?  - Not for a second, sir.<br> - MAN: Sir.<br>  Let's get you geared up.<br>  Sir,  Charon has ten battalions of Imperial guards on station.<br>  I don't know how you got here,  or how you got us all out alive, but we should withdraw, regroup.<br>  We still have supporters on several worlds.<br>  The Emperor's ship is exactly where we need to be.<br>  I have been to another universe and back.<br>  You think I'd come all this way without a plan?  Clear.<br>  Clear.<br>  Stamets is gone.<br>  Coward probably left at the first sign of trouble.<br>  All his research is still here.<br>  I've known more than one Stamets,  and they both have one thing in common:  they love their work too much  to leave any of it behind!  (GASPS)  Hello, Paul.<br>  Gabriel.<br>  I really hoped you were dead.<br>  Well, you can't always get what you want.<br>  Hi, Doc.<br>  Ironically, I have to thank you  for helping me finish what I started.<br>  After you sold me out and ruined our coup attempt,  I was down on Priors World  recruiting allies  when the Emperor caught up with the Buran.<br>  As I beamed back to join the fight, her torpedoes hit.<br>  And luckily, so did an ion storm,  which caused a transporter malfunction.<br>  (CHUCKLES) And  know where I ended up?  Frankly, I'm still stuck on the "not dead" part.<br>  A parallel universe.<br>  The ion storm must have  - swapped your transporter signatures.<br> - Mm.<br>  To me, it was physics  acting as the hand of destiny My destiny.<br>  The bioweapon you were developing for the Emperor  Show it to me.<br>  Happily, sir.<br>  (PEOPLE COUGHING, CHOKING)  Sensors have detected mass casualties  on decks through 17.<br>  He's come back from the grave to stage a revolution,  and that's the best he's got?  If he keeps doing that,  he'll reveal his location; then he's mine.<br>  Emperor, I've seen firsthand how he operates.<br>  He can get inside your head, manipulate you.<br>  You think I don't know that?  He is baiting you.<br> He wants you to come to him.<br>  Let me contact my ship again.<br>  They have no idea they're flying into a battle zone.<br>  Please, Philippa.<br>  I'm not Philippa to you.<br>  But you are right about one thing.<br>  He preyed on my sentiment, my weakness for your face.<br>  It will not happen again.<br>  Take her to the brig.<br>  Your choices have  determined your fate.<br>  No.<br>  (GUARDS SHOUTING)  - They'll find her, Emperor.<br> - Take your men.<br>  Bring Lorca to me alive.<br>  I will kill him myself this time.<br>  SARU: Captain's Log, stardate 1834.<br>2.<br>  Acting Captain Saru recording.<br>  We are en route to the Terran flagship,  having been summoned by Specialist Burnham.<br>  Discovery's spore drive is operational again,  thanks to the full recovery  of our navigator, Lieutenant Stamets.<br>  Yet, despite his best efforts, the lieutenant was unable  to save Discovery's mycelium crop.<br>  His fear is that his Terran counterpart  has already contaminated the network,  and if so, the results could be catastrophic.<br>  What is it that you wish to show me, Lieutenant?  We have less than 30 minutes before  we reach the Terran vessel.<br>  STAMETS: Airiam flagged it A massive energy signature  coming off the central orb.<br>  It's mycelial.<br>  This is what my counterpart has been using his mycelium for.<br>  It powers their ship.<br>  - As it does ours.<br> -TILLY: Not exactly.<br>  We ride along the network  with the spores.<br>  That orb is pulling power directly out of the network.<br>  But I thought the network could regenerate itself.<br>  Typically it does, but  this process is poisoning it,  spreading infection back up into the system.<br>  Without a fresh supply of spores, it'll only get worse.<br>  The Terrans must be aware of this flaw; it's not sustainable.<br>  STAMETS: I don't think sustainability  is their main objective, but it does provide them  with far more energy than I ever thought possible  Enough to run their city-sized ship  and power weapons that can destroy a planet.<br>  As they did on Harlak.<br>  How can a people be so shortsighted?  Well, the Terrans are egotistical enough to believe  that they can replenish this resource before it collapses.<br>  The other Stamets must have been looking for a solution  when he got trapped in the network with me.<br>  If we don't stop them soon,  the contamination will be irreversible.<br>  The network will  continue to deteriorate everywhere.<br>  Here, in this universe,  back in ours, across the entire multiverse.<br>  And when it does  Life, as we know it, will cease to exist.<br>  Take this shipwide.<br>  (CONSOLE BEEPS)  Hello, Philippa.<br>  (OVER COMM): I've watched for years;  you let alien races spill over the borders,  flourish in our backyard,  then have the gall to incite rebellion.<br>  The Terrans need a leader  who will preserve our way of life, our race.<br>  Try as you might, it's clearly not you.<br>  Even Michael knew that.<br>  It was her great shame.<br>  Well, it's indecorous of me to share pillow talk.<br>  To the rest, many of you know me.<br>  Some of you served with me.<br>  To all, I make this offer:  renounce Georgiou.<br>  The Empire is dying in her hands.<br>  But you don't have to Not today.<br>  Michael Burnham is not to be touched.<br>  She is integral to our future plans,  a future where we together  will make the Empire glorious again.<br>  Got him.<br> He's in the main labs.<br>  Lorca does not control this ship.<br>  I do.<br>  We take the fight to him.<br>  ALL: All hail the Emperor!  (FOOTSTEPS ECHOING)  (WEAPON POWERS UP)  (WEAPONS POWER UP)  MIRROR OWOSEKUN: Don't shoot.<br>  (WEAPON POWERS DOWN)  Where are your troops, Commander?  We were ambushed.<br>  How did you survive?  Lorca spared me.<br>  He said he wanted you to know  Know what?  That he was here.<br>  (WEAPONS POWER UP)  Hello, Pippa.<br>  Did you miss me?  (WEAPONS POWER UP)  (GRUNTING)  Light her up.<br>  Mr.<br> Stamets?  Containment field at 30%.<br> 25%.<br>  Five, four, three, two.<br>  It's down!  Flash grenade! Cover, cover!  (SHOUTING)  Emergency transport!  You didn't warn me  she could do that, Mr.<br> Stamets.<br>  Please tell me we can kill him now.<br>  Well, that depends if he can disable  an emergency transport system.<br>  I can.<br>  I can do that.<br> (BEEPING)  Good.<br>  Set up a perimeter around the throne room.<br>  Let's tighten the noose.<br>  Burnham to Discovery.<br> Do you copy?  Come in, Discovery.<br>  (STATIC CRACKLES)  (BEEPING)  Burnham to Discovery.<br> Do you copy?  Come in.<br>  (STATIC CRACKLING)  Discovery, do you copy?  Come in.<br>  Please come in.<br>  (BEEPING)  Discovery here.<br>  We are receiving you.<br>  (EXHALES)  It's good to see you, Saru.<br>  You as well, my friend.<br>  It appears your situation has become dire.<br>  Is the captain with you?  He's one of them.<br> He's Terran.<br>  He used us and the Discovery to jump here, to his own universe.<br>  It was his plan all along.<br>  SARU: That's impossible.<br>  Surely, we would have sensed something.<br> I would have.<br>  That's why we didn't end up at Starbase 46.<br>  Lorca altered the coordinates of my last jump.<br>  How?  He-he got the data he needed from those jumps I did  around the Klingon ship.<br>  Then all that was left was to access  navigation control.<br>  And he can do that from his chair.<br>  Lorca's staging a coup against the Emperor.<br>  You have to abort coming to the palace ship.<br>  Get as far away as you can.<br>  I will not consider leaving you behind.<br>  Saru, he has no need for our crew.<br>  He will kill all of you.<br>  He might take Discovery back to our universe  and bring the whole Terran fleet with him.<br>  Not if the Terrans have wiped out all life already.<br>  They have created a super-mycelial reactor  on the Charon, and it's destroying the network.<br>  When it goes, it takes all life with it, in all universes.<br>  How do we stop it?  Lieutenant Stamets believes a direct hit  from our photon torpedoes on their energy orb  would create a detonation large enough to sever  the reactor's connection and  allow the network to heal itself.<br>  We're running simulations to account for energy dispersal.<br>  But?  There's a containment field protecting the orb.<br>  Our weapons can't penetrate it.<br>  Leave the containment field to me.<br>  Stay at warp, so you can't be boarded,  and I'll find a way to signal you when I'm in place.<br>  Be ready to blow up the reactor when I do.<br>  Burnham out.<br>  Believe in destiny now, Mr.<br> Stamets?  That's, uh, rhetorical, right?  Your lack of vision continues to disappoint me.<br>  I used to suffer from that, too.<br>  But nothing that's happened to me was an accident.<br>  Not ending up in another world,  not finding a ship that would help me return here.<br>  None of it.<br>  I'm living proof  that fate is real.<br>  Speaking of which,  we've reached the tipping point, where your usefulness to me  is outweighed by the risk of keeping you alive.<br>  I mean, how am I ever gonna trust you?  Honestly.<br>  (BEEPING)  The living core of the mycelial network.<br>  It's poetic justice, don't you think?  A scientist destroyed by his own creation?  Just kidding.<br>  I hate poetry.<br>  (COMM CHIRPING)  Sir, I'm getting word of an unauthorized  ship-to-ship transmission.<br>  That'll be my Burnham.<br>  LORCA: Hello, Michael.<br>  Judging from your communications hack,  you're somewhere on the third deck  Where, precisely, I can't tell.<br>  But no matter, I'm not gonna hunt you down.<br>  I'll wait for you to come to me.<br>  What makes you think I'd do that?  Because you belong here.<br>  With you?  In the real world.<br>  I know that's hard for you to see right now  because you're blinded by your emotions.<br>  The only thing I was blinded by was you.<br>  I know you understand that I had to lie to you, Michael,  to get home.<br>  Just like you know that the Federation is  a social experiment doomed to failure.<br>  Childish idealism.<br>  Every species, every choice, every opinion is not equal,  no matter how much they want it to be.<br>  The strong and the capable will always rise.<br>  Like you and me.<br>  And every living being is safer and happier  knowing their place.<br>  That's why we have a duty to lead.<br>  Like what you did that day at the Binaries.<br>  Stay with me.<br>  Stay here and help me bring peace to this world  through strength and order, the right way.<br>  There was no one else like the other you.<br>  And what she and I set out to achieve  was gonna be remarkable.<br>  And then I met you.<br>  And the truth is your gifts  far surpass hers.<br>  I see you, Michael Burnham.<br>  I see your power.<br>  And I'm offering you a future.<br>  I have since the day I brought you onto the Discovery.<br>  Take it.<br>  (SIGHS)  She rerouted the feed and disabled the carrier address.<br>  She could be anywhere.<br>  She'll come.<br>  (FOOTSTEPS APPROACHING)  (WEAPON POWERS UP)  (WEAPON POWERS DOWN)  How did you find me?  My bracelet makes my life signs undetectable.<br>  (SIGHS)  This is your sanctuary.<br>  Considering the situation, it made sense you'd come here.<br>  I should have known.<br>  Lorca seduced you, too.<br>  Why would you say that?  He broadcast for everyone to hear.<br>  Why else would he protect you?  Lorca believes destiny brought me to him.<br>  But he doesn't get to tell me what my future is.<br>  I'm responsible for forging my own path.<br>  We all are.<br>  My Philippa taught me that.<br>  This  belonged to my Michael.<br>  Now Lorca has taken everything from me.<br>  You lost a daughter.<br>  An empire.<br>  I lost a captain.<br>  And a life.<br>  Both versions of me betrayed both versions of you.<br>  I won't let that happen again.<br>  And I won't let you die again.<br>  So that's what happened to me on your side.<br>  I'm gonna stop Lorca.<br>  I see why he's so enamored with you.<br>  You almost make me believe you can do it.<br>  I will do it.<br>  For what he's done to me.<br>  For what he's done to all the innocent people  who have stood in his way.<br>  And for the loss of life to come if no one stops him here  today.<br>  What is your plan?  I have to disable the orb's containment field.<br>  Those controls are in the throne room.<br>  How will you get to them?  By giving Lorca exactly what he wants.<br>  STAMETS: We have a problem.<br>  We knew the orb harnessed exotic energy  by blocking the flow of the network,  but we didn't know that all those  mycelial spores packed in together  created hyper-gravitational and magnetic fields, too.<br>  TILLY: Even a blast from our photon torpedoes  won't be enough to free it.<br>  Well, then we'll have to create a chain reaction,  overload it with potential energy.<br>  What do we have that harnesses that kind of power?  Uh, our harvested spores.<br>  They hold enough energy to power us across galaxies.<br>  We-we should modify our warheads by loading them up.<br>  And how much of our spore supply would we need to use?  All of it.<br>  We won't be able to jump back home.<br>  We need to get in close for a clear shot.<br>  The orb is in the heart of that superstructure.<br>  I don't think we could outmaneuver  a blast like that if we're that close.<br>  TILLY: Um, I just ran the simulations.<br>  Discovery's shields aren't strong enough to protect us  from the energy wave that will be released  when the network is freed.<br>  The shock wave will incinerate us.<br>  I don't think we can make it out alive.<br>  (CLICKS)  It is well known  that my species has the ability to sense the coming of death.<br>  I do not sense it today.<br>  I may not have all the answers;  however, I do know that I am surrounded  by a team I trust.<br>  The finest a captain could ever hope to command.<br>  Lorca abused our idealism.<br>  And make no mistake,  Discovery is no longer Lorca's.<br>  She is ours.<br>  And today  will be her maiden voyage.<br>  We have a duty to perform,  and we will not accept a no-win scenario.<br>  You have your orders.<br>  On your way.<br>  CREW: Aye, Captain.<br>  We've executed her lords and senior officers, sir.<br>  The rest of the crew are swearing allegiance to you.<br>  Good.<br>  I was just thinking about everyone who's ever said that  victory felt empty when it was attained.<br>  What a bunch of idiots they were.<br>  (LAUGHS)  (COMM CHIRPING)  She's here.<br>  LORCA: Michael.<br>  What's this about?  I won't let another crew die on my watch, Gabriel.<br>  (GRUNTS)  I've been here long enough to know  that if you want your claim to the throne to be legitimate,  you have to execute the Emperor.<br>  And you're prepared to condemn Philippa here to death?  What you said on the shuttle yesterday  was right She's not my Philippa.<br>  LORCA: That's very Terran of you.<br>  But you and I both know that I have her now.<br>  What are you really bargaining with?  I think you know.<br>  In exchange for my crew, I offer you me.<br>  Let them leave safely and I'm yours.<br>  Like you said,  my future is here.<br>  BUT KNOW THIS:  I'm offering you my mind, nothing more.<br>  Until you've completely settled in  I'm sure you understand.<br>  Well  it looks like you are destined to be betrayed  by Burnhams in every universe.<br>  No.<br>  I'm destined to kill you.<br>  Wow.<br> That would certainly be an impressive trick.<br>  (CHUCKLES)  (LAUGHTER)  Welcome home, Michael.<br>  (BEEPING)  Captain was right.<br>  What about?  "Do not accept a no-win scenario.<br> "  They're may be a way out of this after all.<br>  I've reanalyzed the simulations.<br>  Now, if we blow the reactor core,  the resulting explosion will be  pure mycelial energy, right?  Right.<br> Right.<br>  But not just an explosion.<br>  According to this,  the mother of mycelial shockwaves.<br>  If we can stay right on the leading edge, we can ride it  long enough for the energy to activate the drive,  and then you can navigate us home.<br>  But, um  the ship's shields still aren't strong enough to protect us,  unless we modify  the spore drive to run concurrently  with the warp drive.<br>  The resulting warp bubble may provide  a secondary layer of protection.<br>  A shield from the blast.<br>  If I reverse engineer the coordinates  that Lorca used to get us here,  I should be able to pinpoint the-the right pathway to take.<br>  And-and that will get us to the same point in our timeline.<br>  Or at least close to it.<br>  There will be infinite pathways opening up in front of you.<br>  That-that's gonna be really  "Hard" is the word you're looking for?  But I don't accept no-win scenarios.<br>  Thank you for your inspiration, Cadet.<br>  Now, please.<br>  Inform the captain of your findings.<br>  Looks like we may be going home after all.<br>  BRYCE: Message from the Charo sir.<br>  We're advised that it's safe to drop out of warp.<br>  The message has Burnham's security code on it.<br>  Lieutenant Detmer,  - drop us out of warp.<br> - Yes, Captain.<br>  (COMM CHIRPING)  Captain, we're being hailed.<br>  It's Lorca, sir.<br>  On screen.<br>  Mr.<br> Saru.<br>  It's good to see you.<br>  I'm glad I got a chance to say good-bye to you,  and the rest of the crew.<br>  I want you to know that my admiration for you  was and is sincere.<br>  When I look at you,  I see the formidable unit of soldiers that I sculpted.<br>  If I thought for a second that any of you were capable  of relinquishing this cult-like devotion to the Federation,  I'd enlist your skills today.<br>  SARU: We are not interested in your sentiments.<br>  Where is Specialist Burnham?  She's fine.<br>  You don't die today  'cause she chose to stay by my side.<br>  I would like to hear that from her.<br>  You are not a reliable source.<br>  I'm where I need to be, Saru.<br>  This is my place.<br>  That is all I needed to see.<br>  Fire!  Owosekun, keep your eye on that containment field.<br>  - Aye, Captain.<br> - Detmer, get ready  to give Rhys a clear shot.<br>  - Yes, sir.<br> - SARU: Let's go, people.<br>  (GASPS)  (SHOUTING)  Wait.<br>  Stop!  Don't make me have to kill you.<br>  You won't.<br>  (WEAPON POWERS UP)  We would've helped you get home if you had asked.<br>  That's who Starfleet is.<br>  That's who I am.<br>  That's why I won't kill you now.<br>  GEORGIOU: But I will!  (GROANS)  (WEAKLY): We  We could've  (GRUNTS)  (GRUNTS)  (DISTORTED SCREAMING)  It was a good plan.<br>  Burnham did it.<br>  The containment field is down.<br>  Beam her back now.<br>  I can't get a lock, Captain.<br>  I'm working on it.<br> Work faster.<br>  You fought well.<br>  For a moment  I thought I had her back with me.<br>  (BANGING ON DOOR, MEN SHOUTING)  Lorca's troops.<br>  I will buy you some time.<br>  I am a defeated emperor.<br>  They've seen my neck.<br>  I have no future now.<br>  But I will die on my feet as fitting my station.<br>  Go, Michael Burnham.<br>  Find a way home.<br>  Live.<br>  Burnham to Discovery.<br>  I've got her.<br> Get her out of there now.<br>  She's on board.<br>  - Black alert.<br> - Aye, Captain.<br>  COMPUTER: Black alert.<br> Black alert.<br>  (GRUNTS)  (ALARM WAILING)  Lock weapons onto that ship!  The Terran ship is targeting us, sir.<br>  It's now or never, Lieutenant Detmer.<br>  Aye, Captain.<br>  What the hell are they doing?  Is the containment field up?  Locked on, Captain.<br> Fire, Mr.<br> Rhys!  Aye, sir.<br>  Warp speed now!  Yes, sir.<br>  Ambient mycelial energy is interacting with the drive.<br>  (LOUD RUMBLING)  - Cadet Tilly? - Levels look good.<br>  Engage the spore drive now.<br>  Aye, Captain.<br>  (WHOOSHING, CRACKLING)  STAMETS: It's working.<br>  The network is regenerating.<br>  (GRUNTING)  (LOUD RUMBLING CONTINUES)  Heat shields at maximum.<br>  STAMETS: The pathways are  bifurcating too quickly.<br>  I don't know where to go.<br>  CULBER: The network is a gift.<br>  It's the thread that weaves life through space.<br>  I can't even find my way out.<br>  (EXHALES)  Follow the music, Paul.<br>  Open your eyes.<br>  (EXHALES SLOWLY)  Wait.<br>  It's the clearing in the forest.<br>  Thanks, Hugh.<br>  (CRACKLING)  (EXHALES)  (SPORES CRACKLING, TINKLING)  STAMETS: Tilly.<br>  Reboot the system and find out where we are.<br>  And when.<br>  (BEEPING)  What have you done to me?  Captain, celestial patterns and subatomic analysis confirm  we are in our Alpha Quadrant.<br>  Oh.<br> But  we overshot by nine months.<br>  (CLICKS)  Mr.<br> Bryce.<br>  Send a transmission to Starfleet.<br>  Inform them we have returned.<br>  Aye, Captain.<br>  Mr.<br> Rhys.<br>  Update our tactical map.<br>  - I need to see the status of the war.<br> - Aye, sir.<br>  BRYCE: Captain, there's no response  from the Federation to our signal.<br>  Not even an automated one.<br>  What does that mean?  RHYS: War map on screen, Captain.<br>  SARU: Well, if the map is to be believed,  it appears  the Klingons have won the war.<br>     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e12" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e14" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

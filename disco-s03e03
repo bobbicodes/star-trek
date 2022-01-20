@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e03 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e03 - People of Earth Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e03 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e03"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e03 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e03" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;People of Earth</div>
+
+            <h1>Star Trek: Discovery (2017) s03e03 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">People of Earth</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			 Previously on Star Trek: Discovery  Identify spacetime location.<br>  You have reached year 3188.<br>  It was not my intention to crash into your ship.<br>  I am sorry.<br>  You ever gonna tell me your name?  My name's Book.<br>  The Federation is gone?  - What happened? - It collapsed, I guess.<br>  - After The Burn.<br> - What's The Burn?  Dilithium.<br> One day, most of it just went boom.<br>  The thing is,  you got no authority here,  whereas The Burn was the best thing that ever happened to me.<br>  All that matters now is dilithium.<br>  Welcome to Starfleet.<br>  I need to locate the warp signature of a starship  with the identifier NCC1031.<br>  Something is coming toward us; something big.<br>  Enemy vessel, right on top of us.<br>  And we're being hailed.<br>  Open a channel, Mr.<br> Bryce.<br>  Saru!  I landed here a year ago.<br>  I've been waiting for all of you all this time.<br>  Personal log, Commander Michael Burnham,  stardate 865211.<br>3.<br>  Automatic transmission to USS Discovery,  wherever or whenever it might be.<br>  I'm sending this message because you need to know  what I've learned here.<br>  I hope that, by some miracle, you'll receive it someday.<br>  700 years after we left, dilithium supplies dried up.<br>  The Federation tried alternative warp drive designs,  but none proved reliable.<br>  Then came The Burn.<br>  No one knows how or why it happened,  but in an instant, all dilithium went inert.<br>  Any ship with an active warp core detonated.<br>  The Federation as we know it disappeared overnight.<br>  It's now just a shadow of its former self.<br>  We didn't give everything for this version of the future,  and I'll be damned if I let it stand.<br>  I've become a courier.<br>  I transport goods in exchange for dilithium  to keep exploring, sector by sector,  searching for clues as to what caused The Burn,  answers that might help to bring the Federation together again.<br>  Wherever I go, I look for you, my friends.<br>  I listen for any sign of your arrival,  but communication remains severely limited.<br>  Even if I did find you, I know it would be different,  because I am different.<br>  But I will always love you,  but I've had to accept I may never see you again.<br>  You can love someone and still let them go.<br>  It feels like a dream, this world.<br>  A strange, terrible, beautiful dream.<br>  Combat simulation complete.<br>  Luckily, I'm not alone on this journey.<br>  I found a friend in the true sense of the word.<br>  This is my life now, and I.<br>.<br>  I cannot imagine what this year has been for you.<br>  I couldn't have imagined it, either.<br>  How is everyone?  Grateful for each other.<br>  They are finding ways to grasp  the enormity of what we have done.<br>  Some more successful than others.<br>  And you?  How are you?  Kelpiens have always had a deep understanding of fear and loss.<br>  Perhaps that prepared me for this.<br>  I do not like to think that you were alone all this time.<br>  Well, the ship that pulled you out of the ice belongs to a friend.<br>  He's a courier, and we work together sometimes.<br>  You have been a courier?  It was the only way to scrounge up any information.<br>  I sent a transmission to Terralysium.<br>  It took months to get a response.<br>  And they had never heard of my mom.<br>  I promised Book some dilithium for getting me here.<br>  - Book? - Oh, Cleveland Booker.<br> My friend.<br>  Is he from Earth?  No.<br> But it's the name, right?  There has to be a story there.<br> I haven't gotten it out of him yet.<br>  Well, we will honor your arrangement, of course.<br>  And I will offer Mr.<br> Booker my sincerest appreciation.<br>  Welcome back, Commander.<br>  Nobody knows if The Burn was an accident  or a natural disaster.<br>  But it appears that devastation  flashed in an instant across all known space.<br>  That's impossible.<br>  Nothing could affect all dilithium all at once.<br>  Says a man who jumps a starship through mushroom space.<br>  How many?  How many died?  Millions.<br>  I wish I could tell you how much of the Federation remains.<br>  But I did find part of a transmission  - from an obsolete Starfleet channel.<br> Bryce? - Aye.<br>  This is Admiral Senna Tal.<br>  I will wait for any who would join us on Earth,  anyone who still believes in us.<br>  The Federation lives on.<br> But we need  - Is he at Starfleet headquarters? - Not sure.<br>  That message was 12 years ago.<br>  And Earth was always too far away for me to reach.<br>  But now with the spore drive, we can get there.<br>  We will find Admiral Tal and help him begin the process.<br>  We should jump to outside of Earth's scanning range.<br>  Pose as a starship that was stranded by The Burn,  trying to head home at sub light speed.<br>  I see your little walkabout has taught you a thing or two.<br>  I like that.<br>  It is a wise strategy.<br>  So, um, shall I go?  Commander Burnham,  I believe we are due for a conversation.<br>  - Perhaps we should - Oh, no, no, no, no, no.<br> There's no need.<br>  - But we agreed to discuss - No, it it's  it's you, Saru.<br>  Uh  And chain of command dictates it.<br>  I don't know if it's ever been me.<br>  You brought this ship through time.<br>  You carried this crew on your shoulders.<br>  You are a captain in the truest sense of the word.<br>  It would be my honor.<br>  This ship bears the name Discovery.<br>  Never has that been more fitting or more prescient.<br>  She has carried us into the future,  and it will be our privilege  to make that future bright.<br>  Let us begin.<br>  Together.<br>  Aye, Captain.<br>  Attention, all personnel.<br>  Lock down drills for Deck 7  have been canceled until further notice.<br>  You okay?  We haven't even had a chance to say goodbye  to the friends we've lost.<br>  Not to mention   my mom.<br>  My cousins, my everybody back home.<br> I mean,  w what, they got breakfast, they  were late for work, t they had kids.<br>  I mean, they had whole lives.<br>  And they're gone.<br>  No, they've been gone for centuries.<br>  I keep thinking there has got to be something on Earth  that we'll recognize, right?  I don't know, the Gateway Arch, maybe? Uh  The Giza pyramids?  Homemade hummingbird cake?  Cake is eternal.<br>  Cake is eternal.<br>  I always knew that I would see you again.<br>  Yeah, I keep having this, like, image of you.<br>  You're, like, holding a dandelion,  and you blow on it,  and the seeds, they go.<br>  You let us go, didn't you?  It's okay.<br>  Ah, time travel, man.<br>  - Yeah.<br> - Ooh.<br>  Look, I may not know you,  but, like, I know you.<br>  Okay? So whatever.<br> I love your hair.<br>  Thank you.<br>  You do seem, like lighter.<br>  Somehow.<br>  - Hmm.<br> - Ensign Tilly,  I'm still waiting for that recalibration kit.<br>  - Well, some things never change.<br> - Yeah.<br>  Go.<br> I have to meet someone anyways.<br>  Okay.<br>  Welcome aboard.<br>  You're not Detmer.<br>  - Or Tilly.<br> - I'd rather kill myself.<br>  You're Philippa Georgiou.<br>  Michael warned me about you.<br>  Did you listen?  Apparently not enough.<br>  Is there a reason we're having this conversation?  I like to see who's come aboard my ship  - after gallivanting through space with Michael.<br> - "Gallivanting.<br> "  If only I'd known.<br> Where is she?  Your girlfriend?  She's not my girlfriend.<br>  No, really.<br>  She's not We didn't have  Nope, nope.<br>  We're not talking about this.<br>  Answer my question.<br>  In another world, I might have said  Michael is somewhere being earnest and doing the right thing.<br>  In this one  I'm not so sure.<br>  My, oh, my.<br> Oh, my, oh, my.<br>  If they could see what I'm seeing.<br>  - Who? - Who?  - Any of them.<br> - Wow.<br>  Come on, you could run a sector.<br>  Two sectors.<br>  A dozen, even.<br>  You brought me back.<br>  Is it weird to say I knew you would?  No.<br>  'Cause you'd have done the same thing.<br>  Does it feel like home?  It's familiar, but, um  far away.<br>  Do you feel like you owe these folks something?  'Cause if you do, you know, that's fine.<br>  But remember  you already jumped through a wormhole.<br>  Someone's eventually going to find out about this stash you have.<br>  Yeah.<br> Discovery will be a target.<br>  You, too.<br>  You pissed off some scary people.<br>  - You helped.<br> - Thank you.<br>  Is there anyone here we could piss off?  You could come with us.<br> To Earth.<br>  So we can piss off an entire planet?  Just the opposite.<br> You'd be safe.<br>  No one will find you out that far.<br>  I believe in what I do, Michael.<br>  I can't just give it up.<br>  There could be more Tranceworms out there in need of your help.<br>  Bollocks.<br> I mean,  yeah, there might be, but  - Clean slate.<br> - Ah.<br>  What do you get out of the deal?  We could use your help masking all that dilithium.<br>  "We" as in Discovery.<br>  What "we" are you really talking about?  Shush.<br>  I learned by now it's a lost cause trying to say no to you.<br>  I've never been to Earth.<br>  I've never been to this one.<br>  Book's ship can cloak our dilithium It's the safest choice.<br>  I cannot place our entire dilithium supply  into the hands of a stranger.<br>  We don't have another option, Captain.<br>  I must admit, Commander,  I am having some difficulty trusting your judgment.<br>  I am grateful for your support of my captaincy.<br>  But your refusal to even consider the possibility  surprised me.<br>  This past year has altered your perspective.<br>  I'm the same person, Saru.<br>  And I'm not.<br>  As I am now responsible for every life on this ship,  and as I had intended to offer you  the position as my Number One  I must insist you explain.<br>  Everything that we dedicated our lives to disappeared into madness.<br>  We thought we could imagine a future,  and it turns out we were wrong.<br>  I adapted.<br>  And I did what I had to to learn as much as I could  about what happened and why.<br>  I just need some time.<br>  Book's ship can stay in the shuttle bay  as long as it has our dilithium.<br>  It will remain under guard.<br>  And he will not be permitted to board it until we reach Earth  and the dilithium has been safely removed.<br>  Prepare to jump to Earth.<br>  Auxiliary power systems and primary computer systems are online.<br>  Impulse engines online.<br>  Weapons systems fully operational.<br>  Communications online.<br>  Warp core stable and functional but powered down.<br>  Welcome to the bridge, Mr.<br> Booker.<br>  And thank you for bringing Commander Burnham home to us.<br>  Commander Stamets, status report?  Spore drive is online, and ready to go, Captain.<br>  Black alert, please.<br>  Oh, shit.<br>  Hey, you didn't tell me about the spinning part.<br> Huh?  Coordinates relative to galactic core confirmed.<br>  Initiating multiphasic scans and updating astrometric data.<br>  Approaching visual range, sir.<br>  There she is.<br>  Increase magnification, please.<br>  Mr.<br> Rhys, what are those arrays?  They seem to be some form of advanced force field generators.<br>  Uh, sir, two vessels approaching from Earth's orbit.<br>  They do not bear Starfleet registries.<br>  Shields up, red alert.<br>  Sir, we're being hailed.<br>  Put them through.<br>  A view screen.<br> How quaint.<br>  I am Captain Ndoye of the United Earth Defense Force.<br>  Your vessel has violated regulations C1922  and F031 of the U.<br>E.<br> charter by reaching Earth's perimeter.<br>  Leave immediately.<br> You are not welcome here.<br>  I am Captain Saru of the USS Discovery.<br>  We are a Starfleet vessel  and unfamiliar with the United Earth Defense Force.<br>  Are you a branch of the Federation?  Your ship is not in our records.<br>  Discovery was on a long-term,  classified scientific expedition.<br>  We are the descendants of its original crew.<br>  And you've continued to function as a Starfleet vessel?  We have.<br>  We wish to contact a Starfleet officer  whose message we received.<br>  Earth was its point of origin.<br>  Your vessel's configuration and metallurgy  suggest 23rd to 25th-century construction.<br>  I find it quite odd that it remains in service.<br>  There is no need to replace that which is not broken.<br>  How did your ship survive The Burn?  It was not at warp at the time.<br>  For us to consider your request,  your ship and crew will undergo a mandatory inspection.<br>  Any evidence of piracy will be dealt with severely.<br>  Piracy?  Very well, Captain Ndoye.<br>  We will prepare for your arrival.<br>  We are beaming aboard now.<br>  Don't move.<br>  Hey.<br> What the hell is this?  Don't touch that! Excuse me.<br> Hey!  Who are you?  Put these on.<br>  - Why? - They're searching the ship.<br>  If anyone is not in full uniform,  they'll be suspect.<br> They could be arrested.<br>  I see Earth's about as tolerant as anyplace else.<br>  What is this? Ah, whatever.<br>  - You're "Lieutenant Booker" now.<br> - Aye, aye, Commander.<br>  One "aye.<br> " We're not pirates.<br>  Remember that time when I had to wade through that bog on Ikasu  - to pull those leeches off you? - Yes.<br>  - When we saved each other.<br> - Nope.<br>  - I saved you.<br> And this is worse than the bog.<br> - Oh  Attention, all Discovery crew members.<br>  We are undergoing inspection.<br>  Your cooperation is expected.<br> Thank you.<br>  Okay.<br> Go on.<br>  Mm-hmm.<br>  Just a uniform.<br>  No, it isn't.<br>  Oh.<br>  You've been playing the long game this whole time.<br>  To get you to join Starfleet?  To see me in this outfit.<br>  Look, you will be in your own clothes  and on your own ship and petting your fat cat in no time.<br>  How many times have I told you?  - She's a que - She's a queen.<br>  - Oh, you funny.<br> - I am.<br>  - Yeah.<br> - After you, Lieutenant Booker.<br>  Aye, Commander Burnham.<br>  I'll go blend in.<br>  Seriously? Admiral?  I had to make it believable.<br>  You don't look so thrilled to be back in uniform yourself.<br>  I just forgot what it felt like.<br>  Mm, once you've grown used to living by your own rules,  it's not so easy to follow other people's, is it?  Why are you still on Discovery, Philippa?  Why are you?  I see it in your eyes, Michael.<br>  You've tasted freedom that you never even thought was possible.<br>  Freedom from the obligations of what others needed you to be.<br>  I'm not sure you ever knew who you really were  without someone else to tell you.<br>  But you're starting to.<br>  And this place no longer feels like your place.<br>  Am I getting warm?  Commander Burnham to the ready room.<br>  We believed Earth would be a safe harbor, a  a place where we would feel welcome.<br>  But we arrived to find you suspicious  of a starship that hails from your own planet?  May I ask what you are defending yourselves from?  Everyone lost someone to The Burn.<br>  We had to focus on what we still had: our planet.<br>  We rebuilt Earth to be self-sustainable  all while being under near-constant siege by dilithium raiders.<br>  The most recent wave is led by a tenacious individual named Wen.<br>  He is relentless.<br>  Targeting our ships.<br>  He would take our dilithium at any cost.<br>  I assure you we have no ties with this Wen  or any other raiders.<br>  Many of our crew consider Earth their ancestral home.<br>  Yes.<br> Captain, all we want is to check in with Starfleet Command.<br>  You have been away a long time.<br>  I'm afraid you won't find what you're looking for here.<br>  The Federation and Starfleet haven't been on Earth for a hundred years.<br>  Where have they gone?  No one knows.<br>  Most of the ships destroyed in The Burn were Federation.<br>  No one knew if it was an attack  and, if so, whether it would happen again.<br>  Having Federation headquarters on Earth made it a potential target.<br>  I do not understand.<br>  Earth is no longer part of the Federation?  Why should we be? We can take care of ourselves.<br>  What about the Starfleet officer  who sent the transmission I received?  That was just 12 years ago.<br>  What was the name?  Admiral Senna Tal.<br>  Admiral Tal was on Earth.<br>  But he died on an outbound ship two years ago.<br>  Its destination isn't listed.<br>  I'm sorry.<br>  Ah!  Hey! That's highly sensitive.<br>  Stand back.<br>  Is this how it's gonna be everywhere we go?  I thought at least Earth would feel like home.<br>  - You're not listening to me.<br> - What are you doing?  Don't touch that.<br>  Why is that cube connected to your vessel's bridge controls?  This is a science research vessel.<br>  I'm an astromycologist.<br>  I use the cube for controlled spore reactions,  which requires coordination with the bridge.<br>  This science vessel's practically a museum.<br>  Okay, well, museums are cool, so  That's what someone who lives in a museum would say.<br>  - I don't live in a museum.<br> - How old are you?  - 17? - 16.<br>  Would you please remove your 16-year-old fingers from my life's work?  - What did I just say? - This is an interface of some kind.<br>  Okay, we get it.<br> You're smart.<br> Everybody here is smart!  Adira.<br> Our job is to inspect, not engage.<br>  We're done here.<br>  - Report.<br> - Five unidentified vessels incoming.<br>  They're powering up advanced phasers of some kind.<br>  Those are Wen's ships.<br>  His raiders are always scanning for targets.<br>  - They're hailing us, sir.<br> - Do not respond.<br>  Dialogue is an effective strategy.<br>  We know our enemy.<br> Do not respond.<br>  You have no jurisdiction on my bridge.<br>  Put them through, Mr.<br> Bryce.<br>  Federation vessel.<br>  - Surrender your dilithium immediately.<br> - Scan us.<br>  We have no dilithium on board.<br>  The speed with which you appeared in sensor range  tells me something else.<br>  Surrender, or we will take what we need by force.<br>  Your request to visit Earth is denied.<br>  Leave orbit immediately.<br> We'll deal with Wen ourselves.<br>  Inspectors, this is Captain Ndoye.<br>  Cease all activities and return.<br>  Sir, we can't.<br>  - Something is interfering with our transport.<br> - What?  - This is sabotage.<br> - We are a Starfleet vessel  and would never utilize sabotage against the Federation's home planet.<br>  We will find the cause of the transporter interference and handle Wen.<br>  His fight is with us, not you.<br>  Then take that fight away from our orbit,  or we'll shoot them out of the sky,  and you will have started a war in the name of Starfleet.<br>  Tell me you saved the day.<br>  I have a plan.<br>  - Yes.<br> - Remember Donatu Seven?  - No.<br> - You do so.<br>  Yes.<br> Okay.<br>  But I'm trying to forget.<br>  Well, we need to get to your ship.<br>  Unless you want to keep brooding into your synthehol  - Synthehol? - Mmm.<br>  Damn.<br>  And here I am, trying to get a buzz on  and reach a place of existential despair.<br>  - You coming? - Yes.<br> I'm worried about my cat.<br>  Don't you have to ask for permission?  I'll apologize after.<br>  Okay.<br> Donatu Seven.<br>  I'm sober.<br> Maybe it'll work this time.<br>  You're right.<br>  - That's not our tech.<br> - Okay.<br>  it's accessing our deflector shield systems.<br>  Which is allowing it to block the beaming frequencies  of the inspectors' personal transporters.<br>  And there's a fail-safe, so if we try to disable it,  our shield systems will shut down, too.<br>  It's gonna take hours to find a workaround.<br>  I knew that tween menace was up to something.<br>  And she did this while we were yelling at her.<br>  She's not even a tween menace.<br> She's a frigging' teen genius.<br>  I mean, I was an engineering whiz when I was her age, trust me,  but this would require knowledge of the inner workings  of a 900-year-old starship.<br>  And she identified that our bridge controls  are connected to the spore cube with barely a glance.<br>  I think she was watching the others to make sure  that they weren't watching her.<br>  She must have been working alone.<br>  But what's the point in sabotaging our ship?  She's just trapping her own people on board.<br>  Maybe she was buying herself some time?  How do you get a teen genius to fess up?  Give her some of your weird mushrooms.<br>  Who are you?  I'm sorry, sir.<br>  The raider vessels aren't responding to our hails.<br>  I'm detecting an unauthorized departure from the shuttle bay.<br>  It's Booker's ship.<br>  It's no longer cloaked.<br>  There are two humanoid life signs on board and  Go ahead, Lieutenant.<br>  They have our dilithium.<br>  Dilithium?  The future looks darker and darker for you.<br>  Captain Ndoye, I said I would handle Wen,  and I intend to do so.<br>  Burnham is on that ship, with Booker.<br> Lieutenant Detmer.<br>  Where are they headed?  Straight towards the raiders, sir.<br>  Hail Commander Burnham.<br>  No.<br> If she responds to your hails,  the raiders will think that she's working for you,  - and that would ruin her advantage.<br> - Advantage for what, exactly?  My guess is she's thinking like one of them,  taking what she needs, and doing what's necessary.<br>  She did not consult me.<br>  Have you heard the one about the unstoppable force  that met an immovable object?  You are the object.<br>  This is Ndoye.<br> Target the vessel approaching the raider ships.<br>  - I will not permit that.<br> - Under no circumstances  can Wen obtain your dilithium.<br>  Okay, these ships have seen better days.<br>  Not the raiders we're used to.<br>  - Yeah.<br> - Hey.<br>  Let's try Orion Tango.<br>  Yeah? Come on, Orion Tango's fun.<br>  - Remember that time with the creature - Feathers.<br>  I thought it was scales.<br>  Whatever they were, I was digging them  out of my hair for days.<br>  - We could do Radok Sien.<br> - Absolutely not.<br>  How many times you want me to get my nose broken?  My whole face swelled up, and Grudge wouldn't look at me for days.<br>  I was crushed.<br>  He's hailing us.<br>  Talk fast.<br>  We have what you need.<br> We want to make a deal.<br> Scan our ship.<br>  That was entirely monosyllabic.<br>  - I love it when you do that.<br> - You're weird.<br>  Just did it again.<br>  Dilithium?  - You stole it from Discovery.<br> - What do you care? We have a lot of it.<br>  We'll beam it over,  but you have to leave Earth's orbit now.<br>  - What's in this for you? - We're peace-loving individuals.<br>  No one simply gives away that much dilithium.<br>  Earth's got quantum torpedoes aimed right at us.<br>  Earth hangs everyone out to dry.<br>  I need to find out what they're doing.<br>  - Getting us out of the firing range.<br> - No, not yet.<br> Discovery will come through.<br>  Saru doesn't even know what we're up to.<br>  - He'll figure it out.<br> - Yeah.<br> And when he does,  why is he gonna come and rescue us?  Because he's Starfleet.<br>  Fire torpedoes in 30 seconds.<br>  - This is your last chance, Captain.<br> - My people are on that ship.<br>  Your people who disobeyed a direct order.<br>  They stand down or they die.<br>  My duty is to United Earth.<br>  She's left you only one way to protect Michael and the dilithium.<br>  We will not attack Earth.<br>  - Starfleet does not fire first.<br> - 15 seconds, Captain.<br>  - You are a slow learner, Saru.<br> - And you are far too fast on the trigger.<br>  Lieutenant Detmer,  - when Earth opens fire, we will take the hit.<br> - Sir?  - Move us into position, Lieutenant.<br> - Wait.<br> We just recovered.<br>  - We don't know what their torpedoes could do to - Shields are at full capacity.<br>  Commander Burnham has never let us down before.<br>  - She will not do so this time.<br> - Five seconds.<br>  - Lieutenant Detmer, now! - Four.<br> Three.<br>  Sir, we've lost shields.<br>  Divert all nonessential power.<br>  Get them restored as quickly as possible.<br>  Raiders are charging their phasers  and getting ready to fire back.<br>  United Earth has a standing order to take them down.<br>  If they have to go through you to stop Wen, they will.<br>  Time to fight or die, Captain.<br>  Discovery can't take another hit.<br>  That means the next shot from Earth will end you.<br>  So you can either lower your shields  and let us beam the dilithium over and stay alive  Or fire back.<br> Hope for the best.<br>  Either way, I'll sleep just fine.<br>  Prepare to transport the dilithium.<br>  When he lowers his shields,  - we're going to have to move fast.<br> - Mm-hmm.<br>  - Earth is preparing to fire again.<br> - Come around again, Lieutenant.<br>  Captain, we have no shields to defend.<br>  I have given my order.<br>  Booker's ship just cloaked itself.<br>  Captain, raiders are powering down weapons.<br>  Wen has never backed away before.<br>  Perhaps they met an unstoppable force.<br>  - Tell your people to stand down.<br> - Not until I'm certain that  Special delivery.<br>  The dilithium is safe.<br>  His people won't fire on us as long as we have their captain.<br>  It's time for you two to talk.<br>  There is no talking past the damage  he and his like have done.<br>  Damage we've done?  Do you have any idea how much we've lost?  When was the last time your two peoples talked with one another?  - They have no respect.<br> - They have never listened.<br>  Try.<br>  United Earth doesn't even utilize their dilithium.<br>  They just hoard it while the rest of us suffer.<br>  You bring your suffering on yourselves.<br>  Maybe you should talk to one another face-to-face.<br>  If you don't surrender your dilithium,  my people can still take it by force.<br>  My life is not that important.<br>  Diplomacy is so slow.<br>  You're human?  Perhaps it is time to stop making assumptions  and start listening.<br>  I know what you did.<br>  What were you doing?  The technology on this ship  Your glass cube, these spore canisters  There's more to it than you're letting on.<br>  So explain it to me or I'll report you.<br>  If you were going to report us,  you'd have done it a long time ago.<br>  Besides, I don't think you want everyone knowing  you're the one responsible for the sabotage.<br>  Am I wrong?  Now, you want to show me what you're working on?  These spores are from the fungal species  called Prototaxites stellaviatori.<br>  They power an alternate form of faster-than-light travel  called the displacement-activated spore hub drive,  though no one actually calls it that.<br>  And, uh, that interface you saw   it connects to me.<br>  I'm its human navigator.<br>  Are there others like you?  There's no one like me.<br>  Well, I know how that feels.<br>  Um, so, your ship wasn't stranded after The Burn.<br>  - Are you even a part of Starfleet? - Yes.<br>  But, um, from the year 2258.<br>  That explains a lot.<br>  I mean, all the old technology that still looks brand-new.<br>  But  how?  If you want any more details,  then I need to know who I'm talking to.<br>  Because there's also more to you than you're letting on.<br>  I became an inspector hoping I'd come across a Federation starship.<br>  The sabotage was just so I could have more time, here.<br>  I just needed to make sure I could trust you.<br>  Because I want to come with you.<br>  Come with us? Why?  Senna Tal,  the Starfleet officer you've been looking for  I know him.<br>  When we first scanned your ship, it was overcrowded.<br>  Strained beyond its means.<br>  Not a typical raider ship.<br>  Our habitats on Titan are  - Barely livable.<br> - Titan?  That was once a research colony.<br>  You split off from Earth a century ago,  you're fully self-sufficient.<br>  We were.<br>  An accident at our liquid-hydrocarbon research base  destroyed a third of our habitats.<br>  Wiped out our tillable soil.<br>  We've no long-range communications,  no way to ask for help.<br>  And we have lost  too many to count.<br>  The first ship we sent for help, to our home planet,  was fired upon and destroyed.<br>  Then we knew we were on our own.<br>  Earth has had to have strong defense protocols  in the name of self-preservation.<br>  We didn't know.<br>  Now you do.<br>  Captain Ndoye,  can Earth provide engineers and equipment to Titan,  so an accident like that doesn't happen again?  And assuming Titan's research was not lost,  perhaps it could be shared with Earth in return.<br>  I'm willing to discuss terms.<br>  As am I.<br>  The way you handled Wen was admirable.<br>  An exception can be made for your crew to visit Earth's surface,  should they wish to do so.<br>  They would appreciate that immensely.<br>  It has been a long journey.<br>  You spoke with Adira.<br>  She told me she can help you.<br>  She has my permission to remain on board your ship.<br>  Thank you, Captain Ndoye.<br>  I would like to believe we will return someday.<br>  We hope to offer you a warmer welcome when you do.<br>  May your search be fruitful, Captain Saru.<br>  Commander Stamets said you know where to find Admiral Tal.<br>  Does this mean he is alive after all?  Um, sort of.<br>  I am Admiral Tal.<br>  Although human,  it appears young Adira has been joined with a Trill symbiont.<br>  Trill?  I've seen Trills at the exchanges.<br>  - I didn't know they carried symbionts.<br> - Hmm.<br>  According to the sphere data,  the symbionts are a sentient life-form,  benevolent and extremely long-lived.<br>  Once they join with a host,  that host has the ability to  access the memories of all former hosts.<br>  Including Admiral Tal's.<br>  Yes, but  It seems Adira has difficulty accessing those memories.<br>  Perhaps because she is human and not Trill.<br>  Well, regardless,  she may carry knowledge of what remains of Starfleet.<br>  I hope so.<br>  I should've told you about my plan.<br>  Yes, you should have.<br>  Trust must remain an assumption between us.<br>  We have work to do,  and I would be proud to do it by your side.<br>  But there are things,  in my year here   that I let go of.<br>  And I need time  to find my way back to them.<br>  If I can.<br>  I will trust you to grow through change,  as you have trusted me.<br>  Then it would be my privilege to be your Number One.<br>  If things were easy  They wouldn't be worth it.<br>  Huh?  Are you sure you won't miss the uniform?  I have a rash from that damn uniform, okay?  You owe me.<br>  You get a fresh start in a new quadrant  By my count we're even.<br>  I'm glad you have a family here, Michael.<br>  Till next time.<br>  Till next time.<br>  That's Starfleet Academy.<br>  Indeed.<br>  Well, at least, it was.<br>  Where is everyone?  I gave them leave to pay a visit.<br>  You're welcome to join them.<br>  No.<br>  I think I'll admire the view from here.<br>  With you.<br>  Some places can survive anything.<br>  After all this time.<br>  Oh, my God.<br> Here it is.<br>  - I used to study under this tree.<br> - So did I.<br>  Me, too.<br>  It's so  Big now.<br>  It's so weird.<br> It's like  all these things are gone, but here it is.<br>  It's exactly where it's supposed to be.<br>  We all stood in the same spot,  930 years apart.<br>  Who else can say that?  This is Captain Saru.<br>  Oh, please, Captain, can we just have five more minutes?  We have much work to do before we continue  our search for Federation headquarters, but  You may have your five minutes.<br>  Enjoy.<br>  This mission could be a reminder that we are and always will be  connected to something greater than ourselves.<br>  Whatever happens out there,  don't say anything annoyingly inspirational.<br> That makes me nuts.<br>  Okay.<br>  We have to take the time  to measure what we have all accomplished.<br>  You reminded us who we are to each other.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e02" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e04" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

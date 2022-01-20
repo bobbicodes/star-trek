@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s04e01 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s04e01 - Kobayashi Maru Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s04e01 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e01"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s04e01 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e01" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=4">Season 4</a>&nbsp;&nbsp;>&nbsp;&nbsp;Kobayashi Maru</div>
+
+            <h1>Star Trek: Discovery (2017) s04e01 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Kobayashi Maru</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Last season on Star Trek: Discovery  BURNHAM: 700 years after we left,  dilithium supplies dried up.<br>  The Federation tried alternative warp drive designs,  but none proved reliable.<br> Then came the Burn.<br>  No one knows how or why it happened,  but in an instant, all dilithium went inert.<br>  Any ship with an active warp core detonated.<br>  The Federation as we know it disappeared overnight.<br>  This is where the Burn started.<br>  I'm reading that there is dilithium dispersed throughout  this entire planet.<br>  Federation could use that kind of news right about now.<br>  There's a signal coming from the center of the nebula.<br>  The message is over 100 years old.<br>  This is Dr.<br> Issa of the KSF Kh'ieth.<br>  Those spots on Dr.<br> Issa's head.<br> she was pregnant.<br>  SARU: We have come to rescue the child.<br>  Su'kal.<br> That is his name.<br>  (SCREAMING)  I think we may have just found the source of the Burn.<br>  SARU: You are no longer alone.<br>  BURNHAM: Saru has asked for time  to consider his next steps.<br>  He'll return to Kaminar  to help Su'kal build a new life.<br>  This is home now.<br>  BOOK: No, Kwejian is home.<br>  I really liked seeing Kwejian.<br>  I really liked being there with you.<br>  Have you spoken with Saru?  Yes, sir, I have, but  He wants you to captain Discovery.<br> I do, too.<br>  So many worlds have been struggling since the Burn.<br>  You found a way to mine that dilithium on that planet.<br>  You and your crew can bring it to them.<br>  You can bring them hope, Commander Burnham.<br>  They have waited long enough, and I think so have you.<br>  Everybody ready?  ALL: Yes, Captain.<br>  Let's fly.<br>    (HIGH-PITCHED CHITTERING)  BURNHAM: It is an honor to be the first visitors  your planet has received since the Burn.<br>  On behalf of the United Federation of Planets,  we thank you.<br>  We've been sent to convey their desire  to reconnect with your great civilization,  and to raise the possibility of sharing resources  and technology in the future.<br>  It's tradition to give a gift as a means of establishing trust,  so, as gesture of goodwill,  we've brought dilithium on our ship,  and we'd be pleased to offer it to you,  as we've done with many other worlds.<br>  No strings attached.<br>  Oh, I'm sorry.<br>  Uh, that's an idiom, a non-literal ex  We're familiar.<br>  Perhaps we should speak plainly,  forego the niceties of politics.<br>  Oh, I believe there's been a misunderstanding.<br>  No misunderstanding.<br>  You brought something you think we need,  along with the tantalizing offer to help yourselves  to our technological bounty,  all for the low, low price of  no strings attached.<br>  Yeah, I'm pretty sure she said the words "possibility"  and "share", but other than that  Book.<br>  I am aware that in the decades leading up to the Burn,  your relationship with the Federation was strained.<br>  But you've changed,  things are different now, we can trust you.<br>  We scanned your ship.<br>  You brought a third life-form to our planet.<br>  - Yeah, that's Grudge.<br> - Grudge?  Felis catus, a domestic species  of small carnivorous mammal.<br>  You claim to understand our culture,  yet you bring a carnivore to our world?  Domestic.<br> I said domestic.<br>  She's my pet.<br> She lives on my ship.<br>  I feed her, love her, give her cat treats.<br>  Is she grateful?  No.<br> No.<br>  - In no way.<br> - It's bad attitude.<br>  Yet you expect us to be.<br>  - No.<br> Oh, no, no, no.<br> - (LAUGHS)  - Have you come to make pets of us? - BURNHAM: We haven't come  - to make you anything.<br> - You've got the wrong idea.<br>  - D - Let me explain.<br>  - Uh, she's a queen.<br> - She's a queen.<br>  You hold a Monarch captive?  Oh, no.<br> No, no, no, no.<br>  - Oh, Emperor Lee'U - No, it is not like that.<br>  -  we have the utmost respect - I don't  - for-for you, for - Absolutely.<br> For sure.<br>  This is bad.<br> This is really bad.<br>  Okay, so do your empathy thing.<br>  - My what? - Your  your empathy thing, right-right now.<br>  I brought you here to connect with them.<br>  I don't think they want to connect.<br>  You will take us to your ship.<br>  We will free the queen.<br>  - Oh - Yup.<br> Time to go.<br>  (WEAPONS FIRING)  BURNHAM: They're not gonna be happy when they see  - a massive starship.<br> - BOOK: They're not going to.<br>  - What? - It wouldn't fit through the trees.<br>  I'm sending the little guy.<br>  - And it'll be here in time? - We're about to find out.<br>  BURNHAM: Oh, why is there always a cliff?  (BOTH GROAN)  (BOOK WHOOPS)  BOOK: Why did you say "carnivore" to the butterfly people?  BURNHAM: They are not butterfly people.<br>  Why do you even have a pet?  Why don't you just have a hologram goldfish?  BOOK: I had one.<br> Grudge ate it.<br>  BURNHAM: Who eats a hologram?  The butterflies are shooting at us.<br> Bring up weapons system.<br>  No.<br> No, do not fire back.<br> This is a diplomatic mission.<br>  Then I'm beaming us out of here.<br>  No, we have to give them dilithium.<br>  They don't want it!  If we leave now, they will never trust the Federation again.<br>  Or we'll come back when they're in a better mood.<br>  - Why haven't they hit us? - What?  The Alshain.<br> At this range, they should have hit us by now.<br>  - And that's a problem? - RHYS: Captain,  sensors have you moving erratically.<br> Everything okay?  - Yup.<br> Just negotiating.<br> - Uh, about to hit a tree.<br>  - Hang on! (GROANS) - (GROANS)  (BURNHAM YELLS)  (BOTH GRUNTING)  - "Don't fire back", she says.<br> - (LOUD PANTING)  (BOTH PANTING)  They're having trouble navigating.<br>  BOOK: Still able to shoot at us.<br>  - BOOK: Here.<br> - Yeah.<br>  Great.<br> Maybe we'll live long enough  for me to pet my hostage again.<br>  That's it.<br>  - It's their satellites.<br> - You're not explaining, are you?  Rhys, we could use some help.<br>  Want me to send a team down?  No.<br> It's a science problem.<br>  Is this a chase? Are you in the middle of a chase?  The Alshain can't stay on course in flight.<br>  I think we need to get their satellites working again.<br>  Aye, Captain.<br> We'll figure it out.<br>  - Uh, Commander Stamets? - STAMETS: Unless the Alshain  have been hitting the Romulan whiskey, which I doubt,  - the problem has to be - Oh, the planet's magnetic poles.<br>  They started shifting 300 years ago.<br>  They're now 14 degrees west of where they'd been  for hundreds of thousands of years.<br>  Alshain use the magnetic fields to navigate during flight.<br>  - Like birds? - Oh, did you know birds are born  with a mineral substance called magnetite that helps them  determine the magnetic field so they can find true north?  They'd have developed technology  to help compensate for the shift.<br>  - Captain was right.<br> - The dead satellites.<br> They're  ALL: Geomagnetic compensators.<br>  TILLY: Nice work, both of you.<br>  Jovar Tal loved birds.<br> So  RHYS: All right, team, what's up with the compensators?  Why aren't they working?  They use dilithium to stabilize the power supply.<br>  And I'm not getting dilithium signatures from any of them.<br>  - They're out of juice.<br> - RHYS: Captain Burnham?  Got it.<br> Send DOTs with enough dilithium  to restart the array.<br>  That is a monumentally shitty idea.<br>  You want to make it easier for them to catch us?  - We have to earn their trust.<br> - RHYS: More Alshain coming.<br>  If we give you some covering fire  Do not fire! We've got this!  No, Michael, we do not.<br>  - We're done.<br> I'm beaming us out.<br> - We can't.<br>  Not every moment is a victory.<br>  TILLY: Compensator re-initialized, Captain.<br>  - You were saying? - Congratulations.<br>  Now they can shoot right at us.<br> Can we go now?  You tell me.<br>  Yes.<br>  (BOOK LAUGHS)  (BURNHAM WHOOPING)  Yeah.<br> Yeah.<br>  You're welcome.<br>  (GRUDGE PURRING)  (DOOR WHOOSHES OPEN)  Captain, the emperor is hailing us.<br>  Hmm.<br> Thank you, Lieutenant Christopher.<br>  Put him through.<br>  You did not experience a pleasant visit, Captain Burnham.<br>  - That's one way of putting it.<br> - Then may I inquire,  why still give us your dilithium?  Because we're the Federation.<br>  It's what we do.<br>  And if you need anything else, we're here.<br>  No strings attached.<br>  (SIGHS) Well, that was a hell of a thing.<br>  (CHUCKLES SOFTLY)  BURNHAM: Thanks, everyone.<br>  All right.<br>  Let's fly.<br>        (ORIGINAL STAR TREK THEME PLAYS)   KELPIEN COUNCIL MEMBER: The Federation's gift  of dilithium can take us back to the stars.<br>  BA'UL COUNCIL MEMBER: Or it can benefit our citizens  in their daily lives here on Kaminar.<br>  The danger of travel is too great.<br>  And the Burn cannot happen again,  now that I have left the dilithium planet.<br>  How can you be sure? There is always a risk.<br>  - FEMALE: We cannot live in fear.<br> - MALE: We've waited long enough!  (LOUD, OVERLAPPING CHATTER)  FEMALE 2: We've gotten through this.<br>  Great Elder, you have yet to share your own perspective.<br>  We would value your words immensely.<br>  Su'Kal is correct.<br>  There is no danger of another Burn.<br>  Science is clear in that regard.<br>  I have marveled these five months on Kaminar.<br>  Past generations of our species lived in fear  and hatred.<br>  We live now, together, in communion.<br>  And while at times we may struggle,  I believe there is much we can share with other worlds.<br>  Our-our duty is to our home, is it not?  If you define Kaminar, alone, as "home",  it is, of course.<br>  But consider this.<br>  Here, we live, love,  grow food in the light of our sun.<br>  Uh, however  it is not our sun.<br>  We share it with six other planets in our solar system.<br>  A system which is one of many in  a shared galaxy,  Beyond our galaxy  space.<br>  In truth, we are on an island together.<br>  We must ask ourselves,  do we honor our interconnection,  or do we curl inward  like a leaf pulled from its tree?  After the Burn, that is what many chose.<br>  But this is a new era.<br>  Is it not?  If you tell me you made a dress uniform for Grudge, I'll stay.<br>  - Almost, all right? Almost stay.<br> - (LAUGHS)  No, you shouldn't miss your nephew's Ikhu Zhen ceremony.<br>  A boy only becomes a man once.<br>  But this is a big deal, right?  Starfleet Academy reopening after 125 years.<br>  You introducing the president.<br>  Which you're not excited about.<br>  - Why would you think that? - You got your growly face on.<br>  - I don't have a growly face.<br> - Yes, you do.<br>  You get that 11 between your eyebrows.<br>  BURNHAM: Mm.<br>  (TRILLING)  Oh.<br>  President Rillak is using this moment,  which should be about the cadets  and the people that fought to bring the Academy back to life.<br>  She's doing what politicians do.<br>  Don't punch her in the head.<br>  I will do my best.<br>  I'm sorry Saru's not here to see it.<br>  Yeah, me, too.<br>  It's okay.<br> He'll come back when he's ready.<br>  - Mm.<br> - And I will join you on Kwejian soon.<br>  You know you got lucky today.<br>  - Luck is being ready.<br> - Oh, come on.<br> We weren't ready.<br>  Are you seriously complimenting yourself  - for nearly getting us killed? - It worked, didn't it?  - Kind of.<br> - Mm.<br>  - See you soon.<br> - Okay.<br>  Be safe.<br>  Captain.<br>  BURNHAM: Last year at this time,  Federation Headquarters was cloaked.<br>  The Federation itself had 38 member worlds.<br>  Now, we have 59.<br>  And the cloaking shield is nearly gone.<br>  There's no more need to hide.<br>  Today we reopen Starfleet Academy  for the first time since the Burn.<br>  And in this moment, I feel like anything is possible.<br>  You are tomorrow's ensigns,  lieutenants, commanders  and captains.<br>  And in this new world,  all of you will go where no one has gone before.<br>  And you will make the path by traveling it.<br>  And from what I see,  from what I see,  I am honored to be in your company.<br>  (APPLAUSE, WHOOPING)  (WHOOPING, WHISTLING)  And now, please allow me to introduce our special guest,  the new president of the Federation, Laira Rillak.<br>  (APPLAUSE)  Thank you, Captain Burnham.<br>  Let me begin by acknowledging  that today would not be possible  without the USS Discovery  and your crew.<br>  Thanks to your efforts,  we now have a vast supply of dilithium  we can distribute to distant worlds,  and we have reestablished peaceful relations with planets  that well, they were antagonizing our members  only five months ago.<br>  It's a lot to live up to.<br>  No pressure.<br>  (LAUGHTER)  We are learning  from the mistakes of the past,  developing new technologies  to reduce our collective dependence on dilithium  and continuing to rebuild the Federation and Starfleet.<br>  Not that any of you need the reminder, but  one of Starfleet's original missions  was scientific exploration.<br>  And now that we are able,  we are embracing that mission once again.<br>  Cadets, if I may turn your attention  to the newly-constructed Archer Space Dock.<br>  (GASPING)  Here, our existing fleet will be upgraded,  and the next generation of Starfleet vessels constructed.<br>  Vessels that will once again take us to new worlds,  new civilizations,  places you can't even begin to imagine right now.<br>  Look up there.<br>  - Yeah.<br> - Whoa! - Yeah.<br>  Heard you guys had some fun with the Alshains.<br>  Yeah.<br> Might have to cover your shifts more often.<br>  Ah.<br> Don't get too cozy.<br>  I'm only consulting on the Curry for another two days.<br>  It is a privilege to be here.<br>  I wish I could properly thank you all  for everything you left behind.<br>  DETMER: We appreciate that.<br>  Well, it was our duty, Madam President.<br>  But still, 930 years is a long way from home.<br>  From this perspective, can't really get a sense of the scale.<br>  But later on  Hmm?  Those cadets that feels like  one thousand years ago.<br>  - Oh.<br> - And yesterday.<br>  Which is was, simultaneously.<br>  Did you know there are people out there  that don't have to put up with space-time shenanigans?  I bet they sleep great.<br>  - Mm.<br> Good for them.<br> - (LAUGHS)  (TILLY LAUGHS)  "Lieutenant" used to feel so far away.<br>  Is this about Osyraa?  'Cause you deserve that promotion, Tilly.<br>  - You all do.<br> - Oh, I know.<br>  I think, I  Captain, the admiral needs you.<br> It's urgent.<br>  NALAS: This is Commander Nalas from Deep-Space  Repair Beta Six, sending a request for help  from any Starfleet vessel that might hear us.<br>  I'm not sure what happened,  but we just lost reactor-control thrusters.<br>  Gravitational stability is also compromised, and  That's all we got.<br>  - How long ago did this happen? - Two hours.<br>  Whatever affected the station also knocked out  - the subspace relays in the sector.<br> - Solar flare?  Electromagnetic pulse could have taken all systems offline.<br>  Haven't gotten any reports of an EMP,  but we'll check it out.<br> Kwejian is the nearest system.<br>  - I'll check and see if they know anything.<br> - Can Kwejian help?  VANCE: We can't allow them to wait  for a rescue vessel to reach them at warp.<br>  Discovery will go right away.<br>  Your mission is to repair the station systems  and to report back as soon as you figure out what happened.<br>  Yes, sir.<br>  I'd like to join.<br>  See that spore drive of yours in action.<br>  Madam President, safety protocols.<br>  We can't put you at risk, ma'am.<br>  Well, thank you for your concern, but I can't ask anyone  for a sacrifice I'm not willing to make myself.<br>  Ma'am, having you aboard Discovery heightens the danger.<br>  To my crew.<br>  I appreciate your passion, Captain.<br>  I'll see you on board.<br>  (FOOTSTEPS RETREATING)  I know that look well enough.<br>  Admiral, she's trying to prove herself.<br>  She wants to say she's seen action.<br>  I think she's ticking off a box.<br>  Captain, this is a delicate time.<br>  We're all still learning what we need as we grow the Federation.<br>  I'm pretty sure we don't need politics as usual.<br>  Well, you may not like to hear it,  but an adept politician can be a very powerful tool  when the world feels upside down.<br>  And the president doesn't need your permission  to board Discovery.<br>  Now, if you'll excuse me, I'm I'm late for dinner.<br>  Sir?  I'm so glad you were able to bring your family home.<br>  See you when you get back.<br>  And give Mr.<br> Booker my best.<br>  BURNHAM: President Rillak will be joining us.<br>  Standard protocols apply.<br>  Commander Detmer, take us to safe range for the jump.<br>  - Black alert.<br> - Aye, Captain.<br>  Madam President, you may want to brace yourself.<br>  The first one can be disorienting.<br>  I'll be fine.<br>  Flew cargo ships for my father back in the day.<br>  Okay.<br>  Jump.<br>  Owosekun, do we have  - the station? - I'm locked onto it, but something's wrong.<br>  Onscreen.<br>  What the hell?  What could have done that?  - Definitely not a solar flare.<br> - Whatever it was,  the station can't take that kind of stress much longer.<br>  Neither can its crew.<br>  Yellow Alert.<br> Let's get into it.<br>  (BIRDS CAWING)  BOOK: Wow.<br>  Kyheem.<br>  So much more beautiful than I remember.<br>  (CHUCKLES)  Can you feel it?  Oh, yeah.<br>  Hello, old friend.<br>  When was the last time you saw it?  Not since I became a member of the pack myself.<br>  You do the honors.<br>  The World Root.<br>  Put your hand on it.<br>  The warmth you feel  is a chain of a million hands.<br>  We do this to remember.<br>  We do this because the universe is unknowable,  but we can know this.<br>  You're now part of a chain that goes back,  unbroken.<br>  This root system that reaches all the way  around Kwejian,  it is our heart.<br>  And its sap is in that amulet your father wears.<br>  Today you'll get your own.<br>  It's something you never take off.<br>  Why aren't you wearing yours, Uncle Book?  - It's a story for another day, Leto.<br> - Okay.<br>  The sap of the root   and the blood of your family.<br>  Wear this  carry us  and Kwejian with you  always.<br>  (CHANTING IN KWEJIAN)  I'm proud of you, Leto.<br>  - Thanks.<br> - You're very welcome.<br>  Go show your friends, go.<br>  Okay.<br>  (SHOUTS IN KWEJIAN)  (KYHEEM CHUCKLES)  I'm happy you're here.<br>  Thank you for asking me to be a part of it.<br>  (BIRDS SQUAWKING)  TILLY: Scans show the station moving at 720 kilometers per second  with a radial velocity of 22 degrees per second.<br>  Shields are down with a slight magnetization of the hull.<br>  Something must've hit them.<br>  - Still no response yet, Captain.<br> - Keep hailing the station.<br>  Let me know when you have them.<br>  Commander Owosekun, pull up the distress call.<br>  Aye, Captain.<br>  This is Commander Nalas from Deep-Space  - Repair Beta Six - Stop.<br>  Beside him, the window magnify that.<br>  Oh it's extreme lensing.<br>  Two-pi steradian solid angle.<br>  In Federation Standard, please?  Gravitational distortion.<br> Hit the side of the station,  must've taken out the relay, as well.<br> Commander Rhys?  I don't see anything that could've created  a distortion that large.<br>  Keep looking and follow up  with Kwejian, see if they have anything yet.<br>  - Aye, Captain.<br> - Captain, I have Commander Nalas.<br>  Commander Nalas, I'm Captain Burnham of the U.<br>S.<br>S.<br> Discovery.<br>  President Rillak is here with us as well.<br>  Ma'am.<br> It's an honor.<br>  Captain, thank you for coming.<br>  What's your status?  We were hit by something.<br> I don't know what.<br>  We've got all ten of us in the main control room.<br>  Life support seems to be gone everywhere else.<br>  Inertial dampeners are fluctuating,  artificial gravity is a mess  and our sensors are unreliable.<br>  One of my engineers called it a "shit-show".<br>  Which is Earth for "bad",  - I'm told.<br> - It is, indeed.<br> How can we help?  Well, I can fix thrusters, that'll stop the spin.<br>  But our Q-nodes are squiddled  and they need to be replaced.<br>  If you can send engineers  with programmable matter, we can get on it.<br>  Will do, stand by.<br>  "Squiddled?"  Akoszonam expression.<br>  It means "destroyed beyond repair".<br>  Tilly, what do you know about replacing Q-nodes?  I can do it, but if you want it fast,  Adira grew up using this tech.<br>  Have them come up, and I want you with them.<br>  Owosekun, can you get a lock on the station's  control room for transport?  I can get coordinates within an acceptable margin  of error if Keyla can match speed and rotation.<br>  What do you mean, "if"?  On your mark.<br>  Aye, Captain.<br>  DETMER: We're at 20  First away mission.<br>  Are you nervous?  Um no.<br>  Fine, maybe.<br>  I just, I mean, she made me an ensign.<br>  So she has faith in me.<br>  I  just want to show her she made the right choice.<br>  You're gonna be great.<br>  And when I incorporate  - How about "get a body"? - Get a body.<br>  And I start kicking ass doing my own stuff,  I'd expect you to say the same thing to me.<br>  Yeah, you won't need it.<br>  You're, like, the most confident person I know.<br>  Besides the captain, maybe.<br>  We are now in a synchronous orbit, Captain.<br>  Owo should be good to go.<br>  Ensign Tal, are you ready?  Yes.<br> Absolutely.<br>  Yeah, um uh, locked and loaded.<br>  You know, signed, sealed, delivered.<br>  Ready to  stop talking now.<br>  (CHUCKLES) Good luck.<br>  Both of you.<br>  (INDISTINCT CHATTER)  Welcome to our gravity nightmare.<br>  Q-nodes are in there.<br>  Uh, I have the programmable matter.<br>  Oh, hey, whoa! Please do not touch that!  Sir, we're here at your request.<br>  Right, but it's my station, my responsibility.<br>  Okay, but, uh, polyhedronic  - quantum-data memory devices are kind of - Insanely tricky.<br>  And yes, I know what happens when they're not properly  linked to the multi-phasic processing unit.<br>  I'm sorry, I don't mean to be rude.<br>  I'm just trying to protect my crew.<br>  Okay, let's let, uh, Commander Nalas  take the lead here since we're his guests.<br>  Thanks, we got to get thrusters working first.<br>  I'm working on the primary processing unit.<br>  You two take the secondary unit.<br>  And-and thank you.<br>    TILLY: Commander Nalas, I think we got it.<br>  Initiating full thrusters  in three, two, one.<br>  Captain, can you confirm that all the thrusters  - are currently working? - I can.<br>  Radial velocity's decreased by 38% and counting.<br>  Nice job.<br> How are life support and sensors coming?  - Just getting started now.<br> - How much longer do you need?  - 45 minutes, maybe? - You got it.<br>  - (ALERT BLIPPING) - Captain, we've got incoming.<br>  Debris of some kind.<br>  (GRUNTING)  BURNHAM: Commander Owosekun, analysis.<br>  It's frozen methane.<br>  - Shields up.<br> Red alert.<br> - (ALARM SOUNDING)  Can we extend shields over the station?  I think so, but it will drain a lot of power.<br>  Do it.<br> We'll figure it out.<br>  Uh, Captain, what's happening?  The edge of an Oort Cloud methane ice.<br>  It must've been carried in by the gravitational distortion.<br>  Hang tight.<br> How big is it?  Still trying to calculate.<br>  RHYS: Small stuff was just the front.<br>  The rest is about to hit hold on.<br>  BURNHAM: How long will shields hold?  OWOSEKUN: 15 minutes, if we're lucky.<br>  Lieutenant Tilly, this is now a rescue mission.<br>  Prepare to beam back with Adira and the crew.<br>  It's not gonna work from here.<br> There's too much interference.<br>  Owosekun?  I can't, either, the transport array isn't responding.<br>  Commander Stamets!  - Commander Stamets! - Uh the impacts caused  a power surge  that, uh, blew out the Heisenberg compensator.<br>  How long to fix it?  Three hours, minimum.<br>  We don't have that kind of time.<br>  What happened anyway? Is-is Adira okay?  And Tilly and everyone?  Everyone's fine for now.<br> Skip the compensator.<br>  Pull whatever power you can to the shields.<br>  - We need time to evacuate them.<br> - On it.<br>  Tilly, can you get everyone  to the station's shuttle bay?  That's on Deck One and-and  we don't have EV suits up here.<br>  What about an escape vessel? Every deck should have one.<br>  They're only meant for one-way trips.<br>  I can just reprogram it to return.<br>  So just trust me with this.<br>  Please.<br> I got it.<br>  Make it fast, Ensign.<br>  It's this way.<br>  TILLY: The-the door is jammed from the outside.<br>  We can't separate the vessel from the station.<br>  Okay, then we need to climb to another deck.<br>  There's no life support.<br>  Sensors are malfunctioning.<br>  Commander Nalas, I understand that that  seems like an option right now  It is an option.<br>  It's the only option.<br>  ADIRA: Uh, Captain, we  we have a problem.<br>  Uh, two, actually the de-coupler is jammed  - and-and Nalas is kind of losing it.<br> - BURNHAM: Tilly can handle him.<br>  We'll get you all out.<br> Bring the escape vessel onscreen.<br>  Shield down to 30%.<br>  Commander Nilsson, how long will it take  our DOTs to remove that debris?  Longer than we have!  Can we get close enough for a spacewalk?  No, but I-I could take a worker bee.<br>  That's way too dangerous.<br> If we lose shields  Detmer's right, that's our best shot, but I'll do it.<br>  - Rhys, you have the conn.<br> - Are you sure you should be leaving the ship  during a red alert?  There's no margin for error.<br>  I've logged more advanced EVA hours than anyone else on board.<br>  That makes me the safest and the most logical choice.<br>  Does it?  Madam President, are you questioning my decision?  A question doesn't imply questioning, Captain.<br>  Whatever happens, keep those shields up.<br>  OWOSEKAN: Aye, Captain.<br>    You're thinking of Discovery again, of your friends.<br>  Michael.<br>  I am.<br>  And it does not mean that I am unhappy here.<br>  It is hard to be away.<br>  As it was hard to leave Kaminar  all those years ago.<br>  One cannot have  all the lives one desires.<br>  A choice  is always necessary.<br>  Then, perhaps.<br>  Kaminar was very different in your time.<br>  Now  you can serve the Federation  and remain close to the council.<br>  To me.<br>  I made a promise to you.<br>  And it is my joy to keep that promise.<br>  I appreciate all you have done.<br>  You're the father I never knew.<br>  And my first  true friend.<br>  But I have other friends now.<br>  Family.<br>  If you  are staying for me,  you need not.<br>  What of those who still turn away from you?  Who see you and think only of the Burn?  There will always be those  who fear what they do not understand.<br>  But they are fewer now.<br>  Thanks to you.<br>  I'm safe.<br>  I'm loved.<br>  I'm happy.<br>  My heart is here, but yours can be here  and out there.<br>  Balance  is possible.<br>  Is it not?  (CHUCKLES)    How long is this going to take?  We just can't keep waiting.<br>  Okay, she's here!  Rhys, you have eyes on that?  We do, Captain.<br>  It's clear of the vessel's launch trajectory.<br>  BURNHAM: Great.<br>  Two pieces left, grabbing them now.<br>  (HIGH-PITCHED RINGING)  (HEARTBEAT)  (NO SOUND)  (CRASHING AND SHATTERING)  RHYS: Captain, do you read?  BURNHAM: I'm okay, I'm okay.<br>  Patch me through to engineering.<br>  - Stamets, how we doing on shields? - Um  - holding at 25%.<br> - Yes, I love 25%.<br>  Yeah, well (CHUCKLES)  don't celebrate just yet.<br>  I've pulled all the power I can from the EPS grid.<br>  And, uh, we're maxed out.<br>  No more help is coming.<br>  You saw what happened.<br>  Your captain can't save us.<br> Now move!  Commander Nalas, no!  I can't allow you take your crew on a suicide mission.<br>  - Okay, please! - Adira, Adira, stay on task.<br>  It's my crew.<br>  And you're leading them to a very dark place.<br>  Put down the phaser.<br>  Nalas.<br> It's President Rillak.<br>  I know this is a lot,  all of it, but I am asking you to give  Captain Burnham a few more minutes.<br>  I am confident she'll get you out.<br>  All of us want you to see  your beautiful world again, i-its  freshwater oceans, the Fissure of Jorat.<br>  How do you ?  Most Akoszonam don't even know the Fissure.<br>  RILLAK: Oh, shame.<br>  It's breathtaking, isn't it? The way the steam explodes  straight out, condensing into that iridescent mist.<br>  There's nothing else like it in the cosmos.<br>  I know you want to go home, Nalas.<br>  All of you do.<br>  Please.<br>  Yes.<br>  (GRUNTING)  Almost there!  Got it! You're clear, Tilly!  Go! We all won't fit in one trip.<br>  I'll wait with them.<br>  BURNHAM: Lieutenant Christopher, open a channel to the president.<br>  Channel's open, Captain.<br>  Captain Burnham.<br>  BURNHAM: Thank you for the assist.<br>  Always happy to be of service.<br>  Out of curiosity, were you reading his file earlier?  Or have you really been to the Fissure of Jorat?  It's not curiosity, Captain.<br>  You're wondering if I lied to him.<br>  Did you?  Does it matter?  Station crew is safely on board.<br>  The escape vessel  is leaving Discovery for its second run.<br>  - Should be back in five minutes.<br> - How much time do we have left?  After that last hit, four minutes if we're lucky.<br>  (GRUNTS)  DETMER: When the shields are down, we'll be exposed.<br>  We could be destroyed.<br>  Captain.<br>  We're not going anywhere.<br>  RILLAK: That was an inspiring speech you gave  at the Academy, but everything is not possible.<br>  You cannot defeat the mathematics of loss.<br>  - We have before.<br> - RILLAK: Oh,  so therefore you're immune to failure?  Are you pulling me from the chair?  Madam President?  Because if not, I have a job to do.<br>  You're the captain.<br>  (CREW MEMBERS GRUNTING)  KYHEEM: Have you found what spooked the birds?  I've searched the entire forest.<br>  Nothing out of the ordinary.<br>  Maybe they sensed an earthquake.<br>  Too small for us to feel?  I don't know, Kyheem.<br>  Well, you've been up there for a while.<br>  Come on back.<br> It's time for dinner.<br>  - (ALARM CHIMING) - These birds.<br>  Take Leto and get someplace safe.<br>  - What is it? - Just do it! Now!  I need to find out what's happening.<br>  SHIP COMPUTER: Warning.<br> Proximity alert.<br> Warning.<br>  Proximity alert.<br>  Kyheem! (GRUNTS)  The nanosecond this is over, I'm on the first ship home.<br>  - When's the last time you were back? - Too long.<br>  Living on autopilot, you know?  What about you two? What's next?  Oh, you know.<br> Sleep.<br> Tea.<br>  Bubble bath.<br>  Lieutenant?  Oh, uh  (CHUCKLES SOFTLY) I don't know, to be honest.<br>  (ALL SCREAM)  - COMPUTER: Shuttle has arrived.<br> - Let's go.<br>  - (ADIRA EXHALES) - Let's go.<br>  - (ALARM BLARING) - We've lost shields.<br>  Is the escape vessel okay?  Aye, Captain.<br>  BURNHAM: How much longer?  - We'll have the vessel in five.<br> Four.<br> - Black alert.<br>  - Three.<br> - NILSSON: Structure breach on Deck Eight.<br>  - RHYS: Two.<br> One.<br> - Rerouting DOTs for repair.<br>  - They're clear.<br> They're clear! - Jump!  (GRUNTS)  - (ALARM BLARING) - FEMALE COMPUTER VOICE: All medical and emergency personnel  to shuttle bay.<br> Repeat.<br>  All medical and emergency personnel to shuttle bay.<br>  - Adira? Tilly? - TILLY: We're here! We're here!  - We're safe.<br> We're good.<br> - CULBER: Let me do a scan for injuries.<br>  Nalas?  Commander Nalas?  ADIRA: I don't understand.<br> We  made it.<br> We were We were safe.<br>  Hugh! Hugh!  Help me!  - CULBER: Hold on! Hold on.<br> - I can't  We almost got you.<br>  (GRUNTS)  FEMALE (ECHOES): Over here! Over here!  BURNHAM: Culber, what's happening?  Is everyone okay?  (DOOR CHIMES)  Come.<br>  Three dead.<br> Four wounded.<br>  And nine who get to go home.<br>  Never gets easier.<br>  Kobayashi Maru.<br>  You're Starfleet?  No.<br>  Just flew cargo for my dad all over the sector.<br>  Taught me the value in meeting people  or circumstances where they are.<br>  The test is rigged, you know.<br>  Kobayashi Maru.<br>  They don't tell you that up front.<br>  So when you fail,  you go back to your quarters, and all you can think about  is how you want to retake it.<br>  How you can be the one to beat it.<br>  Then you realize you never will.<br>  Yeah, hence the lesson.<br>  Acceptance.<br> There are things beyond your control.<br>  As captain, you mitigate that as much as possible,  - but - I can't mitigate life and death.<br>  I lead to bring everyone home.<br>  Leadership is about balance.<br>  Knowing what weight is yours to carry and  what isn't.<br>  You just don't see that yet.<br>  You didn't come on my ship to tick a box,  did you?  Well, as you know, we are developing  some new technologies.<br>  A next-generation spore drive is among them.<br>  There are still quite a few hurdles to overcome,  but other technologies,  like the pathway drive prototype,  have been moving forward nicely.<br>  Plans are to install it in Voyager for testing,  and I am evaluating my short list for the captaincy.<br>  I suppose I'm no longer on it.<br>  No.<br>  You're not ready.<br>  Define "ready".<br>  Don't misunderstand me, Captain.<br>  You are eminently qualified  Untested technology's a different beast, I-I get that.<br>  But please,  define "ready".<br>  The willingness to accept  all potential outcomes of a command decision  and an ability to make the hard call regardless.<br>  It's a matter of experience, really.<br>  Respectfully, ma'am, Discovery is my home,  so I wouldn't have accepted even if you'd offered.<br>  That said,  I don't think I'm out of line  in pointing out that my experiences  have prepared me for any kind of captaincy.<br>  Yeah, well, you saved us.<br>  You led your crew to the future.<br>  You deciphered the Burn.<br>  Yes.<br> I did.<br>  Your acts of bravery are irrefutable.<br>  They are also huge swings of the pendulum.<br>  And in a time of rebuilding, there is a very fine line  between a pendulum  and a wrecking ball.<br>  That is quite a strong opinion  for someone who's just met me.<br>  I read the debrief of your arrival  at Federation Headquarters.<br>  Would you like to know what it says?  I take it that's a rhetorical question.<br>  It says a tremendous loss in your formative years  has left you with an almost pathological need  to save everyone you can.<br>  I fail to see the negative in that.<br>  Commanding from a place of personal need  places others in harm's way.<br>  Today, you were prepared to sacrifice the many  to save the few.<br> Everyone could have died.<br>  - But they didn't.<br> - One day, they might.<br>  That is precisely the kind of Pyrrhic victory  Kobayashi Maru trains you to avoid.<br>  - (COMM CHIMES) - BRYCE: Captain,  Mr.<br> Booker's here.<br> His ship arrived via autopilot.<br>  Something's wrong.<br>  BOOK: Pull up Kwejian on the deep-space array.<br>  BURNHAM: What happened?  My ship was hit by something.<br>  The stars.<br> Everything was warped.<br>  The gravitational distortion.<br>  But Kwejian is light-years away  - from that station.<br> - OWOSEKUN: Captain?  I inputted Kwejian's coordinates, but  What?  Nothing's there.<br>  You must've done it wrong.<br>  No.<br>  These are the coordinates.<br>  Widen the search radius.<br>  I see something,  but it's hundreds of thousands of kilometers away.<br>  Pull it up.<br>  (BURNHAM GASPS)  They're gone.<br>  (VOICE BREAKING): They're all gone.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e13" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e02" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

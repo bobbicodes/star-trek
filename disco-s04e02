@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s04e02 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s04e02 - Anomaly Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s04e02 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e02"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s04e02 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e02" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=4">Season 4</a>&nbsp;&nbsp;>&nbsp;&nbsp;Anomaly</div>
+
+            <h1>Star Trek: Discovery (2017) s04e02 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Anomaly</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			Previously on Star Trek: Discovery  The new president of the Federation, Laira Rillak.<br>  I am T'Rina, President of Ni'Var.<br>  Gray?  We'll find a way to help you be seen, truly seen.<br>  By everyone.<br>  You're thinking of Discovery again.<br>  I am.<br>  My heart is here, but yours can be here and out there.<br>  Nanosecond this is over, I'm on the first ship home.<br>  Commander Nalas, when's the last time you went back?  Too long.<br>  - Pull up Kwejian on the deep-space array.<br> - What happened?  My ship was hit by something.<br>  The gravitational distortion.<br>  They're gone.<br>  They're all gone.<br>  Book  Book  Book.<br>  Book.<br>  I'm here.<br>  Whatever you need.<br>  Captain, your guest is waiting for you  in the ready room.<br>  I need some time, Bryce.<br>  You should go.<br>  No, I  I need you to go.<br>  Okay.<br>  I'll check on you later.<br>  Saru.<br>  You're here.<br>  Captain.<br>  Oh  Thank you for coming so quickly.<br>  It is an unspeakable tragedy.<br>  Are there any survivors at all?  Right now, we only know of Book.<br>  But the Federation's trying to locate  any Kwejian that may have been off-world.<br>  How is he?  He hasn't left his ship in two days.<br>  Keeps obsessing over every detail.<br>  Trying to find I don't know  evidence as to what may have caused it.<br>  And I've been trying to get him to talk  or cry anything.<br>  He is in so much pain.<br>  I don't know how to reach him.<br>  Well, if loss has taught us anything,  it is that each of us must sit with pain  in our own way.<br>  And you?  How are you doing?  I've been conducting post-mission analyses  to figure out what I could have done differently.<br>  Lieutenant Aloka, Ensign Neville, Commander Nalas.<br>  Those losses are on me.<br>  It sounds like you may also be obsessing.<br>  Yeah.<br> Maybe so.<br>  That's beautiful.<br>  It's the Kelpien symbol for community, isn't it?  Ah.<br> Community and service.<br>  It signifies my status as a council member in my village.<br>  Must have been hard for you to leave.<br>  Uh, I have made arrangements  to stay in touch with Su'Kal  and continue serving as a council member in absentia.<br>  Starfleet is where I am needed now.<br>  Yes, I heard word that you were offered  the command of the USS Sojourner.<br>  Congratulations.<br>  I told Admiral Vance  I would gladly return to the chair one day.<br>  This is not that time.<br>  Our mentor Philippa Georgiou  knew the value of another set of trusted eyes,  especially in times of crisis.<br>  I asked you to be those eyes for me when I became captain.<br>  Now it would be my honor  and indeed my privilege  to do the same for you, as your Number One.<br>  If you will have me.<br>  I will take that, old friend.<br>  Five light-years across.<br>  That's the size of the gravitational anomaly  that hit Kwejian and the space station.<br>  Five light-years? That's massive.<br>  We couldn't believe it at first either, ma'am.<br>  But we've been analyzing this data for the past 48 hours  and the math doesn't lie.<br>  What exactly is this "anomaly"?  We're not certain.<br>  We know it's there, we know it's moving,  but we can't quite get a handle on what it is.<br>  Our current theory is that it's a roving binary black hole.<br>  We believe the two black holes are merging,  creating gravitational waves in the process.<br>  Huge ones.<br>  Why was Kwejian destroyed and the station wasn't?  Gravitational wave's impact depends on where the object is  relative to the source.<br>  The closer the object, the greater the damage.<br>  How did no one see it coming?  Unless matter is actively falling into a black hole,  they're largely undetectable.<br>  We've been running simulations  to test our theory.<br> They seem to mirror,  fairly accurately,  what happened to Kwejian.<br>  Go on.<br>  Continue.<br>  A planet couldn't possibly withstand that kind of impact.<br>  Are there records of anything like this happening before?  We haven't found anything close  in any of the available databases.<br>  Where's it headed next?  Current data is limited,  but our mathematical models have it  entering the Riscot system soon.<br>  Let's begin evacuations right away.<br>  And we should warn the areas immediately surrounding it.<br>  An anomaly this size could fling debris  far beyond five light-years.<br>  Where's it going after that? Where'd it even come from?  Do you have any indication that it will stop?  To get answers, we need more data.<br>  We have to get out there.<br>  Scan this thing up close.<br>  Once you have the data,  I offer the services of the Ni'Var Science Institute.<br>  We may not be Federation members,  but a crisis such as this requires all to contribute.<br>  Thank you, President T'Rina.<br>  It would also be prudent  to prepare ourselves for civil unrest.<br>  This news may reawaken post-Burn fears.<br>  We are at a fragile time.<br>  Openness and a unified strategy will be critical.<br>  Which is precisely why you're all here.<br>  Federation, non-Federation  this anomaly threatens us all equally.<br>  We must all work together.<br>  Discovery will leave for the anomaly immediately.<br>  All crew, report to stations, please.<br>  All crew, report to stations.<br>  - Yes, Lieutenant? - Sorry.<br>  Sorry, just, um I was  Ugh, sorry.<br> I'm just keep making it more and more weird.<br>  I'm just gonna say it.<br> You  Did you get taller?  Not that I'm aware of.<br>  Oh.<br> Oh, okay.<br>  I d I don't know if Kelpiens grow later in life,  or but  You just you do, you seem taller.<br>  Do I?  Yeah.<br>  I don't know, maybe you just, like,  have a little more swagger going on or something.<br>  That's a compliment.<br>  Then I thank you.<br>  I'm really glad you're back.<br>  I missed you, too.<br>  And I am very sorry  for what you went through on the space station.<br>  Thank you.<br>  Security briefing on Deck Seven in five minutes.<br>  When I think about Nalas  and, uh, Kwejian, all those people  Hell, life is just a blink, huh?  It's it is one heartbeat  in the entire lifespan of the universe.<br>  Just don't really think I understood that before.<br>  How we choose to spend our moments  in the short time that we have  matters.<br>  Welcome back, Captain.<br>  Thank you.<br>  But please call me Saru.<br>  How about Mr.<br> Saru?  Well, that would be  acceptable.<br>  Commander Bryce, open a ship-wide channel.<br>  Aye, Captain.<br>  Ready.<br>  Discovery.<br>  Today we seek to understand a threat  like none our galaxy has faced before.<br>  We know the cost of its destructive power all too well.<br>  We lost colleagues, friends  and Kwejian.<br>  Countless lives  histories futures.<br>  We won't let their deaths be in vain.<br>  And we are going to make damn sure  nothing like this happens again.<br>  Not on our watch.<br>  Not on our watch.<br>  Black alert.<br>  Aye, Captain.<br>  Commander Detmer, jump us in  but keep a safe distance.<br>  Aye, Captain.<br>  We've reached the coordinates, Captain.<br>  Yellow alert.<br> On screen.<br>  Commander Owosekun, apply  a polarizing spectrographic filter.<br>  Aye, Captain.<br>   Tilly, get Commander Stamets up here.<br>  Detmer, how are we doing?  Safely in the green zone, Captain.<br>  Matching the anomaly's speed to maintain relative distance.<br>  Any strain on the ship?  Subspace gravitational waves are present,  but not the patterns we expected.<br>  It's very odd.<br>  That's not the only thing.<br>  "Binary black hole" means  we should be seeing two of them.<br>  Curiouser and curiouser.<br>  Scientific observation, please?  Apologies, Captain.<br>  It's just not what I was expecting to see, either.<br>  There's an accretion cloud made of both gas and dust,  and large amounts of dark matter surrounding a gravity well,  so a black hole makes sense, but  But the gravitational Doppler shift  from our scans is way off.<br>  - Meaning? - Meaning,  I have no idea what we're looking at.<br>  It's bizarre.<br>  And that is a scientific observation.<br>  What else are our scans telling us?  Not much.<br> Scans can't penetrate  the outer edge of the accretion cloud.<br>  Can we boost power to the scanners?  Already tried.<br> The scans aren't viable unless we get closer.<br>  How close?  Past the outer edge of dust and into the accretion cloud?  That's in the yellow zone, Captain.<br>  Discovery would be at serious risk.<br>  We have to know what we're dealing with.<br>  Mr.<br> Saru?  We could send DOTs with sensors attached,  but the gravitational distortions  would make it very difficult to communicate with them.<br>  They're also way too small.<br>  Not enough mass to penetrate the dust.<br>  My ship can do it.<br>  Enough mass to get in,  not so much that I'll be in trouble.<br>  Plus, my ship can change shape  to compensate for the torque.<br>  As long as I'm not inside too long  The science holds.<br>  Commander Detmer, get ready.<br> Commander Stamets,  I want you with her to conduct the scans.<br>  Captain.<br>  Can we talk?  Detmer doesn't know the first thing  - about how to morph my ship.<br> - Whoever goes in there  - has to be clear-headed.<br> - And I'm not?  How could you be, after everything that's happened?  - That's for me to judge.<br> - And me.<br>  - As captain of this ship.<br> - Pretend for one second  you're in my place.<br>  Come on, Michael, you'd fight like hell  to go on this mission.<br>  And Hugh would say no.<br>  - Michael - And he would be right.<br>  - That thing destroyed my home.<br> - I know.<br> And I know you want  - to do something.<br> - I'm the best pilot for this mission  - and you know it.<br> - Listen, I know you want  to do something, but it's not as simple as that.<br>  I don't need your permission.<br>  I'm not Starfleet.<br>  Technically, I'm not even under your command.<br>  If you go out there and you're not ready   you endanger everyone on this ship.<br>  Come on.<br> Look, I know you don't want to put more lives at risk.<br>  Getting this data, and doing it right the first time,  is our best chance to save lives.<br>  We can warn other worlds, give them time to evacuate.<br>  I'm going, Michael.<br>  I'm flying straight at that thing.<br>  If you want to stop me, you can throw me in the brig  or you can shoot me out of the sky.<br>  But I'm going.<br>  It's everything I'd imagined.<br>  I can't believe I get to start my life again.<br>  I could become a host again.<br>  Finish my training to be a Guardian.<br>  - I-I could - Anything.<br>  I mean, you can do anything.<br>  Yeah.<br>  But  with everything that's happened  Is there something not right with the body?  He's feeling guilty  about being happy right now.<br>  You know?  Life goes on, Gray.<br> It has to.<br>  For all of us.<br>  But the artisan did a beautiful job with the body.<br>  She used the Soong Method,  named after the 24th century cyberneticist who developed it.<br>  This is 800-year-old technology?  Maybe I should get a synth body when I die, too.<br>  We could live forever.<br>  Well, not likely.<br>  But the process was attempted a number of times  after Dr.<br> Soong first used it on a a Starfleet admiral  Picard was his name  but the success rate was so low  that eventually people just stopped trying.<br>  What Should we be worried?  Well, the fact that Gray's consciousness  has already survived transfer to a new host once  seems to be a good sign.<br>  But we should ask Guardian Xi  once the synthetic body's ready.<br>  When I incorporate,  will the body age and die?  Like I would have before?  Uh, he's asking if this body will get old.<br>  You know, like, gray hair,  the long, scraggly nose hairs,  the pot belly and all.<br>  So not what I said.<br>  It will age in the same way.<br>  For better or for worse.<br>  Can we get rid of the mole?  I thought you stopped hating that.<br>  I just asked, because  transitioning, it's like I had bigger things to think about,  but if I get another chance  to remake my body, then  why not get rid of all the things  that aren't totally "me", you know?  He wants to lose the mole.<br>  Oh.<br> Well, that's why we're here,  to make last-minute adjustments.<br>  Come.<br>  Oh.<br> You added a holo.<br>  Helps to get away sometimes.<br>  Is this Ni'Var?  Cliffs of Surak.<br>  That's Lake Yuron.<br>  It looks the same as it did when I was a child,  when this was Vulcan.<br>  I used to run away  I used to run away here.<br>  When I was getting used to my parents being gone.<br>  Uh, you wished to speak with me about Mr.<br> Booker?  Take me home, Zora.<br>  Yes, Captain.<br>  The computer's now Zora?  Picked the name herself.<br>  Oh.<br>  Please.<br>  Book plans to fly to the anomaly  with or without my permission.<br>  Well, that would certainly be deleterious  to your relationship.<br>  The captain in me knows  that he's the right choice for the mission.<br>  He knows it, too.<br>  But  I've seen him  not sleeping, not eating  Mr.<br> Booker's expertise with his ship  does make him supremely well suited for this particular task.<br>  More so than Commander Detmer,  despite her considerable skills.<br>  His planet was destroyed.<br>  Well, billions more lives will be at risk  until we understand the anomaly  well enough to predict its path.<br>  So you think I should let him go.<br>  As do you, I believe.<br>  Yeah, but your personal feelings complicate your decision.<br>  What if he takes unnecessary risks?  I wonder, then, if added safety measures  would be helpful to all involved.<br>  I have some ideas, if that would be helpful.<br>  Have I mentioned I am glad you're back?  I believe you have.<br>  You want to send the only two people  who can operate the spore drive, together,  into the accretion cloud  of an unknown astrophysical entity?  You might as well blow me out an airlock.<br>  Oh.<br>  Too soon? Probably too soon.<br>  But still, it's madness.<br>  Yes, which is why you'll be going as a holo.<br>  Oh.<br> Well, in that case  Your body will be right here on Discovery the entire time.<br>  The anomaly creates enormous distortions.<br>  We might not be able to maintain a holo signal.<br>  Right, which is why we'll be using a tether  to help Book's ship maintain proximity to Discovery.<br>  And, if we have to, we will use it to pull him out.<br>  And I want you on the bridge, listening in on comms.<br>  Let me know if you have any reason for concern.<br>  Yes, Captain.<br>  "Blow me out an airlock"?  It was humor.<br>  Neural link.<br>  You'll feel everything on Book's ship  as if you were really there.<br>  If, for whatever reason, you remove this transmitter,  you'll be right back here What's wrong?  I wouldn't know what to say to Book on a good day.<br>  Well, when you lost me, what did you want people to say to you?  It's not nearly the same thing.<br>  Grief is grief.<br>  And everyone moves through it differently.<br>  Let Book guide you.<br>  Are you sure?  Things have been seriously awkward with him  since he jumped Discovery to the dilithium planet.<br>  Just trust your instincts.<br>  You should know better than to say that to me.<br>  You're better than you think you are.<br>  Book.<br> Hi.<br>  Uh, sorry, I'm  still getting used to this, uh, new tech.<br>  We're leaving soon.<br> Get ready.<br>  It's so smooth.<br>  I-I thought I'd be able to tell the difference, but  Wait for us to crash, then we'll see.<br>  Right.<br>  So, um, I've been meaning to ask you.<br>  When-when you're using the spore drive interface,  do you ever feel cramps in your hands?  Or, uh, tingles in your arms?  No?  Okay  Hey, girl.<br>  I wouldn't do that.<br>  Holos freak her out.<br> She can't smell you.<br>  Come on, darling.<br>  Let's get you secured.<br>  Look, uh, I get it.<br>  We're not friends.<br>  But I know you've been through a lot.<br>  So, uh  if there's anything I can do to help out or  Maybe stop talking.<br>  That'd be a good start.<br>  Excuse me?  I don't need a tether  and I sure as hell don't need a minder.<br>  I'm here for the data.<br>  You wouldn't know what to look for.<br>  Fine.<br>  I fly.<br> You scan.<br>  Owosekun, how's it looking out there?  Gravitational fluctuations remain within safe parameters.<br>  All right, Book, we're good to go.<br>  Detmer, bring us as close as we can safely get.<br>  He'll take his ship in from there.<br>  Aye, Captain.<br>  Rhys?  Tether's holding, Captain.<br>  Keep an eye out for micro-strains.<br>  Any sign it's failing and we're pulling him out.<br>  Aye, Captain.<br>  Approaching the dust layer.<br>  - You good, Book? - Yup.<br>  Going deeper in.<br>  You said "dust layer".<br>  Some pretty large chunks in here.<br>  Well, it did just pass through a planetary system.<br>  I'm sorry.<br>  Can your shields handle this?  Holding steady so far.<br>  Hey.<br> Are you okay?  Don't ask me that again.<br>  We're through the outer layer.<br>  Stamets has started scanning.<br>  - Tilly? - Captain, we're about to be hit  by a subspace gravitational wave  Gravity generator malfunction!  Status report!  - I can't reach my station.<br> - Zora!  Artificial gravity generators  are unable to compensate for extreme  How long will they last?  It will pass in Now.<br>  Is everybody okay?  That wasn't supposed to happen.<br>  Red alert.<br>  Let's find out why it did.<br>  Where did it come from? Did we get pulled into the yellow zone?  No.<br> We're still at a safe distance.<br>  How's the tether?  Holding steady, Captain.<br>  Damage report?  Port nacelle needs repairing.<br>  Power failure in Engineering,  hull integrity at 55% percent.<br>  Discovery will not survive much more of that.<br>  - Your chin.<br> - Get Adira up here.<br>  I want you two to figure out what just happened,  - and if it's going to happen again.<br> - Aye, Captain.<br>  - I need to finish.<br> - Go.<br> Make it fast.<br>  Stamets.<br>  What's the status on those scans?  Whoa.<br> It's going slow,  but I'm getting a ton of data.<br>  Can't you make it go steadier?  You're kidding, right?  I'm workin' magic over here.<br>  Well, then, magically keep it steady.<br>  Damn it.<br> I lost navigation.<br>  We're pulling you out.<br>  No.<br>  We need this data.<br> We need answers.<br>  No, Book  I-I could really use the time.<br>  - How much time, exactly? - Uh  Let's call it ten minutes.<br>  We will do our best.<br>  I need to know if one of those fluctuations will happen again,  - Tilly.<br> - On it.<br>  You have a cracked rib.<br>  Gravitational fluctuations have exceeded  all the anticipated parameters.<br>  Something has changed.<br> We-we need to figure out what.<br>  I'm working on a new predictive algorithm,  but the data's so limited that I  Well, did you include Nalas's gravimetric data  from the station in your calculations?  Of course.<br> I've done this before.<br>  - You don't have to check my work.<br> - Hey!  You don't get to do that, okay?  We've all done this before;  we still double and triple check our work.<br>  Now, make sure that you've included  the irregular gravitational strain on the ship.<br>  Please.<br> Thank you.<br>  Sorry.<br> I'm, like, Stamets-ing right now.<br>  We're all under a lot of pressure.<br>  And what happened on that station was  And you know Adira's just trying to impress you, right?  They really look up to you.<br>  Uh Okay, uh, I-I've adjusted the numbers  to account for the gravimetric variant  and we have a problem.<br>  Captain! Uh, good news.<br>  We know when the next disturbance is gonna hit.<br>  Bad news it's in two seconds.<br>  Everybody brace!  Damage report.<br>  Injuries on multiple decks.<br>  Structural and power failures on decks 14 through 16.<br>  Another one of those and the artificial gravity generators  will give out completely.<br>  If the hull doesn't open before it.<br>  - You okay? - Yeah.<br>  Tilly, how much longer do we have?  Four minutes.<br> Then a minute and a half.<br>  - Then 40 seconds.<br> - Why so irregular?  - We don't know yet.<br> - Get back to it.<br>  Aye, Captain.<br>  We have to pull Book out.<br>  Or we can release the tether  and allow them to continue their work.<br>  He doesn't have navigation.<br>  And without that data, Captain, we have nothing.<br>  Discovery has to pull back.<br> Where are you with scans?  I need, uh, five more minutes.<br>  Make it three.<br>  I-I'd be lucky to get it in five.<br>  What if we come back?  It'll take a week to fix this ship.<br>  Stamets, can you do your analysis with what you have?  I-I won't know until I can get into the data.<br>  And in the meantime, this thing  will just be roaming around and  who knows how much more damage it can do?  Book?  Hey.<br>  Book.<br>  What the hell is going on with you?  They're talking about pulling us out.<br>  Yeah, that's not happening.<br>  We're not leaving without the data.<br>  You have to release the tether.<br>  Does it sound like he's thinking clearly?  In these circumstances,  it's impossible to distinguish between stress  and emotional instability.<br>  Michael.<br>  We can do this.<br>  Rhys, let him go.<br>  Aye, Captain.<br>  Detmer, pull us back.<br>  Aye, Captain.<br>  Book's flying blind.<br>  Without the tether, we have to find another way to get him out  before his ship fails completely.<br>  Start thinking.<br>  Aye, Captain.<br>  Uh, three more minutes for the scan.<br>  You said that three minutes ago.<br>  Oh, whoa! Watch it!  What is that?  Is that the the boson-energy-transfer unit?  - That's the one.<br> - Warning.<br> Power failure.<br>  Engines at 70%.<br>  Discovery, we're losing engines.<br>  Grab a phase discriminator.<br>  - Where? - Over there.<br>  You say that like it should be obvious.<br>  Just pretend like your life depends on it.<br>  You know? Like mine does.<br>  You know, I-I was told to-to follow your lead,  that-that you would let me know what you needed.<br>  What are you talking about?  Engines at 60%.<br>  I'm-I'm talking about  me, trying to be sensitive.<br>  And you being you.<br>  You do realize you've spoken to me more today  than you have in the past, what, five months?  That's not true.<br>  Ever since you found out I could run the spore drive.<br>  Your ego got bruised and then you blamed me.<br>  Nothing to do with it.<br>  What is it, then?  You remind me of how helpless I was.<br>  When I look at you,  all I can see is how close I got  to losing everything.<br>  Again.<br>  You were the one who saved my family.<br>  I wasn't able to do anything and  I hate that feeling.<br>  Engines at 30%.<br>  Data scan complete.<br>  Go.<br> Pull off the neurotransmitter  and get back to Discovery.<br> Start analyzing.<br>  - I can't.<br> - What?  The-the distortions that keep interfering with my holo  I haven't been able to send any of the data back.<br>  It lives here, on this ship  and nowhere else.<br>  Captain, we've got something.<br>  Okay, uh, this is what  the subspace gravitational waves look like  where Book is.<br> Whatever's making them  hit us harder, they're hitting him harder, too.<br>  Yikes, right?  But we think, in theory, Book could catch  one of these waves and sort of  ride it out.<br>  Mr.<br> Booker's engines are losing power.<br>  How could he even attempt such a thing?  Newtonian mechanics.<br>  Basic application of fluid dynamics.<br>  I used to kite-surf the biggest breaks on Manark IV.<br>  It's the same basic idea.<br>  If Book accelerated into the distortion here,  the buoyancy will take care of the rest.<br>  But without navigational sensors,  he won't be able to gauge the right angle  he can't just feel it.<br>  Maybe there's a way he can.<br>  Tilly, can you turn this holo rendering  into programmable matter?  Oh, you bet.<br>  Uh why would I do that?  You want me to do what?  Like kite-surfing.<br>  If you hit it at just the right angle,  it will carry your ship out.<br>  I'm flying blind.<br>  I'll tell you when.<br>  You just have to follow my mark exactly.<br>  - Got it.<br> - Engines at 20%.<br>  You think that repair will hold?  It's barely stitched together.<br>  It could blow any time.<br>  Glad I asked.<br>  On my mark.<br>  Get ready  Now!  - You sure? - Go!  What happened? Book?  I missed it.<br>  Damn.<br>  Listen.<br>  Another will come.<br>  It'll be tight, but  but there is enough power to the engine  to give it one more shot.<br>  You get to try again.<br>  That's something.<br>  We'll-we'll try this again.<br>  It's over.<br>  It's not.<br>  Pull off the transmitter.<br>  No.<br>  You're not even here.<br>  No one's here.<br>  I'm here.<br> We're all here.<br>  Another distortion will come  in less than two minutes.<br>  Are you ready?  Book? Are you there?  Book.<br>  Book, we don't have a lot of time.<br>  Captain  I think he may need  a little more help with this one.<br>  Perhaps now is an appropriate time  for you to set aside the captain  in favor of the partner?  Bryce, open a private channel, please.<br>  Hey, Book.<br>  It's just us now.<br>  You and me.<br>  And I need you to listen to me:  You couldn't have saved them.<br>  There is nothing you could've done.<br>  You couldn't have known.<br>  The birds  The way they took to the sky  I should have sensed it.<br>  No.<br>  This isn't your fault.<br>  I should've taken them with me.<br>  Kyheem  Leto  I failed, Michael.<br>  I failed them.<br>  I know it feels that way.<br>  But you didn't.<br>  You didn't fail them.<br>  And I won't fail you,  now or ever.<br>  I am with you.<br>  The entire crew is with you.<br>  We're gonna do everything in our power  to make sure you make it back safely.<br>  But I need you to trust me right now.<br>  Please.<br>  Just close your eyes.<br>  Listen to my voice.<br>  Stay with us.<br>  Stay with me.<br>  I'll tell you when to go,  and when I do, I need you to  gun it with whatever you have left.<br>  Another distortion wave is coming.<br>  Just ride it out.<br>  Get ready.<br>  Open your eyes.<br>  Now.<br>  Any sign?  Not yet.<br>  I'm free.<br> I'm clear.<br>  Transmitting scan data now.<br>  It's time to come home.<br>  And well done, Commander Bryce.<br>  May we all cultivate such life-saving hobbies.<br>  Thank you, Mr.<br> Saru.<br>  - Nice work, you.<br> - Oh.<br>  Really good work.<br>  Thanks.<br>  Cut it close there, for sure.<br>  Well, this data should be a gold mine.<br>  Oh, don't look at me.<br>  That was all you.<br> I just drove this thing.<br>  Thank you.<br>  For saving my family.<br>  I'm going to figure this thing out.<br> For you.<br>  Whatever it takes.<br>  I promise.<br>  You know  I do get arm tingles in the spore drive.<br>  Yeah.<br>  Weirdest thing.<br>  I'm going to take this off now.<br>  Welcome back.<br>  Lieutenant Callahan,  - please report to Engineering.<br> - Oh.<br> Hey.<br>  Hi, sorry.<br>  Um, I just wanted to thank you,  uh, for your advice, um, with Adira.<br>  It can be hard for them  to let others see past how bright they are.<br>  Yeah.<br>  You have a very, uh, light touch with people.<br>  I really admire that.<br>  You do, too.<br>  Usually.<br>  Yeah.<br> I think, um, you were right  about me feeling pressure.<br>  Um, not about the station, but  I mean, don't get me wrong, that was just  unbelievably shitty.<br>  - But, um - But this is something bigger?  Yeah, like  Things just don't f feel the same way that they used to.<br>  Like  I don't know, something's off.<br> Or, um  I'm off.<br>  Uh  I don't know, I was kind of hoping that  we could talk about it sometime.<br>  Like, talk-talk.<br>  Like, uh professionally?  Of course.<br>  And whatever it is, we'll figure it out together.<br>  Hmm?  Thanks.<br>  Okay.<br> That wasn't so hard.<br>  - Whew.<br> - Just little awkward.<br>  Not But not hard.<br>  - You did good.<br> - Thank you.<br>  I'm gonna go dig into that data.<br>  - All right.<br> - All right.<br>  - Go save the world.<br> - Oh, I will.<br>  - You were kind of a - Oh, my God.<br>   big deal today, you know that?  Your algorithms are  mathematical works of art.<br>  Thank you.<br>  I guess I, um made waves.<br>  Okay, no.<br>  What is it?  You-you got to see your body today.<br>  Which is huge  and I'm-I'm so happy  that you get to incorporate soon.<br>  I hear a "but"  No.<br>  It's okay.<br>  You can tell me.<br>  Nalas  everything that, uh, happened,  you know, the suddenness of it,  and just the whole awful thing,  um, reminded me of what happened to you.<br>  It's just been on my mind.<br>  I  I didn't want to bring it up on such a joyful day,  so I'm-I'm really sorry.<br>  I don't even know how to begin to talk about this.<br>  You just did.<br>  You're really good at this, you know?  The the being there for people.<br>  You always have been, so  Everyone's got to have their thing.<br>  Yeah.<br>  And you're gonna make a great Guardian someday.<br>  Hey.<br>  Hey.<br>  Hell of a day.<br>  Brilliant flying.<br>  You were right.<br>  I wasn't ready.<br>  But you did it.<br>  And you trusted me.<br>  Thank you for that.<br>  I keep seeing him.<br>  Leto.<br>  I don't know if he knew  if I ever let him know how much I loved him.<br>  You know, for so many years,  I told myself I didn't need family.<br>  Didn't need Kwejian.<br>  But then I found my brother again  the nephew I didn't even know I had  And when I looked at Leto  I saw a new beginning.<br>  For all of us.<br>  We could give him a future  where there was a home  and family  and love.<br>  And nothing he couldn't do.<br>  I'm sorry.<br>  They're gone, Michael.<br>  Mr.<br> Saru.<br>  Lieutenant.<br>  Has the data from Mr.<br> Booker's ship  shed new light on the nature of this threat?  Not yet.<br> We still have an Everest-sized mountain of data  to analyze.<br>  Oh, uh  Earth mountain.<br> It's very big.<br>  Doesn't matter.<br> Point being, I did find something.<br>  The reason the distortions got worse,  even though Discovery held its position?  So this is the anomaly when we arrived.<br>  And this is it after we left.<br>  It changed direction?  What could have caused that?  That's the thing:  there is nothing in my understanding of astrophysics  that can explain it.<br>  But we gathered this data  in order to predict its path.<br>  Are you saying we cannot do that?  No, sir, we can't.<br>  It could go anywhere, at any time, and  we may not have any kind of warning at all.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e01" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e03" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

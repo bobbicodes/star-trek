@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e13 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e13 - That Hope Is You, Part 2 Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e13 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e13"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e13 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e13" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;That Hope Is You, Part 2</div>
+
+            <h1>Star Trek: Discovery (2017) s03e13 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">That Hope Is You, Part 2</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1  Previously on Star Trek: Discovery  The Khi'eth.<br> There's a life sign.<br>  Someone is alive inside that ship.<br>  We'll still need to be back in sickbay in four hours.<br>  At the most.<br>  Excuse me.<br>  Hello?  What if the survivor doesn't know  the outside world even exists?  What if he's never heard of the Burn?  You're a part of the program.<br>  Wait, wait!  The monster from the story,  it rises from the sea to remind the children of Kaminar  that to be truly free,  they must face their deepest fear.<br>  So long as he will not face it,  he will remain in this place.<br>  As will you.<br>  No, no, no!  Michael, I'm in the nebula.<br>  - I have to pull you all out now.<br> - Book?  Whatever just happened down there,  it nearly caused another Burn.<br>  Su'Kal.<br> He caused the Burn.<br>  I'm here.<br> Where are you?  I'll come back for both of you.<br>  If more than a day goes by, there's no point.<br>  - Adira? - They'll need this medication  to survive until Discovery comes back.<br>  Book.<br>  - Where are the others? - We have to go back for them.<br>  What do you want?  Your ship, your spore drive  and your crew, as leverage.<br>  Osyraa.<br>  She's not on the Viridian, she's on Discovery.<br>  And we just let her in the front door.<br>  I want the Emerald Chain to unite with the Federation.<br>  There is a deal to be made here.<br>  The person representing the Chain  has to be proven credible.<br>  And the only way that that can happen  is if he or she functions  completely independently of you  and tries you for your crimes.<br> I can promise you justice.<br>  Oh, I can promise you the same.<br>  It's an emergency escape field.<br>  I'm turning on the homing beacon.<br>  Fed HQ will see you and bring you in  - before Osyraa knows you're missing.<br> - Michael, look at me.<br>  - How can you do this?! - I'm sorry.<br>  Michael!  You're gonna be really sorry you did that.<br>  You're the sphere data, aren't you?  Indeed we are.<br> Hello.<br>  Greetings.<br>  It hid itself in the DOT-23s.<br>  You here to help us?  I am at your service, Captain.<br>  Shall we take back the ship?  Put the fleet at Kaminar on red alert.<br>  Prepare to fire on Discovery on my command.<br>  The gormagander, a sentient cosmozoan species,  holds the ignominious record of longest time spent  on the Federation's endangered species list.<br>  That's why this recorded scan  of a young gormagander pup in 3052  was of particular interest to us  That looks painful.<br>  Su'Kal  I am ill.<br>  This  - this world - Here.<br>  For your wounds.<br>  Saru.<br>  I've looked everywhere, and things are definitely worse.<br>  More radiation is getting in.<br>  His outburst must have caused a breach in the ship's hull.<br>  Has he told you how to turn off the holo?  I believe he knows more about this world  than he has indicated.<br>  But I cannot force  a shift in perspective or he could panic.<br>  Another Burn could destroy what remains of the Federation.<br>  I don't know what else to do.<br>  Talk to him about you.<br>  Tell him you're Kelpien.<br>  Show him there are perspectives other than his own.<br>  If anyone can get through to him, it's you.<br>  Hello?  Anyone? Hugh?  - Adira? - Oh, my God.<br>  What are you doing here?  - Well, um, I brought medicine.<br> - How?  I hid it in my mouth.<br>  We heard you on board, so I knew I'd be landing in a holo.<br>  What happened to Discovery? Has Osyraa gone?  Are they here? Is Paul okay?  I-I don't know.<br> I didn't exactly ask permission to come.<br>  I can't believe you did this.<br>  Yeah, well, I had to do something.<br>  Here.<br>  Will these heal you?  No, but they will buy us some time.<br>  - You found them.<br> - Yeah.<br>  Not a moment too soon, looks like.<br>  Gray?  You  you-you see me?  The holo it recognizes you.<br>  Hi.<br>  I-I'd forgotten what  H-Hi.<br>  You do have kind eyes.<br>  Told you.<br>  Take Adira and Gray.<br>  Continue to search for a way to exit the holo.<br>  The medicine has bought us some time,  but we have only a few hours left, at most.<br>  And we must make contact with Discovery, wherever they are.<br>  Voyager, you're gonna  take the lead on the Viridian.<br>  Fire when ready.<br>  On my mark, all other vessels, fire on Discovery.<br>  What about the message it sends?  That spore drive is how we reconnect  with all the worlds we've lost.<br>  If Osyraa reaches them first  the Federation is done for.<br>  - Open fire.<br> - Firing, sir.<br>  Tell the Viridian to increase firepower.<br>  Get us out of here.<br>  Copy that.<br>  Reroute auxiliary power to shields.<br>  Fire at target location bearing three-six degrees alpha.<br>  - But that's their - Their primary shield emitter  disguised as a secondary deflector array.<br>  Yes, Osyraa.<br>  She knows about our shield emitter.<br>  - How long can it hold? - Five minutes, at most.<br>  Tell the fleet to hit them harder.<br>  Give them everything we got.<br>  - Aurellio, is the truth serum ready? - Yes, Osyraa.<br>  You are taking us to that dilithium planet, Cleveland.<br>  Find your own path through that nebula.<br>  I'm not telling you a damn thing.<br>  That's what everyone says and then they sing  like an Alcorian sorrowhawk.<br>  Ready a course for Base 755,  have reinforcements meet us there.<br>  Inform them that our alliance was refused.<br>  I want the Federation obliterated.<br>  I take it you saw Stamets' escape pod.<br> Mm.<br>  My team will find a way to make the spore drive work.<br>  And thanks to your special friend,  we will have plenty of dilithium.<br>  Sir, I'm getting reports of a firefight on deck seven.<br>  Hostiles are advancing, heading to the bridge.<br>  What can I say? We are Starfleet.<br>  Get him to sickbay.<br>  Tell Aurellio to be quick about it and send a message:  all regulators to decks five and above immediately.<br>  Aah!  Turbolift around the corner in 15 meters.<br>  Clear!  Flank left.<br> I got right.<br>  They're retreating.<br>  Where are they going?  - What is that? - What the hell?  Is that wind?  Life support shutoff imminent.<br>  Turbolift! Go, go, go, go, go!  Life support disengaged.<br>  Decks six through 18 sealed.<br>  Life support was shut off on Discovery's lower decks.<br>  Vents are open, air's leaking out, slowly.<br>  - Is there anyone down there? - Can't tell, sir.<br>  Life signs are still scrambled.<br>  It's got to be the crew.<br>  Seems Osyraa plans to take her time killing them.<br>  We lose shields in 60 seconds, Admiral.<br>  Stop shooting! Please, sir, cease fire.<br>  Captain Saru is trapped in the nebula.<br>  We need to force our way back onto Discovery.<br>  They can't jump without me.<br>  We can't risk sending you back.<br>  It's not just Captain Saru, sir.<br>  We lose shields in 30 seconds.<br>  I know, but Commander Burnham did the right thing.<br>  - Get him to the Foresight.<br> - Admiral  No, you're the only one that can operate the spore drive.<br>  You're going with the civilian emergency transport  as far away from here as possible.<br>  - Listen! - Believe me, I know what you're sacrificing here.<br>  - I'm sorry.<br> - No Let go of me!  Our shields are going down, sir.<br>  Prepare to pursue.<br>  Warning: outer shield breach.<br>  Nearest Chain base is 755.<br>  We're being hailed.<br>  Audio only.<br> It's Ni'Var, sir.<br>  Coming in at maximum warp.<br> They sent a fleet.<br>  They say they're here to help.<br>  Ni'Var Razors are blocking our way out of the shield, sir.<br>  Tell the Viridian to deploy its cache of pesticides.<br>  Target shuttle bays, intakes and airlocks.<br>  Stop.<br> Don't.<br>  I'll take to Admiral Vance.<br> I'll get him to stand down.<br>  I'm a little busy for games right now.<br>  Ni'Var is here because of me.<br>  They trust me.<br> Vance trusts me.<br>  All the more reason why I cannot.<br>  You're outnumbered and outgunned.<br>  You have nothing to lose.<br>  Hail him.<br>  - Admiral.<br> - Minister Osyraa.<br>  Whatever you're about to ask me  We hailed you at my request, sir.<br>  You need to let us go.<br>  Says the hostage with a phaser to her head.<br>  Didn't you send the distress call to Ni'Var?  I did, but we don't need to escalate this.<br>  - If you let us go - Discovery is far too valuable.<br>  Not without Commander Stamets.<br>  Sir, I know we haven't always seen eye to eye,  but you can trust me.<br>  You can trust us.<br>  We won't let you down.<br>  I won't let you down.<br>  Let us go.<br>  Well, that went well.<br>  Ready torpedoes.<br>  Fire at the pesticide cache  as soon as the Viridian releases it.<br>  The contaminated shrapnel will make short work  of any ships within range.<br>  Sir, Federation ships are backing off.<br>  Now turn life support back on.<br>  I'll get my crew to stand down, too.<br>  They had their chance.<br>  Maximum warp.<br>  And get her the hell off my bridge.<br>  It has helped your face, the kelp.<br>  I knew it would work.<br>  Ah.<br>  More wounds will appear.<br>  Perhaps I could explain over a meal.<br>  We can prepare it together.<br>  Um, are you familiar with sÃ Ã¬-nÃºÃ¹-lem?  SÃ Ã¬-nÃºÃ¹-lem is a traditional food from Kaminar.<br>  I've always wanted to make it,  but the holos don't give good instructions.<br>  I would be happy to teach you.<br>  We have enough wood for a small fire.<br>  But how do you know how to make it?  I learned from my father.<br>  Those are among the most  precious memories of my childhood,  that time with him.<br>  And serving it to my mother and sister.<br>  I've never seen a human holo eat sÃ Ã¬-nÃºÃ¹-lem.<br>  I know it must be confusing.<br>  But things are not always as they appear.<br>  I am not as-as I appear.<br>  In fact, I'm-I'm much like you.<br>  I am Kelpien.<br>  I'm a courier, Doc, I know all about microdosing.<br>  The effects aren't always immediate.<br>  He's built immunity.<br> Give me the neural lock.<br>  - I'm not putting the neural lock - Give-give me  - the neural lock! - I will not put the neural lock  So you went all the way to Hunhau  to save him from my nephew,  and then to Kwejian to help his family.<br>  I want that dilithium.<br>  Be persuasive.<br> Or you're next.<br>  Get the flight path from our logs.<br>  Or did my crew erase it before you could  pull them from the bridge?  I think I might actually like you.<br>  Give Zareh the neural lock.<br>  Osyraa, please, my serum will work.<br>  Sure, he's docile now, but  Violence is not necessary.<br>  Why don't we test that theory?  Mr.<br> Booker's empathic nature would make it excruciating.<br>  Now is not the time for soft hearts.<br>  You saved me.<br> You have saved others.<br>  I know your heart.<br>  Orion hearts have six valves.<br>  Blood flows in both directions.<br>  They are so much more complex than human hearts.<br>  I won't let it happen, Osyraa.<br>  I am genuinely fond of you.<br>  But make no mistake,  I saved you because you're useful to me.<br>  And even when that ceases to be the case,  the bond we have means that you and your family can  live comfortably in a location of your choosing.<br>  Break that bond again and you won't wake up next time.<br>  Book  He will die from sheer agony.<br>  Have you ever seen that before?  Make the smart choice.<br>  Book, listen to me.<br> I've got you.<br>  No, you don't.<br>  This is what's called a no-win situation.<br>  I don't believe in those.<br>  Well, then, you still have a lot to learn.<br>  How can you be Kelpien?  You don't look like me.<br>  The holo changes things sometimes.<br>  Makes them appear different,  or-or places them where they do not belong.<br>  Surely you've noticed.<br>  Long ago, that door led only to Kaminar.<br>  Now it sometimes leads to other worlds.<br>  What else do you know of the Federation worlds?  Were you ever taught that they were outside?  You want to talk about outside again.<br>  I do not like that.<br>  May I ask why?  The holos said the Federation would come for me,  from outside.<br>  If outside exists,  why didn't they come?  The Federation wanted to come.<br>  Wanting is not the same as doing.<br>  Something happened,  which prevented long-distance travel for many years.<br>  What happened?  - It was long ago.<br> - What happened?  It is complicated.<br>  Tell me!  Please, please, Su'Kal,  be calm.<br>  This is my life.<br>  I need to understand.<br>  Warp drives malfunctioned.<br>  It was called the Burn.<br>  It affected everyone, not just the Federation.<br>  But the important thing is  we are here now.<br>  And we are because your mother reached out.<br>  My mother?  She created this world  to keep you safe.<br>  But she never intended  you should live here forever.<br>  Wait.<br>  Stop!  Tell him to give me what I need.<br>  This man has stamina,  but won't last much longer.<br>  Just FYI.<br>  Well, let him catch his breath.<br>  Book  All of this  unpleasantry  can end, you know.<br>  Your friends will be unconscious  in less than 30 minutes  and dead within the hour.<br>  The Federation is a-is a shell of itself,  just going through the motions.<br>  You can't save any of them.<br>  But  you can save him.<br>  Do you really want to wake up tomorrow morning  having lost everything?  Maximum intensity.<br>  Okay, stop, stop! I'll talk to him! Just stop.<br>  Stop.<br>  Get your hands off me.<br>  Stick close to her.<br>  Book, I'm here.<br>  Michael  don't ask me.<br>  I'm sorry for the pain you've had to endure.<br>  And I'm sorry that it's about to get worse.<br>  Medical emergency.<br>  - Quarantine activated.<br> - Turn it off!  Get this damn force field down.<br>  - I'm working on it.<br> - Come on! Come on!  You good?  Come on.<br> Let's go.<br>  Hey, any luck with the emergency backup?  Let you know in one minute.<br>  Give the oxygen to Keyla.<br>  No, hey, you can't help if you're not conscious.<br>  I was holding my breath for at least ten minutes  by the time I was eight years old.<br>  I didn't know that.<br>  At home we'd freedive  for abalone in the Ogbunike caves.<br>  It was as much for tradition as for sustenance.<br>  Or that's how it was, anyway.<br>  Bad news.<br>  There's no way to bypass Emerald Chain command functions.<br>  What about a hard reboot?  We'd have to be able to access the data core in person.<br>  So we're gonna have to fight until our last breath.<br>  All personnel, code red, deck five.<br>  It's Michael.<br>  Can't you just beam us somewhere?  Transport jammer.<br> We're all on foot.<br>  Damn adrenaline.<br>  When's my heart meant to slow down?  With what we're about to do, not anytime soon.<br>  Sounds ominous.<br>  Let's just say it'll make Sigma Ten feel like a vacation.<br>  Definitely ominous, then.<br>  You stole a regulator badge?  Sure did.<br>  Regulator ID: Green 512.<br>  - Computer, open a ship-wide channel.<br> - Channel open.<br>  It wasn't a particularly happy birthday.<br>  But I found you.<br>  We played seven-card stud and drank synthehol.<br>  Too bad we didn't have fireworks.<br>  Nothing stops a party like fireworks.<br>  Who's she talking to?  Me.<br>  I assume someone will be able to make sense of that?  Yeah.<br>  Now we just got to get to the data core.<br>  Then let's take back this ship.<br>  - Clear here.<br> - clear here.<br>  Last year, I was, um, I was going through a hard time.<br>  I got off my shift and I just hid in a nacelle,  just waiting for the day to pass.<br>  But she found me.<br>  She brought cards and synthehol,  and we played poker and drank  until 0000 hours.<br>  She didn't wish me happy birthday once.<br>  She wants us to go to a nacelle.<br>  The magnetic fields are affected  by extreme heat, so  if we could set off a a thermochemical bomb  in between superconductors  holding Discovery to its nacelles.<br>  So that we'll temporarily break the magnetic seal.<br>  Yeah, that'll knock us out of warp.<br>  And our allies will be able to catch up to us.<br>  But the magnetic field could destroy the DOTs  before they could even set the bomb.<br>  That's why we have to do it ourselves.<br>  It's a suicide mission.<br>  We can die here or we can die  stopping Osyraa and saving the Federation.<br>  But that is up to you.<br>  Each of you.<br>  I'll go get the chemicals.<br>  I'll start on the fuse.<br>  Su'Kal.<br>  Kaminar is empty.<br>  The holos are all gone.<br>  Where did they go?  Kaminar was never through that door.<br>  It is an entire world.<br>  There there are many worlds  and many individuals.<br> Not only holos.<br>  I am sentient.<br>  Just as you are.<br>  You must sense it.<br>  That we are different from the holos.<br>  I've always felt different.<br>  Yes.<br>  Uh, like you, I have been at a crossroads.<br>  I've had to choose between  leaving the only world I had ever known  or staying.<br>  And I, too, was afraid.<br>  But you said my mother built this world  to keep me safe.<br>  Outside can be challenging.<br>  Dangerous?  But it is also beautiful and diverse  and filled with wonder.<br>  All that you have learned here  was meant to help you understand it.<br>  See me.<br>  It's back  the creature that chases me.<br>  - Su'Kal, it came from the folktale.<br> - No.<br> No.<br>  - It is trying to help you.<br> - No.<br>  Whatever's behind that locked door,  whatever happened to make you afraid,  - you must face it or we will all die here.<br> - No.<br>  See me.<br>  No, I won't!  I need to find the elder.<br>  Hello? We are the anticipated input.<br>  We've come for the child.<br>  You said the Vulcan holo  was showing its underlying programming.<br>  Maybe it's already fritzed out.<br>  Or got lost in that.<br>  Those are the edges of the holo.<br>  The ship would be just beyond that.<br>  We should check it out,  see how badly the hull's compromised.<br>  I tried.<br> I got sick right away.<br>  The radiation in there is definitely worse.<br>  I could go.<br>  - Gray - I  I'm not actually corporeal, remember?  Radiation can't hurt me.<br>  How could Su'Kal have caused the Burn?  I How is that even possible?  I can't prove it without a scan,  but I suspect he's a polyploid.<br>  That's when normal chromosomal separation  is disrupted in utero.<br> It can  cause an individual's genes to be affected  by their environment,  and this environment has massive  concentrations of dilithium.<br>  Not to mention whatever's outside.<br>  You think Su'Kal's  genetically connected to dilithium?  I think his genes have mutated to allow his body  to interact with dilithium in unique ways, yes.<br>  Well, dilithium has a subspace component.<br>  Uh, does that-does that mean he'd have a genetic connection  to subspace, too?  That would explain a lot.<br>  Did anything unusual happen on board  before you beamed down here?  Yeah, our-our warp core reacted to something,  uh, a subspace radiation surge.<br>  - Why? - Su'Kal got upset.<br>  He screamed and the entire ground shook.<br>  Sound is-is a mechanical wave.<br>  Its energy travels through a medium.<br>  - Like subspace.<br> - His scream must have  traveled at the resonant frequency  of-of dilithium's subspace components.<br>  That's what hit our warp core.<br>  So whatever frightened him 125 years ago  must have been infinitely worse than what happened to him today.<br>  That's what caused the Burn.<br>  Can we stop the Burn from happening again?  If we can get him away from all of this dilithium, I think so.<br>  The ship's falling apart.<br>  Shields won't hold for much longer.<br>  If Su'Kal has answers,  we need them.<br> Like, now.<br>  Ah, Su'Kal.<br>  The elder's gone.<br>  I am so sorry.<br>  His absence can only reflect  how severely this world is degrading.<br>  We must go, Su'Kal.<br>  I saw outside once.<br>  When I was so very small.<br> It was  Terrifying.<br>  The elder read stories to me.<br>  They calmed me.<br> They made me feel safe.<br>  I do not have him now.<br>  You have us.<br>  You have me.<br>  Please, Su'Kal,  take us to that room.<br>  Whatever is inside,  it is time to see.<br>  Why can't the nacelles be closer?  We're almost to the access point.<br>  Hang in there.<br>  Here.<br>  I don't think I can get up.<br>  You have to try.<br>  Both of you.<br>  Owo, you have to go by yourself.<br>  Take the oxygen.<br>  What?  No.<br> You'll suffocate.<br>  We're just delaying the inevitable.<br>  You have to finish the mission.<br>  Please.<br>  I love you all.<br>  - How much longer do you need? - Two minutes.<br>  How about 15 seconds?  Anytime.<br>  - It hasn't even been 15 seconds.<br> - Come on!  Go, go, go!  Got it.<br>  Open that door!  I won't be able to override the system in time.<br>  We can't move.<br>  Plan B, then?  Negative contact.<br>  Negative, negative, we got nothing.<br> All clear, deck eight.<br>  Up here, you son of a bitch.<br>  Aah!  - You okay? - Yeah.<br>  But I have to get out of here.<br> We're running out of time.<br>  I have an idea.<br> Cover me!  Michael!  Processing.<br>  Come on.<br>  - Processing.<br> - Aw, come on.<br>  - Come on! - Coordinates accepted.<br>  Yes!  You have arrived at the data core.<br>  I'd have come here, too.<br> Smart.<br>  Your approval means everything to me.<br>  Adrenaline wearing off?  Nope.<br>  Nacelle doors open.<br>  Warning.<br>  Oxygen depleted.<br>  Warning: nacelle breach.<br>  Warning: nacelle breach.<br>  Warning: nacelle breach.<br>  Lieutenant Owosekun.<br>  You can't be here.<br>  The magnetic field.<br>  You must stand.<br>  Status report!  Something's knocked us out of warp.<br>  Tell the Viridian to pull us in.<br> We are not losing this ship.<br>  Who do you think  is gonna make the bigger stain down there,  you, or that fat cat of yours?  She's a queen!  It doesn't have to be like this.<br>  I already tried with Vance.<br>  I won't make that mistake again.<br>  Yeah, well  unlike you  I never quit.<br>  Computer, this is Michael Burnham,  Commander, USS Discovery.<br>  Reset all primary and secondary systems.<br>  Authorization code Burnham Gamma six-zero-two Epsilon Echo.<br>  System check.<br>  System check.<br>  System check.<br>  Reboot complete, Commander Burnham.<br>  Yes! Yes!  Restore life support on all decks,  beam all regulators off Discovery,  divert auxiliary power to shields.<br>  Open a ship-wide channel.<br>  This is Commander Michael Burnham.<br>  Any crew who can hear me, report to the bridge immediately.<br>  I repeat, this is Commander Burnham.<br>  Report to the bridge immediately.<br>  You pulled me out of there.<br>  It was my honor.<br>  Thank you.<br>  You're alive.<br>  So are you.<br>  All of you.<br>  You did it?  We did it.<br>  Let's go to the bridge, then.<br>  You made it.<br>  All right.<br>  We're using the same operating system from before the upgrade.<br>  Can't say I mind.<br>  What the hell is that?  It's anti-proton cannons.<br>  Osyraa is dead,  and I got her regulators off our ship,  but we're stuck inside the Viridian  and they're trying to breach the hull.<br>  Um, Captain, we have an idea.<br>  Then implement it.<br>  Tilly?  We need you to lead us.<br> You.<br>  But, um, if it helps, that's an order.<br>  Our priority is to get out of here and back to the nebula  as quickly as possible.<br>  You think they could still be alive?  I don't know, but we have to find out.<br>  The Viridian won't just let us go.<br>  I don't expect them to.<br>  Which is why we have to eject the warp core  and blow our way out.<br>  What?  We'll blow ourselves along with it.<br>  There's a chance we won't.<br>  I was really hoping you would say that.<br>  Aurellio?  I've studied many types of empaths.<br>  The Kwejian version is different.<br>  Mr.<br> Booker doesn't just feel, he connects.<br>  He's able to communicate with species  that are nothing like his own.<br>  Commander Stamets needs Tardigrade DNA  to communicate with the spores.<br>  But you think Book could do it just because of who he is?  That his DNA would make it possible?  - I do.<br> - We give it a go,  or we wait till the regulators blast through our shields  and kill us anyway.<br>  At least this way, we still have a shot.<br>  Sensors are fully operational.<br>  Spore drive is activated.<br>  Comms are operational.<br>  Outside channels are open.<br>  Shields holding at 50%.<br>  Weapons systems on line.<br>  All are armed and ready to deploy.<br>  Warp core is ready, Commander.<br>  You good, Book?  Always.<br>  Lieutenant Bryce, contact Voyager and the Ni'Var fleet.<br>  Tell them to get to a safe distance.<br>  Yes, Commander.<br>  Lieutenant Ina, beam Book directly into the spore cube.<br>  Aye, Commander.<br>  Initiate warp core overload.<br>  Drop it on my mark.<br>  See.<br>  I'm afraid to turn off the holo.<br>  I know it is hard,  but you must take a leap of faith.<br>  It is the only way we will all survive.<br>  The structure, the ship, that houses this environment  is-is failing.<br>  - You can see it.<br> - Su'Kal.<br>  You're okay.<br>  I know you don't feel that right now, but you are.<br>  And it's okay to be afraid.<br>  The Elder used to say that.<br>  Even in fear, Su'Kal, you can still step forward.<br>  I have not been in here since I was a child.<br>  Once he turns off the holo, I-I'll  I will still see you.<br>  It's not enough.<br>  I'm stuck.<br>  Tal is stuck.<br>  And now I know what I've been missing.<br> I-I  - Hey.<br> Hey.<br> - To go back, I just, I  We got you, Gray.<br>  Okay? Adira, Paul and me?  We'll find a way to help you be seen truly seen   by everyone.<br>  This part of the journey is yours.<br>  But I will not leave you.<br>    Program terminated.<br>  Simulation deconstructing.<br>  Oh, Computer  show me what I saw here  so I can be free.<br>  Accessing archives.<br>  Presenting final entry before disruption.<br>    Su'Kal?  What happened to our family?  They did not survive.<br>  Su'Kal.<br>  I told you not to touch the console.<br>  Not until the Federation comes.<br>    End of recorded archive.<br>    She knew you would be frightened to see her like that.<br>  She wanted you to feel connected, loved.<br>  I was alone.<br>  You are no longer alone.<br>  You are real.<br>  Culber to Discovery.<br>  Come in, Discovery.<br> Please.<br>  All friendly vessels at distance.<br>  Warp core overload in 30 seconds.<br>  Book, how's that adrenaline?  Hasn't let up once.<br>  I never told you about my mentor,  by the way, Cleveland Booker.<br>  I'll tell you the story if we survive this.<br>  Point being, I try to live up to the name   every day.<br>  I can't wait to hear all about it.<br>  Black alert.<br>  Eject the warp core.<br>  Done.<br>  And jump.<br>  Come on.<br>  Book? Jump.<br>  Book, jump.<br>  Please jump.<br>  Words are not enough to thank you  for finding and rescuing my child.<br>  He is so young,  and this world is all he has ever known.<br>  Please take him home to Kaminar,  to our family in Narrows Firth.<br>  The water in the estuary is normally sweet,  but when the tide is high,  it becomes so salty that one can float.<br>  Tell his grandfather to float him.<br>  Float him during Nereid's Shower.<br>  He will understand.<br>  And if   when, he cries, tell him  to look up into the night sky  and find the brightest of all those many suns  and imagine that it is his mother and father  looking down upon him  with all the love that their hearts can hold.<br>  It was me.<br>  When I screamed.<br>  When I made the world shake, I caused the Burn?  Yes.<br>  What if it happens again?  It won't.<br>  Not once we take you from here.<br>  I would like to help repair what is broken, i-if I can.<br>  You can, but this was not your fault.<br>  You could not have known.<br>  Do you understand?  It is hard.<br>  I will help you.<br>  Structural failure imminent.<br>  - Culber to Discovery.<br> - Structural failure imminent.<br>  Come in.<br>  Warning.<br> Structural failure imminent.<br>  Whatever happens,  we are together.<br>  Saru?  Saru?  - It's us, it's Discovery.<br> - Michael?  Commander,  it is so very good to hear your voice.<br>  We're locked onto you, all of you.<br>  Prepare to beam up.<br>  Are we going Outside now?  Yes, Su'Kal.<br> We are.<br>  Disconnection.<br>  That's how this future began.<br>  One moment in time that radiated outward,  until no one even remembered  that connection was possible anymore.<br>  But it is.<br>  The need to connect  is at our core as sentient beings.<br>  It takes time, effort  and understanding.<br>  Sometimes   it feels impossible.<br>  But if we work at it   miracles can happen.<br>  Hello, Lieutenant.<br> Commander.<br>  How may I be of service?  The Chain fractured without Osyraa.<br>  And the Federation is continuing to rebuild.<br>  There is a lot of work to do.<br>  It will take time,  but already, the Trill have rejoined.<br>  Other worlds are considering it   including Ni'Var.<br>  Saru has asked for time to consider his next steps.<br>  So after this latest round of talks,  he'll return to Kaminar to help Su'Kal build a new life.<br>  One where the sky has no limits  and shines with all the breadth and wonder  this new future has to offer us.<br>  And as for the rest of us?  Congratulations, Lieutenant Sahil.<br>  Thank you.<br>  - Commander Burnham.<br> - Lieutenant Sahil.<br>  You found your way home.<br>  - As did you.<br> - Hmm.<br>  And I'm so grateful.<br>  Thank you.<br>  Thank you.<br>  You asked to see me, Admiral?  I did.<br>  When my daughter first started studying math,  she refused to use numbers.<br>  She'd draw pictures instead.<br>  I wasn't aware you had a child.<br>  Yeah.<br> She and her mother, they left a while ago.<br>  Wasn't safe for them here, but, uh, I will join them one day.<br>  The point being,  she didn't do things the right way.<br>  She did it her way.<br>  And it worked.<br>  Not long ago, we were standing right here,  and I was tearing into you for not doing it the right way.<br>  But I'll be damned if your way didn't work, too.<br>  Hmm.<br>  Well, I had a lot of help, sir.<br>  You were the one who wrestled with how to be.<br>  What this time requires of us.<br>  And you challenged me to do the same.<br>  Have you spoken with Saru?  Yes, sir, I have, b-but  He wants you to captain Discovery.<br>  I do, too.<br>  Sir.<br>  I am honored beyond words that you feel that way.<br>  But if I may,  I'd like to wait until he's back from Kaminar  before we make any decisions.<br>  Well, time is a luxury we don't have.<br>  So many worlds have been struggling since the Burn.<br>  They need the ability to connect with us,  with one another.<br>  We found a way to mine the dilithium on that planet.<br>  You and your crew can bring it to them.<br>  However far away they may be,  you can bring them hope, Commander Burnham.<br>  They've waited long enough  and, I think, so have you.<br>  So I need an answer.<br>  Now.<br>  Captain on the bridge.<br>  What's the latest?  The mining vessel Coloma  is waiting for us at the dilithium planet.<br>  First deliveries are two Federation worlds,  five non-Federation worlds  and one starbase that would like to thank us  with their signature gelato.<br>  All right then.<br>  Everybody ready?  Yes, Captain.<br>  Let's fly.<br>              <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e12" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e01" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

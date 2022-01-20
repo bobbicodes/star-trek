@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e07 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e07 - Magic to Make the Sanest Man Go Mad Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e07 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e07"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e07 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e07" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Magic to Make the Sanest Man Go Mad</div>
+
+            <h1>Star Trek: Discovery (2017) s01e07 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Magic to Make the Sanest Man Go Mad</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			EEN NETFLIX ORIGINAL-SERIE  Wat voorafging:  De  Discovery  is nu het enige Starfleet-schip  met 'n verschuivingsmotor op sporenbasis.<br>  Hij heeft zich geïnjecteerd met 't DNA van het beerdiertje.<br>  Hier.<br> Eet wat.<br> -Hoe heet je, soldaat?  Luitenant Ash Tyler.<br>  Steel je voedsel van de mannen die je behoeden voor de dood?  Zeker weten.<br>  Gaan we naar onze raider?  Nee.<br>  Opstaan, soldaat.<br> -Ik hou u op.<br> Ga door.<br>  Persoonlijk logboek, specialist Michael Burnham.<br>  Sterrendatum 2136,8.<br>  Ik was bang dat het niet zou lukken, maar heb m'n plek gevonden op de  Discovery.<br>  Er heerst een sfeer van routine aan boord  en zelfs ik pas erin.<br>  Ik heb vrienden gemaakt.<br> Eén vriendin, tenminste.<br>  Ik geniet van m'n werk.<br>  Dit schip is nu het belangrijkste wapen van de Federatie  in de strijd tegen de Klingons.<br> Wij hebben voor een keerpunt gezorgd.<br>  We winnen dankzij ons.<br>  Luitenant Stamets kan de sporenmotor bedienen.<br>  Dat geeft hem toegang tot de ruimte en ongekende delen van z'n persoonlijkheid.<br>  We voeren dagelijks onze taken uit  maar ik geef toe dat ik sommige bemanningsleden iets interessanter vind.<br>  Luitenant Tyler heeft veel geleden, maar blijft waardig en vriendelijk.<br>  Ik vind hem intrigerend.<br>  Ik ben bang dat m'n voorgeschiedenis relaties in de weg staat.<br>  Ik bevind me tussen de anderen, maar sta alleen.<br>  Ik zou graag m'n comfortzone verlaten, maar ik weet niet hoe.<br>  Vanavond sta ik voor m'n grootste uitdaging tot nu toe.<br>  Vanavond vieren we feest.<br>  Eén, twee, drie, nu.<br>  Waar is de muziek?  Hoe zit het? -Sterrenschepen hebben extra relais.<br>  De stroom hoort niet uit te vallen.<br> -Nee, ik heb het over hem.<br>  Jullie zijn twee keer uit geweest.<br> Vertel.<br>  Ik heb hem geholpen geweren te kalibreren  en we hebben samen geluncht omdat onze dienst erop zat.<br>  Luister.<br> Je moet laten zien dat je interesse hebt.<br>  Anders is je kans straks verkeken.<br>  Begrepen, maar ik heb geen afspraakjes met hem gehad.<br>  Maar hoe zie jij hem?  Hoe is hij vergeleken met je vorige vriendjes?  En vergeleken met de jouwe? -Ik viel vroeger alleen op soldaten.<br>  Maar ik begin een zwak voor muzikanten te krijgen.<br>  Hé, iedereen.<br> Wees blij dat we hier zijn  met onze wapenbroeders en -zusters.<br> We lachen en dansen.<br>  Maar vergeet niet wat er opgeofferd is  door onze medestrijders -Proost.<br>  En door de gesneuvelden die zorgden dat wij kunnen vechten.<br>  Op de 10.<br>000 doden die we nooit vergeten.<br> -Nooit.<br>  Ik val nu weer op soldaten.<br>  Burnham.<br>  Hoi, Tilly.<br> Wat doe je? -Ik ga ervandoor.<br>  Veel plezier.<br>  Je vriendin is subtiel.<br> -Op ongepaste wijze.<br>  Wetenschapsspecialist Burnham en luitenant Tyler naar de brug.<br>  Nu hoeven we gelukkig niet te kletsen.<br>  Wacht.<br> Nee  Voor de duidelijkheid, ik wilde niet lomp zijn.<br>  Ik heb weinig ervaring met feesten.<br>  Dat snap ik best.<br> -Pas op.<br>  Vieren Vulcans geen feest? En al die tijd op de  Shenzhou?  Vanwege m'n rang was interpersoonlijk contact niet gepast.<br>  Dat is geen excuus meer.<br> Waarom verstop je je nu?  Sorry, luitenant.<br> Sorry, dokter Culber.<br>  Waarom bied je je excuses aan voor een willekeurige fysieke interactie?  Dit soort momenten maken het leven zo heerlijk onvoorspelbaar.<br>  U bent een lange man.<br>  U kent luitenant Tyler.<br> Ons nieuwe hoofd beveiliging.<br>  U komt erg stabiel over voor iemand die zeven maanden gemarteld is.<br>  M'n excuses voor m'n partner.<br> Hij is de laatste tijd anders.<br>  Nu we het over anders hebben, moet je dit cybernetische element zien  dat m'n genie voor me gebouwd heeft.<br> -We willen z'n band  met de motor comfortabel maken.<br> -Je zorgt zo goed voor me.<br>  Hoe zit het eigenlijk met jullie twee?  Er speelt niets.<br> -Burnham wil niet ongepast zijn.<br>  Kom je, Burnham? -Wat bedoelde hij?  Wat bedoelde u daarmee?  Kapitein, het onbekende signaal komt van recht voor ons.<br>  Code geel, Mr Saru.<br>  Schilden actief.<br> Fasers paraat.<br> -Begrepen.<br> Opladen.<br>  De scanners meten een biologisch object.<br>  Xenologische klasse gormagander.<br> Hij heeft schade opgelopen.<br>  ALARM  Trek code geel in, Mr Saru.<br>  Ik dacht dat ze uitgeroeid waren.<br> -Ze verdwijnen niet door de jacht.<br>  De hoofdoorzaak is hun paring, of het gebrek eraan.<br>  Ze voeden zich levenslang met alfadeeltjes in zonnewinden.<br>  Die taak vergt zo veel van ze dat ze andere instincten negeren.<br>  Zoals voortplanting.<br>  Dat klinkt ontzettend deprimerend.<br> Stuurman, voer een koers in.<br>  De gormagander wordt bedreigd.<br> Hij moet naar een xenologische faciliteit.<br>  Zorg ervoor.<br>  Gaan we een gormagander opstralen? Een verdwaalde welp of een weduwe?  Wat ze ook is, ze is alleen.<br>  Ingesteld.<br> Klaar voor transport.<br> -Activeren.<br>  Rustig, lieverd.<br>  We zoeken uit wat er aan de hand is.<br>  Wacht even.<br> Ik meet iets abnormaals in het wezen.<br>  Ik ben geraakt.<br>  Meld dat er een schutter is.<br>  Bel de brug.<br>  Burnham aan de brug.<br> Indringer.<br> Er wordt geschoten.<br> Stuur hulp.<br>  Indringer op dek zes.<br> -Sluit hem in.<br>  En Burnham? -Ongedeerd.<br>  Ze bevestigt vier doden.<br> -Ze mag niet ingrijpen.<br>  Hij zit gevangen.<br>  Wie je ook bent, laat je wapens vallen.<br> Dit is afgelopen.<br>  Heb je mij ook zo gemist? -Mudd.<br>  Dacht je echt dat je me ongestraft kon achterlaten in een Klingon-cel?  Zodra ik ontdek wat er speciaal is aan je schip  verkoop ik het aan de Klingons.<br> Begrepen, kapitein?  Ik verkoop je schip aan je aartsvijand.<br>  En daarmee zorg ik dat de Federatie geen kans heeft om te winnen.<br>  Toen je me achterliet bij de Klingons ontnam je me m'n lieve Stella.<br>  De enige vrouw van wie ik heb gehouden.<br> Daarvoor neem ik wraak.<br>  En ik vermoord jou zo vaak als ik kan.<br>  Ik zie je m'n schip niet overnemen.<br> -Deze keer niet.<br>  Maar ik weet genoeg voor de volgende keer.<br>  Dus tot later.<br> Of tot eerder, eigenlijk.<br>  Ik zie 'n explosie van anicium en yurium.<br> -Schade aan dek zes.<br>  Dek vijf.<br> Vier.<br> En drie.<br>  Het is niet te stoppen.<br>  Op de 10.<br>000 doden die we nooit zullen vergeten.<br>  Nooit.<br>  Ik val nu weer op soldaten.<br>  Burnham.<br> Hoi, Tilly.<br> Wat doe je? -Ik ga ervandoor.<br>  Veel plezier.<br>  Je vriendin is subtiel.<br> -Op ongepaste wijze.<br>  Wetenschapsspecialist Burnham  Voor de duidelijkheid, ik wilde niet lomp zijn.<br>  Ik heb weinig ervaring met feesten.<br>  Ik snap het, Burnham.<br> -Pas op.<br>  Vieren Vulcans geen feest? En al die tijd op de  Shenzhou?  Vanwege m'n rang was interpersoonlijk contact niet gepast.<br>  Dat is geen excuus meer.<br> Waarom verstop je je nu?  Er zijn niet altijd simpele antwoorden op zulke vragen.<br>  En soms wel.<br>  Tyler.<br> Wacht.<br> -Stamets?  Burnham.<br> Luister goed naar me.<br> Er is geen tijd.<br>  Of eigenlijk is er te veel tijd.<br> -Stamets, rustig.<br>  Nee, snappen jullie niet wat er gebeurt?  We zijn hier al geweest.<br> Wij allemaal.<br>  Ik ben toch niet de enige die dit ziet?  Paul.<br> Sorry.<br> Je draait door.<br>  Ik wil dat jullie nu eindelijk naar me luisteren.<br> Wacht.<br>  Het begint allemaal met een gormagander.<br>  Wat is een gormagander? -Een ruimtewalvis.<br>  Duidelijk.<br>  Code geel.<br>  Fijn dat jullie ook konden komen.<br>  Mr Saru, wat houdt zich daar verborgen?  Het is geen vijandelijk schip.<br> Het is een biologische levensvorm.<br>  Een gormagander.<br>  Alsjeblieft, zeg.<br>  Trek code geel in.<br> Stuurman, vlieg eromheen.<br>  Meneer, volgens de scanners is de gormagander hoogst instabiel.<br>  Volgens onze protocollen moeten we het wezen  Nee.<br> -Niet doen, kapitein.<br>  De Wet Bedreigde Diersoorten is duidelijk.<br>  Als we onze plicht verzuimen, schenden we de wet  en kan de kapitein veroordeeld worden.<br>  Straal 'm naar de hangar en zet 'm af in een reservaat.<br>  Ik wil graag de leiding.<br> Als wetenschapsspecialist  ben ik de aangewezen persoon hiervoor.<br> -Allemaal prima.<br> Los het op.<br>  Ik zou deze missie graag beveiligen, kapitein.<br>  Ook goed.<br> Doe het.<br>  Hoe wist Stamets dat we een gormagander zouden tegenkomen?  Er zijn maar 57 gevallen van contact met sterrenschepen  in tien jaar.<br> De kans is piepklein.<br>  Ik hoorde dat we een gormagander gaan opstralen.<br>  Transporteur activeren.<br>  Denk je dat hij gewapend is?  Medische uitslag abnormaal.<br> Verder niets.<br> Ik ga dichterbij meten.<br>  Meet je iets? -Heel vaag.<br>  Een energiepatroon.<br> Het lijkt wel een teletransporteurstraal.<br>  Code zwart.<br> -Waarom gaan we springen?  Sporenmotor actief.<br>  Ik heb geen sprong bevolen.<br> -Ik heb niets geactiveerd.<br>  Computer, laat Techniek zien.<br> -Geweigerd.<br>  Tyler, ga naar Techniek.<br>  GEEN TOEGANG  De deur zit op slot.<br> De override doet het niet.<br>  Waarschuwing.<br> Motor overbelast binnen drie minuten.<br>  Welkom.<br> Doe alsof je thuis bent.<br> Dat doe ik ook.<br>  Hoe ben je ontsnapt?  Herinner je je m'n vriendje Stuart? We hebben een kunstje geflikt  waar een ontsnappingskunstenaar versteld van zou staan.<br>  Toen hij vrij was, verdween hij.<br> Insecten kennen geen trouw.<br>  Ken je hem? -Hij was m'n celgenoot.<br>  Achteruit.<br> Handen omhoog.<br> Ik vraag het niet nog eens, Mudd.<br>  Jawel, hoor.<br> Maar eerst mag je me vertellen hoe je dit ding bedient.<br>  Ik snap dat dit schip zo bijzonder is dankzij de motor.<br>  Achteruit of ik schiet.<br> -Maar ik  snap niet waar die voor zijn.<br> Of waar ze aan vast moeten.<br>  Waarschuwing: overbelasting over 60 seconden.<br>  Vertel gewoon hoe dit systeem werkt.<br>  De Klingons hebben interesse.<br> Schiet op.<br> Want straks gaat alles  Computer, straal hem naar de cel.<br> -Ik heb een krachtveld.<br>  Dacht je dat ik de computer niet zou overnemen?  Waarschuwing: overbelasting nabij.<br>  Noem je dit moed? -Nee, ik heet Mudd.<br>  Gaat iemand me nu nog vertellen hoe dit systeem werkt?  Dit is wel een vreemde dag aan het worden.<br>  Stamets, de motor.<br> -Ik weet het.<br> Geloof me.<br>  Waarschuwing: overbelasting binnen 20 seconden.<br>  We hebben dit al meerdere keren meegemaakt.<br>  En ik zeg dit niet graag  maar ik heb nog niet ontdekt hoe ik er een positieve draai aan moet geven.<br>  Waarschuwing: motor overbelast.<br>  Tot straks.<br> -Stamets, wacht.<br>  Wil je misschien met me dansen?  Wetenschapsspecialist Burnham en luitenant Tyler naar de brug.<br>  Daar kom je mooi weg.<br>  Pardon.<br>  Waar is Burnham? -Geen idee.<br>  De gormagander is een bedreigde diersoort.<br>  Ga je gang.<br>  Burnham, zeg niets.<br> Het schip is in gevaar.<br> We zitten in een tijdlus.<br>  We herhalen dezelfde 30 minuten steeds.<br> We kunnen allemaal doodgaan  maar als de 30 minuten niet om zijn, begint alles opnieuw.<br>  Iedere seconde twijfel brengt ons dichter bij de dood.<br> Begrepen?  U moet naar de ziekenboeg.<br>  Dit zijn bijwerkingen -van vreemd DNA.<br>  We moeten de variaties van  Ja, hou nu maar op.<br> Kom mee.<br> Ik leg alles uit.<br>  Is die vis al aan boord? -Het is geen vis, maar  De hangar meldt dat alles in orde is.<br>  Kapitein, bericht van dokter Culber.<br>  Hij wil u in de ziekenboeg spreken over Stamets.<br>  Dringend.<br> -Ziekenboeg.<br> Direct.<br>  Bestemming geannuleerd.<br>  Dat is balen.<br> -Mudd?  Computer, code rood.<br> -Negeer dat bevel, computer.<br> Kom hier.<br>  Hoe kom je hier aan boord?  Dat vraag je me iedere keer.<br> Dat weet je toch wel?  Nee, natuurlijk niet.<br>  Lopen.<br>  Ik kan echt niet steeds opnieuw beginnen, Lorca.<br>  Dat bericht van de dokter was niet echt.<br> Ik wil je onder vier ogen spreken.<br>  Er is een gebied waar ik niet in kom.<br> Ik denk dat je daar je geheimen verbergt.<br>  Geen idee wat je bedoelt.<br> Maar als je denkt dat ik je ga helpen  ben je nog gekker dan ik dacht.<br>  Er zijn zo veel manieren om dit schip op te blazen.<br>  Computer, zelfvernietigingsprogramma.<br>  Toegang verleend.<br> -Uw zet, kapitein.<br>  Mudd gebruikt technologie waarmee hij die 30 minuten kan herhalen.<br>  Hij wil de sporenmotor aanzetten en het schip verkopen.<br>  Maar hoe blijft u buiten de tijdlus?  Het beerdiertje is een multidimensionaal wezen.<br>  Het is een bijwerking van de combinatie van ons DNA.<br>  Dus u herinnert zich alles.<br> -Ja.<br>  Het wordt moeilijk om alles bij te houden.<br>  Ik kan Mudd niet alleen tegenhouden.<br> Straks komt hij erachter  dat er een onderdeel van de sporenmotor ontbreekt.<br>  Dat ben ik.<br>  Hoe maakt Mudd die tijdlus? -Geen idee.<br>  Misschien weet Tyler het.<br> Ze waren celgenoten.<br>  Dat zei Tyler vlak voor ik Mudd neerschoot.<br>  Ga met Tyler praten.<br>  De tijd is weer bijna om.<br> Vertel me een geheim.<br>  Iets wat meteen bewijst dat we elkaar gesproken hebben.<br>  Iets wat niemand anders weet.<br>  Ik beloof dat ik het niemand vertel.<br>  Wat erg.<br>  Waar is Mudd nu?  Meestal vermoordt hij de kapitein op dit moment.<br>  Je hebt het leuk opgeknapt.<br>  Er is hier niets voor jou.<br> Dit is m'n eigen onderzoek.<br>  Ik wist niet dat je zo veel mooi speelgoed had.<br>  Wat zou deze doen? Smelt hij hersenen?  Wie een Starfleet-kapitein vermoordt, krijgt levenslang.<br> Dat weet je.<br>  Weet je hoe vaak ik je al heb mogen vermoorden?  Al 53 keer.<br> Maar ik hou het heus niet bij.<br> En het gaat nooit vervelen.<br>  De tijd is bijna om.<br>  Ik ontdek heus wel hoe die motor van je werkt.<br>  Ik heb alle tijd.<br>  En ondertussen weten we nog steeds niet wat deze doet.<br>  Eens kijken.<br>  Waar is de muziek?  Hoe zit het? -Sterrenschepen hebben extra relais.<br>  De stroom -Ik zag daar een knappe vent.<br>  Volgens mij zit hij in een band.<br>  Veel plezier.<br> -Dit is toch niets voor jou?  Je bent nooit verliefd geweest.<br>  Waarom zeg je dat? -Ik heb je nodig.<br>  Je hebt me dat verteld, zodat ik kan bewijzen dat ik de waarheid vertel.<br>  We zitten in een tijdlus van 30 minuten.<br> Alleen ik weet dat.<br>  Jij, Lorca  en Tyler worden vermoord door de crimineel Harry Mudd.<br>  Hij wil het schip overnemen.<br> Zeg dat je me gelooft.<br>  Als ik dit nog eens moet uitleggen, spring ik de ruimte in.<br>  opgeofferd is door onze medestrijders  Ik geloof je.<br> -Mooi zo.<br>  Vraag alsjeblieft aan Tyler of hij weet hoe we Mudd kunnen tegenhouden.<br>  Maar misschien wil hij me niet spreken.<br> -Jawel.<br> Hij vindt je leuk.<br>  Daar komt hij.<br>  Xenoantropoloog in de hoek.<br> Laat me raden.<br>  Je bestudeert hoe soldaten paren.<br> -Nee.<br>  Wil je met me dansen? -Daar is geen tijd voor.<br>  Ik bedoel  Wetenschapsspecialist Burnham en luitenant Tyler naar de brug.<br>  Daar kom je mooi weg.<br>  Ik ben hier slecht in.<br>  Ja, je had met hem naar de brug moeten gaan.<br>  Als je gelijk hebt  spreek ik Tyler de volgende keer pas weer onder vier ogen.<br>  Ik heb onze kans op redding verpest.<br> -Je vindt hem leuk.<br>  Dat maakt het ingewikkeld.<br> -Ik kan dit niet.<br>  Dans met me.<br>  Voor de wetenschap.<br> Dan weet ik wat voor vlees ik in de kuip heb.<br>  Stel dat ik uit m'n schulp wil kruipen.<br>  Hoe leggen mensen zo contact?  Hugh en ik werden verliefd toen ik hem afwimpelde.<br>  Dat is niet logisch.<br> -De liefde is niet logisch.<br>  Mag ik misschien leiden?  Ik zat in een prachtig café op Alpha Centauri  en even verderop hoorde ik iemand heel irritant neuriën.<br>  Heb je ooit iemand een Kasseeliaanse opera horen neuriën?  Dat lijkt me niet.<br>  Ik zei dat hij moest stoppen of ergens anders moest gaan zitten.<br>  Toen kwam hij naast me zitten.<br>  En hij is nooit meer weggegaan.<br>  Maar waarom zou hij dat doen, na zo'n lompe opmerking?  Ik vertelde hoe ik me voelde.<br> Hij deed dat ook.<br>  Dat vonden we leuk.<br>  Ik ben goed in eerlijk zijn.<br>  Wees eerlijk over wie je bent.<br> Zo werken relaties.<br>  Onze tijd is om.<br>  We moeten uitzoeken hoe hij de tijdlus start.<br>  Je doet het de volgende keer beter.<br>  Dat moet wel.<br>  Ik wilde Wil je dansen?  Eindelijk vraag je het.<br>  Wil jij leiden?  Ik hoorde dat je samen met Harry Mudd zat opgesloten in die cel.<br>  Je bent niet goed in kletsen, hè? -Ik heb het nooit begrepen.<br>  Maar ik besef wel dat relaties op waarheid zijn gebaseerd.<br>  Dus luister.<br> Harry Mudd is hier.<br>  Hij probeert straks het schip over te nemen.<br>  Hij wil het verkopen aan Klingons.<br>  Hij houdt ons gevangen in een tijdlus.<br> -Harry Mudd?  Is dit Vulcan-humor? -Was dat maar zo.<br>  Waarom zegt Stamets niets? -Dat heeft hij geprobeerd.<br>  Hij denkt dat je mij eerder gelooft.<br> -Waarom?  Omdat ik je leuk vind.<br>  Hij denkt dat jij mij leuk vindt.<br>  Dit is een vreemde avond.<br>  Maar ook interessant.<br>  Als de tijd zich herhaalt, kan dit geen kwaad.<br>  Dat was fijn.<br>  Wetenschapsspecialist Burnham en luitenant Tyler naar de brug.<br>  Nee, negeer dat.<br> We moeten wel.<br>  Hoe kan ik helpen?  Heeft Mudd iets gezegd over apparatuur  waarmee hij iets als dit kan doen?  Ja.<br> Hij schepte op over een overval op een Betazoid-bank.<br>  Veel bewaking.<br> Geen ingang.<br> Veranderende codes.<br>  Moleculaire sloten.<br>  Dagelijks wachtwoorden op DNA-basis.<br>  Mudd zei dat hij de bewakingspatronen onthield.<br>  Ik dacht dat hij loog.<br>  Maar als hij het oneindig vaak kon proberen  Weet je hoe hij het deed?  Iets met een onevenwichtige materiestaat.<br>  Een tijdkristal.<br>  We hebben er op de academie over geleerd.<br>  De vervalsnelheid van het rooster is onvoorspelbaar.<br>  Geen enkel bevriend wezen kan het stabiliseren.<br>  Een vierdimensionale soort kan het.<br> Mudd heeft die technologie.<br>  We zoeken Mudd en kijken of hij zo'n kristal heeft.<br>  Weet je waar hij is?  Kom maar mee.<br>  Is die vis al opgestraald? -Het is eigenlijk geen vis, maar  Waar blijven Burnham en Tyler?  Ik heb geen toegang tot het schip.<br> -Computer.<br>  Computer, reageer.<br> -Ik help wel even.<br>  Computer, verlaag het volume, zodat we kunnen praten.<br>  Ja, kapitein Mudd.<br> -'Kapitein Mudd?'  Ik had niet gedacht dit ooit te zeggen, maar ik ben m'n triomf beu.<br>  Dit is in ieder geval helemaal mijn schip.<br>  Jouw schip is het niet.<br> -Genoeg geweest, Mudd.<br>  Ga terug naar -Naar de cel.<br>  Ik weet niet hoe u dit doet, maar u overtreedt  Protocol 7.<br>5.<br>3.<br> Ja, dat heb je al vaak verteld.<br>  Zeg eens, slungel, heb je ooit zoiets gezien?  Van de 823 manieren om in de ruimte te sterven  is dit schijnbaar de pijnlijkste.<br>  Ze lagen in het kamertje van je voormalige kapitein.<br>  De donkere materie scheurt moleculen op subatomair niveau uiteen.<br>  Dus als iemand iets heldhaftigs probeert  zoals jij, willekeurige communicatieman  ontdek je dat ik bijna alles weet.<br>  Blijf maar zitten.<br> Dit gaat een beetje pijn doen.<br>  COMMUNICATIE  Mudd.<br>  Je hebt gemist.<br>  Dat was nieuw.<br>  Er mag niemand meer sterven.<br>  Alsjeblieft.<br> -Goed.<br> Luister eens.<br>  Een van jullie vertelt hoe de motor werkt  of de bonenstaak gaat eraan.<br>  Hoe start ik de motor?  Ik vernietig jullie allemaal  met vreselijke martelingen.<br>  Eén voor één.<br> En ik begin met jou.<br>  Hou op.<br> Je mag niet nog meer mensen vermoorden.<br>  Ik ben ervoor nodig.<br>  Heerlijk.<br>  We gaan naar de machinekamer.<br> Computer.<br> Volume omhoog.<br>  Bestemming, Techniek.<br> Toedels.<br>  Tilly, waar ben je?  Ben ik ook doodgegaan? -Wij allemaal.<br> Al heel vaak.<br>  Maar nu heeft Mudd wat hij wil.<br> Als we hem niet tegenhouden  verkoopt hij het schip aan de Klingons.<br>  Dan blijven de doden dood en verliest Starfleet.<br>  Ik zag dat Mudd een kristal om z'n pols had.<br>  Maar het is te klein voor tijdverplaatsingen.<br>  Er moet een grotere energiebron zijn.<br> -Oké.<br>  Ik heb iets gevonden.<br>  Ik stuur het nu naar je door.<br>  Arm wezen.<br> Daarom voel je je slecht.<br>  Mudd verborg het schip in het wezen, met het kristal erin.<br>  Het kristal heeft dezelfde orthogonale index als dat aan Mudds pols.<br>  Kunnen we 'm opstralen en uitschakelen?  Nee, want Mudd beheerst alle systemen.<br> We hebben niet veel tijd.<br>  Nu Mudd de sporenmotor kan bedienen  zal Mudd zelf de tijd opnieuw moeten starten.<br>  Maar daar heeft hij geen reden voor.<br> Hij heeft wat de Klingons willen.<br>  Nee.<br>  Logboek van de kapitein, sterrendatum 2137,2.<br>  Dit is kapitein Harcourt Fenton Mudd.<br>  Ik ga de deal van het millennium sluiten.<br>  Kom binnen.<br>  Je voelt je thuis.<br> Je had kapitein moeten worden.<br>  Ik volg geen bevelen op en ik geef ze niet.<br>  De zonnewind is m'n minnares en ik volg haar overal.<br>  En Stella dan? -Wat?  O ja.<br> Stella.<br>  De liefde van m'n leven.<br> Stella.<br> Ze is me ontnomen in de oorlog.<br>  Nooit hebben twee zielen zo veel tegenslag gekend.<br>  Romantisch? Ja.<br>  Tragisch? Jazeker.<br>  Maar dat geldt voor de beste romances.<br> Of niet?  Ben je klaar?  Bijna.<br> Computer, stuur onze locatie naar het Klingon-schip  namens Harry Mudd.<br> -Coördinaten verstuurd.<br>  Nu ben ik klaar.<br> -Klingons betalen veel om te winnen.<br>  Maar er is iets waarvoor ze meer betalen.<br> -Is dat zo?  Voor mij.<br> Ik heb T'Kuvma, hun messias, vermoord.<br>  Belachelijk.<br> Ik heb het manifest bekeken.<br> Je stelt niets voor.<br>  Ik ben geen officier.<br> Ik ben Michael Burnham.<br>  Computer, controle.<br> -Bevestigd.<br>  Kapitein Mudd, het schip roept -Stil.<br>  Je krijgt veel voor dit schip.<br> Maar hoeveel ben ik ze waard?  Ja.<br>  Meer.<br>  Veel meer.<br>  Maar waarom vertel je me dit? Wat schiet jij ermee op?  Luitenant Tyler.<br>  Luitenant Tyler is dood.<br>  Niet lang meer.<br>  Kapitein, de Klingons roepen ons op.<br> -Verdomme.<br>  Verdomme  BEVEILIGINGSPROTOCOL  Kapitein Mudd.<br>  TACTISCH  Wat is dit?  Uw stoel.<br> -Wat gebeurt er?  Jij.<br> Je hebt vals gespeeld.<br> Je hebt je vriendjes ingelicht.<br>  Wat je ook bedacht heb  ik los het wel op.<br> Ik begin opnieuw tot het lukt.<br>  Niemand verslaat Mudd.<br>  Luitenant Stamets heeft aangetoond dat je succes een zekerheid is.<br>  Dankzij een wetenschappelijke methode.<br>  Dit moet stoppen.<br> Voor ons allemaal.<br>  Harcourt Fenton Mudd  de  USS Discovery  is van u.<br> -En ik ook.<br> U wint.<br>  Een oplichter licht je niet op.<br> -Ik onderhandel met een zakenman.<br>  M'n aanbod is simpel.<br> De levens van m'n bemanning in ruil voor  Burnham, het schip en Stamets.<br>  Waarom zou een Federatie-kapitein dat doen?  Ik wil niet hetzelfde meemaken als met de  Buran.<br>  We doen wat de nieuwe eigenaars willen  als je me belooft dat je de bemanning laat leven.<br>  Geef me je woord, Mudd.<br>  Ik zal een gegeven kapitein niet in de bek kijken.<br>  Perfect.<br> Mooi zo.<br>  Computer.<br> -Actief.<br>  Stuur onze coördinaten naar het Klingon-schip namens Harry Mudd.<br>  Versturen, kapitein Mudd.<br>  Dit is jullie laatste kans om me tegen te houden.<br>  Over 30 seconden gaan we terug naar de tijdstroom  en kunnen we niet terug.<br>  Kapitein, inkomend warpspoor.<br>  Ik had nooit gedacht blij te zijn die lelijke puntkoppen te zien.<br>  Kijk eens.<br> Vijf, vier, drie, twee, één.<br>  Kapitein Mudd, de Klingons roepen ons aan.<br>  Uitstekend.<br> Heet onze gasten welkom.<br> -Bevestigd.<br> Twee om op te stralen.<br>  Activeren zodra ik er ben.<br> Kom mee naar jullie nieuwe baasjes.<br>  Jij niet, oude man.<br>  Lorca, ik zal het missen je te vermoorden.<br>  U lijkt me erg blij.<br> -Luister, bloempje  ik word m'n hele leven al genaaid.<br> Ik heb dit verdiend.<br>  Dus het ging niet om Stella.<br> Het ging alleen om u.<br>  U zei dat u haar verloor aan de oorlog  maar haar vader werd juist rijk van de oorlog.<br>  Ze moeten makkelijk te vinden zijn.<br>  Of wilt u dat niet? -Ik heb niets over Barron Grimes verteld.<br>  Nee, maar de archieven zijn niet-kritieke systemen.<br>  U had ze ook moeten uitschakelen.<br> En zonder tijdkristal  kunt u hier niets van leren.<br> -Stella is blijkbaar naar u op zoek.<br>  Haar vader heeft een beloning uitgeloofd.<br> -U zoekt Stella niet.<br>  U vlucht voor haar.<br>  U ging ervandoor met haar bruidsschat.<br>  Stella was een te verleidelijk doelwit.<br> Haar vader beroven was riskant.<br>  Vandaar dat u een deal sloot met de Klingons.<br>  U moest verdwijnen.<br> -En het was bijna gelukt.<br>  Maar ik was er ook nog.<br> Want ik besta buiten de normale tijdstroom.<br>  Slim, hoor.<br> Maar de Klingons zijn op dit moment onderweg.<br>  Vergeet die deal met Lorca maar.<br>  Nu gaat de hele bemanning de slavernij in.<br>  Harry, de Klingons komen niet.<br>  Ik heb de kapiteinsstoel aangepast.<br> -Een niet-kritiek systeem.<br>  De coördinaten gingen niet naar de kopers.<br>  Ze gingen naar Stella en haar papa.<br>  Je kunt een oplichter dus oplichten.<br>  Kom maar mee.<br>  Computer, annuleer transport.<br> -Geweigerd.<br>  Harcourt.<br>  Waar was je? Ik was zo bezorgd.<br>  Het is een druk jaar geweest.<br> Ik kan het nauwelijks uitleggen.<br>  Probeer het maar.<br> -Ja.<br> Natuurlijk.<br>  Je weet hoeveel ik om je gaf.<br> Om je geef.<br> Hoeveel ik om je geef.<br>  Maar eerlijk gezegd, heb ik een aantal Hoe zeg je dat?  Ik heb slechte keuzes gemaakt.<br> Ik heb schulden en een slechte reputatie.<br>  Ik kon niet met je trouwen met al die beschamende zaken.<br>  Ik wilde ze wegpoetsen, maar m'n plan mislukte helaas.<br>  Harry, ik wist wie je was.<br>  Het kon me niet schelen.<br>  We hadden die problemen samen kunnen oplossen.<br>  Papa zou alles hebben opgelost.<br>  Zie het als een consolidatielening bij één persoon.<br>  Ik doe alles voor m'n dochter  en ze heeft, hoe dan ook, voor jou gekozen, Mudd.<br>  Dankzij deze officiers, kun je eindelijk 'n nette vrouw van Stella maken.<br>  Ik wil geen schulden hebben bij Starfleet.<br> Hoe kan ik u bedanken?  Zorg dat Mr Mudd voor altijd bij uw dochter blijft  en bij Starfleet vandaan.<br> -Geen probleem.<br>  Kom, Harcourt.<br> Stouterd.<br>  Stamets zei dat we in een andere tijdlijn  hebben gedanst.<br>  Dat heb ik ook gehoord.<br>  En ik vond het leuk.<br>  Onvoorstelbaar.<br>  Waarom?  Ik kan goed dansen.<br>  Dat bedoelde ik -Rustig maar.<br>  Ik snap het.<br>  M'n gevoelens  zijn ingewikkeld en vreemd.<br>  Het geeft niet.<br> Ik ga nergens heen.<br>  Wat is er?  Jammer dat we die zoen gemist hebben.<br>  Persoonlijk logboek.<br>  Zoals herhaling herhaling versterkt, leidt verandering tot verandering.<br>  We weten eigenlijk nooit wat er gaat gebeuren.<br>  Soms merk je pas wat je plek is als je iets anders doet.<br>  Want soms merk je dat je plekje dichterbij is dan je dacht.<br>  Ondertiteld door: Geert van den Elzen     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e06" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e08" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

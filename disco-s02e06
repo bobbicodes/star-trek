@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e06 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e06 - The Sounds of Thunder Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e06 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e06"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e06 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e06" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;The Sounds of Thunder</div>
+
+            <h1>Star Trek: Discovery (2017) s02e06 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">The Sounds of Thunder</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  - Section 31? - She's tracking a suspected murderer.<br>  Mr.<br> Spock is one of mine.<br>  I think there may be a connection between Spock  and the signals around the universe.<br>  - Spock drew those images.<br> - What is it?  He called it the Red Angel.<br>  That vision changed him forever.<br>  I've seen this angel, too.<br>  I watched Tyler kill you.<br>  I held your body.<br>  He is alive.<br>  We're getting you out of here.<br>  Something has grabbed us out of warp, sir.<br>  We're locked into place.<br>  - Some kind of a life-form? - It must need something.<br>  It's trying to send us a message.<br>  Because it wants to be remembered, preserve  its history using Discovery.<br>  Its final act was to save us.<br>  We have recorded everything  it has seen and experienced.<br>  The Sphere is triggering the Kelpien biological  process known as Vahar'ai.<br>  Signals when Kelpiens are  ready for slaughter by the Ba'ul,  the predator species  on my homeworld of Kaminar.<br>  You are the only one who knows me.<br>  You replaced the sister I had on Kaminar.<br>  Your vital signs have returned to normal.<br>  I have never felt this way before.<br>  Fear is gone.<br>  What my people have accepted as the truth is a lie?  We all come from somewhere.<br>  We carry that place with us wherever we go.<br>  That never leaves our hearts.<br>  Not entirely.<br>  How's it going in here?  Oh, my- well,  without Airiam, we would have spent months  trying to sort through the Sphere's data.<br>  But none of us can predict  Okay, look at this.<br> This is incredible.<br>  where our voyage will lead.<br>  The data collection of the Sphere isn't random.<br>  Oh, no, it's not random at all.<br>  It's actually an impossibly sophisticated repository  of like, a slice of the galaxy's history.<br>  It's like this delicious slice of galaxy pie.<br>  We may suffer losses along the way,  but we can hope to learn and grow from those experiences.<br>  And from those who accompany us on our journey.<br>  It is almost inconceivable  to have you back with us, Dr.<br> Culber.<br>  Inconceivable, yeah.<br>  There isn't a test or a, a scan Dr.<br> Pollard hasn't run on me.<br>  Well, you appear yourself.<br>  Well, I don't feel like myself.<br>  Enduring something no one thought possible  can be transformative.<br>  Perhaps,  perhaps, in feeling less like you were,  you are more like who you were meant to become.<br>  Commander Saru?  Your results.<br>  The most evident anatomical change from the Kelpien advent  of your Vahar  - Vahar'ai.<br> - Thank you.<br>  With the loss of your threat ganglia,  the cartilage that housed it is reorganizing to accommodate  a new type of keratin-based tissue.<br>  It looks like spikes growing in like teeth.<br>  Does that sound right?  I would not know.<br>  Did you discover anything that might affect me psychologically?  These are your neurotransmitter expression patterns,  last year versus today.<br>  With you as my only Kelpien specimen-  forgive the term- it's difficult to say  with certainty what these changes mean.<br>  But if I had to guess,  I'd say your fear responses are being repressed.<br>  What is a Kelpien without fear?  I am losing the very thing that defines me.<br>  I am stumbling in the dark.<br>  And yet I cannot help but feel  that somewhere within the unknown,  there is purpose.<br>  And that we are being guided toward it.<br>  It's Section 31's position  that if the entity we're calling the Red Angel  is in fact generating these signals,  it's also capable of time incursions.<br>  And should be considered dangerous.<br>  So far, these signals have led the Discovery  on two rescue missions.<br>  Or two catastrophic events.<br>  Does the Angel merely appear at these crisis points,  or is it creating them?  We have to consider both options.<br>  So let's consider.<br>  The Red Angel appeared on Earth and transported people  to Terralysium only moments before  they would have died in a nuclear blast.<br>  It also guided Spock to rescue me when I was  - a child on Vulcan.<br> - I've seen the drawings  from Spock's time in the psychiatric unit.<br>  Look, can either of you say for sure  this thing didn't cause his nervous breakdown?  Spock made no mention of the Red Angel  when he asked for leave from the Enterprise.<br>  But Agent Tyler's correct, Captain.<br>  With so few data points, it is impossible  to draw conclusions based on its nature and motivations.<br>  We need more information.<br>  What we need is Spock.<br>  Captain Leland has devoted significant  Section 31 resources to finding him.<br>  But we're coming up empty-handed.<br>  As his sister, can you think of anywhere  Spock might have gone?  Someplace we might not have thought to look?  Captain,  you are needed on the bridge.<br> What is it?  We have detected a new signal.<br>  Where is it this time?  Outside of Federation space.<br>  Ah.<br>  Acquiring coordinates.<br>  On screen.<br>  We have a lock, sir.<br>  The signal is over an M-class planet.<br>  - It's listed in the Federation database as - Kaminar.<br>  - Commander Saru, that's - Yes.<br>  Kaminar is my homeworld.<br>     Star Trek: Discovery SO2EO6 - The Sounds of Thunder  Kaminar is populated by two sentient species:  my people- the Kelpiens- and the Ba'ul.<br>  The Ba'ul are your predators.<br>  The Ba'ul achieved warp capability 20 years ago.<br>  The USS Archimedes made first contact with them  after receiving a transmission from Kaminar.<br>  But once communication was established,  the Ba'ul High Council proved hostile.<br>  So why did the Ba'ul send  a transmission in the first place?  They  did not.<br>  That transmission was from me.<br>  I coopted the Ba'ul's technology  in order to send a message, with the hope  that someone, somewhere, would receive it.<br>  And that someone was Captain Georgiou.<br>  She was a lieutenant then,  serving on the Archimedes.<br>  Were it not for her, I would have been unable  to flee Kaminar or be granted asylum.<br>  I promised never to return.<br>  That was the price of knowledge.<br>  And now, of the billions of planets  in our galaxy, the signal just happens  to show up above the homeworld of my first officer.<br>  - What are the odds? - It certainly isn't random.<br>  DiscoveryÃ¢ÂÂs taken a serious interest in the Red Angel.<br>  Could be it's returning the favor.<br>  That's a leap.<br> Commander Saru,  are there angels of any sort in Kelpien culture?  Kelpiens believe only in the Great Balance,  which, if upset, would devastate  the fragile ecosystem of our planet.<br>  And we are taught that the Ba'ul are the keepers of this balance.<br>  Do the Kelpiens worship the Ba'ul?  It is their superior technology, of which Kelpiens live in awe,  that allows the Ba'ul mastery over my people.<br>  They hide behind it.<br>  No Kelpien has even seen a Ba'ul in living memory.<br>  It is the same technology  they use to keep Starfleet at arm's length.<br>  So we shouldn't expect a warm welcome.<br>  The Ba'ul are, by nature, isolationist.<br>  And they're committed to preserving  - the status quo on Kaminar.<br> - Well, they must have seen the signal, too.<br>  Maybe they wouldn't mind an offer to share information.<br>  Depending on how they're approached.<br>  Well, let's knock on the front door and see if they answer.<br>  And then what? Just ask nicely?  Well, as unexpected guests, it never hurts to be polite.<br>  Prepare to disengage warp power.<br>  Sir, stopping out of warp above Kaminar.<br>  The signal disappeared  before we arrived.<br>  What else is new?  Mr.<br> Bryce, hail the Ba'ul on all channels.<br>  Commander Burnham, run planetary and full-spectrum scans  on anything resembling our elusive angel.<br>  And any power source capable of generating these signals.<br>  The Ba'ul are not responding, sir.<br>  That's not entirely true, sir.<br>  They're scanning our weapons systems.<br>  Just our weapons systems.<br>  - So much for knocking on the front door.<br> - Maybe the Ba'ul just  haven't learned the importance of a good first impression.<br> Burnham?  I see no indication the Red Angel was here.<br>  - Or any immediate danger to the planet.<br> - Then why are we here? Anybody?  You're assuming the signals only appear for a reason.<br>  Yes, Mr.<br> Tyler, that's exactly what I'm assuming.<br>  - Why won't the Ba'ul respond? - Perhaps,  as I have said, it is because they are oppressors.<br>  And even had the Ba'ul answered our hails,  why would you trust those who have enslaved my people  for centuries with fear and lies?  Your insights are invaluable,  Mr.<br> Saru.<br>  But the signal appeared here.<br>  And maybe the Red Angel, too.<br>  If you have any idea how I could make inquiries without  There is a Kelpien priest in every village.<br>  Priests not only serve as intermediaries  between us and the Ba'ul, but they also connect  all of our extended communities together.<br>  So if the Red Angel appeared on Kaminar,  then a priest might be able to tell us about it.<br>  - Wouldn't that be a violation of General Order 1? - Though the Kelpiens  aren't warp capable, they've seen warp-capable technology  through the Ba'ul,  and they know about spaceflight.<br>  First contact with the Kelpiens by Starfleet  is a judgment call,  but our mission to investigate these signals  would seem to require it.<br>  We can stretch General Order 1,  but let's try not to break it in the process.<br>  Burnham,  as a xenoanthropologist,  I think you're uniquely qualified  to talk to a village priest.<br>  Sir,  I am the logical choice.<br>  I offer my experience.<br>  To disregard it is to disregard the suffering  of generations of Kelpiens.<br>  Given all that suffering,  you're the most complicated choice.<br>  Do you doubt my ability to carry out the mission?  Of course not.<br>  But at present, we lack a full understanding  of the biological  and behavioral changes you're undergoing.<br>  I can assure you, Captain, I am still very much myself.<br>  I can only imagine the pressure you might feel to share  the truth with your people about Vahar'ai.<br>  Are you suggesting that I might be incapable  of following Starfleet regulations?  Or that I would disobey your orders?  Captain.<br>  Kelpiens have no knowledge of Starfleet  or any other inhabited worlds.<br>  Even though General Order 1 allows contact,  my arrival could come as a complete shock to them.<br>  Commander Saru would be invaluable to have by my side.<br>  All right.<br>  But I'll remind you both, we're here to gather information  about the signals and the Red Angel,  not start a war between the Kelpiens and the Ba'ul.<br>  Mr.<br> Saru?  My duty, first and foremost, is to DiscoveryÃ¢ÂÂs mission, sir.<br>  I never doubt that.<br>  Start in your own village.<br>  Maybe they'll be glad to see you.<br>  So, uh,  what did the scan say?  Read 'em yourself.<br>  All normal.<br>  You're you.<br>  Yes and no.<br>  Brain patterns and neural impulses are identical,  but this body  was entirely reconstituted from your DNA.<br>  It's brand-new down to the last molecule.<br> You are,  for lack of a better word, pristine.<br>  My scar, it's gone.<br>  It is?  - I hadn't noticed that.<br> - What scar?  Oh, the scar he chose to keep.<br>  You never told her the story?  He was hiking the cliffs of Cabo Rojo, alone.<br>  I was 16  And apparently indestructible.<br>  The path he was on gave way,  and he fell 30 meters.<br>  15, actually.<br>  Well, enough to puncture your shoulder.<br>  He would've bled out, too,  if it weren't for a certain Dr.<br> Kashkooli,  who was half a kilometer behind him.<br>  She risked her own life to climb down and help him.<br>  She stitched his wound up with a fishing line.<br>  Gave him a very  sexy scar  and inspired him to go to medical school  and become the man he is today.<br>  It is weird not seeing it on you.<br>  So, um  i-if my senses feel a little off, it's  It's because your new nervous system is still adjusting.<br>  I'd like to continue monitoring you, but I believe  you're ready to resume your normal life soon.<br>  That pylon.<br>  It isn't Kelpien, is it?  No.<br>  The Ba'ul have erected one in each village to observe us.<br>  It has earned them a fitting name among my people:  the Watchful Eye.<br>  This pylon is connected to an incredibly vast network.<br>  Must have taken the Ba'ul generations  to integrate their technology and ideology  into Kelpien society.<br>  Our two species have become so intertwined that,  outside their technology,  it is difficult to discern what is purely us  and what is distinctly them.<br>  Where is everyone?  The day's work is done.<br>  It will soon be nightfall.<br>  Kelpiens rarely venture out in the dark.<br>  I led this life once.<br>  If I didn't know your people were oppressed,  I'd think Kaminar was a paradise.<br>  Well, in many ways, it is.<br>  We live in harmony with each other,  in a world without hunger or poverty.<br>  The only violence we know is the culling,  which Kelpiens have been misled to accept  as a mercy by the Ba'ul.<br>  And our priests sustain that belief.<br>  Didn't you say your father was a priest?  Yes, he was a collaborator,  albeit an unwitting one,  enforcing the grip the Ba'ul had on my people.<br>  Saru  For 18 years,  I dreamt of returning to my village.<br>  It has not changed at all.<br>  But I see it  quite differently now.<br>  These are the same flowers from your quarters.<br>  Fredalia, yes.<br>  They do not grow quite so well on a starship.<br>      Brother?  Siranna!  Saru!  You're alive.<br>  Oh, but how?  We thought you were dead.<br>  Taken by the Watchful Eye for questions  you should not have asked.<br>  Oh  Where have you been all this time?  Siranna, 18 years ago,  I thought I could find my future in the stars,  and I did.<br> Uh  I was welcomed  by an interstellar service called Starfleet,  committed to peace and the exploration of our galaxy.<br>  An organization far more powerful than the Ba'ul.<br>  I found a new life.<br>  What are you?  I'm human.<br> My name is Michael.<br>  I come from a planet called Earth,  and I work with your brother on the starship Discovery.<br>  How is it that we can understand one another?  This device.<br>  It's able to translate over a thousand languages.<br>  You mean to say there are a thousand life-forms out there?  Oh, not just a thousand- hundreds of thousands.<br>  So different and yet  The galaxy?  Space travel?  Do humans from Earth drink tea?  Oh, how I have missed the Fredalia tea of home.<br>  We were blessed with a bountiful harvest this year.<br>  Oh, you sound just like Father.<br>  Where is he?  Father reached his Vahar'ai and joined the Great Balance  not long after you left us.<br>  How could you?  And never even let us know that you were still alive?  I thought it would be safer for you to believe I was dead.<br>  Safer?  We believed you had outraged the Watchful Eye.<br>  We spent years in agony, fearing retribution.<br>  I dreamed of our reunion, brother.<br>  I could not be more sorry, Siranna.<br>  This is a longer conversation.<br>  But I sense that is not the reason you are here.<br>  I  We're looking for an entity  that we call the Red Angel.<br>  We have reason to believe that it appeared here on Kaminar.<br>  Is it another life-form?  We do not yet know what it is, only that it appears  in conjunction with a red burst of light in the sky  and in places of crisis.<br>  The fiery sign I saw it.<br>  Have you seen or heard anything that might be this Red Angel?  Maybe from the priests  in the other villages?  This is why you have returned?  I should have known you did not come back for me.<br>  Siranna, I ask you to  You ran away because you were  not brave enough to face the Balance as the rest of us do.<br>  What's happening?  The Ba'ul.<br>  They must have observed your return.<br>  Once again you disturb the Great Balance  and put our village in danger.<br>  You must leave now!  We won't be safe until you're gone.<br>  Siranna, this might be the last time we ever see each other.<br>  Return to the stars, Saru.<br> There is no place for you here.<br>  They're coming.<br>  Discovery,beam us back.<br>  Yellow alert.<br>  Commander Saru, Commander Burnham,  please report to the bridge.<br>  Whatever you did, the Ba'ul are hailing us now.<br>  I'm going to guess it's not to invite us to a welcome party.<br>  Communication channel established.<br>  It's audio-only.<br>  Mr.<br> Saru, I think it would be best  if you stay out of this conversation.<br>  This is Captain Christopher Pike of the USS Discovery  You have taken what belongs to us.<br>  What have we taken, exactly?  A Kelpien.<br>  Starfleet promised  that it would not meddle in the internal affairs of our planet.<br>  We're investigating the signal that appeared over your planet,  which I'm sure you noticed.<br>  These signals are typically followed by the arrival  of an entity we call the Red Angel.<br>  Are you familiar with it?  The Red Angel may pose a threat to Kaminar's Great Balance.<br>  Our mutual interest lies only  in keeping the peace, which we all  No one is safer than under the Watchful Eye.<br>  Return the Kelpien to us,  and we will allow you to leave without harm.<br>  I am not yours to be returned!  Mr.<br> Saru.<br>  I am brother  to Siranna, who lives a life of oppression.<br>  I am son of Aradar,  who died needlessly at your hands.<br>  The Kelpien speaks.<br>  I am Commander Saru,  the first and only Kelpien to join Starfleet,  and I know the truth about Vahar'ai.<br>  The Great Balance is the only truth,  and it must not be disturbed.<br>  Your lies no longer work on me.<br>  I survived my Vahar'ai  and I know that it means not death  but evolution, an evolution you murder my people to suppress.<br>  Commander  You think you know everything, Kelpien,  but you do not even know what you are.<br>  Captain, I detect  ten Ba'ul sentry ships on an intercept course.<br>  Shields up.<br> Red alert.<br> Show me what we're dealing with.<br>    Ba'ul ships are powering up their weapons.<br>  - Warm up the phasers.<br> Aye, Captain.<br>  Whoever is listening to my voice,  I advise that you consider  your next move very carefully.<br>  Give us the Kelpien.<br>  Commander Saru is a political asylum seeker  and a Starfleet officer,  protected by the Federation.<br>  You would risk the lives of your own people  for one Kelpien?  This Kelpien  is our people.<br>  And to defend him, I will do whatever I deem necessary.<br>  As will we.<br>  The Ba'ul are activating the pylon  in Commander Saru's village.<br>  You have interfered  in the affairs of this village.<br>  If you do not return the Kelpien,  there'll be blood on your hands.<br>  The pylons are weaponized.<br>  They mean to destroy my village.<br>  - We have to - Mr.<br> Saru!  You will remove yourself from the bridge.<br>  - But, Captain - That's an order.<br>  Red alert.<br>  All crew to their assigned stations.<br>    You are relieved from duty.<br>  - Sir? - Get out.<br>  Saru, I know what you're doing.<br>  Move off the transporter pad now.<br>  Or what, Michael?  I don't want to use this.<br>  But you're not thinking clearly, Saru.<br>  I have never felt more clarity than in this moment.<br>  This is the only way.<br>  Would you not do the same for your own brother?  Sir, someone is beaming down to planet surface.<br>  What? Who is it?  Burnham to the bridge.<br> It's Commander Saru.<br>  He's surrendering himself.<br>  Damn it.<br>  Captain, the sentry ships are powering down their weapons.<br>  Ops, track Saru's signal.<br>  A Ba'ul ship has taken him.<br>  They're traveling toward I've lost the signal, sir.<br>  He's gone.<br>  Well, with 100,000 years' worth of data,  there has to be some information about Kaminar  - in the Sphere's archive.<br> - Well, what precisely are we looking for?  When the Ba'ul learned that Saru  had survived his Vahar'ai,  their determination to capture him increased.<br>  It was as if his continued existence threatened them.<br>  You think the Ba'ul are hiding something?  I think they know more about the changes  brought on by Vahar'ai than the Kelpiens do.<br>  And I think they're willing to do  almost anything to keep that secret.<br>  Will they kill Saru?  Not if we can find out what they're hiding in time.<br>  And there has to be something in the Sphere's archive.<br>  There has to be.<br>  Well, that's what Airiam and I are here for.<br>  We will find it.<br>  There it is.<br>  When I said "we," I just meant Airiam.<br>  The Sphere did collect readings from Kaminar.<br>  Thousands of years' worth of statistical measurements.<br>  Transfer it over to this station, please.<br>  And when Saru challenged the Ba'ul, they said,  "You do not even know what you are.<br> "  So, what is Saru?  Siranna?!  Brother?  Oh, why did the Watchful Eye take me?  It is not yet my time.<br>  My sister has nothing to do with this!  I am the one you wanted.<br>  Why did you have to return?  Everyone else thought you were dead.<br>  But the night you disappeared,  I saw the light rising into the sky.<br>  I became a priest to seek that light.<br>  To seek you.<br>  Your face is beautiful to me,  but part of me hoped I would never see it again.<br>  Because it might mean you were free.<br>  No! No.<br>  Stop!    Fascinating.<br>  Airiam, can you identify  historical biological records from Kaminar's surface?  Searching  Yes, bio-signs were archived by the Sphere.<br>  Um, actually, I can use those current readings of the Ba'ul  to distinguish their bio-signs from the Kelpiens'.<br>  Right, and we can cross-reference  Saru's medical records  to isolate the post-Vahar'ai Kelpiens'  historic bio-signs from the rest of their species.<br>  The Ba'ul could only know about  the evolutionary consequences of Vahar'ai  if, at one time, they experienced them.<br>  Otherwise, why does it threaten them?  Well, if we, uh, go back 2,300 years, uh,  there's a significant portion of the Kelpiens were like Saru.<br>  They survived Vahar'ai?  The blue represents evolved Kelpiens,  green un evolved, red Ba'ul.<br>  Sorry, that  that doesn't look right.<br>  The Ba'ul narrowly escaped extinction.<br>  Then they turned around  and wiped out the evolved Kelpiens.<br>  Leaving only unevolved Kelpiens, but  Wait, so all this would mean that  The Ba'ul were originally the prey species.<br>  So they would think of Saru as a  Predator.<br>    The first Kelpien  to pass its Vahar'ai  in over 2,000 years,  and your primal, feral responses  are the same as centuries ago.<br>  Your kind can never govern itself.<br>  The Federation has no idea  what they have welcomed into their ranks.<br>  They gave me the chance stolen by the Ba'ul.<br>  Your species does not deserve a second chance.<br>  The Great Balance is the only way to ensure  you do not destroy everything in your path.<br>  The Great Balance is a lie  you created to defend yourselves from us,  and to absolve yourselves of murder.<br>  In truth, you are frail.<br>  You would be helpless without your technology.<br>  We will never allow the past to be repeated.<br>  No threat to the Great Balance will go unanswered.<br>  You cannot maintain what you think of as peace  by continuing to cull us.<br>  Kelpiens are more than our instincts.<br>  You are the only two Kelpiens to know the truth.<br>  You will undergo analysis and be neutralized.<br>  The truth will be contained.<br>  Wait!  No, please, stop!  Siranna!  It is true, then.<br>  You have survived Vahar'ai?  Yes.<br>  I am what we used to become.<br>  The form we were meant to take.<br>  The Great Balance  our sacrifice to the Watchful Eye  It was all a lie.<br>  Forced upon us by the Ba'ul.<br>  That stole our mother and father from us.<br>  And generations of Kelpiens, beyond reckoning.<br>  And it must end.<br>  The Ba'ul used their technological advantage  to lock the Kelpiens into subservience,  allowing them to live  while eliminating the threat they posed.<br>  And that's why the Ba'ul are afraid.<br>  Well, if we can help them understand  that Saru is not a threat,  that his people need not be a threat  Sir, we're receiving a hail  from the Ba'ul.<br>  We should accept it.<br>  Discovery, this is Commander Saru.<br>  It's good to hear your voice, Commander.<br>  I am with Siranna, inside a Ba'ul structure.<br>  But we have no other indicators  of our position.<br>  We can't seem to get a lock on your coordinates either.<br>  Your location must be shielded from our sensors.<br>  Have you come in contact with the Ba'ul?  Yes.<br> It was  enlightening.<br>  Commander Saru,  we used the Sphere's archives  to analyze your planet's history,  and it's far more complex than we thought.<br>  All evidence indicates that  Kelpiens, in post-Vahar'aiform,  were once the Ba'ul's predators.<br>  That confirms my suspicions.<br>  And the Ba'ul's belief that,  after passing Vahar'ai,  my people can only be predators.<br>  They will do anything to continue the culling.<br>  And to keep more Kelpiens from learning the truth.<br>  It will not be easy to convince my people  the Great Balance is a deception,  but we must find a way to save them.<br>  Thousands of years of conditioning  will take time to undo.<br>  But Siranna is right.<br>  We must demonstrate to Kelpiens  and Ba'ul alike what we could become.<br>  The same way I was shown.<br>  The Sphere.<br>  The Sphere triggered your Vahar'ai.<br>  Yes, but we need to accelerate the process.<br>  We cannot allow the Ba'ul  to take action before Vahar'ai is complete for all Kelpiens.<br>  If we isolate the active frequencies  in the Sphere's transmission, the corresponding sound wave  should speed up the biological response, right?  - I got it.<br> - And the Ba'ul will have no choice  but to face our evolved race.<br>  What if history repeats itself?  We can't be responsible for the extinction of the Ba'ul species.<br>  But the Ba'ul are still vastly technologically superior.<br>  It would take the Kelpiens generations  to become a serious threat.<br>  Generations during which the Ba'ul could face  the thing they fear most about us.<br>  Not our so-called baser instincts.<br>  Our rage.<br>  But we will prove to them that we can move beyond it.<br>  We will not perpetuate the cycle.<br>  We will create  a new balance.<br>  Captain, I cannot prove it,  but I believe this is what the signal brought us here to do.<br>  Very well, Commander.<br>  Discovery will help you amplify the signal.<br>  How will we broadcast the Sphere's transmission  to all the Kelpiens at once?  The same way I made first contact  with Captain Georgiou.<br>  By using the Ba'ul's own technology against them.<br>  That should do the trick.<br>  Commander Saru, I'm sending you the modified  Sphere transmissions now.<br>  Once I do this,  all Kelpiens, including you, will begin Vahar'ai.<br>  Everything will change.<br>  I'm afraid it'll be much more painful,  like being torn apart from within.<br>  Just promise me, brother,  that this will not be the end of our people.<br>  No.<br> It will be a new beginning.<br>  Then let it begin.<br>  Bio-sign readings indicate that Vahar'ai  has initiated in 63% of Kelpiens and rising.<br>  I'm sorry.<br> It will be over soon.<br>  Sir, I'm detecting massive activity  beneath the surface of the lake.<br>  On screen.<br>  There's a structure rising above the water.<br>  At least 50 kilometers in diameter.<br>  A Ba'ul stronghold.<br>  Protected by a powerful force field.<br>  That might be where they're holding  Commander Saru and Siranna captive.<br>  Red alert.<br> Rhys, target that structure's shields.<br>  If we destroy them, maybe we can get a lock on Saru  and his sister's location.<br>  You have survived.<br>  We have angered the Ba'ul.<br>  Owosekun, tell me what I'm looking at.<br>  That Ba'ul structure is activating pylons  across the planet,  with an energy buildup capable of destroying  every Kelpien village.<br>  Rather than let them evolve,  the Ba'ul are committing genocide?  Bryce, hail these bastards.<br>  Rhys, forget the stronghold.<br> Get a target lock  on those pylons.<br>  - They're not responding, sir.<br> - Open a channel.<br>  This is Captain Pike.<br> I will not allow you  to wipe out an entire race.<br>  Your fear of the Kelpiens has blinded you  to a peaceful solution.<br>  Starfleet can help you negotiate a new balance  between your two species,  protecting everyone on your world.<br>  However, if you choose  to murder the entire Kelpien population  you will become our enemies.<br>  Choose wisely.<br>  Sir, they've activated all 4,056 pylons  - in every Kelpien village.<br> - Lieutenant Rhys?  There are too many pylons to target at once, sir.<br>  Let's get started.<br>  Arm photon torpedoes.<br>  On my order.<br>  The Ba'ul mean to kill us all!  Discovery will stop them.<br>  No, no!  Sir, sensor readings indicate  a massive spike in electromagnetic radiation  in the Ba'ul structure.<br>  The pulse has deactivated all the pylons across Kaminar.<br>  Rhys, hold your fire.<br>  What the hell is happening?  The Ba'ul weapons and shields have all been disabled,  but I can't get a reading on what caused it.<br>  The technology required to generate  electric and magnetic fields that wide  This should be impossible.<br>  That is what you came to find.<br>  A savior.<br>  Siranna, what has happened?  How have we survived Vahar'ai?  The truth has survived.<br>  It is time for a true balance to be restored.<br>  You do not have to be afraid anymore.<br>  Attention, all personnel  What's this?  Commander Saru's report,  shared in the spirit of cooperation.<br>  Thanks to Commander Saru's enhanced eyesight,  he was able to get a better look at the Red Angel.<br>  "The entity appears to be a humanoid  "wearing a mechanized suit,  "exhibiting technology far beyond  present Federation capabilities.<br> "  So, it's someone.<br>  And whether human or alien,  it has extremely advanced technology.<br>  Someone who is manipulating the fates of entire species.<br>  Control,  which models Section 31's threat assessments,  is probably rightfully alarmed by  what is it? A  a time-traveling being pursuing its own agenda?  When we forced the Ba'ul to decentralize their power  across the entire planet,  the Red Angel took advantage of their temporary exposure  and used its advanced technology  to save the Kelpiens from genocide.<br>  And what happens when that technology  is turned against us?  Section 31  and Control's threat-assessment models  seem a bit paranoid.<br>  You're aware we're no longer at war?  And we don't want to end up in one again.<br>  This last war, sir, took a toll  on those who fought it.<br>  Some of us are still torn apart.<br>  I felt the same way  the first time I saw it,  looking down on our planet, our home.<br>  Well, you took home with you.<br>  Well, seeds of it, yes.<br>  This little garden was all I had for so many years.<br>  But I realized  there was so much more out there.<br>  You could come with me, Siranna,  if you wanted to see it.<br>  Just for a while.<br>  No.<br>  I must stay for my people.<br>  There is a long road ahead,  Our minds must truly be free  before Kelpien and Ba'ul accept each other.<br>  But I am happy, brother.<br>  I know you did not leave Kaminar in fear,  but in hope.<br>  And you brought that hope back with you.<br>  You and your Red Angel.<br>  You are welcome to return home  whenever you would like, brother.<br>  I will, sister.<br>  Thank you, Michael.<br>  I'm reminded.<br> Do you know Aeschylus?  An ancient Greek tragedian,  born circa 525 BC.<br>  "He who learns must suffer.<br>  And even in our sleep "  "Pain that cannot forget  falls drop by drop upon the heart.<br> "  Knowing that my sister has a chance to evolve,  to live a full life,  it makes me feel I can endure anything.<br>  I am sure, given the opportunity,  you would do the same for your own brother.<br>  If I could find him.<br>  But seeing you with Siranna  has made one thing very clear to me.<br>  And that is?  I need to go home as well.<br>  To Vulcan.<br>   Star Trek: Discovery SO2EO6 - The Sounds of Thunder     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e05" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e07" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

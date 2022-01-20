@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e14 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e14 - The War Without, The War Within Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e14 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e14"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e14 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e14" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;The War Without, The War Within</div>
+
+            <h1>Star Trek: Discovery (2017) s01e14 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">The War Without, The War Within</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  What is happening to you?  I don't think I'm Ash Tyler, Starfleet Lieutenant.<br>  Not really.<br> Not anymore.<br>  L'RELL: We modified Voq into a shell that appears human.<br>  We grafted his psyche into Tyler's.<br>  I do not know where your Voq ends and our Tyler begins,  but they are both in jeopardy.<br>  Only my hands can tend to him.<br>  (SCREAMS, GROANS)  Logic tells me she's not the one that I betrayed.<br>  She's a ghost.<br>  (GROANS)  I have no future now.<br>  Find a way home.<br> I will buy you some time.<br>  Get out of there, now.<br>  What have you done to me?  If we blow the reactor core,  the resulting explosion will be pure mycelial energy.<br>  We can ride it long enough  for the energy to activate the drive,  and then you can navigate us home.<br>  We overshot by nine months.<br>  If the map is to be believed,  it appears the Klingons have won the war.<br>  Captain.<br>  Emperor.<br>  On your knees, slave.<br>  This Kelpien is my captain.<br>  (EXHALES)  Sir, I can explain.<br>  Yesterday we dined on the entrails of his brethren.<br>  And today you seek his favor?  Transport our visitor to guest quarters  on deck three  and confine her there now.<br>  You told me there were no Kelpiens  in the other universe.<br> You lied.<br>  I hoped to spare you the pain.<br>  The presence of a Terran defector  on this ship is to be regarded as classified.<br>  Its utterance will carry a penalty of treason.<br>  - Do you understand? - Aye, Captain.<br>  COMPUTER: Captain, your presence is requested in sickbay.<br>  With me.<br>  (DOOR WHOOSHES OPEN)  I could offer excuses.<br> (ELECTRIC WELDER CRACKLES)  I was trying to destabilize the Terran Empire.<br>  I I thought Starfleet could benefit  from learning about an alternate universe.<br>  The truth is that I just couldn't  watch her die again, Saru.<br>  I wanted to offer her more.<br>  I am sorry.<br>  Saving Georgiou may indeed prove  to be a grave error in judgment.<br>  But  no one else could have done what you did  aboard that Terran flagship.<br>  You are alive,  and we are home.<br>  Any news from Command?  Federation ships have appeared on long-range sensors,  but none answer my hail.<br>  Doesn't feel much like home.<br>  (ELECTRICAL SURGES)  Discovery suffered damage riding the mycelial shock wave  back into our universe.<br>  We are running on auxiliary power  until repairs are complete.<br>  Deck four.<br>  Dr.<br> Pollard has orders to alert me  when Lieutenant Tyler regains consciousness.<br>  An emergency surgical procedure proved necessary.<br>  An attempt to excise the Klingon  in Tyler's neurological identity.<br>  How?  What happened to him was completely outside  of the realm of sanctioned medicine.<br>  Starfleet did not perform the procedure.<br>  It was the Klingon L'Rell.<br>  His torturer?  And handler.<br>  She oversaw Tyler's transformation.<br>  None of us are sure what state we might find him in.<br>  I am hoping that a familiar face  could offer him encouragement to heal.<br>  How he reacts to you may offer us insight  into who he has become.<br>  Captain, he's awake.<br>  Is that an order, Captain?  I fail to understand.<br>  Is that an order? To see him?  No.<br>  I'm sorry.<br>  I can't.<br>  What are your findings, Doctor?  By all assessments, the patient now presents as Ash Tyler.<br>  Adrenocorticotropic hormonal levels are normal.<br>  Cellular mitochondria counts are back within human range.<br>  I find no remaining evidence of Klingon aggression  or muscular stamina.<br>  So, is he human or Klingon?  (SIGHS) Neither.<br> Both.<br>  We can't be sure.<br>  Not without understanding the science  behind the reassignment procedure.<br>  And how do we do that?  I suppose we could start by asking him.<br>  (SIGHS)  SARU: Tyler?  Mr.<br> Saru.<br>  - Thanks for the save.<br> - And Voq?  I can access his memories,  but there's a disconnect.<br>  Like watching someone else's life or something.<br>  Do you remember what was done to you?  The Mo'Kai call it a choH' a'.<br>  Species reassignment protocol.<br>  Specifically designed to infiltrate  classified Starfleet intelligence.<br>  Are there others?  Voq was the test case.<br>  They flayed his skin.<br>  Cracked his bones open.<br>  Sawed his heart into pieces.<br>  You think that'll be the worst of it.<br>  Then they start shaving down the tips of your fingers.<br>  Voq was T'Kuvma's Torchbearer.<br>  He submitted to the torture willingly, at L'Rell's behest.<br>  They were the only true believers left.<br>  Voq and L'Rell believed taking the ship would  bring followers back to T'Kuvma's house.<br>  They were in love, you know.<br>  I  Will you cooperate with us?  Share everything you know?  Of course.<br>  I  I would do anything to undo what I've done.<br>  Is she alive?  Uh, Specialist Burnham has  returned safely aboard Discovery.<br>  (EXHALES)  Thank God.<br>  - Can I - Focus  on your recovery.<br>  You both survived a harrowing ordeal.<br>  Saru, I tried to kill her.<br>  I murdered  Dr.<br> Culber.<br>  I belong in the brig.<br>  Voq is responsible for your crimes.<br>  And I see no semblance of him before me.<br>  Your privileges aboard Discovery will be limited.<br>  But I will not take your freedom.<br>  (DOOR WHOOSHES SHUT)  (ELECTRICITY CRACKLING)  Vessel is approaching, sir.<br>  Federation signature.<br>  Hail them at once.<br>  Aye, Captain.<br>  Captain, its shields are up.<br>  It-Its phasers are charged and targeting.<br>  Shields up.<br>  I'm picking up an incoming transporter signature.<br>  We're being boarded.<br>  Identify yourselves!  Hands where I can see them!  (INDISTINCT SHOUTING)  I demand an explanation for this intrusion!  We ask the questions.<br> (COMM CHIRPS)  Clear for transport.<br>  Admiral  Where's Captain Lorca?  - Sarek! Please! - Stand down, Specialist.<br>  Now.<br> Computer  initiate command-level override.<br>  Authorization Admiral Katrina Cornwell, pi beta six.<br>  COMPUTER: Override confirmed.<br> (SHIP POWERING DOWN)  Start with him.<br>  Ambassador, what are you doing?  What the times require.<br>  (GASPING SOFTLY)  My mind to your mind.<br>  My thoughts to your thoughts.<br>  (SAREK BREATHES DEEPLY)  Ah  SAREK: Mr.<br> Saru is who  he appears to be.<br>  The Discovery has been through  an inconceivable ordeal.<br>  Then where the hell is her commanding officer?  Captain Lorca is dead.<br>     Star Trek Discovery S01E14 The War Without, The War Within/fo  (ORIGINAL STAR TREK THEME PLAYS)  Bastard.<br> (WEAPON FIRES)  The Lorca I came up with was measured, he was reasoned.<br>  But I couldn't have imagined  That Lorca was an impostor from an alternate universe  was not the most obvious conclusion.<br>  We were all deceived.<br>  CORNWELL: Discovery was destroyed  by Klingons nine months ago.<br>  I saw the debris with my own eyes.<br>  That wreckage belonged to the Terran Discovery.<br>  The two ships switched places when we jumped across universes.<br>  CORNWELL: From what you've told us about the Terran Empire,  no Starfleet officer could survive that universe alone.<br>  So my Gabriel is dead.<br>  Lorca sidelined the most vital asset in our fleet.<br>  Now, with your return, we have disseminated  your hard-earned, cloak-breaking algorithm  to the front lines,  which will neutralize the Klingons' ability  to render their ships invisible.<br>  But our fear is it's too late.<br>  The war here has waged on  for nine brutal months without it.<br>  STARDATE 4789.<br>6:  Klingon vessels launch  hypothermic charges at Kelfour VI,  burning off their atmosphere  and killing 11,000 civilians  instantly.<br>  STARDATE 4851.<br>5:  A cloaked raider tails the USS Saratoga  into spacedock at Starbase 22,  then ignites its antimatter supply  in a suicide mission.<br>  Days later, similar assaults  are carried out on bases 19 and 12,  resulting in the loss of one-third of our fleet.<br>  Research outposts  at the border colonies of Nivalla, Septra and Iridin  have also been destroyed.<br>  The only children spared  are now orphans.<br>  There's no pattern to these attacks.<br>  There's no logical progression to their targets.<br>  There's not even consistency of method.<br>  In the absence of a clear leader,  the Klingon houses are divided once again.<br>  At the start of this war, we fought one enemy.<br>  Now, we fight 24.<br>  They quarrel among themselves,  hence the indiscriminate nature of their aggression.<br>  But their collective aim seems clear.<br>  To compete for dominance  by seeing which house can destroy the most  Federation assets.<br>  We are fodder for their futile savagery.<br>  Our deaths, their spoils.<br>  CORNWELL: Nearly 20%  of former Federation space has been occupied.<br>  Discovery will jump  to Starbase One immediately.<br>  All evidence of your recent journey  will be classified and destroyed.<br>  We cannot risk the knowledge of this alternate universe  leaving the confines of Discovery.<br>  I don't understand.<br>  There would be too many possibilities.<br>  Indeed.<br> Our people have suffered terrible losses.<br>  What would you do if you thought that your dead wife,  your lost child, your murdered parents,  all might be alive on the other side  and that a technology exists  for you to see them again?  This knowledge must be buried.<br>  Command will want this locked down.<br>  Of course, Admiral.<br>  Starbase One is our only remaining sanctuary.<br>  Can you jump us there?  STAMETS: Well, it's, uh,  100 AUs from Earth  and over a light-year from our current position.<br>  We used up the last of our supply of spores to get us home,  and I can't jump without them.<br>  The journey at warp will be perilous.<br>  Klingons swarm the quadrant.<br>  I'm afraid we have no choice.<br>  Saru, take the ship to warp as soon as possible.<br>  Admiral  There's one more thing you need to know.<br>  BURNHAM: Emperor, the Federation has questions.<br>  I need you to answer them.<br>  What kind of guest would I be  if I refused such a simple request?  I'm told that, in your universe,  your word is law.<br>  Here, we do things differently.<br>  I can see that.<br>  The resemblance is remarkable.<br>  What do you know of your counterpart,  Captain Philippa Georgiou?  I know that she is dead  and I am not.<br>  But I will leave you to determine which of us  has proved stronger.<br>  Specialist Burnham has assured us  that your arrival in this universe  is without motive,  but your presence here remains complicated.<br>  The solution, however, is not.<br>  Send me home.<br>  The Emperor narrowly escaped a violent revolution.<br>  She deserves political asylum.<br>  I don't need your protection.<br>  We have charted a course for Starbase One.<br>  You will be held there, humanely,  until Command can determine a proper course of action.<br>  So I am your prisoner.<br>  Look, Your Highness, or whatever you're called,  I'll tell it to you straight.<br>  I'm not even sure we know how to send you home,  and even if we did,  we have a war to fight.<br>  I'm sorry.<br>  Like I said, you're our guest.<br>  Make yourself at home.<br>  The resemblance is remarkable.<br>  See that she's comfortable.<br>  (DOOR WHOOSHES OPEN)  (DOOR WHOOSHES SHUT)  (ELECTRICAL CRACKLING)  FEMALE VOICE (OVER COMMS): Attention, all cadets  Stamets.<br>  I'm sorry.<br>  Words  Words are not enough, and I know that.<br>  But I am.<br>  You killed a good man.<br>  A man that I loved.<br>  Do you remember that?  I do now.<br>  And does it gut you?  Does it sicken you?  Good.<br>  Maybe you're still human after all.<br>  (INDISTINCT CHATTER)  (CHATTER DIES AWAY)  (SYNTHESIZER POWERS UP, DINGS)  (WHISPERS): That's him.<br>  Excuse me.<br>  You don't have to do this.<br> I'm okay.<br>  How could that possibly be true?  Just eat.<br>  And talk, if you want to.<br>  I'm here.<br>  Welcome back.<br>  (INDISTINCT CHATTER RESUMES)  Hi.<br>  Admiral.<br>  Starbase One within range.<br>  Well done, all.<br>  USS Discovery to Starbase One,  permission to initiate docking procedures?  She'll be a sight for sore eyes.<br>  Admiral,  I'm unable to establish contact.<br>  Reset our channels.<br>  I'll override the comms restrictions manually.<br>  CORNWELL: Detmer, drop us out of warp.<br>  Aye, Admiral.<br>  Bring Starbase One on screen.<br>  Aye, Admiral.<br>  No.<br>  Enhancing image.<br>  BURNHAM: That's a Klingon crest.<br>  House D'Ghor.<br>  They've seized a Federation starbase?  - Scan for life signs.<br> Now! OWOSEKUN:- Complying.<br>  Sensing 274 Klingon  - life signs aboard.<br> - Federation life.<br>  Uh, negative, Admiral.<br>  There's nothing.<br>  There were 80,000 souls on that base.<br>  A large contingent of our leadership  and at least three starships.<br>  The Klingons are practically in Earth's backyard.<br>  Captain, we're being scanned.<br>  Detmer, maximum warp.<br> Get us out of here.<br>  Yes, sir.<br>  OWOSEKUN: I'll bring sensors to maximum.<br>  BRYCE: Maintain constant scans  of Klingon contacts    Admiral, Discovery awaits your orders.<br>  Maintain current course and speed.<br>  We will make contact with Command.<br>  What's left of them.<br>  (DOOR WHOOSHES OPEN)  (DOOR WHOOSHES SHUT)  You live.<br>  And you finally made it aboard the USS Discovery,  though I suspect you've found the accommodations lacking.<br>  Even from a cage, Kahless hears my call.<br>  I do not subscribe to your ideals.<br>  And yet, I feel as though you and I understand each other.<br>  T'Kuvma taught that all humans are without courage.<br>  About this, he was wrong.<br>  I want to be truthful with you.<br>  Your side is winning.<br>  When we met, you had nothing but contempt  for the crumbling leadership of the Klingon Empire.<br>  T'Kuvma sought to strengthen and unify the Great Houses.<br>  If he has succeeded in only this,  it is cause for celebration.<br>  Your Great Houses are carving up Federation assets  among their factions.<br>  A captured starbase bears the insignia of House D'Ghor,  not of the Klingon Empire.<br>  Is that the kind of unity your messiah proclaimed?  They think nothing of the collateral damage  caused by their brutal attacks.<br>  They target civilians, hospitals, food convoys.<br>  They slaughter innocents and inspire terror  across the quadrant.<br> This is war,  not a child's game with rules.<br>  We fight to preserve Klingon identity.<br>  No one is looking to destroy your culture.<br>  Our laws are founded in equality.<br> Freedom.<br>  T'Kuvma taught us that the Federation cannot help itself.<br>  It seeks universal homogenization and assimilation.<br>  T'Kuvma was an ignorant fool.<br>  And your people are moving closer and closer  to my home planet.<br>  What are you looking for?  More territory?  Conditional surrender?  I mean, your people won't even make demands.<br> Why?  How does this war end?  It doesn't.<br>  Klingons have tasted your blood.<br>  Conquer us  or we will never relent.<br>  Thank you.<br>  (DOOR WHOOSHES OPEN)  (DOOR WHOOSHES SHUT)  There's been a change of plans.<br>  Another Klingon attack.<br>  You'll have to stay on board  Discovery a little while longer.<br>  It makes no difference.<br>  One cell in this universe is as good as another.<br>  You heard your admiral.<br>  We mean you no harm.<br>  The admiral was just  Tell me about the Vulcan.<br>  There is a connection between the two of you.<br>  Why would you say that?  The way you look at him  is not unlike the way you look at me.<br>  He's essentially my father.<br>  He raised me.<br>  So you were orphaned here as well?  Another echo of fate between our worlds.<br>  Your rule extends through every system in your galaxy.<br>  You've conquered places  Starfleet hasn't even dared to explore.<br>  I see now  that the time for peace has passed.<br>  I need you to tell me,  how did you defeat the Klingon Empire?  I started this war, and I need to finish it.<br>  Why did you bring me here?  Truly.<br>  I wanted to show you a place of morality,  of hope.<br>  Let me tell you,  daughter who is not my daughter.<br>  In truth, you wished to save me because you couldn't save her.<br>  This regret that you have for what you did,  it weakens you.<br>  I feel it every day of my life.<br>  The Klingons are like cancer cells: constantly dividing.<br>  To root them out,  you must destroy the tumor at its source.<br>  How much do you know about Qo'noS?  I suppose I don't have to tell you  it's the middle of the night.<br>  I have a proposal.<br>  SHUKAR: I left Discovery  only to learn that a Klingon attack is imminent.<br>  They are gathering forces to launch a strike  on this whole system.<br>  The Klingons are taking the fight to us.<br>  We need to take it to them, to Qo'noS.<br>  Attack the Klingon homeworld?  CORNWELL: Not a simple attack.<br>  A simultaneous strike on their planetary-defense batteries,  immediately followed by the coordinated destruction  of all military targets planetwide.<br>  A single offensive so destructive,  it will force the enemy to retreat from Federation space  and head for home.<br>  SHUKAR: Our remaining fleet  is being called back to defend Earth.<br>  Discovery should join them.<br>  SAREK: Each path of logic leads to the same conclusion:  Starfleet tactics have failed us.<br>  We must adapt if we're to have any hope of survival.<br>  Qo'noS is uncharted territory.<br>  We have no idea where their defense batteries are,  much less their weapon production systems or shipyards.<br>  SHUKAR: The planet's dense upper atmosphere prevents  long-range topographical and energy analysis.<br>  And no Starfleet officer has set foot there in this century.<br>  DRAKE: Your strategy's a good one, Katrina.<br>  But it's not feasible without a map.<br>  And by the time Discovery got close enough to begin surveying,  they'd blow her out of the sky.<br>  She's not gonna be in the sky.<br>  CORNWELL: Let's go over it again.<br>  Qo'noS is composed of a subterranean series  of now dormant volcanoes.<br>  It is a planet of caves.<br>  STAMETS: Some of them, according to Specialist Burnham's intel,  are big enough to house a Crossfield-class starship.<br>  BURNHAM: Rather than surveil our targets from orbit,  we can map the terrain from the inside out.<br>  Thereby minimizing our risk of detection.<br>  SARU: Jumping a massive starship  inside a cave  of impenetrable rock does seem, uh, challenging.<br>  Travel aboard the mycelial network is, in itself,  a sort of advanced  detection system of geophysical imaging.<br>  I can easily identify the voids in energy  that would represent a chasm versus a solid mass.<br>  BURNHAM: And once we're in position  within the cave system,  we'll release our surveillance drone  to collect the necessary tactical information.<br>  Good.<br>  Because I've assured Starfleet we can do this.<br>  And by "we," I mean you.<br>  It's a good plan, Specialist.<br>  - Well done.<br> - Thank you, Admiral.<br>  One question: how do we get the spores  necessary to make the jump?  We'll have to grow them ourselves.<br>  SARU: My understanding is that your crop  took years to cultivate.<br>  Set a course for the Veda system.<br>  And  get ready for a show.<br>  Prototaxites stellaviatori.<br>  My original sample,  and the last-remaining mycelium of this strain.<br>  We are headed to an uninhabited class-4 moon  in the Veda system.<br>  And if this works, I might even let you name it.<br>  You're gonna terraform a moon?  Your own research on the success  of an organic mycelial harvest was indeterminable.<br>  I've studied your data myself  Straal quashed it.<br>  He wanted to keep the crop captive,  but if ever there was a time to go wild  Your child is lost.<br>  SAREK: Do not confuse  my ward with yours.<br>  My daughter  was a singular example of brilliance  until one foolish choice doomed her world.<br>  Sound familiar?  If I understand correctly,  my ward saw through the man who brought down  not just your child, but your empire.<br>  Perhaps best not to make comparisons.<br>  Why have you requested my presence?  You were summoned, Vulcan, for one reason.<br>  I want to help you end this war.<br>  The information  you provided Michael has already proved valuable.<br>  I told her as much as she could handle.<br>  Our daughters are not so unlike after all.<br>  In my world,  Qo'noS is little more than a blackened mass of dust.<br>  The Klingons fight for scraps and fear certain death.<br>  But it took a great deal more  than a mapping drone in a cave to get there.<br>  You assured Michael that your plan would prove effective.<br>  And it will, momentarily.<br>  But they will regroup.<br>  Their longing to destroy the symbol that is Earth  runs far too deep.<br>  What if I could show you how to bring them to their knees  once and for all?  The Federation does not subscribe  to what I imagine are Terran methods of combat.<br>  You face annihilation.<br>  Is it not logical  to do anything you can to save the lives of your kind?  Give me what I want,  and I can assure victory for the Federation.<br>  What are your terms?  Freedom.<br>  I must return to Vulcan.<br>  There are evolving details to the plan  that must be considered.<br>  What evolving details?  I sense you are uneasy.<br>  During my mind-meld with Saru,  I learned of your attachment to the Klingon spy  and what he did to you.<br>  Such events are clearly troubling.<br>  I'm fine, Sarek.<br>  I remain unconvinced.<br>  There is irony here, of course.<br>  The man you fell in love with was a Klingon.<br>  He  I don't know what he was.<br>  There is also grace.<br>  For what greater source of peace exists  than our ability to love our enemy?  I've made foolish choices.<br>  Emotional choices.<br>  Well, you are human.<br>  As is your mother.<br>  There is no telling what any one of us may do  where the heart is concerned.<br>  We are at war.<br>  Logic dictates that each farewell may be our last.<br>  Do not regret loving someone, Michael.<br>  Admiral Cornwell requested a status report.<br>  This is the last of the mycelial transport vessels.<br>  We will be able to launch by the time we reach Veda.<br>  I just said good-bye to my father, and it felt different.<br>  Final.<br>  It won't be, right?  Did you ever think, when you signed up for Starfleet,  that you'd be forced to see war and death?  Death found me when I was a child.<br>  So, yeah.<br>  I knew what I was getting into.<br>  I don't think I did.<br>  Not really.<br>  Does that make me naive?  It makes you optimistic.<br>  When we were in the Terran universe,  I was reminded how much a person is shaped  by their environment.<br>  And I think the only way that w we can stop ourselves  from becoming them  is to understand the darkness within us, and fight it.<br>  Tyler needs you.<br>  I'm told he's doing well.<br>  That's not possible, not when you've lost the person  - you care about the most.<br> - He killed  a Starfleet officer.<br>  And he  he tried to kill me.<br>  And those crimes are reprehensible,  but Tyler is not the person who did that,  at least he's he's not anymore.<br>  He is something other, someone new.<br>  And what we do now, the way that we treat him,  that is who he will become.<br>  I know you still care about him.<br>  I do.<br>  That does not mean I should.<br>  Michael, he's been stripped of his badge.<br>  He'll never fly for Starfleet again.<br>  He'll be lucky if he doesn't end up in a lab or a cell.<br>  What kind of future can he have?  Say what you have to say, even if it's good-bye.<br>  Lieutenant Stamets, your stop.<br>  Locked and loaded, Admiral.<br>  Detmer, put her into geostationary orbit.<br>  Locking in  approximately 800 kilometers above the moon's surface.<br>  STAMETS: Copy that.<br>  Initiating mycelial ejection protocol.<br>  Engaging agri-transport boosters.<br>    Status, Lieutenant Stamets.<br>  STAMETS: Sensors from the terraforming field  show root structures forming in zones 922  and 5041.<br>  Ready the EM darts.<br>  TILLY: Darts calibrated.<br>  Fire.<br>  (DOOR WHOOSHES OPEN)  Come on, kiddos.<br>  Come on.<br>    COMPUTER: Spore generation at four percent.<br>  Eight percent.<br>  Twelve percent.<br>  Fifteen percent.<br>  Nineteen percent.<br>  Twenty-two percent.<br>  Twenty-seven percent.<br>  CORNWELL: I would congratulate you, Lieutenant,  but I'm afraid the work has just begun.<br>  COMPUTER: Forty-seven percent.<br>  Fifty-two percent.<br>  (DOOR WHOOSHES OPEN)  I don't know where to start.<br>  I do.<br>  I'm sorry.<br>  I know there's no way I can prove this to you,  but Voq, he's gone.<br>  I believe you.<br>  Was there ever really an Ash Tyler?  And did he love me?  Because I loved him.<br>  You lied to me.<br>  You said that if it got to be too much,  that if you couldn't handle it,  you would come to me.<br>  And it did.<br>  And you didn't.<br>  And that wasn't Voq, that was you.<br>  Tyler.<br>  Who the hell is Tyler?  You think I know anymore?  You think I have any idea who I am now, where I belong?  This isn't about a lie.<br>  This is about you looking for an excuse to end it.<br>  "Excuse"?  My crewmates have been kinder than they need to be.<br>  Why are you, the person who knows me best,  so quick to turn your back?  - Stop.<br> - I want you to admit it.<br>  Admit that you can't do this anymore  because you finally went there with someone  and things got complicated.<br>  Because your parents were killed by Klingons  and you fell in love with one.<br>  (EXHALES)  Maybe you're right.<br>  I know in my head  that you couldn't be responsible for Voq's actions  but I felt your hands  around my neck.<br>  And I looked into your eyes  and I saw how much you wanted to kill me.<br>  The man that I love wanted me dead.<br>  And no matter how hard I try,  when I look at you now,  I see Voq's eyes.<br>  I see him.<br>  Your crew may have put it behind them, but I can't.<br>  I shouldn't be here.<br>  I should be an activated Klingon spy,  behind bars or dead.<br>  Michael, the reason it didn't take,  the reason L'Rell couldn't get through to me, that was you.<br>  Did Ash Tyler love you?  Hell yes, he did.<br>  And I can't find my way back without you.<br>  (SIGHS)  We created something beautiful today  in a desolate wasteland  that had never seen life.<br>  After the Battle of the Binary Stars  I was so lost.<br>  I had to sit with myself.<br>  I had to work through it.<br>  I had to crawl my way back.<br>  I'm still not there, but  I'm trying.<br>  That kind of work  reclaiming life  it's punishing  and it's relentless.<br>  And it's solitary.<br>  No, I  Ash.<br>  It's not easy  letting you go.<br>  (SNIFFLES)  (SIGHS)  CORNWELL: The mycelial bloom was successful.<br>  A spore harvest is underway.<br>  Then the jump to Qo'noS will be possible?  Yes.<br> Imminently.<br>  The Federation Council has been briefed  on our newly acquired intelligence from the Terran.<br>  Despite the extraordinary risk,  all are agreed that we have no choice but to proceed.<br>  Our very existence hangs in the balance.<br>  Then it's time.<br>  Open a shipwide channel.<br>  We have all mourned  the enormous loss of life due to this war.<br>  The acts of violence committed against us are the acts of a foe  without reason, without honor.<br>  And they will not stop coming after us in the hopes  of destroying everything that we hold dear.<br>  These are desperate times  and they call on us to do more than merely protect our people,  defend our borders.<br>  I stand before you with a mission.<br>  At 2100 hours, the USS Discovery  will jump for the Klingon homeworld  in order to map its surface  and isolate vulnerabilities  and military targets.<br>  This brave team  will be the first to visit  this inhospitable planet  since Captain Archer and the crew  of the Enterprise NX-01,  nearly 100 years ago.<br>  So allow me to introduce you  to the person who will chart your course to Qo'noS.<br>  Captain Philippa Georgiou.<br>  Thank you.<br>  CORNWELL: Though long presumed dead,  Captain Georgiou  was recently rescued  in a highly classified raid  of a Klingon prison vessel.<br>  She was transported aboard Discovery  with my personal retinue.<br>  The mission to Qo'noS is a perilous expedition.<br>  And Starfleet is confident  that Captain Georgiou  is uniquely qualified to get you there  and to do what needs to be done.<br>  Specialist Burnham,  I trust that this will be an auspicious reunion,  despite our history.<br>  Now take your station.<br>  Yes Captain.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e13" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e15" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

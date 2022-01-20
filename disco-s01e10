@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s01e10 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s01e10 - Despite Yourself Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s01e10 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e10"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s01e10 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e10" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Despite Yourself</div>
+
+            <h1>Star Trek: Discovery (2017) s01e10 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Despite Yourself</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously, on Star Trek: Discovery  LORCA: We are creating a new way to fly.<br>  If the Discovery can be anywhere,  and be gone within an instant,  that's how you beat the Klingons.<br>  The only other  female Michael I ever heard of,  was the mutineer.<br>  You're not her, are you?  I would like to extend an official invitation  to you to join the Discovery.<br>  PSYCHO: 8,000 are dead because of you.<br>  8,186.<br>  LORCA: Klingons won't stop until they've destroyed everything  in their path.<br>  And we can't stop them without you.<br>  Who is she to you?  TYLER: Her name is L'Rell.<br> She was my torturer.<br>  If none of that had happened, I wouldn't be here.<br>  What did you do to me?  I will never let them hurt you.<br>  STAMETS: I'll do one more jump.<br>  Only one more jump.<br>  [SCREAMS.]<br>  TILLY: Computer is reading it as an incomplete navigation sequence.<br>  [GASPING.]<br>  SARU: Captain, I'm afraid I don't know where we are.<br>  Yellow alert.<br>  COMPUTER: Yellow alert.<br>  This isn't Starbase 46.<br>  Where the hell are we?  SARU: Our-our sensors are  uh, recalibrating, sir.<br>  What happened, here?  I don't remember reports of battles  anywhere near Organia.<br>  Blast scoring and damage patterns  are consistent with Federation weapons,  but the hull signatures are a little off.<br>  Off?  Wreckage is Klingon,  but hull density analysis is registering  outside acceptable margins.<br>  Is anything here a threat?  No life signs or active power signatures.<br>  Small favors.<br>  Captain, our navigational array is malfunctioning.<br>  According to these readings,  we jumped to our intended coordinates,  and our position,  relative to the galactic center, is confirmed.<br>  But almost nothing else is where it's supposed to be.<br>  [CRACKLING.]<br>  Nice of you to join us, Mr.<br> Tyler.<br>  I know it was only a yellow alert.<br>  - I'm sorry, sir.<br> - OWOSEKUN: Captain.<br>  A vessel is approaching at sub light speed.<br>  Seems like a Vulcan cruiser.<br>  LORCA: On screen.<br>  Well, the Vulcans must be the ones  who destroyed those Klingons.<br>  - Should we hail them, sir? - Yes, open a channel.<br>  BRYCE: Unidentified Vulcan cruiser,  this is the USS Discovery.<br> Please respond.<br>  TYLER: Captain.<br> The Vulcans are powering up weapons.<br>  They must have registered an active Klingon ship  - somewhere nearby.<br> - Red alert.<br> Shields up.<br>  - [SIRENS BLARE.]<br> - MALE [OVER P.<br>A.<br>.]<br>: All stations at red alert.<br>  Detmer, evasive pattern beta four pi.<br>  - They're doubling back.<br> - I'm not able to lock on, sir.<br>  Do it manually, shoot in a general direction.<br>  Where did that assist come from?  Incoming transmission from the Coope sir.<br>  - Audio only.<br> - Cooper?  Isn't she supposed to be undergoing a refit?  Send it through.<br>  MALE [ON COMM.]<br>: Spooked by rebels, Discovery?  You're losing your edge.<br> Don't worry.<br>  We'll take care of them.<br> Cooper out.<br>  BURNHAM: Vulcan rebels?  Firing on Starfleet?  Engineering, what's the status of the spore drive?  Lieutenant Stamets is non-responsive.<br>  He's stabilized, but there's no way  he can get back into that reaction cube.<br>  TILLY [ON COMM.]<br>: Spore drive is offline, Captain.<br>  SARU: I may have something.<br>  The quantum signature of the Cooper,  as well as that of the Vulcan cruiser,  are inconsistent with ours.<br>  BURNHAM: That's not possible.<br>  All matter native to our universe  resonates with the same quantum signature,  nothing can change it.<br>  That's true.<br>  Unless  this is not our universe.<br>         [ORIGINAL STAR TREK THEME PLAYS.]<br>  Obviously, the idea of parallel worlds  has been around since the 20th century.<br>  And you and Stamets believed  the spore drive could jump between them?  Well, it was a theory I was working on.<br>  Stamets was keen to chase it with me after the war.<br>  But, these areas don't correlate  to anything in the known universe.<br>  We suspected the mycelial network  extended way beyond anything we'd imagined.<br>  A vast system underpinning all quantum realities.<br>  But the exact coordinates of some of the more  esoteric destinations eluded us.<br>  Apparently, the 133 jumps we made filled in the gaps.<br>  An extraordinarily fortunate coincidence.<br>  I'd say unfortunate.<br>  Wouldn't you, Number One?  It's worse than that.<br>  The Klingon cloak-breaking algorithm we'd been refining  there's no way we can send that back to Starfleet now.<br>  That's why we have to make it back.<br>  Otherwise, the ships are just sitting ducks,  the war's as good as lost.<br>  Well, Stamets brought us here accidentally.<br>  So, we should examine the spore drive's navigational logs  - more closely.<br> There could be an indication - I just pushed Stamets too hard.<br>  The number of jumps scrambled his ability  to hold the coordinates for Starbase 46 in his head.<br>  Now, what we need to do is understand where we are  and how to survive.<br>  Then we'll find a way home.<br>  Recalibrate the sensors, and you start looking at the records,  - see if there's something we can learn.<br> - Yes, Captain.<br>  It's a palace.<br> Stay close.<br>  Lieutenant Stamets, please don't hate me,  but what is the spore germination rate, again?  And, uh, I know you always have to remind me, but, uh,  the ideal moisture level in the cultivation bay,  is-is it 85% or 87% relative humidity?  Um  I was just, I was hoping I could, um,  maybe j-jog his memory with familiar things.<br>  Mainly, how annoying he finds me.<br>  He's in a state of neurological disregulation  unlike any I've ever seen.<br>  - It's a palace.<br> - Paul.<br>  - To the palace.<br> - Paul, no.<br>  - [GRUNTS.]<br> - Oh, my God.<br>  I'm okay.<br>  I'm so sorry.<br>  I should have told you as soon as I found out  about the side effects from the jumps.<br>  I shouldn't have kept it a secret.<br>  Paul is your superior officer, he gave you an order.<br>  You didn't do this.<br>  - Speak of the devil.<br> - LORCA: Cadet.<br>  - Excuse us.<br> - Yes, sir.<br>  [INDISTINCT P.<br>A.<br> ANNOUNCEMENT.]<br>  [DOOR WHOOSHES CLOSED.]<br>  How is he?  Alternately catatonic,  then prone to bursts of nonsensical speech.<br>  He's contained for his own safety,  and his adrenals are spiking uncontrollably.<br>  I don't know if he'll ever be the same,  let alone if he'll ever jump again.<br>  Yeah, I know you blame me for this,  and you're right.<br>  I'm his captain, I'm responsible for his well-being.<br>  Yes.<br>  You were.<br>  Fortunately, his well-being  falls to me, now.<br>  I'm afraid not.<br>  I've decided to hand his case over to another doctor.<br>  No.<br>  Medicine requires professional objectivity,  Dr.<br> Culber, and your bias,  your personal bias compromises that,  it compromises his recovery.<br>  Oh, suddenly, you care about protocol.<br>  You wanted me to fake Stamet's medical records  as a smoke screen.<br>  I bought you time so that you could  push him into all those jumps  and break the Klingon cloak.<br>  So he did.<br>  So we did.<br>  I'm the most qualified to care for him.<br>  Do you even want him to get better?  Or did you want all of this to happen?  You're clearly too emotional to be able to handle this.<br>  Maybe I let my emotions carry me away.<br>  My need to win the war  And look where it got us.<br>  You have your orders.<br>  FEMALE [OVER P.<br>A.<br>.]<br>: Attention all personnel  - [P.<br>A.<br> CONTINUES INDISTINCTLY.]<br> - [DOOR WHOOSHES OPEN.]<br>  [DOOR WHOOSHES CLOSED.]<br>    BURNHAM [ON COMM.]<br>: I'm detecting what looks to be  a Klingon central data core in that wreckage.<br>  It's inside a larger debris array  about 200 meters ahead of you.<br>  TYLER [ON COMM.]<br>: Glad the sensors are working again.<br>  Vulcan high-level math, Specialist?  And some good old-fashioned human know-how, Lieutenant.<br>  Copy that.<br>  Readings are good, Captain.<br>  I think the data core is intact.<br>  If we can bring it on board, we can get a crash course  on what those Klingons knew about this universe.<br>  Proceed with the extraction.<br>  TYLER [ON COMM.]<br>: Closing in on the cockpit.<br>  BURNHAM [ON COMM.]<br>: The core is likely part of the main computer  located at the rear of the ship.<br>  It should be easy enough to extract.<br>  [SIGHS.]<br>  [GRUNTS, SCREAMS.]<br>  [GASPS.]<br>  Seeing bodies in there.<br>  [SCREAMING.]<br>  [GASPS.]<br>  Why can't he maintain a course?  Is the flight control malfunctioning?  - Burnham.<br> - There are no life signs  in that wreckage, Lieutenant.<br>  You're all clear.<br>  - [PANTING.]<br> - BURNHAM: Ready to proceed?  BURNHAM: Tyler.<br>  [GASPING.]<br>  LORCA: What the hell is he doing?  Lieutenant Tyler.<br>  Get in there and extract that data core.<br>  Aye, sir.<br>  Proceeding.<br>  Approaching the Klingon raider.<br>  The bodies are  a Vulcan and Andorian.<br>  A Vulcan and an Andorian?  Commanding a Klingon ship?  I've located the data core.<br>  Looks intact.<br> But I'll have to clear  some of the hull around it with the laser cannon  to extract cleanly.<br>  BURNHAM: Proceed with extreme caution, Lieutenant.<br>  Even the slightest nick could corrupt the data  or destroy the core completely.<br>  COMPUTER: Debris surface analysis is non-conclusive.<br>  [SHUDDERED BREATHING.]<br>  Got it.<br>  [INDISTINCT COMMS CHATTER.]<br>  Get it to engineering as fast as possible, Lieutenant.<br>  You can relax, too.<br>  He's safe now.<br>  Sir?  I need to know that I can rely on my crew  to act professionally at all times.<br>  Particularly now.<br> We're in dangerous waters.<br>  So  can I count on you, Burnham?  Yes, sir.<br>  Good.<br>  What are you doing, standing there?  You can't hurt me anymore.<br>  Now, why would I want to hurt you?  What did you do to me?  On the prison ship.<br>  Tell me.<br>  You know what we did.<br>  We did it together.<br>  So many things.<br>  You have such appetites.<br>  - You forced me.<br> - Does thinking that  make you feel better?  I'm having flashes of things  things I don't remember.<br>  Procedures.<br> Surgeries.<br>  Sweet Tyler.<br>  Open this cell,  and I'll tell you everything you want to know.<br>  Very good.<br>  So much more  familiar.<br>  Tell me.<br>                      What did-what did you do to me?  I'm I'm not myself.<br>  You have another name.<br>  - Say it! - You know my what my name is!  If you don't tell me what you did to my mind  To my soul I'm gonna make you scream it as you die.<br>  The prayer should make you remember.<br> Something is wrong.<br>  You're damn right something's wrong.<br> Now, tell me!  What am I do What am I doing?  - No.<br> [WHIMPERS.]<br> - What am I doing?  Wait, wait.<br>  Wait!  [RUNNING FOOTSTEPS.]<br>  [DOOR WHOOSHES CLOSED.]<br>    [LOW CONVERSATIONS.]<br>  FEMALE [OVER P.<br>A.<br>.]<br>: Attention, all personnel.<br>  Black alert drills for deck seven  have been canceled until further notice.<br>  Isik for your thoughts.<br>  What's an isik?  It's an old Vulcan saying.<br>  No one actually knows where it comes from.<br>  Must make it hard to cash in.<br>  What happened out there?  In the worker bee?  What do you mean?  MALE [OVER P.<br>A.<br>.]<br>: Security briefing on deck one in five minutes.<br>  It happened again.<br>  The flashes of memory.<br> Worse this time.<br>  Things I hadn't recalled about my torture.<br>  - Thanks for covering.<br> - [INDISTINCT CONVERSATION.]<br>  You have to tell the captain.<br>  I know.<br> But I can't.<br>  Why?  PTSD regs require full-duty quarantine  till you can get treatment.<br> We're in another universe.<br>  I mean, how close do you think the nearest  - Starfleet medical center is? - Who knows?  It might be around the corner.<br>  [SHORT CHUCKLE.]<br> Maybe.<br>  But until that turns out to be true,  I need you to trust me.<br>  What you went through on the Klingon Ship of the Dead  Was a one-off.<br> Seeing those Klingons  took me by surprise, that's all.<br>  I can manage this, all right?  You just saw me manage this.<br>  You helped me manage  Just let me try and handle things.<br>  At least for a little while.<br>  At least till we get back home.<br>  - And what if you can't? - Then I'll tell you, I promise.<br>  I'm taking you at your word, Starfleet.<br>  FEMALE [OVER P.<br>A.<br>.]<br>: Specialist Burnham, please report to engineering.<br>  [SIGHS.]<br>  Duty calls.<br>  [DOOR WHOOSHES OPEN.]<br>  [GLASS BREAKS.]<br>  TILLY: The data core from the Klingon vessel  I got it open.<br>  Well done, Tilly.<br>  Strange.<br>  The core itself is Klingon, but  these data chips are of Vulcan design.<br>  They should be compatible with our universal interface.<br>  But this fused data technology, and their sharing of ships  Is it possible that in this universe, the Vulcans,  Andorians and Klingons have  some sort of alliance?  Allied against against us?  I'm gonna get into the interface and try to figure this out.<br>  I know.<br>  Me, too.<br>  It's weird being here without him.<br>  But he's gonna get better.<br>  He has to, right?  Of course he does.<br>  All right, let the xenoanthropologist get to work.<br>  BURNHAM: I'm downloading the Klingon raider's logs  Images, battle plans, intelligence  that we found from the core.<br>  And, so far, we can conclude  that we are indeed in a parallel universe.<br>  But one not governed by the Federation,  but by a fascistic, human-only organization  known as the Terran Empire.<br>  Most places and ships that are found in our universe,  like the Cooper, exist here.<br>  - The same goes for people.<br> - You mean, we could  literally meet another version of ourselves?  BURNHAM: Theoretically, yes.<br>  Wow.<br>  The Terrans appear to be  the antithesis of us, in every way.<br>  They're an oppressive,  racist, xenophobic culture  that dominates all known space.<br>  And they're ruled by a faceless emperor.<br>  And those ships we found?  They're part of a rebellion  that is made up, essentially,  of all non-human species.<br>  They're fighting for freedom.<br>  The rebellion fears and mistrusts humans.<br>  The Terran culture appears to be predicated upon  an unconditional hatred and rejection  of anything and everything "other.<br>"  That means us.<br>  There's no way we're asking  these neighbors for a cup of sugar.<br>  DETMER: Captain to the bridge.<br>  Incoming vessel.<br>  - It's the Cooper.<br> - We're on our way.<br>  BRYCE: We're being hailed, sir.<br>  They're asking to speak with the captain.<br>  They think we're their Discovery.<br>  All right, what intel do we have?  Scanning records from the core download.<br>  Uh, wait.<br> The rebel logs  show their ships being attacked  by a vessel with a warp signature  matching our Discovery,  but with a quantum signature  matching this universe.<br>  They're hailing us again, sir.<br>  That signature seems to have vanished  at the same coordinates where we popped in.<br>  - So - It is possible  we switched places with their Discovery.<br>  I'm gonna run with Mr.<br> Saru's theory in the hope  that we don't bump into ourselves and blow our cover.<br>  - Burnham.<br> - Modifying our ship's  signature to match that of mirror Discovery.<br>  - BRYCE: Captain.<br> They're saying - Hold on, Lieutenant!  if we don't respond that we should prepare to be fired on.<br>  Open a channel.<br> Audio only.<br>  Belay that.<br>  I'm sorry, but you can't take it, sir.<br>  I'm examining the crew manifest of mirror Discovery.<br>  You're not its captain.<br>  Who is?  That uh, that's me.<br>  That's me.<br>  That's absurd.<br>  Arming weapons.<br>  Cadet looks like  you're taking this one.<br>  Uh, wh uh, wh what-what do I say?  You just get rid of them as fast as possible.<br>  And you talk as little as possible.<br>  That's Uh, that might be a little hard for  Have you noticed that I talk a lot?  Defy your every instinct.<br>  TYLER: Their phasers are locked on.<br>  Should I raise shields, Captain?  LORCA: No.<br>  Mr.<br> Bryce, open a channel.<br>  BRYCE: Aye, sir.<br>  Hello, this is Captain Tilly.<br> What the he-heck hell?  What the hell?  Hold your horses!  This is Captain Spoeneman.<br> Why the delay  in responding, Discovery?  I was indisposed.<br>  Everything okay over there, Discovery? You made quick work  of those rebels, and we got the stragglers.<br>  Any reason you're still hanging around?  Expecting more kills? Trying to keep them all to yourself?  We're experiencing mechanical issues.<br>  Need a hand? We're not far.<br>  And why are you not on screen?  Mechanical issues?  Here's my chief engineer.<br>  I don't know who you are over here just yet,  so conceal your voice just in case.<br>  [WITH SCOTTISH ACCENT.]<br>: How are you doing, Captain?  Everything's squared away here.<br>  We've got, uh we've got trouble with our visual emitters  and the starboard nacelle, but  a bit tweaking, we'll be good to go, all right?  Very well, Discovery.<br>  More rebel nests for us.<br> Happy hunting.<br>  Long live the Empire!  Long live the Empire!  - [BEEP.]<br> - Good.<br>  [INDISTINCT CHATTER.]<br>  Sor-sorry.<br>  Next time, we might not get away with audio only.<br>  If we want to live to get back home,  we have to make it so we look  and act like we belong here.<br>  Mr.<br> Saru,  while we get up to speed with this universe,  see to it that the ship, the crew and its captain  are prepared.<br>  Yes, sir.<br>  I mean fully prepared.<br>  [GASPS SLIGHTLY.]<br>  LORCA: To successfully crash a party,  you have to look like you belong.<br>  You must project confidence.<br>  You gained the rank of captain  by stabbing your previous superior in bed.<br>  He was recovering from Crestian flu.<br>  That's not that's not possible.<br>  It's more than possible.<br>  Your nicknames include "The Slayer of Sorna Prime.<br>"  LORCA: Every detail of this so-called Terran Empire  Yes, sir.<br>  Must be replicated exactly.<br>  "The Witch of Wurna Minor.<br>"  LORCA: And wherever we may fall short,  we have to get creative.<br>  And finally  "Captain Killy"?  Well, that's not very clever.<br>  LORCA: Our very survival relies on our ability to maintain this cover.<br>  No matter what.<br>  We are now the ISS Discovery.<br>  Are we civilians?  Do we get uniforms? What?  We won't be needing them, sir.<br>  I finally found the files on our Terran counterparts.<br>  We're not here.<br>  Where are we?  I'm presumed dead.<br>  And you're a fugitive wanted for my murder.<br>  Well, what happened?  Well, the intelligence is fragmented.<br>  Looks like most of it's been stolen  from classified Terran files.<br>  But it appears  that you and I both enjoyed immense prestige here.<br>  I was the captain of the Shenzhou.<br>  And you had the Buran here, too, sir.<br>  And my crew they alive?  No.<br>  You attempted a coup against the emperor.<br>  I was sent to stop you.<br>  In the process, my shuttle was destroyed  by one of your followers, and I was killed.<br>  And the emperor laid waste to your ship in retaliation.<br>  It's believed you escaped.<br>  [SIGHS.]<br> Well, there's me hoping  I'd find a better version of myself over here.<br>  Look out there.<br>  Come on.<br>  Amazing, isn't it?  Different universe, but somehow the same people  had a way to find each other.<br>  The strongest argument  I've ever seen for the existence of destiny.<br>  I'm not sure if I believe in destiny.<br>  Well, is that so?  Sitting in that cell all alone,  facing a life sentence of solitude,  future full of misery.<br>  A little part of you had to know  that wasn't the end of your story.<br>  You were destined for something more.<br>  Destiny didn't get me out of prison, Captain.<br>  You did that.<br>  Well, let's agree to disagree for now.<br>  So, who is this emperor?  There's no information in the rebel files  beyond the fact that the emperor is savage.<br>  Maybe it's not a bad thing that you and I are ghosts.<br>  I found something curious in the data here.<br>  A potential way home.<br>  I didn't know how to exploit it till right now,  but I think you might end up saving us all.<br>  SARU: It's a suicide mission.<br>  - No, listen, Commander.<br> - Data from rebel intelligence suggests  that we're not the first ship  from our universe to find ourselves here.<br>  It cites another Starfleet vessel USS Defiant.<br>  SARU: How is that possible?  At last review, the Defiant was patrolling  Sector six in our universe.<br>  There may be some kind of temporal anomaly at play.<br>  It's unclear, but data suggests that in the future,  Defiant will encounter a phenomenon that'll bring it  into this alternative universe's past.<br>  Regardless, the Defiant is a Constitution class vessel.<br>  It didn't get here by spore drive.<br>  If we find out how it did make it over,  could be our way home.<br>  But boarding the ISS Shenzhou?  Posing as your Terran selves?  Well, that plan is an invitation for calamity.<br>  Captain, I beg you to reconsider.<br>  Intel on the Defiant is classified.<br>  It's only available on a Terran ship  to those with high-level clearance.<br>  - Like a captain.<br> - But you are an enemy of the empire and  - no longer a captain, Captain.<br> - No, but I am.<br>  But I thought the other Burnham was dead.<br>  Presumed dead.<br> My body was never found.<br>  I'm responsible for her death.<br>  And I'm still at large.<br> So, Captain Burnham  will be returning to the Shenzhou,  - with me as bounty.<br> - And I'll explain  that my death was a cover that I used to hunt him to the end  - of the quadrant.<br> - Delightful.<br>  We beam over,  Burnham gets the info on Defiant,  we beam back.<br> Simple.<br>  Every captain in the empire has a personal guard.<br>  You're gonna be Burnham's.<br>  Am I?  Have long-range sensors scan  for the ISS Shenzhou.<br> When you find her,  plot an intercept course.<br>  [SIGHS.]<br>  Let's get us home.<br>  Yes, sir.<br>  CULBER: What exactly are you worried about, Lieutenant?  I just want you to make sure  the Klingons didn't do something to me.<br>  Some kind of procedure I don't know about.<br>  Well, of course, you know, anything is possible.<br>  But you were exposed to a full set of physical scans  when you came on board.<br>  And random memory sampling, the Manchurian test,  is highly effective at detecting  what used to be called brainwashing,  i.<br>e.<br> the installation of commands  or personality engrams  underneath a functioning consciousness.<br>  What exactly are you imagining they could have done to you?  I'm not imagining anything.<br>  Forgive me, Lieutenant.<br>  I meant the word practically, not pejoratively.<br>  As in when one uses the imagination  to picture what is not yet known.<br>  Or seen.<br>  [EXHALES.]<br>  Are you suffering from mood swings?  Fugue states? Lost time?  If any of that is the case,  I'll have to ground you.<br>  [CHUCKLES.]<br> I just want to make sure  I'm shipshape before this mission.<br>  The people on this ship, they saved my life.<br>  I won't let 'em down.<br>  Well, let me run a deeper set of scans.<br>  What you probably need most right now is rest  and some time off of this ship.<br>  Not much chance of that, Doc.<br>  Stay out of the palace!  I'll just be a minute.<br>  Paul, I'm not going anywhere.<br>  I'm gonna stay right by your side.<br>  It'll be okay.<br>  [WHISPERS.]<br>: Be careful.<br> The enemy is here.<br>  I'd say, um, I'm 60% excited,  40% terrified.<br>  Actually, it's 60% terrified, 40% excited.<br>  - Maybe it's 70% - Tilly.<br>  Sorry.<br> Sorry.<br>  And stop apologizing.<br>  Terrans don't apologize.<br>  Well, my mother would definitely approve.<br>  Computer, cancel mirror.<br>  You are a captain now.<br>  No, I'm not.<br> She is.<br>  I'm nothing like her, Michael.<br>  She's terrifying.<br> She's-she's like a twisted version  of everything I've ever aspired to be.<br>  I'm gonna have nightmares about myself now.<br>  You don't actually have to be her.<br>  But how do I project that strength?  I've been trying to understand them better.<br>  And Terran strength is born out of pure necessity.<br>  Because they live in constant fear,  always looking for the next knife aimed at their back.<br>  Their strength is painted rust.<br>  It's a facade.<br>  But you have the strength of an entire crew  that believes in you.<br>  Fortify yourself with our faith in you.<br>  That's what a real captain does.<br>  [DOOR WHOOSHES OPEN.]<br>  Impressive.<br>  Well, let's not keep these assholes waiting.<br>  Too much?  No.<br>  Not here.<br>  Here, it's just right.<br>  Mr.<br> Bryce.<br>  - Yes, Captain.<br> - Hail the ISS Shenzhou.<br>  Now.<br>  Aye, Captain.<br>  This is the ISS Discovery  hailing the ISS Shenzhou.<br>  Shenzhou, do you read? Over.<br>  Captain Tilly.<br>  To what do I owe the pleasure?  And how can I return the favor?  The only pleasure I take is from the blood of my enemies  staining my uniform,  Captain Connor.<br>  You know him?  He was my ops officer on the Shenzhou.<br>  I watched him die at the Battle of the Binary Stars.<br>  I knew we'd encounter familiar faces.<br>  But is this what it's gonna be like here?  While scouring the asteroid belts of Porathia,  searching for hidden rebels,  I happened to come across a disabled shuttle.<br>  Inside, I found something  I think you'll find most interesting.<br>  [GRUNTING.]<br>  Showtime.<br>  Captain Burnham.<br>  We-we thought you were  You thought exactly what I wanted you  and everyone else to think.<br>  Especially him.<br>  It was the only way I could capture this traitor.<br>  Most ingenious.<br>  I don't need your compliments, Connor.<br>  I need my ship.<br>  Of course.<br>  I expect you've kept her in perfect condition?  Yes, Captain.<br>  Then bring her to me.<br>  We have a rebel group pinned down in this system.<br>  It would be better if you come to us.<br>  Is that how you treat your long-lost captain?  If you greeted me that way, Connor,  I'd cut out your tongue and use it to lick my boots.<br>  We will alter course  to the Discovery at once, Captain Burnham,  and prepare for your arrival.<br>  Be sure that you do.<br>  [SOFT CRACKLING.]<br>  [EXHALES.]<br>  [EXHALES.]<br>  You called, Doc?  - You find anything? - Yeah.<br> Um  have you ever received any  neurological therapies  or marrow-diminution procedures before?  - No.<br> Not that I know of.<br> - 'Cause there are masses  of scar tissue surrounding all of your organs.<br>  Right.<br> From my torture.<br>  Right, that's what the computer concluded when you first came aboard.<br>  But I've run more advanced tests,  and  if I'm reading these chondroblast-cell scans correctly,  what the Klingons did to you can only be described as  bone-crushing.<br>  They opened up your limbs.<br>  And they appear to have shortened your radius,  your femurs,  even your spinal cord.<br>  - What are you getting at? - Well, this is  just a theory, Tyler, but  remember we confirmed that no personality engrams  were hidden under your native identity?  - Okay.<br> - Well  there's some research that suggests that  a new personality could be placed  atop it,  like an overlay, with  the original personality still intact underneath.<br>  It appears that the Klingons have transformed you.<br>  Both mentally and physically.<br>  Into what?  That's what we have to figure out.<br>  Doc, I came here for a solution.<br>  - Now, you said you could fix it.<br> - Please, sit down.<br>  - I'm needed on a mission! - I'm afraid you're  not going anywhere without further examination.<br>  - They need me! - Well, that's just it.<br>  As far as I'm concerned  you're not you.<br>  [MALE VOICE SPEAKING KLINGON.]<br>  [BONES BREAK.]<br>  The enemy is here.<br>  Incoming warp signature.<br>  ISS Shenzhou approaching.<br>  [MUFFLED BLAST.]<br>  [SOFTLY.]<br>: My God.<br>  [METALLIC TRILLING.]<br>  Captain, we're being hailed.<br>  Open a channel.<br>  Inform Shenzhou, three to beam over.<br>  Aye, sir.<br>  Gonna look after her.<br>  Mr.<br> Saru, you're in charge now.<br>  Well, I guess you're in charge to anybody off the ship  Captain Killy.<br>  [SIGHS.]<br>  Maintain a safe distance.<br>  Close enough to transport us back  as soon as Burnham gets her hands on the Defiant files.<br>  I won't let you down, sir.<br>  I know you won't.<br>  Tyler.<br>  Where were you?  [SIGHS.]<br>: Uh  I-I'm not sure, sir.<br>  What?  There's no excuse for my tardiness.<br>  Sorry, Captain.<br>  No more apologies.<br>  From now on, we're Terrans.<br>  Decency is weakness, will get us killed.<br>  And the lives of everyone on this ship  and in the Federation are at stake.<br>  So you do what you must.<br>  Whatever you must.<br>  To anyone.<br>  Understand?  - Aye, Captain.<br> - Clear, Captain.<br>  Guess that's the last time you're calling me "Captain.<br>"  Hopefully, just for a while.<br>  You ready?  Energize.<br>  [METALLIC TRILLING.]<br>  Captain Burnham.<br>  Welcome back to the Shenzhou.<br>  We've made some modifications.<br>  Replaced the lateral-vector transport systems.<br>  Let me take this bastard off your hands.<br>  He's due for a world of pain.<br>  Keep your hands off him.<br>  You think I'd let just anyone control the fate  of the most valuable bounty in the galaxy?  I'll take Lorca to the brig personally.<br>  There are any number of souls on board  looking to serve up his severed head for their own glory.<br>  Of course.<br> I'll escort you, Captain.<br>  [GROANS.]<br>  [ZAPPING, PEOPLE SCREAMING.]<br>  CONNOR: Only the finest agonizer booth  reserved for the treacherous Lorca.<br>  Absolutely not.<br>  CONNOR: Captain?  What did I say to you?  I do not want  some overzealous guard killing this traitor  before I have the chance.<br>  I would punish the entire ship for an error that grave!  We would never allow him the release of death, Captain.<br>  [EXHALES.]<br>  See to it that he is installed properly here.<br>  I need to access my files.<br>  Escort me to the ready room.<br>  [MAN SCREAMING.]<br>  [SCREAMS.]<br>  You know, I almost didn't make it to captain  after you were gone.<br>  But I still came out on top.<br>  The emperor saw something in me.<br>  Glad to hear it.<br>  The crew  they all bowed after I won.<br>  But they didn't bow deeply enough.<br>  Not like they did with you.<br>  I needed to make them fear me.<br>  And now I finally think I know how.<br>  [BOTH GRUNTING.]<br>  I don't need a blade to kill you, Captain.<br>  [BOTH GRUNTING.]<br>  [PANTING.]<br>    The chair is yours, Captain.<br>  Dispose of him.<br>  With pleasure, sir.<br>  BRIDGE CREW: Long live Captain Burnham!  Long live the Empire!  Long live the Empire.<br>  [SIGHS.]<br>  [GASPS.]<br>  You scared the hell out of me.<br>  How did you get in?  Your access code was the same as on Discovery.<br>  You know, head of security.<br>  I know all of them.<br> It's not just yours.<br>  So, did you get into the files?  Get the information about the Defiant?  No chance.<br>  Everybody on the crew  they're trailing me.<br>  Trying to sidle up,  curry favor.<br>  And I didn't want to rouse suspicion.<br>  I heard about what happened.<br>  With Connor.<br>  [SIGHS.]<br>  I need to tell you something.<br>  Whatever you do,  whatever this place makes you do,  whatever happens to you.<br>  Or me.<br>  However we change  I am here to protect you.<br>  Nothing will ever stand in the way of that.<br>  Nothing.<br>  Do you understand what I'm saying?  Yes.<br>  [SIGHS.]<br>  I'm saying it back.<br>    [MANIC SCREAMING.]<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e09" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s01e11" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s04e04 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s04e04 - All Is Possible Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s04e04 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e04"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s04e04 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e04" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=4">Season 4</a>&nbsp;&nbsp;>&nbsp;&nbsp;All Is Possible</div>
+
+            <h1>Star Trek: Discovery (2017) s04e04 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">All Is Possible</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  The killer is a Ni'Var citizen  and a Qowat Milat nun known as J'Vini.<br>  Starfleet remands the prisoner  to your custody for extradition to Ni'Var.<br>  BURNHAM: First officer of the Credence.<br>  He had two kids.<br>  Then you know they deserved justice.<br>  I also know bringing Ni'Var into the Federation  will benefit millions.<br>  There must have been a sign it was coming.<br>  I missed it.<br>  What you require is freedom from guilt.<br>  My mind to your mind.<br>  It can be a little hard to get out of your comfort zone  when you can barely get out of the lab.<br>  So getting the opportunity to do this,  this could be really good for me.<br>  ADIRA: Are you you?  I'm definitely me.<br>  (CHUCKLES): How do you feel?  Whole.<br>  BURNHAM: Captain's log, stardate 865661.<br>2.<br>  It's been a week since my mission with the Qowat Milat.<br>  Since then we've stayed in orbit over Ni'Var,  working with the Ni'Var Science Institute  and the Federation Task Force  that's tracking and studying the DMA.<br>  No other inhabited worlds have been threatened yet,  but of course that can change at any moment.<br>  Ni'Var has fast-tracked negotiations  to rejoin the Federation.<br>  I haven't yet heard how they're going.<br>  We're all living in uncertainty.<br>  Even for a crew as familiar with the unknown as this one,  the stress is taking its toll.<br>  I'm following Dr.<br> Culber's advice,  mandating downtime to help  with their psychological and emotional well-being.<br>  But Stamets won't let himself slow down, even for a second.<br>  He wants to solve this for all of us, especially Book.<br>  Book.<br>  Even though the mind meld with T'Rina helped at the time,  the peace he felt has been  fleeting.<br>  I've encouraged him to talk to Dr.<br> Culber,  but I feel him pulling into himself.<br>  A natural response to grief, crisis,  all of this.<br>  But he can't do this alone.<br>  None of us can.<br>  SARU: Captain, President Rillak has requested  our presence on Ni'Var.<br>  For the summit with President T'rina?  Negotiations are coming to a close.<br>  Uh, but Admiral Vance has fallen ill  with what I am told is a Malindian stomach worm.<br>  The accepted medical guidance is  to allow the worm to gestate before extraction.<br>  - Mm.<br> How long will that take? - 24 hours.<br>  We are to replace him in his diplomatic capacity.<br>  I would love to be there  when Ni'Var officially rejoins the Federation,  but DMA analysis has to take priority.<br>  I'm sure she doesn't need both of us.<br>  Well, to clarify, President Rillak did not imply  a choice in the matter.<br>  Did she brief you on how exactly  we're meant to participate?  Oh, we are to, and I quote,  "Remain silent and look official, nothing more".<br>  I still feel lost.<br>  Your time with the Qowat Milat wasn't helpful?  No, it was.<br>  They have this whole "absolute candor" thing.<br>  So I kind of tried that on myself.<br>  And?  It's  It's like, you know, all these years,  I think I have been on the straight-line path  to the captain's chair  and just trying to get there as fast as I could.<br>  But now I think maybe  Maybe you need to take a detour?  (STAMMERS) Yeah.<br> I have been trying  to step outside my comfort zone.<br>  I hunted down a nun.<br>  I ate foods that I hate.<br>  Have you ever tried Rigelian rutabagas?  Because they are horrible, so don't, seriously.<br>  But these are like little baby steps,  and I feel like I really need to challenge myself.<br>  Maybe I could volunteer in Astrometrics,  or study medicine?  I don't know.<br> Seems to make you happy.<br>  (CHUCKLES)  It might be a good idea to clear your mind  before you make any choices.<br>  That is that is exactly the problem.<br>  My mind doesn't clear.<br> And then now  with all this DMA craziness going on,  it's like  You know, Dr.<br> Kovich came to me,  looking for a Discovery crew member  to lead some cadets in a team-building exercise.<br>  He's consulting with Starfleet Academy.<br>  Believes we have something special to offer  since we served in a time before the Burn.<br>  How would I justify bailing on Commander Stamets  to go lead an exercise?  The captain's requiring everyone to take some downtime.<br>  This would count as yours.<br>  Go.<br> Get inspired.<br>  Okay.<br>  Mm, here's hoping.<br>  You know, come to think of it,  can you do me a favor when you go?  Why is Tilly ordering me to go on a training exercise  for cadets?  I'm already an ensign.<br>  Starfleet Academy is awesome.<br>  (CHUCKLES)  Try and think of it  as part of your responsibility as host.<br>  Your supposed to add new experiences to your symbiont.<br>  Yeah, but Jovar taught at the Academy before the Burn.<br>  So, really, Tal's already got that experience.<br>  GRAY: There's always something new to learn.<br>  And besides, orders are orders.<br>  All right.<br> Well, what are you gonna do today?  You know, other than the zhian'tal exercises.<br>  Mind and body connection is everything,  especially when you have a new body.<br>  But then I really want to check out  the crew games they're planning in the forward lounge.<br>  You barely know anyone.<br>  I'll walk in, say hello.<br>  Now I know someone.<br> Easy.<br>  You'll do the same with the cadets.<br>  I'm sorry, have you met me?  (CHUCKLES): Can't have soup without scanning it first.<br>  (CHUCKLES SOFTLY)  I don't really know how to do new without you.<br>  So, this is your chance to learn.<br>  Okay.<br> I'm going.<br>  Or tomorrow, maybe?  Tomorrow, I think (LAUGHS)  MAN (OVER P.<br>A.<br>): Discovery shuttle,  you are cleared for landing.<br>  (INDISTINCT ANNOUNCEMENT OVER P.<br>A.<br>)  Ah, Kovich, to the right.<br>  Lieutenant Tilly.<br> Ensign Tal.<br>  Welcome back to Starfleet Academy.<br>  Thank you, sir.<br> It's an absolute honor, uh  Honestly, never thought I'd be asked to do anything like this.<br>  I was, I was the kid in class who was asked to stop talking.<br>  Front row, hand up, that's me.<br>  KOVICH: Ensign Tal.<br>  You'll be on shuttlecraft 11.<br>  The other cadets are waiting there.<br>  Why don't you introduce yourself?  Y-Yes, sir.<br> Sounds good.<br>  WOMAN (OVER P.<br>A.<br>): Cadet Cho, report  Thank you for letting me bring Adira along.<br>  Uh, Dr.<br> Culber thought it could be beneficial.<br>  They could use a little work in the team-building department.<br>  It's a problem we're seeing with all of our Starfleet cadets.<br>  That's why I'm consulting.<br>  They may be the best their worlds have to offer,  but they grew up isolated and disconnected.<br>  Many of them find it hard to function as a team  with individuals they don't already know,  especially those of species they've never encountered.<br>  But with the DMA  Starfleet needs personnel now more than ever,  but if people can't even work together  Precisely.<br>  One might say that today's exercise is  about the very future of Starfleet.<br>  WOMAN (OVER P.<br>A.<br>): Starfleet cadets  You'll do great, Lieutenant.<br>  TILLY: Today's exercise will be  a typical survey mission.<br>  Lieutenant Callum will be taking us to Geryon,  which is an M-class desert moon orbiting Theta Helios.<br>  Uh, once there, we will carry out a full planetary analysis.<br>  Yes!  (CHUCKLES): So fun.<br>  I think it's fun.<br>  I mean, it's new worlds, new things.<br>  Like, "Hey, what's that? Is that a new life-form? What?"  Amazing.<br>  So, okay, o-once we arrive, we'll have six hours,  uh, at which point we'll need to rendezvous  with the USS Armstrong,  uh, before heading back to Federation Headquarters.<br>  So, you guys have been at the Academy  for a couple months now.<br>  You probably know each other pretty well at this point, huh?  Um, not really.<br>  Academics keep us pretty busy.<br>  TILLY: Well, this is a team-building exercise,  so, um I'll start.<br>  Hello, I am Lieutenant Sylvia Tilly.<br>  I was born on Earth.<br>  I do remember my first training exercise.<br>  Um, I dropped my utility kit down a methane gas vent.<br>  (TILLY CHUCKLES)  Who's next?  Anyone else?  We'll be dropping out of warp in one minute.<br>  In that case,  I should probably just give you guys your assignments.<br>  Okay, Ensign Tal, Magnetospheric.<br>  Cadet Harral, Geological.<br>  Cadet Sasha, Microbial.<br>  And Cadet Gorev, Atmospheric.<br>  Um, I sort of thought that you'd be  bringing me as your aide.<br>  You know, to keep an eye on the students,  make sure they don't drop anything down a methane vent.<br>  Yeah, I think, actually, for this exercise, it's more useful  for you to think of yourself as another cadet.<br>  You still have a lot to learn.<br>  - (RUMBLING) - (ALARM BLARING)  - What's happening? - We've been hit by a rogue gamma-ray burst.<br>  Engines are off-line.<br> Helm's not responding.<br>  Everybody, hold on to something.<br>  I'm a trained pilot.<br> I can help.<br>  No, Sasha, sit down.<br> That's an order.<br>  AUTOMATED VOICE: Protective shielding deployed.<br>  TILLY: Can you get auxiliary systems working?  Negative.<br> We're going down.<br>  - Brace for impact! Brace! - (LOUD RATTLING)        (ORIGINAL STAR TREK THEME PLAYS)   - (ALARMS BLARING) - (COUGHING)  TILLY: Everyone okay?  (GROANING)  CALLUM: Help me.<br>  - Oh.<br> No, no, no, no, no.<br> - (GROANS)  (SHUSHES) No, no, no, no, no.<br> Don't move, don't move, don't.<br>  Okay, I-I'm gonna cut away the uniform,  gain access to the wound.<br>  It's gonna be okay.<br>  Uh, this-this wraps around  and then we suture it until we can get some help.<br>  Here.<br>  (GASPS)  (ALARMS CONTINUE BLARING)  HARRAL: Is he gonna make it?  TILLY: No.<br>  (GASPING SOFTLY)  USS Armstrong.<br> Come in.<br>  Armstrong, this is Starfleet Lieutenant Sylvia Tilly.<br>  We are on a training mission.<br> Acknowledge.<br>  I think the gamma-ray burst would've knocked out the comms.<br>  (ELECTRICAL WHIRRING)  Let's see where we are.<br>  Shouldn't this be a desert moon?  We were headed for Geryon, M-class moon.<br>  This is  This is Kokytos, L-class moon.<br>  We landed on the wrong moon?  L-class is breathable but environmentally hostile.<br>  Okay, come on.<br> This is obviously part of the exercise.<br>  We're in a holo simulation, right?  No.<br>  I'm sorry.<br> I wish I could say yes.<br>  This is real.<br> This is happening.<br>  The emergency distress beacon,  that would've activated upon impact.<br>  Right? So, um, Gorev.<br>  You check life support systems for me.<br>  Sasha, you said you're a pilot, right?  See if you can get some flight systems back on line.<br>  Harral, you're with me.<br>  We're gonna get long-range comms back on.<br>  I'll try to get sensors working.<br>  Good, thank you.<br>  - (GRUNTS) - Hey, watch it.<br>  - You see me working here.<br> - ADIRA: Hey.<br>  Hey, this is not the time.<br>  - Stay out of it.<br> - Hey, hey.<br> Whoa, whoa, whoa, whoa, whoa.<br>  No, no, no, no.<br> We're not doing this.<br> No.<br>  Hey, hey, hey, hey, hey.<br> Calm down.<br>  It is gonna be okay.<br> Okay?  Once we get systems back on line,  we will call the Armstrong.<br>  - They'll pick us up.<br> - They're not expecting us for six hours.<br>  A lot can happen in six hours.<br>  Okay, uh, you know what? I know you guys weren't into  the whole introductions thing before,  but we are doing it, now, while we work.<br>  Got it?  Harral, on comms, now.<br>  Adira.<br>  Adira, you go first.<br> Uh, tell us about yourself.<br>  Um, I'm I'm Adira Tal.<br>  I grew up on a generation ship,  and now I am an ensign on Discovery.<br>  Great.<br> Sasha, you next.<br> Go ahead.<br>  Val Sasha.<br>  Grew up in a colony on Titan.<br>  Learned to pilot when I was 12.<br>  And coming to the Academy was  the first time I'd met any nonhumans before.<br>  Gorev.<br>  Taahz Gorev.<br>  After the Burn,  my family was stranded in Emerald Chain territory.<br>  We weren't treated very well.<br>  HARRAL: Harral.<br>  Orion.<br>  Which means I have to work twice as hard to be taken seriously.<br>  (GROWLS)  If you check my file, you'll see I'm top of the class.<br>  Right.<br> Good.<br>  Now we all know each other a little better.<br>  - (CLAPS) - Go team.<br>    (INDISTINCT CHATTER)  AIDE: Sir?  It appears you have a fan, Saru.<br>  (CLEARS THROAT)  RILLAK: Friends, colleagues.<br>  The last four months have seen  a series of summits such as this,  and it is my great privilege to say  that we have now come to the end of this historic process.<br>  The Federation has reviewed the final points of the Agreement.<br>  We are fully satisfied  and prepared to welcome Ni'Var back into the Federation.<br>  President Rillak,  we, too, are glad to be nearing the restoration of our alliance.<br>  However, there is one final matter we must discuss.<br>  The reality of the gravitational anomaly,  and the threat it poses to our galaxy,  has shifted many things recently.<br>  For all of us.<br>  I am aware that this will come as a surprise.<br>  However, we will require an amendment to the Agreement,  allowing for Ni'Var's immediate and unconditional withdrawal  from the Federation should the need arise.<br>  (MURMURING)  An exit clause?  I'm sure you are also aware, this is unprecedented.<br>  Madam President, I must remind you that before the Burn,  Ni'Var and other worlds  felt the Federation had grown so disconnected from its members  that it was unable to consider their individual needs.<br>  Trust was eroded.<br>  The repercussions are still being felt.<br>  We cannot accept a rejoining  without measures in place that protect us  from such a situation arising again.<br>  This is a different time, Madam President.<br>  Be that as it may, we stand firm.<br>  RILLAK: The Federation would never force any world  to remain a member.<br>  Ni'Var is proof of that.<br>  However, unconditional withdrawal is not acceptable.<br>  That would give Ni'Var all the benefits of membership  while the Federation would bear  all of the risks associated with its exit.<br>  Furthermore, such a precedent would allow other worlds  to request similar clauses.<br>  A weaker Federation would result.<br>  T'RINA: It is illogical to rejoin an organization  that seeks to impose conditions on our judgment.<br>  Perhaps we have moved too quickly in these talks.<br>  - If I may.<br> - (MURMURING)  (MURMURING STOPS)  With the tremendous strides made to reach this point,  it's illogical to forfeit over one issue.<br>  Ni'Var has endured without the Federation  for a century.<br>  We will continue to do so.<br>  BURNHAM: Madam President.<br>  There is a difference between enduring and thriving.<br>  President T'Rina,  may I propose a recess?  Very well.<br>  (MURMURING)  The objections President T'Rina raised have existed  for over a hundred years.<br>  It's not just the DMA, something else is going on.<br>  Talk to her and see if you can find out what.<br>  Politics are not our place.<br>  Join me, Captain.<br>  CULBER: I know this was Michael's idea.<br>  How do you feel about that?  The mind meld helped.<br>  I'm fine.<br>  She says you're still not sleeping.<br>  Perhaps we could talk about that?  It's Grudge.<br> Yeah.<br>  She's been especially needy lately.<br>  Oh, it's a rough life.<br>  (CHUCKLES SOFTLY)  You ever been to a standing funeral?  El muerto parado.<br>  No?  It's an, uh  an uncommon Earth tradition, but one my family practiced.<br>  When a family member dies, their body is embalmed  and then posed in a position that best evokes their life.<br>  My, um, tÃ­o Cesar was this infamous card shark.<br>  And so, my family wanted to place him at a poker table.<br>  And it was all going fine,  till my cousins and I snapped off his thumb  trying to place the cards in his hand.<br>  What did you do?  I used all my medical training, and I reattached it.<br>  And then broke off his index finger.<br> (LAUGHS)  We couldn't stop laughing, that whole funeral long.<br>  (CHUCKLES)  I didn't expect that.<br>  Well, in conventional therapy,  I'm not supposed to share personal things, but  as crewmates, we already know too much about each other, so  Sometimes the personal helps.<br>  Look, I get it.<br> Grief is complicated.<br>  It takes many forms.<br>  I need to let myself experience it  however it comes, right?  I was devastated when my tÃ­o died.<br>  I was so angry,  and I went to that funeral determined  that nothing was gonna make me feel better.<br>  If you're willing, I'd like to try something different  with our remaining time.<br>  As long as I can keep my fingers.<br>  Mm.<br>  (CHUCKLES SOFTLY)  SARU: President T'Rina.<br>  Thank you for the traditional Kelpien tea.<br>  I thought you might enjoy a taste of home.<br>  I am dismayed the situation is so difficult.<br>  If I can be of assistance, you need only ask.<br>  Many would be happy to see Ni'Var  and the Federation rejoined,  myself included.<br>  I, too, share this sentiment.<br>  But I am bound first and foremost  by obligations to my own people.<br>  There is nothing more I can do  if the Federation is unwilling to compromise.<br>  Of course.<br>  I understand.<br>  Now, if you will excuse me,  I intend to use the remaining recess for meditation.<br>  RILLAK: These are delicate matters.<br>  President T'Rina and I are not just representing ourselves  but also a whole host of other interests.<br>  There must be a way to compromise.<br>  All eyes are on us, Captain.<br>  Were I to offer a compromise, it would project weakness.<br>  Listen to me well.<br>  My hands are tied.<br>  With no other options,  it would seem that we are done here.<br>    I think President Rillak wants us  to find a solution to this mess.<br>  I felt something similar from President T'Rina.<br>  This summit has become political theater,  I'm sure of it.<br>  That must be why she found  a way for us to be here today,  to cut through that.<br>  Then you do not believe that Admiral Vance fell ill?  Do you?  Why us?  That's what we have to figure out.<br>  TILLY: Okay, where are we at?  I've managed to stabilize life support at 70%.<br>  All flight systems are fried.<br>  - We can't fly.<br> - Well, uh, what about comms?  Checked every channel, every frequency.<br>  - Nothing.<br> - Yeah, well, just keep trying, then.<br>  Theta Helios has 46 moons.<br> Without comms,  how's anyone supposed to find a 12-meter shuttle?  And we only have three days of emergency rations.<br>  Okay.<br> Freaking out won't help.<br>  Okay? I've lived enough lives to know this could be worse,  - so, let - Thanks, Admiral.<br> I feel so much better now.<br>  Okay, Ensign, how are the sensors coming?  - (ELECTRICAL WHIRRING) - They're back on line,  but I'm getting some weird readings.<br>  The proximity scans show there are thousands  of life-forms just outside.<br>  And they seem to be gathering.<br>  (RUMBLING AND RATTLING)  (ALL GRUNT)  What the hell is that?  - (RUMBLING) - (GROWLING)  (GASPS, SCREAMS)  Whatever it is,  it's not good.<br>  Somebody get a tricorder out.<br> What are we looking at?  Uh, it's a Tuscadian Pyrosome.<br>  It's a, it's a colony species made up  of thousands of interconnected zooid life-forms.<br>  It primarily preys on, uh, bioluminescent crustaceans,  uh, tracking them via electromagnetic signatures.<br>  That's the same signature used by our equipment.<br>  - (GROWLS) - (YELPS)  No, no, no.<br> Put it down.<br>  Shut down your gear.<br> Turn off all the equipment.<br>  - It can't see us with our equipment off.<br> - (WHIRRING)  - (RUMBLING) - (GROWLING)  (GROWLING IN DISTANCE)  (BREATHING SHAKILY)  Did it go away?  If it did, it'll be back.<br>  What do we do now?  ADIRA: We can't use comms.<br>  We will freeze before anyone figures out what's happened.<br>  Okay.<br> We got to get out of this valley.<br>  There is a ridge up there.<br>  If we can get up there,  we can catch a signal and use our personal comms  to contact the Armstrong.<br>  And we'll have a vantage point,  if we need to see the jellyfish from hell  before it gets to us.<br>  - You want us to go across all that? - Yeah.<br>  They're not ready for this.<br>  I'll go alone.<br>  I-I can move fast,  and I will work better on my own.<br>  No.<br> I can do it.<br> I have survival training.<br>  No, you're both crazy.<br> We should stay put.<br>  Let them risk their lives if they want.<br>  No one is going anywhere alone.<br>  Whatever we do, from now on, we are doing it together.<br>  Let's move.<br>  Damn it.<br> Doesn't look like anything yet.<br>  (SIGHS)  This is a waste of time.<br>  Take a breath.<br>  Try again.<br>  You think I don't know what this is?  - What is it? - A sad attempt to try  and replicate Kwei'tholum'Kwei.<br>  Kwei'tholum'Kwei?  The Kwejian healing ritual.<br> This is nothing like it.<br>  How is it different?  We're healed by our planet.<br>  For Kwei'tholum'Kwei, you need sand  from the bed of the Mameckx'sha River.<br>  You need to ask the TulÃ­ Forests for their blessings.<br>  You need the Great Storms of Naillem'kwai to make  That is programable matter made to look like sand,  because you're nothing but cheap tricks that you got  from reading a damn holoPADD.<br>  You think you've substituted my home  with this rubbish?  It'll never be the same.<br> It'll never work.<br>  It won't be the same.<br>  Of course not.<br>  Kwejian was  one of the most beautiful places in the known galaxy.<br>  Its loss is devastating.<br>  Profound.<br>  And you won't heal the way you would've before.<br>  You will never feel  the relief of Kwei'tholum'Kwei again.<br>  I don't know how much longer I can take this.<br>  (CHUCKLES)  How long am I supposed to do it?  A long-ass time.<br>  (CHUCKLES)  (DOOR CHIMES)  Enter.<br>  Thank you for seeing me.<br>  Of course, but I must ask,  have you come as a friend  or a representative of the Federation?  No, I am here of my own volition,  while Captain Burnham seeks audience with President Rillak.<br>  We believe she will reconsider her position.<br>  I have been meditating on a question:  Is trust of another's commitment  to a shared goal enough, despite the scars of history?  Trust is a journey.<br>  The anomaly has ignited old and new fears alike.<br>  Some have responded with a turn toward isolationism,  including the Vulcan Purists.<br>  In return for their support, which is vital to my coalition,  they have demanded a logical framework  to hold the Federation accountable.<br>  This exit clause provides it.<br>  Oh.<br>  Thank you for trusting me.<br>  I will leave you to your thoughts.<br>  But  if you'll permit me, another time,  I would like to learn more about your meditative technique.<br>  May I ask why?  You weigh questions of politics.<br>  I weigh questions of place,  purpose.<br>  In such uncertainly as we are all experiencing,  I'm finding it much more challenging  than I had anticipated.<br>  Place your hands out, palms up.<br>    It is called a thresh-tor kashek.<br>  It means "shared mind".<br>  The type of meditation we teach our children  while they are learning.<br>  Close your eyes.<br>    Your eyes are meant to remain closed,  Captain Saru.<br>  Take a deep breath.<br>  (TAKES DEEP BREATH)  Lieutenant Christopher, connect me with the president, please.<br>  (OVER COMM): Aye, Captain.<br> One moment.<br>  What is it, Captain?  - We're preparing to leave orbit.<br> - Then I'll be direct.<br>  Mr.<br> Saru is working to get President T'Rina  back to the table.<br>  When she returns,  we have to be prepared with a compromise.<br>  Well, I have a proposal.<br>  What could you suggest  that we haven't already considered?  We've been at this for four months.<br>  At the end of the day,  we both know that politics comes down to votes,  which is why you and President T'Rina are taking positions  that have been agreed upon by your respective delegations.<br>  Neither of you can budge from those positions  or you'll lose the support you need.<br>  But if a third party presents a compromise,  now you are not budging.<br>  Now you're just listening.<br>  All right, Captain.<br> What have you got?  (WIND HOWLING)  Keep an eye out for the pyrosome.<br>  (CRACKLING)  Okay.<br> What the hell was that?  Spider lightning.<br>  It's a lightning that travels kilometers.<br>  We don't want to be anywhere near that when it strikes.<br>  You've seen this before?  No, but Kasha Tal did and barely lived to talk about it.<br>  (GROWLING IN DISTANCE)  I see it! The creature, coming right beh  HARRAL: What the hell?  (SCREECHING, SNARLING)  Damn thing's hunting us.<br>  It can't see us with our equipment off.<br>  But we got to keep moving to stay ahead of this storm.<br>  - (CRACKLING) - (RUMBLING)  GOREV: But the lightning's rolling in too fast.<br>  - We won't make it to the ridge.<br> - If we pick up the pace,  we can get there ahead of the lightning.<br>  - Stop acting like you are the expert.<br> - Calm down.<br>  You don't know any more about this moon than the rest of us.<br>  We're too exposed out here.<br>  We need to find a cave and, uh, ride out the storm.<br>  Oh, there's a genius idea.<br>  Let's trap ourselves in a cave, make it easier  for the monster to corner us.<br>  We don't have time to stand around and argue.<br>  - All right? I'm going.<br> - This is ridiculous.<br>  - If they're going, I'm going, too.<br> - What about sticking together?  Adira, stop.<br> Stop it! All of you.<br>  Listen, you know, I'm usually a very upbeat person,  bubbly, some would say.<br>  But right now I have one job: it's keeping all of you alive.<br>  - So we're staying together.<br> - (CRACKLING)  Adira!  I can't move.<br>  ADIRA: I'm stuck!  - I can't get out.<br> - Stay still, you're okay.<br>  You're okay.<br>  (SCREECHING)  We have to do something before that gets here.<br>  Uh, okay, okay.<br>  Give me the emergency kit.<br> Now! Come on.<br>  Here, Adira, grab it.<br> You got it.<br>  Okay, everybody grab a piece.<br>  Sasha, you grab them.<br> You got it?  One, two, three, pull!  - (ALL GRUNTING) - Pull!  - Pull! - Almost.<br>  Keep going.<br> Heave!  Pull!  - Keep going! Come on.<br> - SASHA: It's working.<br> Don't let go!  - We got you.<br> - Keep going.<br> Almost there.<br>  - Almost.<br> - Almost there.<br>  Keep going.<br> Closer! Almost!  Keep going.<br> Keep going, keep going!  - Got you! - (ALL GRUNTING)  You you good?  You good? Okay?  Okay, good, we got this.<br>  The ridge is right there.<br> We can make it.<br>  Once we turn the comms on, that thing will sense us.<br>  Listen, we can do this.<br>  We just have to work together as a team.<br>  The same way we just did for Adira.<br>  Sure as hell would be easier  if we didn't have to count on an Orion.<br>  - Hey.<br> - I'm just saying,  he wanted to hide in a cave.<br>  - That's what we're trained to do.<br> - Just admit it.<br>  - We seek shelter.<br> - You only look out for yourself.<br>  Hey, enough! Enough.<br>  The Burn is in the past, all right?  You got to decide now  are we gonna work together as a crew or not?  When I was ten, an Emerald Chain raiding party  commandeered my family's food replicators  because they could.<br>  I watched my grandmother starve to death.<br>  I had to bury the body because my parents were too weak  from giving me their food.<br>  Now you expect me to work with him?  I hear you.<br>  Have you ever asked him about  his history with the Chain?  Tell him.<br>  There is common ground here,  but you'll never find it unless you talk to each other.<br>  Uh, his father was Bashorat Harral.<br>  What?  Wh-Who's that?  Uh, he was an activist.<br>  He drafted the Emancipation Bill for the enslaved,  which was part of the armistice that the Emerald Chain  eventually proposed to the Federation.<br>  He died a political prisoner  before he could see any of that happen.<br>  My father always said being an Orion meant  we had an even greater responsibility  to speak out against what the Chain was doing.<br>  Sorry for  shutting you down earlier.<br>  The cave wasn't a bad idea.<br>  That's good.<br>  That's really good, you guys.<br>  You're talking.<br> We need so much more of that.<br>  Right now, we need to make it to that ridge.<br> Right?  You with me?  - Yeah.<br> - Yes.<br>  Come on, guys, you're Starfleet now.<br> It's "Aye".<br>  ALL: Aye!  TILLY: Nice work, cadets.<br> Let's go.<br> Move out!  BURNHAM: The fact that you are both here  means you are ready to look forward.<br>  That has never been in dispute.<br>  Yet you're allowing past mistakes to define that future.<br>  Logic dictates that the lessons we learn  should inform our choices.<br>  Choices are never purely logical, are they?  There's always emotions.<br>  If I may reference my own history,  the Culling of my family, my ancestors.<br>  It will always be a personal challenge for me  to trust the Ba'ul.<br>  Yet I cannot deny that Kaminar is far stronger  now that it is united.<br>  And couldn't the same be said about Ni'Var?  The divisions between the Vulcans and Romulans  were so vast and lasted so many millennia  that they forgot they were the same species.<br>  Even your ancestry is a testament to hope.<br>  The Cardassians waged war against Bajor and humanity,  and now, today, all three are at peace.<br>  Because they were willing to grow and change together.<br>  Your words are inspiring,  Captain Burnham.<br>  But words alone are not sufficient.<br>  I understand that you and Captain Saru  are here to propose a compromise.<br>  BURNHAM: We are.<br>  Within Starfleet, disputes between  high-ranking officers can be resolved by a committee,  whose sole purpose is to provide objectivity  and guide both parties to a resolution.<br>  We propose a committee independent  of Federation leadership to conduct regular reviews  with all member worlds.<br>  Not just Ni'Var.<br>  Ni'Var has already refused any oversight  that does not include one of its own citizens.<br>  Is that any more egregious than insisting Starfleet  be given a voice within a civilian quorum?  BURNHAM: If you would,  allow me to serve on this committee.<br>  I am a citizen of Ni'Var, trained in logic,  witness to your history,  and I am an officer in Starfleet.<br>  Captain of a starship and citizen of the Federation.<br>  I will be the bridge between you  until you no longer need it.<br>  This proposal is acceptable to the Federation.<br>  It is an elegant solution.<br>    The storm will interfere with our personal transporters,  so it'll take at least 60 seconds for the Armstrong  to get a lock and beam us up.<br>  (CREATURES HOWLING)  I hope they can hear us.<br>  - They have to.<br> - They will.<br>  60 seconds is long enough for it to get to us.<br>  We have to distract it.<br>  I'm gonna turn on my comms, and I'm gonna run.<br>  - Draw its attention.<br> - That's a terrible idea.<br>  Agreed.<br>  Okay, you guys saved my life.<br> All right? I owe you.<br>  And someone's got to do it.<br> You know I'm right.<br>  TILLY: Yeah.<br>  You are right.<br> You are right.<br>  Someone's got to do it, so it's gonna be me.<br>  - Wait - That's an order, ensign.<br>  Once I'm clear, you turn on comms.<br>  You call, keep calling.<br> Don't stop.<br>  You got this.<br>  We've all got this, okay?  Now, on my mark.<br>  TILLY: Are you ready?  CADETS: Aye, Lieutenant.<br>  The minute you get a signal, call the Armstrong.<br>  (SCREECHING)  ADIRA: Adira Tal  to U.<br>S.<br>S.<br> Armstrong.<br> Come in.<br>  Armstrong, acknowledge.<br>  Okay, no.<br> It's too close to her.<br> We have to help.<br>  Fire phasers to draw it off.<br>  (SCREECHING)  Holy shit! Here comes the other one.<br>  - They're coming right at us! - Keep firing.<br>  ADIRA: Armstrong, acknowledge.<br> Please acknowledge.<br>  IMAHARA: This is Captain Imahara of the U.<br>S.<br>S.<br> Armstrong.<br>  - It's them! - Armstrong, get us the hell out of here!  Armstrong!  (INDISTINCT CHATTER, LAUGHTER)  MAN (OVER P.<br>A.<br>): Ensign Moore, please report to briefing room seven.<br>  Ensign Moore,  - briefing room seven.<br> - I just finished reading  the Armstrong's report.<br>  The loss of Lieutenant Callum is a tragedy.<br>  Frankly, I'm-I'm amazed any of you survived.<br>  Well, the cadets really pulled it together  when it mattered.<br>  Honestly, any of them would be  an excellent addition to any crew.<br>  And when that opportunity comes,  they'll have you to thank for it.<br>  You know, when Discovery first arrived,  no one here trusted you.<br>  It wasn't just that you were in a 930-year-old starship  and had never heard of the Burn,  it was the way you carried yourselves,  like you grew up in a world that believes  anything is possible.<br>  Quite frankly, it-it stung.<br>  And is exactly what this new generation  of cadets needs as the Federation rebuilds.<br>  Well, after what you've just endured,  I can understand that an offer to teach at the Academy  is unlikely to fall on willing ears,  but the opening is there.<br>  Anytime.<br>  Thank you, sir.<br>  I never thought that I'd say this,  but I think that I'm glad I came.<br>  I-I just I  I think I might have actually made some friends today.<br>  I wish I knew how to do it  without nearly getting eaten by a blob,  but  You know, you are one of the most brilliant people  that I have ever met.<br>  Do you ever wonder why you start with "I can't"  when it comes to making new connections?  - Just seems kind of impossible.<br> - Well,  when I see you, and I see everything  that you have been through  and accomplished,  you're a reminder to me that everything is possible.<br>  Welcome home, Madam President.<br>  Thank you, President Rillak.<br>  Billions of futures have been changed  thanks to what we've done here today.<br>  I must commend both of you on a job well done.<br>  Madam President, thank you for taking this first step  with the Federation.<br>  If I may,  there's a matter on my mind.<br>  You are curious about the Qowat Milat sister, J'Vini  if she will face justice for her actions?  Yes, ma'am.<br>  J'Vini will go to Pijar,  a monastic world in the Pella system.<br>  There she will devote herself to deep rehabilitative meditation  under your mother's careful guidance.<br>  They leave tonight.<br>  My mom said she had big news for me.<br>  J'Vini helped rebuild Dr.<br> Burnham's life.<br>  Now it seems their roles are reversed.<br>  In time, she will also make amends to the family  of the slain Starfleet officer.<br>  I hope this sets your mind at ease.<br>  Thank you.<br>  Captain Saru.<br>  Will you join me for tea?  It would be my pleasure.<br>  For someone who dislikes politics,  you show an aptitude for it.<br>  I assume the admiral made a miraculous recovery?  Well, now that you mention it, he was looking, well, better  last time I saw him.<br>  Hmm.<br>  I received a piece of intelligence this morning  indicating the exit clause request was coming.<br>  I had to protect my source.<br>  President T'rina.<br>  Mm-hmm.<br>  (SIGHS)  If you wanted my help, you could have just asked me.<br>  Truth be told  I wasn't sure you were the right person for the job.<br>  But I'm glad you were.<br>  I appreciate that.<br>  I know transparency isn't always possible  in your position.<br>  But it is what I need to best serve you  and the Federation.<br>  So if you could be more forthcoming in the future,  I would appreciate that as well.<br>  Understood, Captain.<br>  I will see you back at headquarters in a few days.<br>    Wow.<br>  Guess I've got a lot to work out.<br>  What do I do with it?  Well, when the mandala's finished, it's   wiped away.<br>  You do this yourself?  Are there  are there things you need to wipe away?  Sure.<br>  You want to talk about it?  Someday.<br>  - (DOOR CHIMES) - Come.<br>  I heard about what happened on the mission.<br>  How are you doing?  You know, crash into an ice moon,  stranded in an electrical storm,  chased by a flesh-melting alien, so  - typical day.<br> - (LAUGHS)  I know there's been something on your mind  We haven't really sat in here together  since you became captain.<br>  Right.<br>  Remember when we first became roomies? (LAUGHS)  I was so scared to bunk with a famous mutineer.<br>  I think I, like, I think I laid awake at night  because I was scared you were gonna, like,  knife me in the back or something.<br>  Well, you snored like crazy.<br>  - (GASPS) - I had to get the computer  to block out the frequency so I could get any sleep.<br>  So sorry!  I only blocked it out for a few days,  and then I  I kind of started liking it.<br>  Really?  - Really.<br> - You're weird.<br>  You want to go back, don't you?  I do.<br>  Why?  Because getting my lieutenant pips  was the worst day of my life.<br>  You know, I-I never could figure out  how my mother became a diplomat.<br>  She was such a hardass at home.<br>  No compromise.<br> She had everything planned out.<br>  She had my whole life planned out.<br>  So when I told her that I wanted to join Starfleet  instead of the diplomatic corps, sh  So I always thought that I was doing this for me.<br>  But then, when I got the pips  all of a sudden I realized, like,  my mom is 900 years in the past.<br>  She's never gonna see me wear them.<br>  And I started wondering  if this is what I really wanted, or if I just  really wanted to be seen.<br>  You know.<br> And that was humbling.<br>  But I think it could be a useful perspective  for a teacher.<br>  Well  - I'll miss seeing your face every day.<br> - No.<br>  It's not forever.<br> You'll still see me around  - Fed HQ.<br> - Right.<br>  And then, you know, if it's really bad,  I can get Zora to record me while I'm sleeping  so you can listen to me snoring like I know you love to do.<br>  I said I kind of liked it.<br>  You know you love it!  (BOTH LAUGHING)  Let's not get crazy.<br>          <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e03" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e05" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

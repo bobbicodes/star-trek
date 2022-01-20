@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s02e02 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s02e02 - New Eden Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s02e02 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e02"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s02e02 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e02" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=2">Season 2</a>&nbsp;&nbsp;>&nbsp;&nbsp;New Eden</div>
+
+            <h1>Star Trek: Discovery (2017) s02e02 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">New Eden</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  Captain Christopher Pike  requests permission to come aboard.<br>  I'm here at Starfleet's order to take command of the Discovery.<br>  Over the past 24 hours,  Federation sensors picked up  seven red bursts spread out  across more than 30,000 light-years.<br>  And right now this little dot  is the only one willing to tell us where it is.<br> Hit it.<br>  Pike to Discovery.<br>  - Get us out of here.<br> - Wait!  TILLY: I need a sample of that asteroid.<br>  If my theory is correct, we'll be able to interact with dark matter, sir.<br>  The asteroid has been shedding rocks all over the place.<br>  We still have time to reach one of them.<br>  [RUMBLING.]<br>It's in the bay.<br>  - SARU: What's your status? - The shuttle bay needs a little TLC,  but all is well, Commander.<br>  I saw you die.<br>  I watched Tyler kill you.<br>  I held your body in my arms.<br>  - I believe in you, Paul.<br> - I love you.<br>  I'd like to go to Enterprise, sir.<br>  I'm sorry, Burnham,  but Spock's not there.<br>  A few months ago I felt something shift in him.<br>  It's as if he'd run into a question he couldn't answer.<br>  He asked me for time, and I gave it to him.<br>  [GASPS.]<br>  Spock.<br>  SPOCK: As a child, I had what my mother called "nightmares.<br> "  She taught me to control my fear by drawing them,  rendering fear powerless.<br>  The nightmares have returned.<br>  The same vision, again and again.<br>  I now understand its meaning and where it must lead me.<br>  I have encoded it within this audio file  in the event of my death.<br>  This may be my last entry aboard the Enterprise.<br>  Spock has had this tablet since he was a boy.<br>  I took it from his quarters.<br>  He drew these signals two months before they appeared to us.<br>  Computer, show me Starfleet's rendering of the seven signals.<br>  Rotate 90 degrees counterclockwise.<br>  It's damn near identical.<br>  - There any more sketches like this one? - No.<br>  Sir, my brother  sounds deeply troubled.<br>  I know he's on leave, but we need to contact him,  find out what he knows about these signals.<br>  I know where Spock is, Burnham.<br>  Have a seat.<br>  Your brother  is in the psychiatric unit on Starbase 5.<br>  Since about a week after he took leave.<br>  Committed to the facility at his own request.<br>  Why weren't my parents or I told  about this request?  It's Starfleet protocol to reach out to the families  Unless the patient doesn't want that,  and Spock said no.<br>  Emphatically.<br>  With that said,  his association with these signals  outweighs his desire for absolute privacy.<br>  You could extend an olive branch to your brother,  but he'll need to decide whether or not to take it.<br>  He won't.<br>  At least not from me.<br>  The way I left things with my brother  We haven't spoken in years.<br>  Family dynamics can be complicated.<br>  My father was a science teacher,  and when he wasn't doing that, he taught comparative religion.<br>  It was a confusing household, and  We didn't agree on a lot.<br>  Look, I've shared with you everything I know.<br>  Trust you can do the same with me.<br>  If there's ever anything you feel you ought to tell me  Sir, when we were on that asteroid  I  I never properly thanked you  for coming back to get me.<br>  You're welcome.<br>  [ALERT CHIMES.]<br>  SARU: Captain Pike to the bridge immediately.<br>  Captain on the bridge.<br>  Ah, Captain.<br> Another signal has just appeared.<br>  BURNHAM: The transmission is too faint to determine  the exact coordinates.<br>  TILLY: Excuse me, Commander Burnham.<br> I was using  your station to run calibration modeling programs.<br>  Let me just close some of this stuff out.<br>  Ensign Tilly had a notion  to pinpoint the signals.<br>  I gave her permission to try it.<br>  Excellent.<br>  I'm modulating Discovery's deflector dish.<br>  The idea is that we'll create gravimetric distortion  that will act like sonar.<br>  That's a good plan,  but the signal's too far away to register.<br>  If we were closer,  we might be able to detect gravitational redshift  and use that to calculate its exact position.<br>  I suggest we go to warp momentarily,  then target it with long-range sensors as soon as we drop out.<br>  Detmer, take us to maximum warp for five seconds.<br>  Aye, sir.<br>  Signal coordinates received.<br>  And it's in the Beta Quadrant,  51,450 light-years away.<br>  PIKE: At top speed, that would take us  150 years to get that far.<br>  My unborn children's children  would be lucky to get there.<br> Ideas?  The spore drive.<br>  But until a nonhuman interface  is found, Starfleet has decommissioned it.<br>  Or its navigator, really.<br>  BURNHAM: In order to guide us through the mycelial network,  Commander Stamets injected himself with Tardigrade DNA,  a violation of Starfleet's ban  on genetic manipulation.<br>  They were willing to overlook this  during the war, however.<br>  A Tardigrade?  - I suppose you had to be there.<br> - Getting to the bottom  of these signals is of utmost importance to the Federation.<br>  They let you use the drive to fight the Klingons.<br>  They'll give us dispensation now.<br>  How long before it can be operational?  Once I begin prepping Commander Stamets, 20 minutes.<br>  Get to it.<br>  TILLY: Bet you're glad you stayed on board, right?  Hmm?  Being back in the saddle.<br> You and me.<br>  Doing our thang.<br> I thought the jump  to Qo'noS would be the last time in a long time.<br>  What's wrong?  I saw Hugh in the network.<br>  What? You mean, after he after he died?  Yes.<br> When I was trapped there,  he comforted me.<br>  He pushed me to escape when I was ready to give up.<br>  He helped pilot Discovery out of the Terran universe, Tilly.<br>  He saved us all.<br>  I I-I know how this sounds.<br>  At first, I told myself it was a fabrication of my own mind  culled from my memories by the mycelia,  but since then, I'm not so sure.<br>  I didn't see him  the last time I jumped,  but knowing it's a possibility  I would think that possibility would make you happy.<br>  Astromycology has taught me  that nothing is ever truly gone.<br>  Fungi are the universe's recyclers.<br>  This is how termination begets creation.<br>  It's why life is eternal.<br>  And my place is on this side of that cycle.<br>  If I return to the network and see him again  PIKE [OVER COMM.]<br>: We good to go, Mr.<br> Stamets?  MALE [OVER COMM.]<br>: All personnel, prepare for black alert.<br>  This is not a drill.<br>  Repeat, this is not a drill.<br>  Spore drive is on line.<br>  STAMETS: Spore drive is ready, Captain.<br>  SARU: Questions or concerns  before we depart, Captain?  If you're telling me that this ship  can skip across the universe on a highway made of mushrooms,  I kind of have to go on faith.<br>  Be bold.<br>  Be brave.<br>  Be courageous.<br> Black alert.<br>  MALE: All personnel, black alert.<br>  Let's jump.<br>  [EXHALES, CHUCKLES.]<br>  You never forget your first, sir.<br>  [INDISTINCT CHATTER.]<br>  Ah.<br>  Commander Stamets  Not now, Tilly.<br>  There's no sign of the signal.<br>  Are we where we're supposed to be?  Affirmative.<br>  - Report.<br> - Class-M planet.<br>  No power signatures or starships  in the area.<br>  No one scanning us from the surface.<br>  Wait, I detect human life signs.<br>  No humans have settled this far out in the Beta Quadrant.<br>  Captain, I'm picking up a transmission  - from the surface.<br> - Send it through, Bryce.<br>  MAN: We're under attack! We're holed up inside.<br>  A few hundred souls: men, women and children.<br>  Red alert.<br> Ready photon torpedoes.<br>  - Are you sure there's nobody else out there? - We're alone, Captain.<br>  Pinpoint the distress call.<br> Show me where it's coming from.<br>  Enhance.<br>  They do not seem to be in any sort of distress, Captain.<br>  Can you trace any warp signatures  or starships near the planet?  Not a single one.<br>  I can, however, confirm that,  based on audiophonic degradation,  the transmission has been broadcasting on a loop for  200 years.<br>  That's before warp was even invented.<br>  Somebody want to tell me how they got here?   Star Trek: Discovery SO2EO2- New Eden        [ORIGINAL STAR TREK THEME PLAYS.]<br>  The arrival of those people on the planet directly coincides  with World War III on Earth,  a nuclear cataclysm that left 600 million dead  and governments destroyed.<br>  The broadcast frequency from the surface is obsolete,  too weak for interstellar communication.<br>  It's all coming from this structure here.<br>  It's a church, Burnham.<br>  Yes, sir.<br>  PIKE: They're speaking  Federation Standard.<br>  They had to have a starship to get out this far.<br>  Hell, the only way we got here was by using a spore drive.<br>  Yet with the roughly 11,000 people,  spread over ten settlements across the planet,  there is no ship or power signature to speak of.<br>  They don't even use electricity.<br>  Since their society  is pre-warp, we have to assume General Order 1 applies.<br>  Why did that  second signal want us to come here?  As science officer, I would advise restraint  in ascribing motivation to what are now simply  unidentifiable energy bursts.<br>  "There are more things in heaven and earth, Horatio "  I know my Shakespeare, Captain.<br>  Are you suggesting that some kind of divine intervention  put those people on the planet?  I assume you're familiar with Clarke's Third Law?  Yes.<br> In the 20th century, Arthur C.<br> Clarke said that  "Any sufficiently advanced technology is indistinguishable  - from magic.<br> " - The law was debated  by scientists and theologians alike,  And later reinterpreted to say:  "Any sufficiently advanced  extraterrestrial intelligence is indistinguishable from God.<br> "  I have no idea  how or why they're here,  but I highly doubt it's by accident.<br>  Certainly a bold interpretation, sir.<br>  What else do we know about the planet?  It is surprisingly Earth-like.<br>  However,  the interweaving orbital rings  are comprised of radioactive debris.<br>  Quite unlike anything we've ever seen before.<br>  Figuring out how these people got there may shed some light  on the nature of the signals themselves.<br>  Who's best suited to come with us to the surface, Burnham?  Lieutenant Owosekun.<br>  She grew up in a Luddite collective on Earth.<br>  She'll know how to embed, per General Order 1.<br>  Brief her and let's move.<br>  COMPUTER: Your personal shielding is phase-locked  with the gravity simulator.<br>  Any change in this gravimetric stability will result in  Boom.<br>  Confirmed.<br>  [TRILLING, BEEPING.]<br>  As theorized, there are periodic concentrations of  metreon particles.<br>  Yeah.<br> Here looks promising.<br>  Okeydokey.<br>  Activating laser core sampler  and corresponding internal artificial grav.<br>  And according to my calculations,  one cubic centimeter of  metreon-charged asteroid weighs in  at a portly one point five metric tons.<br>  [LOUD THUD.]<br>[GASPS.]<br>  Metreon fluctuation detected.<br>  Adjust grav sim.<br>  Project termination advised.<br>  Not yet.<br>  Metreon-charged dark matter is our only lead  in finding a new spore-drive interface,  and Commander Stamets needs this.<br>  [RHYTHMIC WHIRRING.]<br>  Got it.<br>  Secure sample.<br>  [SIGHS.]<br>  [EXHALES.]<br>  [WHIRRING.]<br>  [LAUGHS SOFTLY.]<br>  Hello, gorgeous.<br>  COMPUTER: Alert.<br> Energy discharge  of unknown origin detected in main shuttle bay.<br> Engineer  No life signs inside.<br>  Set phasers to stun.<br>  Keep 'em handy but out of sight.<br>  [DOOR CREAKS OPEN.]<br>  Have either of you ever been in a church?  OWOSEKUN: No.<br> My family are  non-believers.<br>  I'm familiar with the texts of Earth's religions.<br>  All right.<br> Let's find out  who these people are and why they're calling for help.<br>  [WHIRRING.]<br>  This glass is two centuries old.<br>  It represents not just Christianity, but  Judaism, Islam, Hinduism, Buddhism,  Shinto and Wicca.<br>  The distress call is coming from beneath us.<br>  I'll look for the basement.<br>  "For those who live the old way burn.<br>  "Those who  sin against us shall be cut down by our gods.<br> "  That's light and welcoming.<br>  "When those who believe in our signs come to thee,  say, 'Peace be upon you.<br> '"  Anthropologically speaking,  it appears that they cobbled together a religion  based on the primary faiths of Earth.<br>  This book is some sort of new scripture.<br>  It might be their historical record.<br> I'll scan the text.<br>  [WHIRRING.]<br>Or we could look at the pictures.<br>  That was the original purpose for a window like this.<br>  To teach the gospel to those who couldn't read.<br>  Why aren't you in the fields?  We're not from here.<br>  Uh, my name is Christopher.<br>  This is Michael and Joanne.<br>  Is this your first time in New Eden?  Yes.<br> We're from the north.<br>  The All-Mother  will want to see you.<br>  PEOPLE: We welcome our new friends from the northern territory  and pledge gratitude to our Creators  for their love and deliverance to New Eden  on our planet Terralysium.<br>  Tonight, on the harvest moon, we remember  that over 200 years ago, in 2053,  the First Saved, soldiers and civilians among them,  took cover in the white church  from the devastation of World War III.<br>  Jets overhead dropped nuclear bombs.<br>  Our ancestors knew death was coming,  but just before the explosions,  an angel appeared to them,  surrounded by pillars  of fire, and delivered our church  and those taking shelter in it  here to Terralysium.<br>  They awoke here and founded New Eden.<br>  But who should they thank for this salvation?  Which God?  There were so many faiths among them,  how would they solve such a quandary?  By combining all religions into one.<br>  Say my religion is science.<br>  Has anyone used it to find an alternate answer  to how our ancestors got here?  How, without the proper technology?  All we've got are decaying relics  that came with the First Saved.<br>  WOMAN: For years, Jacob and Rose  have tried to get the church lights back on.<br>  Since the battery units died, and the windows went dark,  pilgrimages to our shrine have dwindled.<br>  Still, there must be some rational theories  about how the church was transported here.<br>  A camera attached to a soldier's helmet exists  from that time, but  it's broken.<br>  WOMAN: We have no need for proof.<br>  We are guided by  the existence of something greater than ourselves-  our faith.<br>  It's getting late.<br>  We're setting out early tomorrow.<br>  Would you mind if we take shelter in your church?  - Of course not.<br> - Thank you for the fellowship.<br>  - Peace be with you.<br> - And also with you.<br>  WOMAN: Tilly?  Tilly, wake up.<br>  What? Where am I?  Don't worry.<br>  They're helping you.<br>  I was there when you got hurt.<br>  It was so scary.<br> I thought I lost you.<br>  [ALARMS SOUND.]<br>Oh, you shouldn't do that.<br> Oh, no.<br>  Help! What's going on?  SARU: Ensign Tilly, dissecting  a highly unstable interstellar asteroid by yourself?  This lapse in judgment put your shipmates at risk  and nearly got you killed.<br>  Will you corroborate that, Dr.<br> Pollard?  He's correct.<br> Almost dead.<br> You.<br>  But you're gonna be okay.<br>  Sorry, sir.<br> I was trying to help Commander Stamets.<br>  I do not see how one leads to the other.<br>  I took an asteroid sample in the hopes  that I could design a coherent resonator  to work with the spores instead.<br>  Essentially building  a dark-matter navigational interface  so that Commander Stamets will no longer have  to interface with the spore drive?  [SIGHS.]<br>  Before we can care for others, we must care for ourselves.<br>  Has this jeopardized my placement  in the Command Training Program?  It has not, as long as it is not an indicator  of more reckless behavior.<br>  You are the youngest candidate ever accepted into the CTP.<br>  Being the only Kelpien in Starfleet,  I know how it feels to want to prove your worth.<br>  I was so determined to be a good example of my race,  I learned 90 different Federation languages.<br>  Fluently?  My point is,  I put an inordinate amount of responsibility  on these slender shoulders, often to my detriment.<br>  I expect you  to take better care.<br>  You are important.<br>  RHYS: Mr.<br> Saru  to the bridge immediately.<br>  Report.<br>  Sensors detecting a massive spike  of ionizing radiation in the upper atmosphere.<br>  There's been a disruption in the gravitational stability  of the planet's outermost ring.<br>  This could relate to the signals.<br>  Radioactive particles from the ring are on the way  - to the planet's surface.<br> - Levels?  - Bad.<br> - Bad?  Really bad.<br> In 64 minutes,  the radiation will reach the upper atmosphere, causing  an extinction level event.<br>  Um  tell transporters  to stand by.<br>  Bryce, please contact the captain.<br>  Not possible, sir.<br>  The radiation's interfering with our communication.<br>  We won't be able to transport either.<br>  Shall I send a shuttle to get them, sir?  No.<br> The shuttle's ionized carbon exhaust  will create a runaway positive feedback loop  that will accelerate the particles' arrival.<br>  I heard there was a problem.<br>  Happy to have you, as always, Mr.<br> Stamets,  especially now.<br>  It's highly unlikely  that they can see the outer ring from the planet's surface.<br>  They'll never know what's coming until it hits.<br>  Time? 62 minutes  before nuclear winter becomes irreversible.<br>  SARU: If we were  brought here,  perhaps this is why.<br>  We are responsible  not only to our landing party  but to every living being on that planet.<br>  Discovery will not allow a catastrophe on her watch.<br>  Clock is ticking.<br>  Let us get to work.<br>  PIKE: Clearly, that distress beacon has been broadcasting  without these people even knowing it.<br>  We'll turn it off so no one else disturbs this place  and then beam out.<br>  OWOSEKUN: I isolated the distress beacon signal.<br>  It's coming from down here.<br>  PIKE: Let's hope that helmet camera's here, too.<br>  I'm sorry, sir.<br>  You can't be suggesting that we leave them here.<br>  Find that beacon, please,  Owosekun.<br>  Before we transported down,  you said you had a hunch  the signal we were following was leading us to a rescue mission.<br>  No one needs rescuing, Burnham.<br>  This place  really is a new Eden.<br>  Amesha and the others are kin to us.<br>  They deserve to be reintegrated into modern society.<br>  By their own account, they left Earth in 2053.<br>  They did not use a starship.<br> That makes them pre-warp,  subject to General Order 1.<br>  We cannot interfere with their natural development.<br>  But they believe Earth and the human race were destroyed.<br>  They're wrong.<br>  Worse, the faith they cling to is a lie.<br>  Can you prove that?  What I will prove  is that none of this happened because of some miracle.<br>  OWOSEKUN: Got it!  The battery's dead,  but  This is strange.<br>  Someone jury-rigged it to continue transmitting  the distress call.<br>  JACOB: And you answered.<br>  There were scientists among the First Saved, too.<br>  My family.<br> For generations, we tended to that beacon.<br>  No one else knew it was here, and you found it  with that incredible device.<br>  My ancestors were right, weren't they?  The Earth wasn't destroyed.<br>  Mankind evolved.<br>  Jacob [STAMMERS.]<br>  this-this device, this has- it's always been  in my family.<br> It's for navigation.<br>  Since the other day,  when the red burst appeared in the sky, I knew you were coming.<br>  That was the light from your ship, right?  Your hands, your skin,  unravaged by the labor we do here.<br>  You're not from Terralysium.<br>  I can see the truth in your eyes.<br>  Jacob, listen to me.<br>  - You are mistaken.<br> - No, I'm not.<br>  I have been waiting for this day for a long time.<br>  For our true salvation.<br>  PIKE: Let's go.<br>  We're sorry for trespassing.<br>  No, wait, wait, no.<br> Don't go.<br> Wait.<br>  Wait! Stop!  [GASPS.]<br>  [GRUNTING.]<br>  Ah.<br> It's locked.<br>  If it's just a slide bolt,  I can use a magnet to get us out.<br>  [COUGHS.]<br>  Our utility bags are gone.<br>  Jacob must have taken all of our tech.<br>  To prove his case to the others, no doubt.<br>  Ah-ha.<br> Got it.<br>  [GRUNTS.]<br> Yep.<br> I can feel it  [GRUNTS.]<br>  God or no God, we are still bound by General Order 1.<br>  You will not break cover under any circumstances.<br>  Do you both understand?  - Yes, sir.<br> - Yes, sir.<br>  If "X" doesn't work, try "Y.<br>"  If "Y" doesn't work, try "Z.<br>"  If "Z" doesn't work, try drowning your ineptitude  in a Risan Mai tai.<br>  Where the hell is Burnham?  I need her to, like, be here and "yes and " me.<br>  Can I help you with something?  Yes.<br> Yes, thank you.<br>  I'm-I'm supposed to be on bed rest,  but that is practically an affront to my very existence,  'cause the ship's on high alert,  the captain, Burnham, Owo,  not to mention an entire planet, might be nuked,  and that is not happening.<br>  Why are you looking at me like that?  You're May, right? Am I talking too fast?  I'm problem solving.<br> I've had espressos.<br>  - In sickbay? - Yeah.<br>  Lives are at stake.<br>  It's always better to ask  for forgiveness than permission.<br>  Exactly.<br> I've been trying to figure out a way  to stop the down flow of radioactive debris,  and then it occurred to me if we could target the source  of the debris  - The ring itself.<br> - Yes.<br>  Thank you.<br> We could- We could pull the debris  away from the planet.<br>  And then, we're alive.<br>  And alive is optimal.<br>  I've been running models using a tractor beam, but  Discovery wouldn't be able to generate  graviton beams powerful enough  to change the course of the debris field.<br>  You read my mind.<br>  Your mind is so much fun.<br>  If only there were  something on this ship that could generate  a massive gravitational field.<br>  The asteroid.<br> Dark matter.<br> In the shuttle bay.<br>  It's-it's-it's  A little, tiny piece of it destroyed an entire table.<br>  It was awesome.<br> You're a genius.<br>  No, you're a genius.<br>  AIRIAM: The ring's radioactive wave will hit the planet  in four minutes, 32 seconds.<br>  What if we throw all auxiliary power to phasers?  Destroy the radioactive debris  before it reaches the lower atmosphere.<br>  That would only give it a greater concentration.<br>  I got it!  I got it, I got it.<br>  Ensign Tilly, how many times in a single day  must we have this conversation?  No, no, please, please, sir, just-just hear me out, okay?  The dark-matter asteroid, all right, it's massive.<br>  And the more mass an object has,  the greater its gravitational pull, right?  You-you know this.<br>  Can I just, um, scooch in there? Thank you.<br> Yeah.<br>  So, if we launch the dark-matter asteroid from the shuttlebay  on just the right trajectory,  its gravity will pull the radioactive debris  away from the planet like a, uh, invisible magnet.<br>  See?  DETMER: For the asteroid to exit at the correct angle,  I would have to execute a sustained circular drift.<br>  A donut.<br>  You would be doing a donut in a starship.<br>  That's true.<br>  Is this possible?  Yes.<br> Except no.<br>  We'd have to launch the asteroid from within the center  of the ring's debris field.<br>  There is no way I can pilot us from in there.<br>  I can.<br>  We could jump.<br>  You have exactly  two minutes, 11 seconds before the wave  of radioactive debris crosses the point of no return.<br>  Run, Mr.<br> Stamets.<br>  Tell Engineering to ready the spore drive.<br>  JACOB: The visitors are from the first Earth.<br>  They brought amazing things:  communication devices,  scientific-data collectors.<br>  Look inside.<br> You'll believe.<br>  PIKE: What happened to "Thou shalt not steal"?  I just want her to see the truth.<br>  PIKE: The truth is that he attacked us.<br>  He violated everything that the Faith holds dear.<br>  You give us back what you took,  - and we'll leave.<br> - JACOB: Listen to me.<br>  They came on a starship.<br>  They can take us back home.<br>  We can experience the real Earth.<br>  This is your home.<br>  You are living by the corrupt way of the old Earth, Jacob.<br>  You're the scientist.<br>  Tell her I'm right.<br>  [WHIRRING.]<br>Look.<br>  Captain! No!  No![PHASER DETONATES.]<br>  He's dying.<br>  Save him.<br> With your technology, I know you can.<br>  We-we need to get him to the church  and pray for another deliverance.<br>  Yes, okay.<br>  STAMETS [OVER COMM.]<br>: Bridge, we are ready to jump.<br>  And are you ready, Lieutenant?  Had my pilot's license since 12, sir.<br>  Black alert.<br>  [POWER SURGE.]<br>  Airiam now.<br>  SARU: Detmer!  Initiating donut maneuver, sir.<br>    It's working, sir.<br>  Let us get our landing party.<br> Now.<br>  Wait, wait, no.<br> Let me in![BANGS ON DOOR.]<br>  Jacob, no.<br> Jacob!  [GRUNTS.]<br>  The gods have answered our prayer.<br>  The angel returned to save them.<br>  Transport confirms all are on board.<br>  The asteroid successfully diverted all the debris  from the planet's atmosphere.<br>  Yes!  [APPLAUSE, LAUGHTER.]<br>  Perhaps you should  disobey my direct orders more often, Ensign.<br>  No, I think your orders are probably really good.<br>  I need to pass out now.<br>  Do you need assistance?  No, I'm good.<br> I'm just  straight to bed.<br>  Way to go, Stilly.<br>  Stilly?  Wait, are you?  Welcome back, Captain.<br>  You made it.<br> But your ribs,  they're gonna feel like the xylophone  in a Klingon marching band.<br>  Consider yourself lucky to be alive.<br>  [GROANS.]<br>  COMPUTER: Musk Junior High School, Class of 2247.<br>  Signatures page.<br>  NAME: May something.<br>  Stilly, what the heck?  You're moving again?  It's only been six months.<br>  You're the nicest person I've ever met at this awful school.<br>  I'll miss our lunches.<br>  They were like little earthquakes.<br>  "Bounce, bounce, bounce.<br> "[CHUCKLES.]<br>  Please, stay in touch.<br> Love, May Ahearn.<br>  Ahearn.<br>  Knew it.<br>  Computer, locate quarters for "Ahearn, May.<br> "  COMPUTER: Ship's manifest has no such name.<br>  Computer, search Federation database  for the whereabouts of "Ahearn, May,"  originally from San Francisco, California, Earth.<br>  COMPUTER: Working.<br> "Ahearn, May Theresa.<br> "  Born April 30, 2236.<br>  Deceased June 9, 2252.<br>  [DOOR CHIMES.]<br>Come.<br>  [DOOR WHOOSHES OPEN.]<br>  You wanted to see me?  Yes.<br> And don't make me laugh.<br>  Fortunately for you, I was raised on Vulcan.<br>  We don't do funny.<br>  [STIFLED LAUGH.]<br>  Maybe I should just shut up.<br>  I wanted to thank you  for following orders and maintaining our cover  despite your captain's impairment.<br>  And by impairment,  I- I mean having a phaser go off in my chest.<br>  [LAUGHS SOFTLY.]<br>  Well, sir, I learned the hard way  what not following orders can lead to.<br>  In fact,  you asked earlier if there was anything I ought to tell you.<br>  There is, and I didn't.<br>  The angelic being  they worship on Terralysium, it appeared to me,  on the asteroid.<br>  Why didn't you say anything?  I was injured.<br> I thought I was hallucinating.<br>  That can't be a coincidence.<br>  Two signals, two angel sightings.<br>  With all due respect, sir, the word "angel"  does carry with it certain implications.<br>  I saw a form.<br>  It hovered above me, and it was  to be completely honest, quite beautiful.<br>  But beyond that,  I wouldn't ascribe to it divine properties.<br>  Those people in New Eden do.<br>  And they would find your experience  to be quite a revelation.<br>  Is that how you see it, sir? As a revelation?  At the very least,  this new information creates more context.<br>  And the context can alter our perspective.<br>  Well, what about Jacob?  Isn't he entitled to a little context?  He knows in his heart who and what we are.<br>  And we chose to lie to him.<br>  We have the power to help him solve a mystery  that's plagued his family for 200 years.<br>  We could alter his perspective.<br>  Look, I feel for the guy, too.<br>  But even angels are no excuse for violating General Order 1.<br>  Yeah, well, I have a better EXCUSE: his helmet camera.<br>  Jacob said it recorded whatever was in that church  the day they were taken.<br>  And as I see it, sir, the urgency of our mission  directly contradicts Starfleet's first rule.<br>  To serve one goal, the other has to be sacrificed.<br>  But that's a choice only a captain can make.<br>  [INSECTS TRILLING.]<br>  [SIGHS.]<br>  PIKE: I lied.<br>  To protect the others from the truth.<br>  The truth is you were right about us.<br>  I- I know what it's like to live with doubt,  and I guess I-I didn't want that for you.<br>  How'd you get here?  Beam of light?  Yes, actually.<br>  It's called a transporter.<br>  It converts a-a person or an object into an energy pattern,  then "beams" it to a target,  where it's eventually reconverted back into matter.<br>  Do you have a ship?  Do you, uh, fly among the stars?  [LAUGHS SOFTLY.]<br> Yeah.<br>  And  - Earth? - Well, we're-we're part  of a galactic federation now,  dedicated to peace, exploration and protecting places  such as your planet.<br>  Jacob,  we cannot intervene.<br>  Your society has to evolve  in its own way.<br>  My entire family spent  their whole lives hoping to get a confirmation  that what we believed was true.<br>  [GRUNTS.]<br>  And you  gave me that answer.<br>  Something none of them ever got.<br>  And that is enough for me.<br>  [EXHALES.]<br>  Thank you.<br> Because of you,  we're not lost anymore.<br>  How about this power cell,  with a very long lifespan, in exchange  for a soldier's broken camera circa 2053?  [CHUCKLES SOFTLY.]<br>  [EXHALES SHARPLY.]<br>  I hope we meet again, Jacob.<br>  I know we will.<br>  You might want to stand back.<br>  [COMMUNICATOR CHIRPS.]<br>  Pike to Discovery, one to transport.<br>  [QUIETLY.]<br>: Okay  [INDISTINCT CHATTER.]<br>    [GUNFIRE, PEOPLE SCREAMING OVER VIDEO.]<br>  MAN [OVER VIDEO.]<br>: We're under attack!  Holed up inside.<br> A few hundred souls: men, women and children.<br>  Wait  Something's happening  [PEOPLE SCREAMING.]<br>  Take cover! Protect the young!  Oh! Blinding light!  Oh, my gosh!   Star Trek: Discovery SO2EO2- New Eden     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e01" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s02e03" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e08 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e08 - The Sanctuary Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e08 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e08"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e08 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e08" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;The Sanctuary</div>
+
+            <h1>Star Trek: Discovery (2017) s03e08 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">The Sanctuary</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			[narrator.]<br> Previously on Star Trek: Discovery:  Osyraa and the Chain have been pushing hard lately.<br>  Osyraa breaks people.<br>  Ryn the Andorian was born into the Emerald Chain.<br>  Tried to rally the people.<br> People were beginning to listen,  so she hacked off his antennae.<br>  [Georgiou.]<br> Who put you in charge?  [Tolor.]<br> I'm Osyraa's nephew.<br>  Lieutenant Detmer, get us over there.<br>  - You did great.<br> - Closer call than it should've been.<br>  I would like you to serve as acting First Officer  - until I find a permanent replacement.<br> - [Stamets.]<br> You're talking to yourself?  I was talking to my boyfriend, Gray.<br>  He says he likes you.<br>  We found significant new evidence related to the cause of the Burn.<br>  SB-19 can help us with that.<br>  I will convene a quorum.<br>  [Burnham.]<br> It's the only way we'll have a chance at that data.<br>  This could help us solve the Burn.<br>  - How long has this been happening? - Couple weeks.<br>  And it's getting more severe.<br>  You're not alone.<br> We'll get through this.<br>  Where I'm from, the emperor's personal physicians  were buried with them when they died.<br>  It incentivized loyalty.<br>  Are you gonna answer my question?  When did you first experience blackouts?  - I don't need your help.<br> - Your condition is serious,  but since you don't wanna cooperate,  you can determine if the root is physiological, psychological,  temporal, or interdimensional on your own.<br> And get back to me.<br>  - You don't scare me, human.<br> - I don't need to.<br>  You're already terrified.<br>  I realize  you see yourself as the grand hero, oracle of the mess hall,  savior man to this ship.<br> Well, I'm not interested.<br>  Your early stages of brain dysfunction will feel manageable.<br>  "What was I just doing? Where did I bury that last body?"  But eventually, if we don't intervene  you won't recognize the faces around you.<br> You won't even recognize yourself.<br>  You'll end your days howling at the reflection in the mirror,  a living death, that's not what I want for you.<br>  If I had time, I'd poison your children.<br>  If I had time, I'd have children.<br> Now, do you want my help or not?  For such a warm and fuzzy human, you've got very cold hands.<br>  He's just getting your baselines.<br>  More than that, actually.<br>  The scan will deconstruct your entire body, system by system.<br>  Once we can see what's happening on an atomic level,  hopefully we'll have a roadmap for a cure.<br>  [scoffs.]<br> Nine hundred and thirty years of medical advancement,  and you still need fancy equipment to deconstruct me?  I could deconstruct the both of you with a snappy insult and a withering glance.<br>  Congratulations, your mother must be very proud.<br>  - [both.]<br> I killed her.<br> - No, you did not, by the way.<br>  We're gonna figure this out.<br> I'm not leaving until we do.<br>  [monitor beeping.]<br>  - [Culber.]<br> Her heart rate is elevated.<br> - It's rage.<br>  Why don't I check in later?  [Georgiou.]<br> Don't bother.<br>  - I'll call for you if you're needed.<br> - She won't be.<br>  [woman over PA.]<br> Security briefing on Deck 7 in five minutes.<br>  - Hey.<br> Sorry.<br> - Hey.<br>  - I'm glad I found you.<br> - What is it?  - I have to go home.<br> Kwejian.<br> - Home?  - "Home" home? - My brother Kyheem got a message to me  through the courier network.<br> I have to go.<br>  - Come with me? - Hold on.<br>  It's Osyraa and the Emerald Chain.<br> He's dealt with them for 15 years,  haven't heard from him once.<br> It must be bad.<br>  Kwejian is two weeks away at full warp.<br>  - Okay.<br> - We've less than a 50 percent chance  - of surviving a transwarp tunnel.<br> - She's gonna destroy my planet.<br>  Then we'll need help.<br>  [Booker.]<br> When the Burn hit, damage to subspace shifted our moon's orbit,  causing tidal changes.<br>  Sea locusts came out of the ocean and ate our harvest.<br>  Millions were starving.<br>  - Then the Chain came.<br> - [Vance.]<br> Let me guess,  they had the solution to your problems.<br>  They offered us I guess you'd call it a repellent.<br>  Assured us it was a humane way to get them back into the sea.<br>  It saved our harvest, but we had to give them our Tranceworms in exchange.<br>  Now Osyraa's back.<br>  - Any idea why? - I don't know.<br>  You don't seem surprised, sir.<br>  The Chain's turned Prime Directive violations into an art form.<br>  They make reckless contact with pre-warp civilizations  that have something they want.<br>  Right now, I'm tracking 50 star systems in the same predicament.<br>  Most, if not all, are bound to collapse.<br>  Must we not intercede?  I don't have the ships to spare, and I'm not risking your spore drive.<br>  All I need is transport.<br> My brother will know what Osyraa wants.<br>  What if she wants something you can't give?  It's not just Osyraa and not just this quadrant.<br>  We have to do something.<br>  I propose we go in under the technical designation of observers.<br>  If Osyraa feels the presence of the Federation,  she may be inclined to pursue a more diplomatic approach.<br>  We'll take a defensive posture  and jump away at the slightest indication that Discovery is in danger.<br>  - Aye.<br> - Keep your eyes open, captain.<br>  I'm not betting on diplomacy.<br> You have no idea what Osyraa is capable of.<br>  [Tolor.]<br> All my workers ran off.<br>  I did everything I knew how to do, Aunt Osyraa.<br>  I hope you believe me.<br>  I don't.<br>  You lost Ryn?  Ryn?  Oh, right, the Andorian.<br>  - He left with a courier.<br> Cleveland Booker.<br> - Cleveland Booker.<br>  You already know?  Of course I do.<br>  Oh, Tolor.<br>  You know, when I first took you in as a child,  I was having complicated feelings about the death of your father.<br>  Wha?  You did what you had to do to keep control of the mercantile exchanges.<br>  I have always understood.<br>  Tolor, I know you did.<br>  You're so much like him.<br>  [creaking.]<br>  Auntie?  They'll mesmerize you, and you won't feel a thing, I promise.<br>  - [gate clanging.]<br> - What?  - No! - [growling.]<br>  [Tolor yelps.]<br>  [roaring.]<br>  - Aunt Osyraa, no, please.<br> - Don't be childish.<br>  This is why they call them Tranceworms.<br>  Please, Aunt Osyraa, no!  - [roaring.]<br> - Auntie, no! [yelling.]<br>  [theme music playing.]<br>  Commander Burnham and Mr.<br> Booker are preparing for a jump to Kwejian.<br>  What do we have in the meantime?  Mr.<br> Ryn, a refugee from the salvage planet,  is awake and requesting to speak with you.<br>  Schedule it.<br>  And what about Linus?  Oh.<br> He's been escorted to quarters and instructed not to return  to the mess hall until his annual shed is complete.<br>  And where are we on the  ongoing matter?  So far, we have narrowed it down to  To "execute," "hit it," and "manifest.<br>"  - "Manifest"? - Nobody likes that one.<br>  "Hit it" was Captain Pike's.<br>  Yeah, but you could put your own spin on it like "Hit it!"  - I will take it under advisement.<br> - And Commander Stamets  has requested to report on their analysis of the Ni'Var data.<br>  He says they have something.<br>  Well, "Hit it, then.<br>"  Um  Right.<br>  [Stamets.]<br> Here.<br> We combined the data from Ni'Var  with the data from Commander Burnham's black boxes.<br>  This is where the Burn started.<br>  The Verubin Nebula.<br>  Unusually intense radiation, highly unstable electromagnetic fields.<br>  Okay.<br>  - So we have a point of origin.<br> - [Adira.]<br> There's more.<br>  There's a signal coming from the center of the nebula.<br>  We weren't sure at first, but it's deliberate.<br>  Something or someone is definitely sending it.<br>  The signal frequencies are in the audio range.<br>  [whirring.]<br>  It's been distorted by magnetic interference,  but, well, it  It sounds like music.<br>  [music playing.]<br>  What?  - I've heard this before.<br> - The Barzans.<br> On the seed vault ship,  the mother was humming it to her child.<br>  And Gray used to play it on the cello.<br>  That's weird.<br> Scientifically speaking.<br>  The computer has detected a recurrence of these precise combinations of tones  - since we arrived in the future.<br> - Just the Nebula, please.<br>  A little louder.<br>  What is the lowest known frequency traveling through that nebula?  That would be radio wave J.<br>A.<br>G.<br> 380725A,  coming from a nearby neutron star, at 5.<br>75 kilohertz.<br>  I get it.<br> You wanna model the effects of the distortion  in order to isolate the original signal.<br>  There.<br>  This is it without the distortion.<br>  That's a Federation distress signal.<br>  There's a ship lost in there.<br>  A distress signal must include an encoded message of some kind.<br>  Adira can write an algorithm that can find and decode it.<br>  - How long would that take? - No more than a few hours.<br>  She's pretty fast.<br>  Update me the moment you have something, commander.<br>  Of course.<br>  "They" are fast.<br>  [Stamets.]<br> Hmm?  "They," not "she.<br>"  I've never felt like a "she" or a "her," so  I would prefer "they" or "them" from now on.<br>  Okay.<br>  And I've never told anyone but Gray.<br>  How is it that an hour ago I didn't know you had a brother?  It's not biological.<br>  "Brother" is something we said, we felt.<br>  But after, well, it became impossible.<br>  After what?  Kyheem started hunting Tranceworms for the Chain.<br>  - Think you can fix things with him? - Kwejian is starving.<br>  - He's not my priority.<br> - Okay.<br>  Hell of a way to bring me home to meet the family.<br>  First off, you already met Grudge.<br>  Ah.<br> Right.<br> Yes, and I'm grateful every day.<br>  Well, I just  I wish you'd seen Kwejian when it was really beautiful.<br>  It was.<br> It wasn't so  - complicated.<br> - I'm gonna like it.<br>  - No, really, it's become something that - I am going to like it.<br>  It's your home.<br>  [Owosekun.]<br> Is that a new operating interface?  [Detmer.]<br> I had Engineering make modifications.<br>  The interface is supposed to modify to you based on your usage.<br>  I need fail-safes.<br>  The only fail-safe you ever needed was you.<br>  [Saru.]<br> Mr.<br> Bryce, are we ready?  Yes, sir.<br> Commander Stamets is ready to jump to Kwejian on your mark.<br>  - Welcome back to the bridge, Mr.<br> Booker.<br> - Thank you, captain.<br>  Black alert.<br>  [ship whirs.]<br>  And execute.<br>  [Owosekun.]<br> We've arrived at Kwejian, captain.<br>  [Bryce.]<br> I'm trying to hail them, sir, but I'm getting no response.<br>  Long-range scanners show a heavy cruiser-class starship  coming in at maximum warp.<br> Thirty minutes out.<br>  It's the Viridian, Osyraa's ship.<br>  - We don't have a cruiser-class starship.<br> - Sensors show she's armed to the teeth.<br>  I have no authority over you.<br> Commander, your orders  are to assess the situation and see how we may be of service.<br>  But you are to return to Discovery immediately  - if there is any trouble whatsoever.<br> - Yes, sir.<br>  Be careful, commander.<br> And good luck.<br>  Thank you.<br>  Dr.<br> Pollard.<br> I trust Dr.<br> Culber has brought you up to date.<br>  There's a problem in my brain, ergo, I dressed like a human spermatozoon.<br>  That suit is made of special hyper-conductive material  to interact with the electromagnetic gel.<br>  There are many jokes to be had here.<br>  If you're gonna torture me, at least let me have some fun.<br>  - [laughs.]<br> This is not torture.<br> - As if you'd know.<br>  - This is medical advancement.<br> - I didn't ask.<br>  I'm gonna need you to count backward for me from ten.<br>  What you need is not im  - Advancement is good.<br> - Mm.<br>  [Stamets.]<br> That's beautiful.<br>  I didn't know you played so well.<br>  I don't.<br>  I guess I do now.<br> [chuckles.]<br>  Kasha is the one who learned to play.<br> Gray picked it up.<br>  So, now me.<br>  Mm.<br> Gray's not talking to me anymore.<br>  And I don't know why.<br>  I can still feel him, especially when I play.<br>  That's what's so weird.<br>  He's here  all the time  but it feels like he's hiding from me.<br>  Maybe Gray just needs some space?  I know.<br>  It's not just him either.<br>  It's just  This, all of it  I am waking up every day  and I never know who I'm gonna feel more.<br>  You know, sometimes it's Kasha, sometimes Tovar, or Gray,  or sometimes it's just  Adira?  Well, I'm out here with you.<br>  The algorithm will take a few more hours at least.<br>  Let's play.<br>  The key is G-minor.<br>  Piece of cake.<br>  [Stamets playing piano.]<br>  [Tilly.]<br> Commander Burnham and Book have reached the surface, sir.<br>  How long before we lose the ability to track their location?  It depends on when they reach the protected area.<br>  - [door chiming.]<br> - Come.<br>  - Which one of you is the captain? - [Tilly.]<br> Uh-uh.<br>  Try again, this time with the respect the rank deserves.<br>  May I speak with the captain, please?  I am Captain Saru.<br>  We are meant to meet later, Mr.<br> Ryn, are we not?  Yes.<br> I appreciate what you've done for me,  but Federation help always comes with strings.<br>  - No, it doesn't.<br> - I need to get off this ship.<br>  You are not a prisoner here, Mr.<br> Ryn.<br> You never have been.<br>  Then beam me down to Kwejian with Book.<br>  You are free to go, provided the Kwejian accept you.<br>  - However - [chuckles.]<br> There's always a "however.<br>"  There's an Emerald Chain warship inbound at maximum warp.<br>  Wanna end up on another salvage planet with an explosive in your neck?  Be our guest.<br> It'll be here in 15 minutes.<br>  Is it the Viridian?  - Osyraa? - That is what we believe.<br>  [alarm beeping.]<br>  Is that Book?  - What's happening? - That is Kwejian's defense system.<br>  Anything that enters the protected area  can't be accurately tracked or transported out.<br>  They're on their own.<br>  My readings are scrambled.<br>  - Welcome to the Sanctuary.<br> - Yeah.<br>  [sea locusts squeaking.]<br>  Michael Burnham, meet the sea locusts, Kwejian's plague.<br>  If they're this far inland, means we haven't had repellent for weeks.<br>  How do you make them do that?  All I can do is ask.<br>  You can't ask them to move back out to sea?  Our best scientists have been working on it for years.<br>  There are so many.<br>  I know it's complicated  but I hope you never forget how beautiful this place is.<br>  I never forget.<br>  - Book? - Put your hands up.<br>  - Book! - Do it.<br>  [rustling.]<br>  You brought the Federation with you, Tareckx?  [Booker.]<br> I am not Tareckx anymore.<br>  You couldn't face the planet you abandoned on your own?  I can face anything.<br>  It's you who can't face yourself.<br> You never could.<br>  Take them.<br>  He's?  My brother.<br>  [Culber.]<br> Her encephalographic readings are peaking.<br> She's having an episode.<br>  [Pollard.]<br> She's in danger of a cerebral hemorrhage.<br>  Atomic scan 83 percent complete.<br> We have to abort.<br>  We can't stop.<br> This is the only way to find out what's wrong with her.<br>  [screaming.]<br>  [Pollard.]<br> She's close to redline.<br>  [Culber.]<br> What the hell?  - [Pollard.]<br> Her heart rate is 210! - [Culber.]<br> We're nearly there.<br>  San!  San!  [Pollard.]<br> Georgiou?  Philippa? You okay?  Can you tell us what you experienced?  I was having a beautiful dream about how your head would look on my wall.<br>  I am Kyheem, Steward of the Sanctuary.<br>  [Booker.]<br> Oh, some job you're doing.<br>  Looks like the price of Tranceworm meat has hit a new high.<br>  I'm Commander Michael Burnham of the starship Discovery.<br>  - Tareckx didn't mention - Book.<br>  - Book.<br> - I stopped being a Tareckx  when Father and Grandfather started working with the Chain.<br>  They both asked for you on their deathbeds.<br>  You're a man of character or you aren't.<br>  Maybe they remembered that in the end.<br>  - Oh.<br> So righteous.<br> - Someone has to be.<br>  - What are the Federation's intentions? - Observation and support.<br>  Kwejian is a sovereign planet.<br> We don't need another savior.<br> You can go.<br>  She stays.<br> You called, I showed up.<br>  - What's going on? - A criminal.<br>  Ryn.<br> Osyraa wants him.<br>  Never thought you'd dance at the end of their chain, but here you are.<br>  You saw how far the locusts are inland.<br>  I did.<br> But I won't return someone to slavery.<br>  Without Osyraa, there'd be nothing left here.<br>  I see there's nothing left of you.<br>  Says the nomad who rejects his name and everything he is.<br>  Well  I did manage to hold on to a few core principles.<br>  [Owosekun.]<br> The Viridian's arrived.<br>  Osyraa's scanning us, but she isn't blocking our scans in return.<br>  She wants us to see her and all her firepower.<br>  - Yellow alert, sir? - [Saru.]<br> No.<br>  Full diplomatic protocols.<br>  No actions that might be misinterpreted as a provocation.<br>  - [comm chiming.]<br> - We're being hailed.<br>  Can you get a message to Burnham through the Kwejian defenses?  I can try, sir.<br>  Tell her to leave the protected area and transport back to Discovery.<br>  - Yes, sir.<br> - Put Osyraa through.<br>  Well,  it's been a while since we've seen a Starfleet vessel.<br>  Are you lost?  I am Captain Saru of the U.<br>S.<br>S.<br> Discovery.<br>  We are an observational presence here at the request of the citizens of Kwejian.<br>  I see.<br> But I'm afraid you can't operate  under the observational umbrella  while you're harboring a wanted criminal named Ryn.<br>  Wanted by whom?  To our knowledge, no entity recognized by the Federation  desires Mr.<br> Ryn's capture.<br>  "Recognized by the Federation"? Hmm.<br>  Out here, we don't bend to that kind of hubris.<br>  Prepare to transport him to my vessel.<br>  Scared of the monster you serve.<br>  I knew you, Kyheem.<br>  - You never knew me.<br> - You weren't afraid of anything.<br>  You have to give up Ryn.<br>  If Mr.<br> Ryn has committed serious crimes, the Federation will hold him accountable.<br>  The Federation can't even hold itself accountable  for the mess it's made or the blood on its hands.<br>  Send the prisoner to me, now.<br>  Give up the Tranceworms.<br> Poison the locusts.<br>  Give up Ryn.<br> What happens when they come for you?  Who's gonna stand for you?  We are your people.<br>  - We are your family.<br> - Act like it!  [groans.]<br>  You.<br>  You are the coward.<br>  The Andorian you seek is here under security protocol 49.<br>09.<br>  He signed a life-long contract, he's broken the contract.<br>  That sounds suspiciously like slavery.<br>  [scoffs.]<br> It doesn't surprise me that a Kelpien would frame everything  in terms of enslavement.<br>  If memory serves, the Orions were once enslaved themselves.<br>  My ancestors knew that power is virtue  and there is no nobility in suffering.<br>  You do what it takes to get what you need or you don't.<br>  I want Ryn.<br> You have him.<br>  And the Federation does not want a war with the Emerald Chain,  that's why you came alone.<br> That's why you are just observing.<br>  Transport Ryn to my ship,  or the Kwejian and any of your crew on its surface will pay his price.<br>  I'll grant you five minutes.<br>  - Mr.<br> Bryce? - Unable to reach Commander Burnham.<br>  Osyraa just dropped into the atmosphere, weapons hot.<br>  Yellow alert.<br> Keep trying, Mr.<br> Bryce.<br>  - Bring Mr.<br> Ryn to the bridge immediately.<br> - Yes, sir.<br>  [comm chimes.]<br>  Yes?  Is that Kwejian whiskey? I could use a shot myself.<br>  I have to say this defense system of yours is impressive.<br>  According to my sensors,  you're bouncing my signal to eight places even as I talk to you right now.<br>  Did you get blown to bits and forget to tell me?  I brought Book.<br>  I have kept my end of the bargain.<br>  That was before he showed up with a Federation ship that has Ryn on board.<br>  Now, they're not playing nicely, so I'm going to need Book  and whoever he came with.<br>  So, you can what?  When have you ever dared to question me?  Is this your brother working on you?  Look, if you don't wanna be the one who turns him over, that's fine.<br>  Turn off your defense system, and I'll come and get him.<br>  It's the right thing for Kwejian.<br>  I can't.<br>  All right, then.<br>  Famine.<br>  You have a child.<br>  Am I right?  Have you ever seen a child starve?  Is your brother really worth it?  The locusts have started to destroy Kwejian's harvest.<br>  People are already suffering.<br>  Okay, let's try this another way.<br>  I don't have a lot of time to waste, so bring your brother to me now.<br>  I will burn ten hecapates of forest every minute of delay.<br>  Photon torpedoes.<br>  Osyraa.<br>  Let's go.<br>  - [Burnham.]<br> She's targeting the defenses.<br> - [Booker.]<br> I know the way.<br>  [Saru.]<br> Status report?  [Bryce.]<br> No word from Commander Burnham.<br>  Osyraa is carpet-bombing systematically, firing in a grid for maximum damage.<br>  [Owosekun.]<br> Kwejian's defenses are starting to fail.<br>  Mr.<br> Ryn, why are you so important to Osyraa?  She's destroying the planet looking for you.<br>  - Commander Burnham and Book are there.<br> - [Saru.]<br> We need to know what she wants.<br>  We can't engage with her blindly.<br>  I can't.<br>  I'm sorry.<br>  Mr.<br> Rhys, take weapons online.<br>  - But, sir, Admiral Vance said - I am well aware of his instructions.<br>  We are continuing to retrieve Commander Burnham and Mr.<br> Booker  as Starfleet protocol demands, but we will prevent Osyraa  from committing atrocities as Starfleet protocol also demands.<br>  - Yes, sir.<br> - Mr.<br> Bryce, open a ship-wide channel.<br>  Computer, override security encryption authorization code QLR854548.<br>  [Saru over PA.]<br> All crew to stations, we are going to red alert.<br>  [alarm wailing.]<br>  Michael.<br>  I don't need a scan to know where you're headed.<br>  Out of my way.<br>  You were a liability to her on the salvage planet, you almost got her killed.<br>  Stand down.<br>  I'm dying.<br>  It's not that cut-and-dry.<br>  Let's find a quieter place to talk.<br>  Fine.<br>  [Burnham.]<br> Burnham to Discovery, do you copy?  Osyraa's targeting Kwejian's defense systems.<br>  One is down, we're gonna attempt to repair it.<br>  This way!  If you can hear this message, we need any help we can get.<br>  We can't let Osyraa get a lock on everyone here!  - How much further? - Almost there!  [Rhys.]<br> I still can't reach Commander Burnham.<br>  Five minutes at most until Osyraa is able to break through.<br>  Have scanners picked up any weaknesses in her shields?  - None that I can find, sir.<br> - I know where they are.<br>  I climbed over every class of ship on salvage duty.<br>  [Saru.]<br> And you're willing to help us?  For Book's sake.<br>  I owe him.<br>  Sir, if we return fire, Osyraa will see it as an attack from the Federation.<br>  Emerald Chain will retaliate against everyone.<br>  At this point, we have no choice, lieutenant.<br>  What if we fired on her from a non-Federation starship?  Another ship?  Flown by a Starfleet pilot who will be disciplined severely  for disobeying orders and for going rogue.<br>  - [Detmer.]<br> What's my target? - Where the gunwale meets the aft nacelles.<br>  Sensors aren't showing damage.<br> Am I hitting this thing or what?  Trust me, you've weakened the shield.<br> Just keep the pressure on.<br>  - Go back and - [meows.]<br>  - [Ryn gasps.]<br> - [cat meows.]<br>  [gasps.]<br> What is this? What's that noise it's making?  - It's a cat.<br> - What is that? Like a pet?  - Shields down to 80 percent.<br> - Sure you're up for this?  Wait, is that my ship?  [hunter.]<br> Kyheem wants you back.<br>  [computer.]<br> Shields at 10 percent.<br>  - You have to go back.<br> - No.<br>  Burnham's not clear yet.<br>  Last time I tried to stand up to Osyraa, I lost my antenna.<br>  This time, I'll get vaporized.<br>  You're the only one who's ever stood up to her, correct?  - How'd you know that? - I didn't.<br>  I guessed.<br>  But for what it's worth, I have the right co-pilot.<br>  If you face something, you can beat it,  and that is exactly what we're gonna do right now.<br>  I just need you to be brave for a few more minutes.<br> You with me?  Yeah.<br>  Good.<br> 'Cause I'm about to do something that might get us both killed.<br>  Computer, suspend automatic controls.<br> Full manual control.<br>  - What are you doing? - This is how I learned to fly.<br>  [Burnham.]<br> Kyheem?  Book, stop!  - Osyraa will kill us all! - Us?  There is no us anymore!  You saw to that!  - Enough! - Michael!  Let him go.<br>  Discovery won't give up Ryn, so she'll take me as leverage.<br>  - That is never gonna happen.<br> - Kyheem.<br>  You knew this was a possibility the moment you agreed to find me.<br>  Book.<br>  If this is what it takes  send me up to her.<br> Maybe she'll give you a bonus.<br>  Come on!  [grunts.]<br>  [explosions.]<br>  Whoo!  - You okay? - Uh-huh.<br>  We're going again.<br>  All right.<br> Eight degrees aft.<br> Straight down.<br> Weapons system generator.<br>  - [Tilly.]<br> The Viridian is standing down.<br> - Incoming transmission.<br>  Put it through.<br>  Osyraa, your ship appears to have sustained structural damage.<br>  Allow us to be of assistance.<br>  You have just sealed your own fate and the fate of the Federation.<br>  I promise you will feel the full weight of the Chain.<br>  We are gonna starve.<br>  My son.<br>  You have a son?  [sighs.]<br>  Look.<br>  You both are empaths.<br>  Why can't you move the sea locusts out to sea together?  It's too many.<br>  Even with two of us.<br>  Who said anything about just the two of you?  We've isolated the electromagnetic connection between the sea locusts.<br>  We'll amplify it, same as on Kaminar.<br>  Just tell them where to go.<br>  - It's their choice, not ours.<br> - I know.<br>  [in alien language.]<br> Sacred within me, sacred beyond me,  be in harmony with me.<br>  Sacred within me, sacred beyond me,  be in harmony with me.<br>  Sacred with me, sacred beyond me,  be in harmony with me.<br>  Need to boost the signal and the brothers should get them home.<br>  Captain, shall I execute?  Carry on.<br>  [chuckles.]<br>  Amplifying now.<br>  [Booker and Kyheem continue in alien language.]<br>  The locusts are communicating.<br> They're getting the message.<br>  Go.<br>  [both continue speaking in alien language.]<br>  [Burnham.]<br> You did it! Well done.<br>  Both of you.<br>  Oh, it was great! I went full manual.<br>  - No.<br> - You did not.<br>  Oh, hell, yeah, I did.<br> Ask Ryn.<br>  You gonna be all macho and impossible all week?  [Detmer.]<br> That's right.<br> Deal with me, universe!  [Owosekun.]<br> Deal with me, universe, while I deal with her.<br>  [Detmer.]<br> Took a sec for Ryn to chill out.<br>  Once he got Grudge in order, he told me where to aim, and it was boom.<br>  I'm as valuable as the cat.<br>  Oh.<br> Knock it off with the whole "sad Andorian" thing.<br> You're a hero.<br>  She'll be back.<br> Osyraa.<br>  And it will be bad next time.<br>  Well, we can be pretty bad, too, so  [chuckles.]<br>  You know  all I heard about when I was little was how deceitful the Federation was.<br>  How they'd turn on you.<br>  You want to scare an Andorian child,  tell them they're going to Federation summer camp.<br>  That's not a thing.<br>  I need to tell you something.<br> Something that will give you an advantage.<br>  They're running out of dilithium.<br> The Chain.<br>  That's why Osyraa wants me back.<br>  I'm the only one who knows.<br>  And now you do, too.<br>  [giggles.]<br> Lizard.<br>  So, this is home now?  - No.<br> Kwejian is home.<br> - [chuckles.]<br>  Feels good to hear you say that.<br>  This is where they're making a difference for planets like Kwejian.<br>  I like being around that.<br>  Kyheem, do you mind if Lito comes with me?  Oh, no, please.<br> Go on.<br>  I'm gonna show you something amazing.<br>  - The lizard guy? - Mm-hm.<br>  His name is Linus and you can peel off a part of his face if you want.<br>  Ew.<br> Fun.<br>  So, Book.<br>  Don't even.<br> It sounds stupid coming out your mouth.<br>  Oh.<br> [chuckles.]<br> I'm why it sounds stupid?  [laughs.]<br>  There's a story.<br>  Are you gonna tell me about it?  How about next time?  If it's sooner than 15 years, yeah.<br>  [chuckles.]<br>  Thank you.<br> You held everything together.<br>  You saved Kwejian.<br>  So, the Federation, it seems they can use  empathic perspective, yes?  - Yeah.<br> They can.<br> - Don't say "brother.<br>"  - It's corny.<br> - I wasn't going to.<br> [chuckles.]<br>  Later, brother.<br>  Burning the midnight oil?  Yeah, just wrapping up.<br>  Nothing more to do until their algorithm finishes.<br>  No.<br> Let them sleep.<br>  At that age, whatever they can get is golden.<br>  Gray stopped speaking to them.<br>  - Ouch.<br> - Yeah.<br>  But even so, their work has been nothing short of stellar.<br>  They're  - really something.<br> - They're also awake.<br>  [chuckles.]<br>  I'm sorry.<br>  No, it's okay.<br>  When I sleep like this, my back kills.<br>  Well, you've gotta take better care of yourself.<br>  No need to fuss over them, Hugh.<br>  - They're not a child.<br> - Technically, they are a child.<br>  - Are we done for today? - We are.<br>  Okay.<br>  - Later, gents.<br> - [Culber.]<br> Good night.<br>  Pride.<br> It suits you.<br>  Is that your professional opinion?  Board-certified.<br>  Your nephew is hilarious.<br> [chuckles.]<br>  - Runs in the family.<br> - Mm-hm.<br>  My ship looks like it was hit with a dozen photon torpedoes.<br>  Actually, it was eight.<br>  - Oh, good.<br> - [chuckles.]<br>  Did you mean what you said to Kyheem?  You get what we're doing out here?  Discovery saved my planet from something that had us for a century.<br>  What you've done  what the Federation's done, for us, for other worlds like ours  I want in.<br>  I want what means something.<br>  Well, you'll have to speak to Captain Saru  and clarify your intentions aboard his starship.<br>  - Aye, aye.<br> One "aye," yeah.<br> - One "aye.<br>"  I know.<br>  I'll get started fixing your ship.<br>  I really liked seeing Kwejian.<br>  I really liked being there with you.<br>  [woman speaking over PA indistinctly.]<br>  [theme music playing.]<br>     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e07" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e09" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

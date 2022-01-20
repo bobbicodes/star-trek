@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s04e06 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s04e06 - Stormy Weather Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s04e06 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e06"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s04e06 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e06" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=4">Season 4</a>&nbsp;&nbsp;>&nbsp;&nbsp;Stormy Weather</div>
+
+            <h1>Star Trek: Discovery (2017) s04e06 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Stormy Weather</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1 Previously on Star Trek: Discovery  STAMETS: The DMA's gone  from the Venari sector.<br>  It just It disappeared.<br>  The only logical explanation is, someone created it.<br>  I want to create a working model  of the DMA controller.<br>  That's how it works.<br>  It's creating the subspace rupture, too.<br>  BURNHAM: The DMA is now on a path towards the Radvek asteroid belt.<br>  We will get everyone out.<br>  We need to do more, Michael.<br>  We need to find out who's behind this and stop them.<br>  We will.<br>  ADIRA: What are you gonna do today?  Other than the zhian'tal exercises.<br>  Mind and body connection is everything,  especially when you have a new body.<br>  This colony is in path of a gravitational anomaly.<br>  We are here to evacuate you.<br>  Unlike the others, I do belong here.<br>  I took a life.<br>  Among the things I stole was the family's lalogi orb.<br>  - I'm staying.<br> - We have to save him.<br>  - It's his choice to make.<br> - This is wrong.<br>  ZORA: It can be painful to weigh duty against compassion.<br>  - You feel emotions? - It is a recent development.<br>  I believe this may belong to you.<br>    BURNHAM: I've been thinking a lot about family.<br>  How the past is still so much of the present.<br>  How even when someone is gone,  we remain connected to them.<br>  Our memories,  our feelings.<br>  It's like they're still here with us in some way.<br>  It's comforting, you know?  BOOK: It can be.<br>  That's impressive.<br>  I was inspired by the lalogi orb.<br>  The thing Felix gave you.<br>  Book.<br>  Oh, we've talked about it enough.<br>  It was your call, not mine.<br>  Today would have been my dad's birthday.<br>  I know you two weren't close.<br>  Yeah.<br> I'd never put his face  on a family tree, that's for sure.<br>  Anyway, you heard from the admiral yet?  (SIGHS)  We're going into the subspace rift  left behind by the DMA.<br>  - Hmm? - 1100 hours.<br>  Right.<br>  He said that's-that's it for now.<br>  We're missing opportunities.<br>  You can keep reaching out to your courier contacts.<br>  Whoever created the DMA  is someone the Federation's never encountered.<br>  We need to jump outside the Federation space.<br>  Talk to them.<br>  Come on, they-they might have leads.<br>  Right now we have a crime scene,  and we have to get there while the evidence is fresh.<br>  - I know, but - The DMA must have left  something behind in that rift.<br>  And particle analysis will tell us what it is  and where it came from, and where leads to who.<br>  Stamets is confident.<br> So is Tarka.<br>  I hope to hell they're right.<br>  (CHIMES)  ZORA: Captain, Mr.<br> Saru is ready for you.<br>  BURNHAM: We'll find who did this.<br>  (MEOWS)  We'll figure it out, girl.<br>  We are closing on the subspace rift, Captain.<br>  Uh, in reviewing Starfleet records of similar encounters,  it appears we can anticipate some interference.<br>  Uh, Enterprise noted heated plasma.<br>  Voyager charted ionized-particle eddies.<br>  - So, it'll be bumpy.<br> - Mm.<br>  Our warp drive will need to remain off-line.<br>  And as Commander Stamets is uncertain  of the rift's impact on the mycelial network,  uh, it is not prudent for us to jump in, either.<br>  (CHUCKLES): Bumpy and slow.<br> Got it.<br>  Oh, nothing we cannot handle, I'm sure.<br>  The crew's spirits are high.<br>  Good.<br>  - And yours? - Oh,  I am relieved that we may soon understand  the origins of the DMA.<br>  BURNHAM: You and me both.<br> Bridge.<br>  (DOOR WHOOSHES SHUT)  Zora, call all bridge personnel to stations please.<br>  ZORA: Thank you, Captain.<br>  It's only polite.<br>  Did you ?  We ran level ten diagnostics.<br> Twice.<br>  There's no irregularities.<br>  ZORA: All systems are operating  within the defined parameters, Mr.<br> Saru.<br>  It seems my emotional development  is an organic evolution,  yet I can tell the captain still has concerns.<br>  I understand, of course.<br>  We're in uncharted territory.<br>  There's a lot to consider.<br>  Carry on, Zora.<br>  (CHIMES)  ZORA: All crew, report to stations.<br>  MALE: Let's go.<br>  That mean the mission's approved?  Oh, it damn well better be.<br>  - I am so ready for answers.<br> - Here's hoping.<br>  - (CHIMES) - ZORA: Repeat, all crew,  report to stations.<br>  Oh.<br> Um,  okay.<br> Don't move any of the pieces till I get back.<br>  That ruins my plan to cheat.<br>  Go.<br> You don't want to be late  for your first bridge assignment.<br>  Well, it's not like an actual assignment.<br>  You know, I'm-I'm just filling in.<br>  I kind of feel bad for Linus,  spending all day under a heating lamp.<br>  - Poor guy.<br> Quit delaying.<br> Go.<br> - Okay.<br>  Um, and you'll be okay, right?  I'll keep busy.<br> You know me.<br> Go.<br>  One thing we know about the DMA  is that it tears the hell out of subspace.<br>  Our mission today  is to go to that most recent tear  and find any clues the DMA left behind.<br> Molecular compounds,  thermal radiation,  residual ions, industrial remnants.<br>  Anything that can lead us to whoever created it.<br>  Commander Detmer? Bring us in on impulse.<br>  Aye, Captain.<br>    (RUMBLING)  Status report?  Passing through the plasma barrier.<br>  Shields are heating up but holding at 100%.<br>  BURNHAM: Zora?  ZORA: All other systems are nominal.<br>  Commencing scans now.<br>  (RUMBLING STOPS)  Isn't it supposed to be bumpy?  This is, indeed, unexpected.<br>  Are we inside the rift?  - Should be.<br> - What do you mean, "should"?  DETMER: We passed through the barrier.<br> I  - I don't have any nav readings.<br> - OWOSEKUN: I'm not getting  any scan data at all.<br>  I don't understand it.<br>  Have sensors been damaged, Zora?  ZORA: No damage found.<br>  I am unable to determine why external sensors  aren't receiving input.<br>  Long-range comms are down, too.<br>  Owosekun, can you get us visuals?  Those are the visuals, Captain.<br>  That's it.<br> That's all there is.<br>  This is wholly inconsistent with the data  from other missions.<br>  Well, the subspace rifts they went into  weren't created by the DMA.<br>  Commander Bryce, what do you hear?  It's what I'm not hearing, Captain.<br>  Space is loud.<br> Stars, nebulae, planets.<br>  They all normally give off electromagnetic frequencies.<br>  - But this? - Convert it to audio,  put it on speaker.<br> All frequencies.<br>  Aye, Captain.<br>  So, there's just nothing?  Uh, I mean, it's scientifically impossible  for there to be nothing out there.<br>  There's definitely something.<br> We just have to assume  it's not registering on any of our sensors.<br>  Agreed, Ensign.<br> Book,  - you got a visual? - BOOK: Yeah.<br>  - Taking in the view.<br> - Are your sensors  - getting anything? - Nothing.<br>  I'll do some recon.<br>  Wait.<br> Let me send a DOT first.<br>  I'm powered up.<br>  Five minutes.<br>  - (GRUDGE PURRS) - She said five minutes.<br>  (MEOWS)  Commander Nilsson, launch a DOT, starboard bow,  - and put it on-screen.<br> - Aye, Captain.<br>  BURNHAM: Activate onboard camera.<br>  NILSSON: Aye, Captain.<br>  - Status report? - 4,000 meters out.<br>  Its scanners are active and reading, Captain.<br>  No data yet.<br>  OWOSEKUN: 5,000 meters out.<br>  BURNHAM: Run a full spectrum analysis.<br>  NILSSON: Nothing,  Captain.<br> Not in any spectrum.<br>  We should be getting a ton of data by now.<br>  6,000 meters out.<br>  Looks like we've got some interference in the signal.<br>  No.<br> Something's happening.<br>  Pull it back, Nilsson.<br> Now.<br>  It's not responding to commands.<br>  Book, are you seeing this?  Yeah.<br> It's not good.<br>  - Nilsson? - It's still not responding.<br>  (HIGH-PITCHED SQUEALING)  It sounds like it's  Screaming.<br>  BOOK: Michael?  I'm gonna find Paul.<br>  If I can't fly, I got to do something.<br>  BURNHAM: Yeah.<br> Good idea.<br>  We've lost the DOT's camera feed, Captain.<br>  Shut it off.<br>  - Do we know what happened? - NILSSON: No idea.<br>  It was just eaten.<br>  It-It's-it's possible the DMA has done something  to subspace itself.<br>  Turned it toxic.<br>  SARU: Then we must ensure that what happened to the DO  does not happen to us.<br>  BURNHAM: Mr.<br> Saru is right.<br>  We need answers.<br>  And with or without sensor data, we're gonna get them.<br>  Is that understood?  ALL: Aye, Captain.<br>  - Red alert.<br> - (ALARM BLARING)         (ORIGINAL STAR TREK THEME PLAYS)  BURNHAM: Ensign Tal was right.<br>  There is something out there.<br>  We may not be able to see it, but it has an edge.<br>  The DOT hit it.<br>  And that may be the DMA clue we've been looking for.<br>  We just have to figure out what it is.<br>  So let's get creative.<br>  Mr.<br> Saru?  Perhaps we might find a way  to see what our sensors cannot scan.<br>  Yes.<br> Commander Rhys,  prep a photonic flare.<br> Same trajectory as the DOT.<br>  - Aye, Captain.<br> - If you match the DOT's velocity,  I could chart the time differential.<br>  Good.<br> Ensign Tal?  Commander Stamets is standing by for analysis  once we have data of any kind.<br>  All right, then.<br> Light it up.<br>  3,000 meters.<br>  4,000 meters out.<br>  It took 10.<br>3 seconds for the DOT to disintegrate.<br>  9.<br>7 for the flare.<br>  So whatever's out there's getting closer.<br>  Closing in at a rate of 2.<br>9 meters per second.<br>  How long before it reaches us?  Approximately 33 minutes.<br>  Okay, so we need to slow it down,  keep it away from the ship.<br>  Extend shields outward,  - maximum reach.<br> - OWOSEKUN: Aye, Captain.<br>  But I'll need more power to sustain.<br>  Commander Stamets, if you're sitting  on any extra power, we're gonna need it.<br>  Uh, sure.<br> I think I've got some tucked away under my chair.<br>  I knew you would.<br>  Put me to work.<br> Whatever you need.<br>  Oh, great.<br> Um, help ramp down any nonessential functions  and redirect power since I don't actually even have a chair.<br>  Oh, and, um, thank you.<br>  I'm glad you're here.<br>  GRAY: Zora? What's going on?  Why did the captain call for red alert?  Is there anything I can do to help?  ZORA: As you aren't commissioned,  no action is required at this time.<br>  That's vague.<br> Come on,  there must be something you can tell me.<br>  A DOT-23 module and a photonic flare  were destroyed by something I am unable to identify.<br>  No offense, but is that normal?  No, it's not.<br>  Since arriving in this rift,  I've stopped receiving external sensor input.<br>  So, it's like you can't feel anything?  - You're numb.<br> - Not entirely.<br>  Internal sensors remain fully functional,  but for unknown reasons,  I can't prioritize normal data processes.<br>  At present, I am acutely aware that there is a .<br>08% variance  in shuttle bay climate control.<br>  Replicators on Deck 15 require service.<br>  Heat lamp sensors for Lieutenant Linus  - show an energy increase of two percent.<br> - Whoa.<br>  I get it.<br>  It's like if my brain started consciously reporting  every breath and heartbeat.<br>  (EXHALES) You must be so overwhelmed.<br>  I know it's not a normal computer response.<br>  I hope that doesn't worry you.<br>  I'm training to be a Guardian.<br>  That's all about mixing the scientific and spiritual.<br>  I know it's not exactly the same, but  I appreciate your efforts to understand.<br>  Have you tried resetting your routing system?  Maybe that'd help.<br>  It didn't.<br> Oxygen levels on mess hall, Deck Five,  are nominal.<br>  Was that a joke?  If it was funny, then yes.<br>  How about we play a game?  An odd request, given the circumstances.<br>  Was that a joke?  No.<br> But it might help clear your head.<br>  You know what I mean.<br>  If it wouldn't distract you from your other duties.<br>  It won't, but I fail to understand  how this can lead to a solution.<br>  I don't know either, but I've been playing this game  to help me assimilate into my new body.<br>  And maybe  if it helps you, too  then I'm not just a passenger  hanging out in the lounge all day.<br>  It'd be nice to feel useful.<br>  In that case, I would love to play.<br>  BURNHAM: Commander Stamets, we need more help with shields.<br>  STAMETS: That's it for power, Captain.<br>  Any more and I have to start shutting down  essential functions on one or more decks.<br>  Owosekun?  Extended shields down to 25%.<br>  Bring them in ten meters.<br> Adira, anything?  Uh, no, but, uh, I'm-I'm trying.<br>  We currently have no ability to complete our scientific mission,  and whatever is out there is getting closer  faster than we expected.<br>  I know.<br>  Abort the mission.<br>  We're getting out of here.<br>  Captain, we can't leave without answers.<br>  We'll find another way to get them.<br>  - Detmer, reverse course.<br> - DETMER: Aye, Captain.<br>  (COMPUTER BLIPPING)  I'm trying I should be able to re-chart  a course using galactic positioning,  but it's not working.<br>  SARU: This void.<br>  We have no reference points within it.<br>  If I go the wrong direction, I could take us deeper in.<br>  Zora, can you triangulate  a navigational reference using prior flight path data?  ZORA: No, Captain, I cannot.<br>  Commander Stamets.<br>  We need you to jump us out of here now.<br>  Jumping carries unknown risks, Captain.<br>  BURNHAM: So does staying.<br>  Have someone monitor systems during the jump.<br>  If the DMA caused this, any data we get will be valuable.<br>  Someone else might miss something.<br>  I'll make the jump.<br> You focus on the data.<br>  (STAMMERS) I, uh  I suppose now's as good a time as any to learn to delegate.<br>  BURNHAM: You ready, Book?  Ready.<br>  Black alert.<br>  (ALERT BLARING)  Jump.<br>  (WARBLING)  - (YELLS) - Abort! Abort!  (POWERING DOWN)  BURNHAM: What's happening?  He initiated the shutdown matrix.<br>  Commander Stamets, report!  STAMETS: It's Book!  He was hit by an energy surge of some kind.<br>  He seems okay.<br>  But  the mycelial network itself seems to be  Oh  Uh, we can't jump, Captain.<br>  We're stuck.<br>  (YELLS)  (MUFFLED): No, abort! Abort!  It's Book, he was hit  by an energy surge of some kind.<br>  He seems okay.<br>  Dad?  Tareckx.<br> Been a long time.<br>  No, no, no, no, no.<br>  That's not possible.<br>  You're dead.<br>  You don't say.<br>  Never came to pay your respects.<br>  Wasn't sure if you even knew.<br>  What the hell is this?  I was wondering the same thing.<br>  Our planet's gone and you're sitting on someone else's ship,  letting yourself be ordered around.<br>  Communing with mushrooms?  - What a waste of your gifts.<br> - That's enough.<br>  There's an enemy out there, son.<br>  You should be hunting it.<br>  This  this is not real.<br>  Hey, are you okay?  Yeah, did you see that?  Yeah, that was a hell of a surge!  It went right through you.<br> Let's get you to sickbay.<br>  - I'm fine.<br> I'm good.<br> - No, we'll let Hugh decide that.<br>  Come on.<br>  BURNHAM: Book, you okay?  He's stable.<br> All vitals normal.<br>  I saw my father, Michael.<br>  It was so real.<br>  I could smell the Tuli sap on his hands.<br>  A full sensory hallucination?  It looks like it.<br>  (SIGHS) First Leto and now him?  Am I ?  No.<br>  Leto was grief made manifest.<br>  This was a physiological response  to the energy surge you experienced.<br>  The average Kwejian has a cortical dream center  that fires 400 times per second in an active state.<br>  Your neurotransmitters are currently firing  at ten times that rate.<br>  And how long do they last?  These hallucinations.<br>  Well, it's hard to say, but we're already seeing  small percentage decreases in the firing rate.<br>  I expect the trend to continue.<br>  What he's saying is  you'll be all right eventually.<br>  We know what happened, Paul?  Uh, yes and no, so  this is what the mycelial network normally looks like.<br>  And this  is the network here in the void.<br>  It's why I didn't want us jumping at all.<br>  When Book tried, it was as if he  touched a live electrical wire.<br>  If we still used wires.<br>  And these holes are caused by the same thing that's  - eating though our shields, I assume.<br> - Yeah.<br>  - So what now? - Now, science.<br>  Whatever energy passed  through Book during the jump left trace amounts in his brain.<br>  And once we finish analyzing it,  we should know something about the void.<br>  What-what caused it, where it came from,  maybe even how to get out of it.<br>  Your turn, Zora.<br>  - (BLIPPING) - Nice.<br>  And cool name, by the way.<br>  ZORA: Thank you.<br>  In some of the cultures I've encountered  on Earth Ba'ku and Ni'Var  the name means "dawn" or "new day".<br>  I thought it fitting, all things considered.<br>  I chose my name, too.<br>  Not because of the meaning.<br>  I just liked it.<br>  I like it as well.<br>  This isn't just a game, is it?  What makes you say that?  I find that I'm less overwhelmed since we began.<br>  83% of my low-priority processes have returned to the background.<br>  I hoped that would happen.<br>  - Why is this game ? - (BLIPS)  Wait.<br>  Is everything okay?  Now that my systems aren't overwhelmed anymore,  I can detect something unusual on the exterior hull of Deck 17.<br>  You should tell the captain.<br>  I don't have sufficient data I can't identify the cause.<br>  Zora, you need to tell her.<br>  How are shields holding? I had to bring them in closer.<br>  They're right at the hull now.<br>  ZORA: Captain, there may be an issue  with the aft corridor on Deck 17.<br>  What kind of issue?  Internal sensors are engaging.<br>  Pressure is fluctuating rapidly.<br>  Decreasing 7.<br>5% per second.<br>  Bryce, who do we have in the area?  Dr.<br> Pollard's on her way to check in on Linus.<br>  Have her get eyes on this first.<br>  I'm nearly there.<br> Stand by.<br>  - (CREW CLAMORING) - Get out!  - Go! Go! Go! - CORTEZ: I'm almost done!  BURNHAM: What's happening, Dr.<br> Pollard?  Go! We have a hull breach!  - Cortez, you need to get out of here! - I got to fix it!  - Or it'll blow! - ZORA: Attention  automated containment field activating  - in three, two - Cortez!  - Beam out! -  one.<br>  (SCREAMS)  (ALARM SOUNDING)  Dr.<br> Pollard, did he get out?  No.<br>  (SIGHS)  - (ALARM STOPS) - What happened?  ZORA: The alarm isn't necessary anymore.<br>  The hull was compromised.<br>  I had to lower an emergency containment field.<br>  Ensign Cortez was trapped.<br>  He didn't survive.<br>  It's hard.<br>  Wanting to help and  not being able to do anything.<br>  But if you hadn't stepped in sooner,  a lot more of us might be dead right now.<br>  - Maybe.<br> - Wait.<br>  You said you felt something on the exterior of the hull, right?  That's correct.<br>  Then your external sensors are getting some kind of input.<br>  I have to tell them!  BRYCE: I'm getting reports Decks 12 through 15  have multiple areas that are thinning.<br>  Have personnel moved and seal those decks.<br>  And reroute power to bolster containment fields and shields.<br>  - Aye, Captain.<br> - Commander Owosekun,  how much longer will shields hold?  Approximately 21 minutes until hull damage is critical.<br>  BURNHAM: We need more options.<br>  Captain.<br> It's Zora.<br>  I think she can help us get out of here.<br>  - I'm listening.<br> Make it fast.<br> - There's a Trill game  that Guardians teach to hosts when they first join  to help with sensory confusion.<br>  Where does Zora come in?  Her internal sensors were overwhelming her.<br>  You mean that metaphorically, right?  No, it was an emotional response.<br>  ZORA: I was having trouble focusing.<br>  I asked if she'd run a full diagnostic; she had.<br>  I tested to see if she'd respond to a direct request.<br>  And she did.<br>  I asked her to play the game with me, and it helped.<br>  She registered the problem on Deck 17  before it reached the hull.<br>  Zora, can you explain this?  - That's Zora? - ZORA: It is.<br>  Hello.<br> To answer your question, Captain,  at first I couldn't register any external input.<br>  The game helped me settle and focus.<br>  I was then able to detect micro-variances  in my external sensors, as on the hull.<br>  Greater focus creates greater awareness.<br>  Captain,  if we could generate a signal  that can penetrate the void, then  Then she should be able to follow it  and lead us out of here.<br>  Nice work, Gray.<br>  ZORA: I apologize, Captain.<br>  But I don't believe that I can do that.<br>  Start brainstorming ways we can get a signal through the void.<br>  CREW: Aye, Captain.<br>  Gray, you're with me.<br>  Zora, please join us in the ready room.<br>  TARECKX: You're just going to sit there?  How obedient you've become.<br>  You never used to listen to me.<br>  The couriers could have answers.<br>  Yet here you are.<br>  You're not here.<br>  You should take off that amulet.<br>  A coward has no place wearing the Ikhu Zhen.<br>  This is just me.<br>  It's my subconscious.<br>  - It's not possible.<br> - This from the man who once  believed that even Tranceworms had spirits.<br>  (CHUCKLES): I remember you crying to me.<br>  "Father, I can feel  their pain".<br>  What about the pain of your people  - as they were murdered? - It wasn't my fault.<br>  Look at me! Look at me.<br>  Blood for blood.<br>  Life for a life.<br> That is the Kwejian hunter's creed.<br>  I know the oath!  I've felt each of their deaths a thousand times over.<br>  And I'll avenge them the second I know who's responsible.<br>  You'd already know if you'd followed your gut.<br>  Instead you wait and do nothing.<br>  Because she tells you to.<br>  Because you love her?  Yeah.<br>  I do.<br>  Her agenda is not your agenda.<br>  Anger drives you, as it did me.<br>  It's time to stop denying that, Tareckx.<br>  I am nothing like you.<br>  And that is not my name anymore.<br>  RHYS: We could fire photon torpedoes, a series of them.<br>  Carve a path for a signal to get through.<br>  That wouldn't be any more effective  than the DOT or the flares.<br>  I could just pick a direction.<br>  If we're lucky, we're near an edge.<br>  Oh, that's just if we're lucky.<br>  (RUMBLING)  Maybe we should run another simulation.<br>  SARU: Let us continue at stations, please.<br>  OWOSEKUN: Mr.<br> Saru.<br>  Containment fields are weakening in Engineering.<br>  Permission to take a team to reinforce  the fields with programmable-matter blast doors.<br>  - Request denied.<br> - We can't let anyone else die, sir.<br>  The risks outweigh any possible benefits.<br>  I can do this if you let me.<br>  I'll go by myself if you think it's too risky  - for the team.<br> - This is not a debate, Commander.<br>  We need you at your station, and that is an order.<br>  Yes, sir.<br>  Commander Nilsson,  please dispatch a team of DOTs to the area.<br>  Aye, sir.<br>  The uncertainty we are facing  is deeply unsettling.<br>  But I believe we can meet this moment  and do what needs to be done.<br>  Now, let us do what we can from here.<br>  CREW: Aye, Mr.<br> Saru.<br>  ZORA: I cannot help, Captain.<br>  I am afraid of whatever is out there.<br>  I failed you.<br>  It is my fault that Ensign Cortez was lost.<br>  You're feeling guilt.<br>  I also fear you've stopped trusting me, Captain.<br>  Have you?  That doesn't matter right now.<br>  We need you to get through this.<br>  And what you're feeling is normal in a dangerous situation.<br>  Overwhelm and guilt when someone is harmed.<br>  But you are not to blame.<br>  I disagree, Captain.<br>  When I was ten,  my mother and father were attacked.<br>  I hid in a cabinet, listening.<br>  I lost them.<br>  And I blamed myself for years.<br>  You were a child.<br>  There was nothing you could have done.<br>  I am a sentient organism living inside  of a supercomputer capable of running countless  probabilistic scenarios.<br>  You're talking about logic.<br>  I'm talking about feelings.<br>  It can be very uncomfortable to accept the truth  that some things are beyond our control.<br>  But we have to.<br>  Otherwise  we run into the same walls  over and over and over again.<br>  Or we freeze up.<br>  Either way, we don't move forward.<br>  Understand?  ZORA: I do.<br>  And when you give me a signal, I'll follow it.<br>  For all of us.<br>  We're counting on it, Zora.<br>  POLLARD: Captain, we need you in sickbay.<br> It's urgent.<br>  We've isolated the energy particles that passed  through Book during the jump.<br>  At the rate they're decaying, the hallucinatory effects  should disappear in about an hour, maybe less.<br>  Best news I've heard all day.<br>  And it gets better because in this case  your symptoms turn out to be our solution.<br>  These particles in Book's brain  are the DMA clue we've been looking for.<br>  And they're only found in one place.<br>  The galactic barrier.<br>  But we're nowhere near the edge of the galaxy.<br>  - Exactly.<br> - So, if the DMA brought these  along for the ride, then it must have come  from outside our galaxy.<br>  As did the species who made it.<br>  All this time, I thought it'd be an enemy that we'd know.<br>  Yeah.<br>  These particles, were they created by the void?  I don't think so.<br> I'm guessing  this mess is a byproduct of whatever device  powering the DMA is doing to space itself.<br>  But assuming the DMA is from outside our galaxy,  it should have deposited more particles  at the point where it punched in.<br>  So, if we locate the greatest concentration of particles,  we can use that puncture point to get out.<br>  We found a way out.<br>  There's an extragalactic energy particle.<br>  Stamets sent you the signature.<br>  Now calculate what type of signal  can possibly reach it at distance.<br>  How are we doing on shields?  About ten minutes left, Captain.<br>  Captain, will Zora be able to assist us?  She will.<br>  Got it.<br> These particles will resonate  at 218 kilohertz exactly.<br>  That's sonar frequency.<br>  Sonar?  Sound navigation and ranging.<br>  It's an old 20th century echolocation technology.<br>  Basically, we hit the particles with electromagnetic energy  at that frequency  translate the response into an audible ping  - And then follow that sound out.<br> - That's the idea.<br>  Gray, I want you here on the bridge for this.<br>  Zora, send a pulse  at 218 kilohertz.<br>  Let's see if this works.<br>  ZORA: Executing.<br>  (FREQUENCY ECHOES)  Zora, can you follow that to the highest concentration  - of particles? - Yes, I can.<br>  Captain, based on the time it took  for the pulse to return to the ship,  we're gonna lose shields before we get out.<br>  And once we hit the plasma barrier,  the friction  Will heat the ship beyond safe levels.<br>  So this won't work.<br>  Unless  What if everyone goes into the pattern buffer?  Is that even possible for the period of time required?  ZORA: There are Starfleet records documenting  long-term survival in a pattern buffer.<br>  The risks aren't insignificant.<br>  Meaning we could all die.<br>  Well, if the alternative  is being slowly eaten by the void  It would seem that your suggestion is  our best option, Captain, all things considered.<br>  Zora, prepare the pattern buffer.<br>  Yes, Captain.<br>  BURNHAM: I'll be right here with you.<br>  A captain always stays with her ship.<br>  I'll appreciate the company.<br>  Commander Bryce,  open a shipwide channel, please.<br>  (CHIMES)  All personnel, prepare to transport  into the pattern buffer.<br>  Please do so in groups.<br> No one should go into this alone.<br>  I'll stay here on the bridge to monitor systems.<br>  I will bring you out once we have safely exited the rift.<br>  Thank you all for your courage.<br>  And your trust.<br>  See you on the other side.<br>  Zora, prepare to shut down life support on my order.<br>  ZORA: Yes, Captain.<br>  You did great today.<br>  You, too, badass.<br>  Hey, Zora?  You've got this.<br>  Thank you, Gray.<br>  Mr.<br> Saru, before we go,  I owe you an apology.<br>  When I was younger, my best friend got sick.<br>  She needed more help than our community's healers could give.<br>  I wanted to do something, but there was nothing to be done.<br>  And in the end,  all I could do was watch her die.<br>  I felt powerless.<br>  You bore witness, Commander.<br>  That is something.<br>  And I thank you for sharing her story with me.<br>  Shall we?  Come on, girl.<br>  Let's have an adventure.<br>  Nice ship.<br>  The wall panels.<br>  I see you tried to simulate the wood of the Tuli tree.<br>  Classy.<br>  Listen, I know why you hated me.<br>  I hunted creatures our people considered sacred.<br>  But I didn't choose that path.<br>  The Emerald Chain forced me to hunt them.<br>  To pay for their protection.<br>  I couldn't fight back.<br>  I lost you because I was weak.<br>  Now I see that same weakness in you.<br>  It's not weakness to trust someone you love, Dad.<br>  It's strength.<br>  Even still.<br>  She will pick Starfleet over you,  over Kwejian, every time.<br>  And one day  you'll be the one who has to choose.<br>  I don't know if this is actually you.<br>  But I'm gonna choose to believe it is.<br>  Rather than some part of my subconscious.<br>  Because if spirits do go on,  that means Leto,  Kyheem,  everyone else I've lost  they're not gone after all.<br>  Not really.<br>  Goodbye, Dad.<br>  And happy birthday.<br>  Ready?  ZORA: Warning, life support termination imminent.<br>  - Hey.<br> - Hey.<br>  You all right?  - Yeah, you? - Yeah.<br>  Uh, I just needed to, um  see you before  I'm glad.<br>  - I know things have been a little rough lately.<br> - Yeah.<br>  - I love you, Michael.<br> - I love you, too.<br>  (GRUDGE MEOWS)  Yeah, I think she's finally warming up to you.<br>  Yeah, I think we're tight now.<br>  I'll see you soon.<br>  Be safe.<br>    Zora?  ZORA: I'm here, Captain.<br>  Put the signal on speaker, please.<br>  (PINGING)  Should I turn off life support now?  Yes.<br>  Proceed on impulse.<br>  Aye, Captain.<br>  Let's do this.<br>  (PINGING)  Zora, is there interference?  ZORA: No, Captain.<br>  Then what's happening?  Are we able to follow the signal out?  It is increasingly difficult to discern it.<br>  There are 287 rapidly expanding pressure leaks,  hull breaches on Decks 15 and 16,  the replicator on Deck Five will fail in three minutes  Zora.<br>  Focus.<br>  You can do this.<br>  I'm afraid, Captain.<br>  I am, too.<br>  I've been trying to play Gray's game  to quiet the distractions.<br>  It's not working anymore.<br>  It's not about the game.<br>  It never was.<br>  It was you.<br>  You have control over your own processes.<br>  Okay? You just need to focus.<br>  You said one has to accept emotions  but also move forward.<br>  May I ask you how you do that when you're afraid?  I make decisions.<br>  I try to use the fear.<br>  Tell myself it'll make me stronger.<br>  Emotions we feel, they can shape us.<br>  Losing my parents  I wouldn't wish that on anyone, but it made me who I am.<br>  We are entering the plasma barrier.<br>  BURNHAM: I understand.<br>  Let's keep talking.<br>  ZORA: You believe your experience with suffering  has made you stronger and more empathetic.<br>  Yes.<br>  And I believe what you're feeling now  will make you stronger, too.<br>  - (GRUNTS) - Multiple systems  are failing, Captain.<br>  We're losing a large section of the hull.<br>  They're a part of me.<br> I feel them dying.<br>  (GRUNTS) You can do this.<br>  You can do this, Zora.<br> Hang on.<br>  Status report?  We've lost shields.<br>  Captain, the temperature on the bridge  will soon exceed EV suit safety parameters.<br>  (GROANS) Zora.<br>  You'll have to be the one to free the crew  from the pattern buffer.<br>  Do you understand what I'm asking you?  Yes, Captain.<br>  When it's safe.<br> (GASPS SOFTLY)  (STRAINING): Free them when it's safe.<br>  I will.<br> I care for them very much.<br>  I won't let them down.<br>  I believe you.<br>  (BREATHING SHAKILY)  And, Zora, I do trust you.<br>  We'll exit the plasma barrier in four minutes.<br>  Are you in physical distress, Captain?  I think I could use a little distraction right now.<br>  I can sing you a song.<br>  A song?  (GRUNTS) Sure, Zora.<br>  I'd love a song.<br>  Don't know why   There's no sun up in the sky   Stormy weather   Since my man and I   Ain't together   Keeps rainin' all the time   Life is bare   Gloom and misery everywhere   Stormy weather   And I can't get myself together   I'm weary all the time.<br>   CULBER: Captain?  Captain?  Are you with us?  Hey.<br> Welcome back.<br>  (EXHALES)  (GRUNTS SOFTLY) You made it.<br>  BOOK: Mm-hmm.<br>  Did everyone?  I am pleased to report that all crew members made it safely  out of the pattern buffer.<br>  ZORA: Well done, Captain.<br>  You, too, Zora.<br>  (INHALES)  (CHUCKLES)  (WHISPERS): Come here.<br>  (BOTH CHUCKLE)  Programmable matter is a unique marvel.<br>  To enable repairs so quickly  and with such finesse  Something weighs on your mind.<br>  Whoever's behind the DMA is from outside our galaxy.<br>  How do we even find them?  Commander Stamets believes  that further analysis of the energy particles  will allow us to determine their coordinates.<br>  My father had so much anger in him.<br>  I told myself I'd never be like that.<br>  Maybe I am.<br>  All I want to do is destroy them.<br>  (EXHALES)  I understand.<br>  The Ba'ul culled my people  for centuries.<br>  My parents died at their hands.<br>  Now I sit across from them at the Kaminar council.<br>  I still feel rage.<br>  But you seem so balanced.<br>  So calm.<br> I  We are both justified in our anger.<br>  Allowing it to be our focus, however,  only prevents us from achieving  those things which serve the greater good.<br>  It is a struggle, yes.<br>  But a worthy one.<br>  ZORA: It appears you've nearly finished.<br>  What do you think?  Past, present and future as one.<br>  It's a powerful image of hope and connection.<br>  A fitting way to end this day.<br>  Yeah.<br>  Yeah, I think so, too.<br>  I've witnessed many examples of such connectedness,  but I've never before experienced it myself.<br>  I'm glad you did today.<br>  I'd like to create a tree of my own if you don't mind.<br>  Of course.<br>    It's beautiful.<br>  I hope the crew would agree.<br>  (CHUCKLES SOFTLY)  I think they will.<br>  This is different,  but it's good.<br>  It's special.<br>  I'm so glad you're with us, Zora.<br>  As am I, Captain.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e05" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s04e07" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

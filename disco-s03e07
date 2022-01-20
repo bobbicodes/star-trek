@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Discovery (2017) s03e07 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Discovery (2017) s03e07 - Unification III Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Discovery (2017) s03e07 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e07"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Discovery (2017) s03e07 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e07" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-discovery-2017&season=3">Season 3</a>&nbsp;&nbsp;>&nbsp;&nbsp;Unification III</div>
+
+            <h1>Star Trek: Discovery (2017) s03e07 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Unification III</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			 Previously on Star Trek: Discovery  Hey, Michael, I was on my way to the Bajoran exchange  when this guy sitting next to me  and I think his black box is one of the ones you're looking for.<br>  It's on Hunhau, Emerald Chain territory.<br>  - I won't be long.<br> - This was three weeks ago.<br>  If Book found a third black box, and it shows the same variance,  that means the Burn didn't happen all at once.<br>  We have got to get to Hunhau.<br>  - At the moment, we cannot.<br> - Yes, sir.<br>  You're the only person on this ship who'd say yes  to going on an unsanctioned mission.<br>  Are you in or out? Georgiou?  You had me at "unsanctioned mission".<br>  The spore drive's new and improved.<br>  I redesigned it so you won't have to use those shunts.<br>  Little gooey.<br>  Commander Burnham left to pursue a mission of her own,  against my direct orders.<br>  Sir, you know, Michael is one of the people that I love  most in this world, but she made a choice,  and now because of that, you don't have one.<br>  You have to tell the admiral.<br>  That is astute, Ensign.<br>  Commander Burnham's mission  was 100% rogue.<br>  Until we solve the mystery of how the Burn happened,  and why, I believe the Federation  will never be, can never be, brought back together again.<br>  Well, we'll see what your intel brings, Commander.<br>  I will leave it up to you, Captain,  to determine the consequences of her insubordination.<br>  As of now,  you're relieved of your duty as my Number One.<br>  You will restrict yourself  to chief science officer duties only.<br>  Personal log supplemental.<br>  Even after a year of finding my way alone,  I truly believed I could find a way  to fit back into this uniform,  onto this ship.<br>  Now I'm not so sure.<br>  I've become someone new.<br>  Still just as committed to the Federation,  to my friends  but there's a distance between us now.<br>  I know I'll never be at peace until I solve the Burn.<br>  But I don't know if I can do it from Discovery.<br>  This may not be my home anymore.<br>  And I don't know what that means.<br>  Or where it will lead me.<br>  So, when are we getting out of here?  You really hate it.<br>  "Hate" is a strong word.<br>  But I'm also living  on the shuttle bay of a Federation starship  And no one knows what to make of me.<br>  Let's acknowledge this isn't a long-term situation.<br>  Where would we go?  Space.<br>  Hmm.<br> And what about ?  - The Burn? - Yeah.<br>  The biggest, most dangerous cosmic puzzle of all time?  Have you always been this way?  My brother,  he called me on it   how I take responsibility for everything.<br>  Sounds like we'd have gotten on, me and your brother.<br>  - Is that right? - Yeah.<br>  We'd bond over your endearing messianic complex.<br>  Hmm.<br> Says the man who risks his life to save helpless creatures.<br>  - Oh, yeah.<br> - Mm.<br>  Hey.<br>  - Saru, uh - Demoted me.<br>  Yeah.<br>  Hey, um,  you put me in a really horrible position with Saru,  and with the admiral when you went off on your own.<br>  It would've been so much worse if I had told you.<br>  My choice.<br> Not yours.<br>  I'm sorry, Tilly.<br>  This transition has been difficult for all of us.<br>  I had to go.<br>  I had to.<br>  The truth is   I don't know how I fit in anymore.<br>  Uh, one one-millionth of a microsecond.<br>  You were right.<br> Uh, that was the difference.<br>  The USS Yelchin, the first black box you found.<br>  When the Burn happened, it lost contact  at precisely 8-1-9-8-6 mark 2-7-2-1-3-9.<br>  Now, t-the Gav'Nor, a thousand light-years away, lost contact  one one-millionth of a microsecond later.<br>  What about the Giacconi? The data recorder Book found?  The computer's still working on it.<br>  But with three points of data, we can triangulate and pinpoint  - the source of the Burn.<br> - In two dimensions, maybe,  but in three-dimensional space, that still leaves an area  far too large to explore in several lifetimes,  so we have to narrow it down.<br>  Somehow we need to find more data.<br>  Well, I flagged this   when I was going through Federation databases.<br>  It's an experiment, SB-19.<br>  They spread sensors  across dozens of light-years of subspace.<br>  They had a front-seat view of the Burn.<br>  SB-19 reported no findings.<br>  So, either the sensors didn't record anything  Which isn't likely.<br>   or they didn't make their results public.<br>  In which case, the admiral might have access to it.<br>  He's not my biggest fan right now.<br>  This is bigger than you.<br> And bigger than him  It's bigger than everybody.<br> Right?  What if you hadn't made it back?  What would I do?  Analysis complete.<br>  The Giacconi.<br> It lost contact  seven one-millionths of a microsecond after the Yelchin.<br>  That confirms it.<br>  You're telling me these three ships  were all destroyed by the Burn at different times.<br>  The difference is in millionths of a microsecond,  but yes, there is a difference.<br>  Son of a bitch.<br>  Are you familiar with an experiment called SB-19?  We can't access it.<br>  Why?  It's Ni'Var.<br>  You'd know it by its former name: Vulcan.<br>  Vulcans the Vulcans changed their name?  Well, it's not just the Vulcans who live there now.<br>  They share the planet with the Romulans.<br>  The Romulans were considered enemies in our time.<br>  And for a long time after.<br>  Until Ambassador Spock brought them back.<br>  You see, history had forgot this in your time,  but the Vulcans and the Romulans  were two tribes of the same species  that went their separate ways.<br>  Your brother started the process of reunifying them.<br>  And he succeeded?  It took centuries after his death, but yes.<br>  But the Vulcans were always the first to share  their research with the Federation.<br>  Maybe in the past.<br>  But Ni'Var left the Federation nearly a hundred years ago.<br>  Vulcan was one of the founding members  of the Federation.<br>  They would never abandon it.<br>  Must have been the Romulans.<br>  No, the Romulans wanted to stay.<br>  Even before the Burn, the Federation  was running out of dilithium.<br>  All member planets were ordered  to put their best scientists towards finding a solution.<br>  Ni'Var's contribution  was SB-19,  a system to transport starships thousands of light-years  in an instant, much like your spore drive.<br>  What happened?  Well, it was new technology.<br>  Ni'Var scientists felt  ultimately that it was too dangerous,  so they asked permission to shutter the program.<br>  But it was the most promising  dilithium alternative of the day,  and so the Federation ordered them to proceed.<br>  They think they caused the Burn?  No.<br>  They think we forced them to cause the Burn.<br>  So they left the Federation  and kept the SB-19 data from us.<br>  Sir  we have proof the Burn had a different origin.<br>  I don't think any claims of proof  are gonna make any difference.<br>  They're convinced they're right.<br>  Well, perhaps, then, this new information  would be sufficient to reopen diplomatic relations.<br>  We have to tell them.<br>  There must be a way to get them to listen.<br>  Spock's sister.<br>  Sending Commander Burnham as our representative  - might tip the scales.<br> - Admiral, I must inform you,  Commander Burnham was reprimanded  for her insubordinate actions  and dismissed as my first officer.<br>  Insubordinate or not,  she's the only person who could open that door.<br>  - And now with this new information - Sir,  I don't think I can genuinely represent  the Federation right now.<br>  Find a way.<br>  Bring the diplomatic corps into the loop  and send a full report to Ni'Var, headline:  "Michael Burnham Is Coming".<br>  Listen to me, little brother.<br>  This is the last advice I'll ever be able to give you.<br>  There's a whole galaxy out there,  full of people who will reach for you.<br>  You have to let them.<br>  Reach for them.<br>  Ambassador Spock.<br>  Circa stardate 45825.<br>  Coordinates redacted,  retrieved from classified archive,  the personal files of Admiral Jean-Luc Picard.<br>  - Play.<br> - Closed minds have kept  these two worlds apart for centuries.<br>  We can either choose to live with that enmity,  or seek a way to change it.<br>  The union of the Vulcan and the Romulan people  will not be achieved by politics or by diplomacy.<br>  But it will be achieved.<br>  Like the first Vulcans, these people are struggling  through a new enlightenment.<br>  And it may take decades or even centuries  for them to reach it, but they will reach it.<br>  And I must help.<br>  You know, I never let myself  look back to find out who he became.<br>  You guys are chronic overachievers.<br>  How am I gonna do this, Book?  It's possible that a person who has a  complex relationship with the future  is the exact right person to do this job.<br>  I am sure you have heard  I dismissed Commander Burnham as my first officer.<br>  Must have been very difficult for you, sir.<br>  I would like you to serve  as my acting first officer until I find a permanent replacement.<br>  Uh, sir, what?  I  I never completed the Command Training Program.<br>  - I - You traveled through a wormhole  930 years into the future.<br>  I am confident in saying  your experience now exceeds the parameters  designed for the Command Training Program.<br>  Sir, I'm an ensign.<br> I  I would be responsible for lives.<br>  Part of leadership  is the acknowledgment that one is suited to it.<br>  Many members of our crew have struggled  with all that has changed.<br>  I have watched you rise to the occasion.<br>  I believe you can help them rise, as well.<br>  And I believe you will always put the needs of Starfleet  and the Federation ahead of your own wishes.<br>  Sir, are you asking me because I'm qualified  or because I'm compliant?  I'm asking  because I believe this is in the best interest of our ship.<br>  Take a day to think about it.<br>  Now let us jump to Ni'Var.<br>  Status report, please.<br>  Coordinates locked in.<br>  All hands ready to jump to Ni'Var.<br>  HQ confirms that Ni'Var is expecting us.<br>  Very well.<br>  The people of Ni'Var  have not been visited by a Federation starship  in nearly a century.<br>  Let us remind them who we are  and how important they are to us.<br>  Black Alert.<br>  Sir, we are in Lagrange One for Ni'Var,  formerly the planet Vulcan.<br>  Incoming transmission.<br>  Open the channel.<br>  I am T'Rina  president of Ni'Var.<br>  Greetings.<br>  I am Saru  of the USS Discovery.<br>  The Federation sent word you were en route  using a unique propulsion system.<br>  I presume that is how you evaded our long-range sensors?  I assure you, we were not attempting to evade.<br>  Discovery is equipped with a system  that allows us to travel across the mycelial network.<br>  We've been briefed regarding the special circumstances  of Discovery's crew.<br>  And your special passenger.<br>  Greetings, Madam President.<br>  I am Michael Burnham.<br>  Daughter of Sarek.<br>  Sister of Spock.<br>  It is an honor to greet you.<br>  I only wish Ambassador Spock could see  the fruits of his labor as you do now.<br>  I do believe he would find it all  fascinating.<br>  I would be pleased to speak further.<br>  But first we must dispense with the Federation's request  for data related to SB-19.<br>  We've found significant  new evidence related to the cause of the Burn.<br>  SB-19 can help us with that.<br>  SB-19 is an issue of great cultural  and political sensitivity here.<br>  Our inquiry is entirely scientific in nature.<br>  Even science cannot be separated  from cultural and political context.<br>  There are always implications, as Spock himself learned.<br>  Ni'Var continues to struggle  with the delicate balance of reunification,  which only became more complicated after the Burn.<br>  Any theory Commander Burnham is developing could tear open  old wounds and we cannot afford that at this time.<br>  Madam President  Permission to access SB-19 is denied.<br>  If you persist in requesting it,  I will have to be content with observing your spore drive  in action as you return to Federation headquarters.<br>  Madam President, do the people of Ni'Var  still honor any of the old ways?  Specifically in matters of scientific inquiry?  They do.<br>  Then as a graduate of the Vulcan Science Academy,  I respectfully invoke the T'Kal-in-ket.<br>  I will convene a Quorum.<br>  Commander?  The Vulcans have engaged in T'Kal-in-ket  since the time of Surak.<br>  The T'Kal-in-ket is a philosophical process  designed to unearth deep truths.<br>  It's credited as one of the engines  that lead to early Vulcan scientific advancement.<br>  And once invoked,  the request cannot be denied.<br>  So you gave her no choice.<br>  It's the only way we'll have a chance at that data.<br>  This could help us solve the Burn.<br>  What is the protocol?  I'll have to rigorously defend my hypothesis  before the Science Institute.<br>  I assume you are prepared?  Of course, sir.<br>  Welcome to Discovery.<br>  A special chamber has been prepared for the T'Kal-in-ket.<br>  Madam President, uh,  will you permit me to give you a tour of our vessel?  You can forego the niceties, Captain.<br>  Your commander has already diplomatically  forced me into a corner.<br>  Your shalankhkai will arrive momentarily.<br>  My "shalankhkai"?  An ancient Romulan designation.<br>  Vulcans know it as "sha-set".<br>  Ah, my advocate.<br>  What's new since your time is that only sisters  from the Qowat Milat order can serve as advocates.<br>  Forgive me, I'm not familiar with the Qowat Milat.<br>  The Qowat Milat are an ancient Romulan sect  that live and die by the precept of absolute candor.<br>  A necessary outgrowth of a Romulan culture  that trafficked in secrets.<br>  They were essential in helping our ancestors trust one another  during the early days of reunification.<br>  Today they enable us to have a healthy discourse on the planet.<br>  It's an ancient story, isn't it?  My people's fates are so intertwined,  and they are so similar in profound ways.<br>  Yet they do not trust each other.<br>  I apologize for forcing your hand.<br>  I meant no disrespect.<br>  You are brave.<br>  And technically a citizen of Ni'Var.<br>  Ultimately, you are within your rights.<br>  But I'm sure you are aware that a classic tactic  during T'Kal-in-ket  is to ruthlessly assail the credibility of the challenger.<br>  - I am aware.<br> - If you are not proved to be credible,  it will be known forever that Spock's sister  returned to us a dissembler.<br>  And that will have real and grave consequences.<br>  Do you understand?  Yes, ma'am.<br>  One Qowat Milat sister  has taken a particular interest in your case.<br>  I suspect you may have a particular interest  in her, as well.<br>  She'll be transporting in momentarily.<br>  Be honest.<br>  Especially to yourself.<br>  M-Mom?  Michael!  Oh, I hoped, but I never  I was informed your jump to the future  is not widely known even within Starfleet.<br>  Yeah, the admiral was concerned  that it could be polarizing, given the Temporal Accords.<br>  Yet there was no other way to explain to you  the presence of Spock's sister.<br>  I confess I am astonished at the risk taken by your crew.<br>  Duty called.<br>  I'm grateful for your courage.<br>  What do you make of this future?  Well, I am  troubled that  the Federation is so reduced.<br>  But I'm heartened that those who remain  are committed to its core values.<br>  You sound quite certain of that.<br>  I have seen their commitment  to member and non-member worlds alike.<br>  All personnel, Cargo Bay 3  Forgive me if I'm overstepping, but  I know the Federation feels  the loss of Ni'Var keenly.<br>  I do hope that our visit  and Commander Burnham's discussions with the Quorum  will open new channels of diplomacy.<br>  That would require far more than one visit, Captain.<br>  There had been numerous issues.<br>  SB-19 was merely the final blow.<br>  Well, I would like to hear about them  if I may.<br>  Did you ever make it to Terralysium?  No, landed right back on Essof Four.<br>  Wasn't pretty.<br>  Ah, colonists brought me to the Qowat Milat who healed me.<br>  Seems like you could use a bit of that yourself.<br>  What makes you say that?  Well, you seem  between places.<br>  This must be some of that  absolute candor I've heard about.<br>  Actually, "between places"  was my gentle way of saying "lost".<br>  Thought I'd ease you in.<br>  I'm not lost.<br>  Of course I'm happy to be back.<br> Um, but  But you learned to live  and maybe even like a different kind of life?  Yeah.<br>  When I landed here, the sisters helped me  learn how to just be where I am,  however unsettling it may be.<br>  I don't think I fit in here anymore.<br>  Hmm.<br> And it also sounds like that terrifies you.<br>  Not as much as the T'Kal-in-ket.<br>  Hmm.<br>  You bit off a lot this time.<br>  But I'm right.<br>  I know I'm right about this.<br>  The Burn.<br>  And with your help,  we can convince them  to give us the SB-19 data.<br>  You won't convince them.<br>  The sisters of the Qowat Milat bind themselves to lost causes.<br>  And right now,  there's no cause more lost than yours.<br>  No.<br> No, no, no.<br>  The whole point of the T'Kal-in-ket is to hear facts.<br>  And to use logic.<br>  They'll see.<br>  What they need to see.<br>  Just like the rest of us.<br>  N'Raj is a Romulan elder  who longs for greater self-governance.<br>  V'Kir is the young leader of a sect of Vulcan purists.<br>  Shira speaks for the Romulo-Vulcans  who are trying to forge a new path here.<br>  They all have their own truths, facts and logic  that are vying for air.<br>  Okay, then we appeal to V'Kir.<br>  A Vulcan purist must at least respond to logic.<br>  I'm here for you.<br>  I am your advocate.<br>  But I would be betraying my sacred duty  if I didn't tell you the truth.<br>  You're walking in there with a lot of blind spots.<br>  The scarcity of dilithium  was caused, in part, by the sheer size  of the Federation.<br>  To solve that problem,  it stretched member worlds beyond capacity and comfort.<br>  In its desire to serve the many,  the Federation ignored the needs of the few.<br>  Did your ancestors not coin the phrase  "The needs of the many outweigh the needs of the few"?  When the people of Vulcan welcomed the Romulans home,  we were forced to confront centuries of mistrust  and brutality on both sides.<br>  Over time and with much effort,  we earned the wisdom to know  when to let go of maxims and proverbs.<br>  Of course.<br>  But perhaps the Federation  has acquired a newfound wisdom of its own.<br>  It has been my experience  that we learn our greatest lessons  when we pay a heavy price.<br>  You must admit, the Federation has paid  most dearly.<br>  The T'Kal-in-ket is this way.<br>  Thank you, Quorum members  and Peers N'Raj, Shira and V'Kir.<br>  Thank you, Qowat Milat Sister Gabrielle.<br>  Our purpose here is the excavation of truth  tested by the scientific rigors of logic and fact.<br>  So let us begin with the facts.<br>  We've already received and reviewed  the data around your presentation and found it lacking.<br>  I move to dismiss and end this Quorum.<br>  But, Peer V'Kir, you have not fully heard me out.<br>  In deference to Ambassador Spock,  I prefer not to speak in such terms to you,  but I will point out the puerility in your findings.<br>  Ni'Var Science Institute has never disputed  that there's a source of the Burn.<br>  If that is your new theory,  there is no need to waste our time.<br>  But you think that the Burn started here.<br>  I have evidence that shows that cannot be true.<br>  How long has the Federation had evidence of this?  A great deal of suffering may have been avoided.<br>  I uncovered this last bit of evidence only days ago.<br>  Her findings are based on fractions of microseconds  on the Burn destruction time stamps of three starships.<br>  Across thousands of light-years,  those numbers could have been skewed for a host of reasons.<br>  We have accounted for subatomic lensing.<br>  Her minuscule sample size is inconsequential  compared to what the Ni'Var Science Institute  - has already collected.<br> - Then why won't you share that data?  The data is sensitive in nature.<br>  We cannot risk it falling into the wrong hands.<br>  We cannot risk how the Federation may use it.<br>  Carrying the weight of responsibility  for the Burn has created great hardship  for our planet.<br>  - If they can prove otherwise - Peer N'Raj,  given the unrest in your own province,  how can you dispute  that knowledge in the wrong hands  is a dangerous thing?  And Peer Shira,  how many additional resources  have the Vulcans spent quashing insurgencies  in the Romulo-Vulcan regions?  We cannot allow further unrest.<br>  Peer V'Kir, my brother would have  found it illogical to sacrifice knowledge to avoid risk.<br>  She invokes her own brother in an obvious effort  to win us to her cause through emotional appeal.<br>  This is a forum for logic, Commander Burnham.<br>  If there is even a chance  we aren't responsible for the Burn,  we must join the investigation and share our evidence.<br>  I would be willing to consider that.<br>  But I'm not convinced of your motives.<br>  I want the truth.<br> Nothing more.<br>  For whom?  For the Federation or yourself?  For all of us.<br>  This is immaterial and beyond the scope of this debate.<br>  I am the chair of this Quorum,  and I move to dismiss.<br>  Peer V'Kir has made a motion to dismiss.<br>  Is there consensus?  There is not.<br>  I'll abstain at this time.<br>  Three Quorum members, three opinions, no consensus.<br>  Let us take a moment to adjourn to be in our thoughts.<br>  None of these canisters  should be empty.<br>  Take them to the storage bay.<br> Now, please.<br>  - Aye, Commander.<br> - What's that look?  I need to talk to you.<br>  Saru asked me to be his acting first officer.<br>  So that would make you my superior officer?  Yeah.<br>  Position only.<br> Not in rank.<br>  Most of this crew has more experience  than me, so, like  So, I guess I'm just, like, wondering,  like, um, what you would think about   me taking it?  Honestly, the notion of taking orders from you is  deeply, deeply weird.<br>  Almost, uh, disturbing.<br>  What's your ETA on recalibrating for the jump back?  Tell Detmer to relax.<br> I'll be ready.<br>  - I need to - Yeah, no.<br>  I know.<br> Thank you.<br> Sorry.<br> Thanks.<br>  V'Kir made up his mind before he set foot on this ship.<br>  He believes he's protecting his homeworld.<br>  Engaging with you means moving closer to the Federation.<br>  He's weighing that, as well.<br> They all are.<br>  He claims to be a follower of the teachings of Spock.<br>  That means seeking the truth.<br>  He opened himself up and spoke the truth.<br>  As did I.<br> I'm being truthful.<br>  Not as truthful as you were with me  about whether or not you fit here.<br>  - That's personal.<br> - It's relevant.<br>  I thought you were supposed to be advocating for me.<br>  What do you think I am doing?  Because it's a lost cause? Right?  They are not the only audience in the room.<br>  You are Qowat Milat.<br>  And you are my mother.<br>  Tell them that you know me.<br>  Tell them I can be trusted.<br>  I'm sorry.<br>  Based on what you're not telling them,  you cannot be trusted.<br>  The T'Kal-in-ket resumes.<br>  I've  I have presented data that I believe shows that the Burn  was not caused by SB-19.<br>  However, it is true that   I cannot be sure.<br>  With humility, I ask for your help.<br>  And we are telling you  that the SB-19 data  definitively concludes that the Burn started here.<br>  Why don't you believe us?  Commander Burnham,  are you speaking on behalf of the Federation?  Yes.<br> I am.<br>  Then everything you say must be weighted with that fact.<br>  Ni'Var did not take the decision to leave the Federation lightly.<br>  You are asking us to trust  that they will not use our data unwisely,  that they will not resume the original experiment.<br>  That is a big ask.<br>  I know.<br>  But the Federation can be trusted.<br>  She's asking this Quorum to take  what she says on faith.<br>  She demands trust  while her own actions are cynical.<br>  I only seek to share information  that can better both of our futures.<br>  - And we should believe you.<br> - Yes.<br>  Because you are being honest when you say  the Federation has Ni'Var's best intentions at heart.<br>  Yes.<br>  But your own story  is completely incongruous to those assertions.<br>  - What? - Didn't you mutiny  against your friend and mentor Captain Philippa Georgiou  at the Battle of the Binary Stars  so you could deal with the Klingons as you saw fit?  Yes, but they  Didn't she ultimately die in that battle?  Yes.<br>  Less than 48 hours ago,  you were relieved of your duty as first officer again  for disobeying yet another direct command  from yet another captain.<br>  This is who the Federation sends us  after nearly a century.<br>  And just moments ago,  she shared her misgivings with me  about whether or not she even belongs here.<br>  - Isn't that true? - It's not that simple.<br>  It is.<br>  So, I will ask again.<br>  Why does this Quorum,  why does anyone have any reason  to trust you or the Federation?  Distinguished peers,  let me speak truth to you because she is unable to.<br>  She did not have the childhood I would have wished for her.<br>  I orphaned her.<br>  She may have grown up here, but she was never Vulcan.<br>  She is human through and through.<br>  And being human, she is governed by emotion  and a desire to insinuate herself  into certain matters of import  to fill an emotional void.<br>  I maintain that that void  has made her vulnerable to manipulation  at the hands of the Federation.<br>  I am not being manipulated.<br>  Then you knowingly admit  to letting them exploit the fact that you're Spock's sister?  I would never disrespect my brother.<br> You know that.<br>  Your methods and motives are clouded.<br>  Even to yourself.<br> You demanded this Quorum  without resolving to be honest.<br>  You thought that I would not fulfill my duty  to draw the truth from you because I'm your mother.<br>  But you're mistaken.<br>  Fine.<br>  There are things I didn't willingly share.<br>  But as my Qowat Milat advocate,  I demand that you confirm the truth.<br>  Didn't the Federation give me a mission  - and a purpose? - Yes.<br>  Didn't the Federation give me a place and a family?  - Yes.<br> - Didn't my crew and I risk our lives  and work together in the past  to save all sentient life in the universe?  That is true.<br>  And isn't it true that the only reason we are  all sitting here today  is because the Federation gave me  and the crew of the USS Discovery  the resources and the mandate  to solve the biggest, most troublesome problems in the galaxy?  Yes.<br>  Didn't you see all of us,  imperfect and flawed as we all are,  still live up to its best ideals?  Yes.<br> I did.<br>  So I may question and I may fear,  because the problems often seem insurmountable.<br>  But haven't we always risen to meet them?  Yes.<br>  So why don't you believe me when I say  that it is the greater good I am fighting for,  that I have always been fighting for?  Then why are you struggling with whether or not you belong here?  I don't know.<br>  Maybe because the stakes are so much higher now.<br>  Everything is different.<br>  And every day, there's this fear  this fear that I'm-I'm doing it wrong.<br>  Like I'll  destroy the people I love.<br>  I mean, what if I lose everything and everyone?  After all we've sacrificed.<br>  I know.<br>  Now she speaks truthfully.<br>  I thank you for your candor.<br>  Daughter.<br>  While I appreciate your sentiments,  her candor will not prevent another Burn.<br>  Our society only wants stability and peace.<br>  Peer V'Kir,  we are to determine if we're going to share  the SB-19 data based on scientific evidence.<br>  We are not here to decide what our society wants.<br>  Vulcans will choose whatever serves them best  and insist it is only logical.<br>  If the Vulcans won't share the data, then the Romulans will.<br>  My brothers.<br>  Peer N'Raj, this is not the way.<br>  What way do you know?  You sit in the middle, trying to be everything and nothing.<br>  Friends.<br>  This is not what my brother would have wanted.<br>  He revealed the connection between your cultures.<br>  I implore you don't lose that.<br>  Clearly more tenuous than we had realized.<br>  Perhaps it is already lost.<br>  No.<br>  No, it is not.<br>  Spock believed that, together,  you could create something bigger than yourselves.<br>  That's what this Quorum is.<br>  That's what Ni'Var is.<br>  That's what the Federation is.<br>  You represent the Federation,  yet you invoke Ambassador Spock,  who left it behind.<br>  Doesn't mean he didn't love it.<br>  And it doesn't mean he wouldn't have returned someday.<br>  How and if he understood love  is something we can never know.<br>  I think I might know.<br>  The Burn nearly destroyed the Federation.<br>  I will not add the peace of Ni'Var  to its list of casualties.<br>  I withdraw my request.<br>  What about the data you need?  I'll keep searching.<br>  And I'll send whatever I find to the Ni'Var Science Institute.<br>  You can do with it what you want.<br>  I ask you for nothing.<br>  But I am giving you my trust.<br>  As a member of Starfleet.<br>  Come in.<br>  I got where you were going back there,  but you could have picked a better time  to do some parenting.<br>  Is this what you were like as a 12-year-old?  You know, the first thing you told me,  the first thing after all this time   was that you didn't know  how you fit in with your family anymore.<br>  Michael, you don't need to choose  between the person you used to be and the person you are now.<br>  You shouldn't.<br>  Duty and joy go hand in hand.<br>  Duty is there  so you can continue to pursue your happiness.<br>  And joy is there  so that you have something real to fight for.<br>  So, what now?  I told you there was another audience.<br>  When President T'Rina saw you,  when you let her see you   she decided that trusting you  was worth the risk.<br>  And she also said  she wondered how much of the man Spock became  was the result of who his sister was.<br>  You're staying on Ni'Var, aren't you?  I can't be bound to you.<br>  You're not a lost cause.<br>  But I finally get a chance to say something to you  that I've wanted to say for a very long time.<br>  You always know where to find me.<br>  You wanted to see me?  You told them?  Of course I told them.<br>  I  I haven't given an answer yet.<br> I  Say yes.<br>  - But I - Say yes.<br>  Say yes.<br>  Say yes.<br>  Say yes!  Just say it.<br>  Really?  Why?  Because we know you.<br>  And, knowing you,  we'd all follow you anywhere.<br>  Saru made the right choice.<br>  Well, I'm  gonna need all of your help.<br>  Of course.<br>  But, uh, first, we'd like to present  a list of grievances and requests.<br>  I need two weeks' leave on Earth.<br>  Place called Hawaii.<br>  Yeah, the head in my 'fresher is leaking, so  I'd like quarters with a window.<br>  I'd like you to assign someone to help me analyze  all this SB-19 data.<br>  No.<br> You got it?  Oh! That's amazing!  I really wanted to tell you.<br>  Oh, did I miss the cool "say yes" part?  Sorry I'm late.<br>  I just wanted your blessing.<br>  No, you don't need that.<br>  How can I make it easier?  You lead me.<br>  Wait, you mean you're not leaving?  I'm here for the duration.<br>  Commander Burnham,  I want you to take that data to the science lab immediately.<br>  You are going to figure out what caused the Burn  and help to rebuild the Federation.<br>  Yes!  We all will.<br>  I'm glad, because I thought  you were going to ask for me to switch my bed  - to the other side of the room.<br> - Yeah.<br> No, that's happening.<br>  Oh.<br> Well, whatever you say, Number One.<br>  Thank you, Captain.<br>  This has been  quite different from what I expected.<br>  That was a compliment.<br>  Ah.<br>  If I may,  I understand the situation on Ni'Var is complex.<br>  Contemplating a future within the Federation  may be premature at this time.<br>  However,  I would very much appreciate the opportunity to continue  our conversation.<br>  As would I.<br>  In time.<br>  Thank you, Madam President.<br>  Live long and prosper, Captain Saru.<br>  - You got the data, didn't you? - I did.<br>  And you're not leaving, are you?  No.<br>  I belong here.<br>  With this crew.<br>  True believer, right?  What does that mean for you?  I don't know.<br>  You feel like home.<br>  So do you.<br>  This is where the Burn started.<br>  So, we have a point of origin.<br>  Something or someone is definitely sending it.<br>  Philippa?  That's weird, scientifically speaking.<br>  I'm about to do something, that might get us both killed.<br>  Did you mean what you said?  I want in.<br>  I can face anything.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e06" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s03e08" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-discovery-2017">Star Trek: Discovery (2017) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+
