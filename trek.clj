@@ -5,10 +5,13 @@
 (defn fetch-ep [s e]
   (slurp (str "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-discovery-2017&episode=s" s "e" e)))
 
+(defn picard [s e]
+  (slurp (str "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s" s "e" e)))
+
 (comment
-  (doseq [s ["04"]
+  (doseq [s ["01"]
           e ["01" "02" "03" "04" "05" "06" "07" "08" "09" "10" "11" "12" "13" "14" "15"]]
-    (spit (str "resources/disco/disco-s" s "e" e) (fetch-ep s e)))
+    (spit (str "resources/picard/picard-s" s "e" e) (picard s e)))
   )
 
 (defn disco-seq 
@@ -23,7 +26,7 @@
        (str/split #"<br>")))
 
 (comment
-  (doseq [line (disco-seq "04" "02")]
+  (doseq [line  (disco-seq "04" "07")]
     (prn line))
   )
 
