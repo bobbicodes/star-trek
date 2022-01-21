@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Picard (2020) s01e03 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Picard (2020) s01e03 - The End Is the Beginning Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Picard (2020) s01e03 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e03"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Picard (2020) s01e03 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e03" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;The End Is the Beginning</div>
+
+            <h1>Star Trek: Picard (2020) s01e03 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">The End Is the Beginning</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1  Previously on "Star Trek: Picard"  I want you to reinstate me.<br>  I will need a small reconnaissance ship  with a minimal crew.<br>  You think you could just waltz back in here and be entrusted  with taking men and women into space?  I have reason to believe that the Tal Shiar is merely a mask  worn by another far older cabal,  the Zhat Vash.<br>  Admiral Clancy just called.<br>  Jean-Luc Picard was trying to persuade her  to let him go after Dr.<br> Bruce Maddox.<br>  I want you to stay on mission.<br>  I've put my best man on it.<br>  Nice of you to knock.<br>  Commodore Oh  is quite distressed.<br>  I'm still confident that my approach,  which you approved, is the only sound approach.<br>  Are we allowed  to be sleeping together, or is that a secret?  Very much the latter.<br>  How likely is the Collective  to reestablish a link to your Borg?  Well, they're former Borg.<br>  And we're not releasing them,  we're reclaiming them.<br>  There's really no danger.<br>  - I have to go.<br> - Go? Where? Go how?  - You need help, you need protection.<br> - Yeah.<br>  You need someone who hates you  and has nothing to lose.<br>  Raffi, it's Jean-Luc.<br>  Please, don't hang up.<br>  I need a ship.<br>  There isn't anything you could say  that I want to hear.<br>  Secret Romulan assassins are operating on Earth.<br>  Goddamn it.<br>    They give you a hard time?  They start with the ships?  Straight out, just as you predicted.<br>  You were ready,  with the inventories from Beta Antares and Eridani A,  which shut them up.<br>  - So they hit you with manpower.<br> - Mm-hmm.<br>  But you had the reserve rosters  I got from Tanaka in personnel.<br>  I laid it all out.<br>  By using reserve duty officers and mothballed ships,  we could maintain the evacuation,  though to a severely reduced level.<br>  Not if we use synthetic labor.<br>  All synthetic life-forms are banned,  throughout the Federation, effective immediately.<br>  All active units are dismantled and  all research is halted.<br>  Well, that's crazy.<br>  It makes no sense.<br>  Synths don't just wake up one morning and turn homicidal.<br>  They said it was a fatal code error  in the operating system.<br>  That's bullshit.<br>  S  Something's off about this whole business, JL.<br>  It doesn't add up.<br>  I smell the Tal Shiar.<br>  The Tal Shiar.<br>  Raffi, why would the Romulans attack a fleet  built expressly to rescue them?  I can't answer that.<br>  Yet.<br>  But I do know that there are billions of people out there  in the Beta Quadrant that are in the burst radius of a supernova.<br>  It's not their fault that a bunch of A500s  went rogue on Mars.<br>  You're absolutely right.<br>  Mars is burning.<br>  Tens of thousands are dead.<br>  And nobody is thinking, nobody is listening.<br>  They're just reacting.<br>  Wait a minute.<br>  What happened in there, JL?  They said that our plan was "unfeasible".<br>  Half of them never wanted to rescue the Romulans  in the first place.<br>  And the rest are  are just frightened.<br>  I never dreamed that Starfleet would give in  to intolerance and fear.<br>  What happened in there?  I said that either  they accept the revised evacuation plan  or my resignation.<br>  Are you serious?  Well  what did they say?  Jean-Luc?  They accepted my resignation.<br>  I  Hell with them.<br>  We'll figure it out.<br> We'll find a way.<br>  To mount a multi-world evacuation  of tens of millions of Romulans without Starfleet's support?  There has to be something.<br>  Some last,  desperate, wild solution, JL.<br>  That's what you do.<br>  My resignation was  the last, desperate, wild solution.<br>  I never believed that they would  accept it.<br>  Of course you wouldn't.<br>  Now what?  You're gonna go back to your chÃ¢teau and  write your memoirs?  I can't do this without you, JL.<br>  Oh.<br>  The CNC wants to see me.<br>  That's great.<br>  That's great.<br>  You tender your resignation,  and my ass gets fired.<br>  Raffi?    A synthetic girl.<br>  There were two of them.<br>  One of them is already dead.<br>  I only hope that I'm in time to save the other one.<br>  Raffi,  I need a ship and a pilot,  and I have to find Bruce Maddox.<br>  Wow.<br>  I don't even know what to say.<br>  Yeah.<br> It's a lot to take in.<br>  I mean, the obvious way to go would be,  "You have some goddamn nerve".<br>  But I gather you you already heard that  from your buddy Clancy, right?  Pro tip for future reference.<br>  On your next top-secret,  unauthorized, synthetic girl rescue mission,  try not telling the CNC of Starfleet  exactly what you're planning on doing.<br>  I don't remember you being such a chatterbox back in the day.<br>  I mean  I saw your interview.<br>  An unmitigated disaster.<br>  Yeah.<br>  I saw you,  sitting back in your very fine chÃ¢teau.<br>  Those big oak beams,  heirloom furniture.<br>  Yeah, I-I'd show you around my estate,  but it's more of a hovel, so that would just be, you know,  humiliating.<br>  But my entire life for the past 14 years has been  one long slide into humiliation.<br>  And rage.<br>  Also a fair amount of snakeleaf-induced paranoia,  so some things never change.<br>  Mmm.<br>  Hmm.<br>  Might have been nice to hear from you  a time or two in there, JL, not because you think  I know an off-the-books pilot with an unregistered starship.<br>  Just  to say hi.<br>  See how I was doing.<br>  - I know.<br> I - Because I was not doing good.<br>  I lost my security clearance.<br>  I lost  Don't, Raffi.<br>  No, don't.<br> Just don't touch me.<br>  Raffi.<br>  Raffi.<br>    I really don't know what to say, Dr.<br> Asha.<br>  Your work here has always been excellent,  but speaking to a Nameless in his own language?  Outstanding.<br>  You taught me that even a few words  in the mother tongue can be soothing.<br>  Even in an unconscious state.<br>  There is no more despised people in the galaxy than the xBs.<br>  People either see us as property to be exploited  or as a hazard to be warehoused.<br>  Our hosts,  the Romulans, have a more expansive vision.<br>  They see us as both.<br>  I hate it.<br>  You're different.<br>  Thank you.<br>  I've decided to let you have your interview with Ramdha.<br>  Oh, my God, really?  You've been pestering me about it for a long time.<br>  After today, I'm inclined to grant your request.<br>  Tell me, why?  How much do you know about Ramdha  before she was assimilated?  Have you read her Romulan dossier?  Of course not.<br>  Wait, have you?  How did you manage that?  I just sort of asked to see it.<br>  Usually I find that if I ask people for help,  they're happy to give it.<br>  That has not been my experience.<br> In particular with Romulans.<br>  Ramdha was  the foremost expert on ancient Romulan myth.<br>  She wrote books about it.<br>  And this interest of hers links you to her work how?  There is ample evidence for the therapeutic utility  of a shared mythical framework.<br>  30 minutes.<br>  As an experiment.<br>  Then we'll see how that goes.<br>  It makes total sense that you're angry.<br>  I disappointed you.<br> I neglected you.<br>  And I wasn't there when you needed me.<br>  I'm truly sorry.<br>  I don't care.<br>  Raffi, there is a unit  of Tal Shiar synth hunters operating  on Earth, openly.<br>  That could not happen without Federation complicity.<br>  I'm listening.<br>  You always said there were Romulan-Federation connections  I didn't see.<br>  I was talking about Mars, JL.<br>  The Romulan rescue.<br>  Those aren't connections I just see,  like people see angels or-or, uh, ghosts.<br>  I have evidence.<br>  I have concrete evidence  that a high-ranking Starfleet official conspired  to allow the attack to go forward,  to put an end to the rescue mission.<br>  - Raffi - Which they opposed.<br>  Raffi, they had no reason to sabotage their own rescue.<br>  What do you think happens when there's a cover-up?  They conceal it.<br>  That's why I need your help.<br>  I need your mind.<br>  Your ability to see things others don't see.<br>  No.<br> No, no, no, no.<br>  I will not go down another rabbit hole with you, JL.<br>  - No, never again - Raffi  No.<br> Go.<br>  Get out of here, please.<br>  Please.<br>  I have a pilot for you.<br>  His name is Rios.<br>  And he'll be in touch.<br>  Rios.<br> Thank you.<br>  Now go.<br>    - Hi.<br> - Dr.<br> Jurati?  Commodore Oh, director of Starfleet Security.<br>  - Okay.<br> - I'd like to talk to you  about your two recent visits with Admiral Picard.<br>  All personnel  She's here to meet with Patient 4822 stroke 2.<br>  She'll need authorization.<br>  This unit is operated by the Reclamation Project.<br>  It is under the direct authority  of its executive director: me.<br>  Open up.<br>  All the disordered are Romulans?  The only Romulans ever assimilated, as far as I know.<br>  There she is.<br>  Hi.<br>  What?  - You're doing the research, aren't you? - No.<br>  I'm sending you everything that Daystrom had on Bruce Maddox.<br>  I don't want it.<br>  Carry on.<br>  Captain Rios?  Oh.<br> Hi.<br> Hello.<br>  Picard.<br>  Yes, sorry.<br> Of course you are.<br>  I'm afraid you might be too late.<br>  Right, then.<br>  Come on.<br>  So, what seems to be the problem?  Are you kidding me? Hey.<br>  Are you?  Chris Rios.<br> He's just an EMH.<br>  "Just".<br>  - I'm, uh - I know who you are.<br>  I read one of your books one time.<br>  What happened to you?  I didn't die.<br>  Medkit.<br>  Aguardiente.<br>  No, thanks.<br>  What you want to do is take  the giant hunk of tritanium shrapnel  out of the hole in my shoulder.<br>  That's just a guess.<br>  Please,  sit.<br>  -  - Toss it anywhere.<br>  So, where are we going, Admiral?  Raffi says you have no idea.<br>  - I'm working on it.<br> - When are we leaving?  Soon as possible.<br>  You breaking any laws or intending to?  I don't know.<br>  I'm not in the habit of consulting lawyers  before I do what needs to be done.<br>  - You? - I'm not in the habit  of consulting anybody about anything.<br>  Especially a lawyer.<br>  There we are.<br>  - Now for the thermal regenerator.<br> - Leave it.<br>  Give me that.<br> Get lost.<br>  He never gets any nicer.<br>  Duly noted.<br>  Deactivate, EMH.<br>  I need a pilot.<br>  Raffi says you're the best around.<br>  I never argue with Raffi.<br>  Huh.<br> Wise man.<br>  You were the XO of a heavy cruiser?  The ibn Majid.<br>  You never heard of it because it doesn't exist.<br>  Starfleet erased it from the records.<br>  Do I detect a certain bitterness toward Starfleet?  You must know that Starfleet and I  long since have parted ways.<br>  If you say so.<br>  I really don't give a damn.<br>  Oh, really?  I see this ship is  impeccably maintained.<br>  Every bolt and clasp  and fitting in place.<br>  Everything stowed in regulation Starfleet order.<br>  I don't know what happened to you, Rios,  or to the ibn Majid.<br>  But five minutes on this ship,  and I know precisely what I'm looking at.<br>  You are Starfleet  to the core.<br>  I can smell it on you.<br>  That's just my tragic sense of life.<br>  Raffi warned me you were a speechmaker.<br>  Look, Admiral, hire me or find another pilot.<br>  Do not try to get inside my head.<br>    The navigation sensors are back at maximum range.<br>  Whatever it was,  it scraped off pretty easily.<br>  Mm-hmm.<br>  So are we excited?  Intimidated?  Maybe a teensy bit starstruck.<br>  Jean-Luc Picard.<br>  Chief contact with the Q Continuum.<br>  Arbiter of succession for the Klingon Empire.<br>  Savior of Earth from Borg invasion.<br>  Captain of the Enterprises D and E.<br>  The man even worked alongside  the great Spock.<br>  You are an emergency hologram.<br>  We no longer have a navigational emergency.<br>  Why are you still here?  Well, someone is experiencing an acute moodiness overload.<br>  Picard is a good man, Captain Rios.<br>  He's on the side of the angels.<br>  It's been a long time since you helped out somebody like him.<br>  Hmm? A very long time.<br>  Please, spare me the juvenile Sunday school morality.<br>  And spare me the angsty teenage moral relativism.<br>  I already had one grand, heroic captain in my life.<br>  The last thing I need is another one.<br>  Ten years on, I still can't close my eyes at night  without seeing the last one's blood and brains  splattered all over a bulkhead.<br>  Deactivate ENH.<br>  Aw, no, no, you  The familiar smell of harvest time.<br>  Wood smoke, mown hay  and that  heavy sweetness of the grapes.<br>  And you won't miss it  any of it, one bit.<br>  Oh, yes, my dear.<br>  I will miss you and Zhaban and Number One.<br>  I tried my best  to belong to this place.<br>  But I don't think I ever  truly felt at home here.<br>  I suppose you always had one eye on the stars.<br>  That looks like a door.<br>  Very close.<br> I think that one's called "shaipouin",  - which means - A false door.<br>  Traditional Romulan houses always have a false front door  that's never used.<br>  You have to go around the back.<br>  You're kind of a know-it-all, aren't you?      You may sit.<br>  For the road.<br> Bread.<br>  Roquefort.<br>  Madame Arnaud's terrine d'oie.<br>  Far beyond the power of any replicator, I should think.<br>  And last of the plum  - They killed the alarm.<br> - Take 'em.<br>  All right? All right.<br>  Maybe maybe  maybe it was on stun.<br>  Romulan disruptors  don't have a stun setting.<br>  Okay.<br>  It's all right.<br>  Thank you.<br>  It's all right.<br>  Come.<br>  Here.<br>  Her name was Oh.<br>  Chief of Starfleet Security.<br>  - A Vulcan.<br> - You know her?  No, but I hear that she's very good at her job.<br>  Sh-She wanted to know why you came to see me, and  I'm sorry, but I told her.<br>  Seemed too important not to.<br>  And anyway, I'm a terrible liar.<br>  Of course.<br>  It's all right.<br>  There's one thing I didn't tell her, though.<br>  - Zhaban.<br> - We have no time, Laris.<br>  They'll send others.<br>    Admiral, he's conscious.<br>  Let's talk.<br>  My name is Soji.<br>  I'm working with Hugh on the reclamation project.<br>  But I'm an anthropologist by training.<br>    Ramdha has good days and bad days.<br>  We all do.<br>  Can you tell me about the cards, Ramdha?  The pixmit?  How do they work?  Do you tell fortunes with them?  It's kind of a mandala,  is that it?  Do the images have a connection to Romulan mythology?  "Mythology"?  I hate that word.<br>  In Romulan, we have no such word.<br>  What's a better word?  Scriptures?  Sacred stories? Legendarium?  The news.<br>  I love that.<br>  That's perfect.<br>  The idea that former Borg might be able to create a mythol  a shared narrative framework  for understanding their trauma,  rooted in deep archetypes  but as relevant as the day's news.<br>  That's just what I'm hoping to do.<br>  I know you.<br>  Why is the Tal Shiar on Earth?  Are you Zhat Vash?  If you answer my questions,  I will release you.<br>  - This is pointless.<br> - Yes,  because he's a stubborn northerner, like you.<br>  I remember you from tomorrow.<br>  No, Ramdha.<br> We've never met.<br>  Okay, wh  what was I doing when you met me tomorrow?  One of the things that makes you so special, Ramdha,  is that you were on board the very last ship  ever assimilated by this cube.<br>  Is that true? How do you know that?  You were on board the Imperial scout ship Shaenor  with 25 other passengers.<br>  You encountered this cube.<br> You were assimilated.<br>  But then something went wrong.<br>  What happened, Ramdha? Do you know?  What caused the submatrix collapse?  Why did you kill that girl?  Why did you kill Dahj Asha?  She's not a girl.<br>  Which one are you?  Just help me  understand what is happening.<br>  She's not what you think she is.<br>  Which sister are you?  Why did you  kill her?  Is there another one like her?  Which sister are you?  The one who dies or the one who lives?!  Where is she?  Where is the other one?  You'll never find her before we do, qezhtihn!  I know who you are!  You are Seb-Cheneb.<br>  You are the Destroyer!  She's the end of all!  She's the Destroyer.<br>  Damn.<br>  No!  Let her go!  She's fine.<br>  He's the one that needs to be disciplined.<br>  Get him out of here.<br> Get him out.<br>  And make sure your own sidearms are fully secured.<br>  Hi, sweetie.<br>  Mom  Sweetie, what's wrong?  Mom-Mom, is Dahj okay?  What? Is she okay?  Yes, sweetie, Dahj is fine.<br>  I just heard from her today.<br>  She sounds like she's doing great.<br>  She's thinking of adopting a puppy.<br>  I'm not sure that's the best idea.<br>  But you know Dahj when she makes a plan,  you can never talk her out of it.<br> I don't know.<br>  Sometimes I think I should tell her the opposite thing to do  Enter.<br>  Are you all right?  Hey.<br>  What happened?  I have no idea.<br> I mean  if you had asked me five minutes beforehand,  I would have said I didn't know anything  about a Romulan ship.<br>  I would have said that I'd never even heard of the Shaenor  or that Ramdha was on it.<br>  And would that have been the truth?  I've probably read every unclassified document  that there is pertaining to the history of this cube.<br>  It must have been in there somewhere.<br>  Even Romulan censors have to slip up sometimes.<br>  Do you believe me?  Can you keep a secret?  I may be falling in love with you.<br>  I'm back.<br>  So are your ears.<br>  I can smell her on you.<br>  The smell is remarkably  carnal.<br>  She really is an extraordinary piece of machinery.<br>  What's she told you?  Nothing yet.<br>  I'm not sure what she consciously knows, but  I'm sure she has no idea what she truly is.<br>  And given what happened on Earth  I think we should keep it that way as long as possible.<br>  Earth was a miscalculation.<br>  Your miscalculation.<br>  Which is the only reason I agreed  to let you pursue this highly questionable  - Far more subtle.<br> - approach.<br>  Good luck, brother.<br>  And see that you don't fall in love.<br>  Nice to see you looking like yourself again.<br>  You said you told Commodore Oh  everything about our conversation  except for one thing what was that?  That I'm going with you.<br>  To look for the girl,  Dahj.<br>  The other Dahj.<br>  You are going to look for her, right?  That's what Oh thought,  that y-you were planning to get a ship and a pilot  and go off looking for the second synth.<br>  Are you?  You're early.<br>  Nope.<br> My sources tell me  What sources?  it's about to get very hot chez vous.<br>  It's already hot.<br>  Hotter.<br>  - Is that your pilot? - Mm-hmm.<br>  Okay.<br> You have to take me with you, and here's why: A,  I just killed a man to save your life;  B,  You are a good, decent man, capable of empathy and pity,  and I am a scientist  who has spent her entire life imagining a miracle,  knowing that it could never come to pass, and now it has,  and it's real, and I have to see her;  and, C, I don't know how much it costs  to go where you're going or  how much this guy charges  I'm expensive.<br>  but I'm Agnes P.<br> Jurati.<br>  I'm the Earth's leading expert on synthetic life,  and I promise you, if you take me with you,  I will more than earn my keep.<br>  Time to go.<br>  Raffi?  What is this?  Ah, "sources".<br>  I found Maddox.<br>  - Where is he? - I tell you,  you promise you'll take me with you?  I would be honored to have you join me.<br>  Oh, no, no,  I'm-I'm not joining you.<br>  Never again.<br>  I'm just hitching a ride.<br>  To where?  Bruce Maddox is on Freecloud.<br>  Freecloud.<br>  Yes, of course.<br>  Why do you want to go to Freecloud?  Have we met?  Agnes Jurati.<br>  That's it?  You're just gonna let Agnes here hitch a ride  on your top secret mission?  Dr.<br> Jurati  is the Earth's leading expert on synthetic life.<br>  You didn't even ask me to run any kind of security check,  not even the most basic.<br>  Why do you want to go to Freecloud?  I'm under no obligation to tell that to any of you.<br>  And once we get there, you're on your own.<br>  Who are you, lady?  Can we go already?  Yes, fine.<br>  Engage.<br>  Will you come with me?  Will you  your sword to my quest?  'Cause I hear going there isn't just a bad idea  it's bizarre.<br>  No one asked for your opinion, Picard.<br>  Just as no one asked for your help.<br>  One impossible thing at a time.<br>  Where did that come from?      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e02" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e04" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

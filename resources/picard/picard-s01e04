@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Picard (2020) s01e04 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Picard (2020) s01e04 - Absolute Candor Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Picard (2020) s01e04 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e04"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Picard (2020) s01e04 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e04" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Absolute Candor</div>
+
+            <h1>Star Trek: Picard (2020) s01e04 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Absolute Candor</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			 Previously on "Star Trek: Picard"  When you first learned  that the Romulan sun was going to explode,  you left the Enterprise to command the rescue armada,  a mission to relocate 900 million Romulan citizens  to worlds outside the blast of the supernova.<br>  The decision to call off the rescue  and to abandon those people we had sworn to save  was not just dishonorable.<br>  It was downright criminal!  The daughter of the man  whose death I have been mourning  for two decades comes to me for help and assistance.<br>  And then she is assassinated  by a Romulan death squad who will then  go and try and find and destroy  her twin sister.<br>  I have to find Bruce Maddox.<br>  I found Maddox.<br>  Bruce Maddox is on Freecloud.<br>  And once we get there, you're on your own.<br>  Why do you want to go to Freecloud?  Have we met?  Agnes Jurati.<br>  Dr.<br> Jurati  is the Earth's leading expert on synthetic life.<br>  My name is Soji.<br>  I'm working with Hugh on the reclamation project.<br>  I know who you are! You are Seb-Cheneb.<br>  You are the Destroyer!          Hello, hello.<br> How good to see you all again.<br>  Yes, yes.<br>  I know you're all worried,  but the Federation and Starfleet are here to help you settle.<br>  You have my word.<br>    Jolan tru.<br>  Jolan tru.<br>    You haven't stopped talking  about Admiral Picard since he left.<br>  Can't you find something to say to him?  What did you bring me?  What did I bring you? Well  Now, let me see.<br>  "The Three Musketeers"  by Alexandre Dumas.<br>  Enjoy.<br>  You're making the admiral uncomfortable, Elnor.<br>  He dislikes displays of emotion.<br>  And he's not overly fond of children.<br>  Not at all.<br>  Someday, I may get used to the Way of Absolute Candor.<br>  Wh-Why don't you like children?  Because they're demanding, distracting and interfere  with duty and pleasure alike.<br>  My feelings are hurt.<br>  I actually did think you were fond of me.<br>  Correct.<br>  I like you very much.<br>  The sisters in Southeast Station  tell us things went well there.<br>  10,000 new refugees.<br>  The help of the sisters was invaluable.<br>  The Federation owes a debt to the Qowat Milat.<br>  How long can you stay?  As always, our house and our hearts are open to you.<br>  - Can I read the book? - Yes.<br> Of course.<br>  But in three days, I have to be in Central Station  to meet the next convoy.<br>  Because last time, you promised that  A promise is a prison, Elnor.<br>  Do not make yourself another's jailer.<br>  And that reminds me, Zani.<br>  Last time, I made you a promise  that I would try and find some sweet hanifak.<br>  But I totally forgot  that promises were prisons, so  Ah-ah-ah.<br>  It can't be easy  being the only boy  in a house of women.<br>  He must get lonely sometimes.<br>  Yes.<br>  He is loved, but he does not belong with us.<br>  I understand.<br>  It's so good of you to have taken him in  the way that you have.<br>  I will find him a more suitable place soon.<br>  En garde!  "D'Artagnan, who though wanting in practice  "had a profound theory,  "redoubled his agility.<br>  "Jussac, anxious to put an end to this, springing forward,  "aimed a terrible thrust  "at his adversary, but the latter parried it.<br>  - What does "parried" mean? - And while"  I'll show you tomorrow.<br> "And while Jussac  "was recovering himself, d'Artagnan glided  "like a serpent beneath his blade,  "and passed his sword through his body.<br>  "Jussac fell in a heap.<br>  "D'Artagnan then cast  an anxious and rapid glance over the field of battle".<br>  I'm busy, Raffi.<br>  What do you mean "synths have attacked Mars"?  What will this mean  for our mission? Will it continue?  Of course.<br> It must.<br>  Uh, tell Elnor  I'm sorry we didn't finish our fencing lesson.<br>  But, uh  well, I'll be back soon.<br>  Picard ready for transport.<br>  Hi.<br>  Oh.<br> You're reading.<br> I won't, uh  Be my guest.<br>  So  space turns out to be super boring.<br>  Go figure.<br>  What were you expecting?  I don't know.<br>  It's so empty.<br>  I mean, of course, right?  It's right there in the name.<br> "Space".<br>  It's not like it's called "vast quantities of stuff".<br>  Although, come to think of it,  there are over three billion stars in our galaxy alone  and ours is one of two trillion.<br>  There are a septillion known planets,  so maybe it should be called "vast quantities of stuff".<br>  Like, why focus on the negative?  I caught up on two years of back issues  of the "Journal of Theoretical Cybernetics",  including the Festschrift for Professor Kwok.<br>  I watered your plants.<br> You're welcome.<br>  I was gonna watch a holo, but weirdly,  all you have on board is Klingon opera.<br>  Long story.<br>  I used to live with a guy who liked paper books.<br>  I bothered him, too.<br>  What did he used to do about it?  He was my dad.<br>  He had to put up with it.<br>  What's your book about?  The existential pain of living with the consciousness of death,  and how it defines us as human beings.<br>  Well, that's not a conversation killer at all.<br>  I totally want to talk about the existential pain  of living with the consciousness of death.<br>  Rios!  Oh, thank God.<br>  I just checked the nav log.<br>  Where the hell are we going?  Says he needs to make a stop.<br>  He needs to?  Picard?  What stop?  Vashti, in the Qiris sector.<br>  Vashti.<br>  Man can't even take a guilt trip without using a starship.<br>  Hold.<br>  Holomatrix paused.<br>  Is it inaccurate?  Everything seems absolutely correct,  in every particular.<br>  We rebuilt your study to the exact specifications.<br>  I see that.<br>  Your Mr.<br> Zhaban supplied me with the holoscans.<br>  He thought you might feel more at home.<br>  It seems a little odd that a working ship  should have a hospitality hologram.<br>  I came with the basic installation, sir,  but you're right,  hospitality emergencies  - are rare on this vessel.<br> - Mm-hmm.<br>  In general, the captain keeps his own company.<br>  Come.<br>  You want to go to Vashti?  Are you out of your goddamn mind?  I hate that fucking hospitality hologram.<br>  That you even suggest it makes me  seriously question your mental state.<br>  The idea of going there isn't just  a bad idea, it's-it's bizarre.<br>  Look,  Dahj's sister is in grave danger.<br>  She may already be dead.<br>  I am  as eager to get to Freecloud as you.<br>  I Did I ever say I was eager to get to Freecloud?  Do Do I seem eager to you?  I would say more  apprehensive.<br>  Look, I-I'm gonna be straight with you.<br>  Oh, well, that will make a refreshing change.<br>  Come.<br>  Oh, uh,  is this a secret meeting,  or am I technically  part of the crew now?  Please, Dr.<br> Jurati, join us.<br>  Raffi here was  questioning my sanity.<br>  You know what? Fine.<br> Let's go to Vashti.<br>  Check out that big statue of you.<br>  I mean, they-they must've put up at least one.<br>  If they did, somebody's probably  stolen it by now.<br>  Qiris sector's sketchy nowadays.<br>  Serious power vacuum.<br>  Smugglers and petty warlords, like Kar Kantar,  basically run the show.<br>  Kantar got hold of an antique Bird-of-Prey somewhere  and has been running wild  from Vashti to Daimanta.<br>  You didn't already tell him this?  He said,  "Lay in a course for Vashti, Rios",  and, what, you just obeyed,  like a good Starfleet officer?  I assumed he knew.<br>  But the Qiris sector is in the Fenris Rangers' territory.<br>  Was.<br> The Rangers just do not have the resources  to keep up with the chaos out there anymore.<br>  Also, Vashti is a hotbed for the Romulan  Rebirth movement.<br>  But you're just gonna drop in  and pick yourself up a nun.<br>  O-Okay, well, now somebody has to tell me  what we're talking about.<br>  JL wants to hire an assassin.<br>  They are not assassins, and you can't hire them.<br>  The Qowat Milat have to choose you.<br>  Romulan warrior nuns.<br>  That's a real thing?  How bizarre.<br>  I know  knew some Qowat Milat.<br>  On Vashti alone, they helped Raffi and me relocate  more than a quarter of a million refugees.<br>  And they're the most skilled  single-combat fighters that I have ever seen  and the most feared enemies of the Tal Shiar.<br>  Sounds like you already  owe them more than they owe you.<br>  What-what makes you think they're gonna help you now?  They have their own criteria whether to give or withhold  their assistance to a cause.<br>  And what is that?  Let's just say that  I am confident that they will find ours worthy,  and if they don't,  the Way of Absolute Candor  means that they won't hesitate to tell us.<br>  What's the Way of Absolute Candor?  It's their primary teaching:  total communication of emotion  without any filter between thought and word.<br>  And it runs entirely counter to everything  that the Romulans hold dear.<br>  Resume.<br>  JL.<br>  Losing Dahj has you thinking about Vashti and the kid.<br>  Elnor.<br>  Okay.<br>  But you remember what we used to say back then?  "One impossible thing at a time".<br>  We have to stick to the plan.<br>  Freecloud.<br>  I may never pass this way again.<br>  I'll be in my quarters.<br>  Anyone else think the Way of Absolute Candor  sounds potentially annoying?                  Used to be home?  Of a sort.<br>  For a moment.<br>  Security?  Standard Romulan planetary defense system,  bought secondhand.<br>  The Fenris Rangers helped them install it.<br>  It's primitive but effective.<br>  Your basic impenetrable shield of orbital killer drones.<br>  Every 30 minutes, a transit zone opens up  in a random spot in the network.<br>  If the system clears you, you have a minute to pass through.<br>  Try to come or go without clearance,  and you're met with immediate kill-fire.<br>  Do we have clearance?  I'm working several angles, but so far, no.<br>  Call Central Station.<br> Tell them it's me.<br>  That was the first thing we did.<br>  Frankly, they were not impressed.<br>  Very well.<br>  Suggestion?  A cash gift is always appropriate.<br>        Jolan tru, Qowat Milat.<br>  - Jolan tru.<br> - Jolan tru.<br>  You got old, Admiral Picard.<br>  You didn't.<br>  I remind you, this is a house of truth.<br>  I thought we would never see you again.<br>  I don't have the right,  but I need your help one last time.<br>    Poor Ramdha.<br>  She's always been a bit of a tormented soul.<br>  You know her?  I'm not surprised she tried to take her own life.<br>  I don't know why I feel so drawn to her,  but it's my fault.<br>  Something about me set her off.<br>  Don't blame yourself.<br>  She is disordered.<br>  When she looked at me, I felt seen.<br>  Even though she didn't like what she saw.<br>  I see you, Soji.<br>  I'm a trusting person, Narek.<br> That's my default, but  I don't know.<br>  You kind of challenge my paradigm.<br>  Give me another chance?  How did you know I was going to the Disordered Ward just now?  I didn't.<br>  Have you been watching me?  Not in the way that you mean it.<br>  No uniform, no insignia, no rank.<br>  You go anywhere you like on the Artifact,  and you know things.<br>  Are you Tal Shiar?  No.<br>  If you were Tal Shiar, would you also answer no?  Yes.<br>  Do you know what happened to Ramdha's ship,  to the Shaenor?  No.<br>  Who does?  I don't know.<br>  I would imagine  there are some kind of records on the Borg databases here.<br>  Those are classified.<br>  Do you have access to them?  No.<br>  But I might know someone who does.<br>  How's the paradigm?  Paradigmatic.<br>  Come on.<br>  I want to show you something.<br>  Where are we going?  I'm going to teach you an ancient Borg ritual.<br>  The Borg didn't have rituals.<br>  That's what everyone thinks.<br>  This program you watched, the one with Ramdha  it was in Romulan?  A talk show called "Yrrh Mnrrh".<br>        Seattle, sometime before May 12, 2396,  when you shipped out for the Beta Quadrant  aboard the Ellison.<br>  So you have been watching me.<br>  Here we are.<br>  The ventilation return.<br>  Take off your shoes.<br>  What? Why?  Borg ritual.<br>  Shoes off.<br>  Now, watch this.<br>  Yeah!  Terran passenger lists are a matter of public record,  which is shocking to a Romulan sensibility.<br>  But strangely, there's no record that you were a passenger  on the Ellison that day.<br>  Well, I was.<br>  Are you calling me a liar?  To hell with you.<br>  What about the Borg data files?  The ones that might explain what happened on the Shaenor.<br>  To hell with them, too?  What are you doing, Narek?  The same thing you're doing.<br>  Feeding an insatiable curiosity.<br>  Damn.<br>  - What? - Somebody ID'd him.<br>  He's blowing up on personal comm traffic down there.<br>  Good blowing up or bad blowing up?  Mm Bad.<br> Catastrophically bad.<br>  We should get him out of there.<br>  No, not now, Raffi.<br>  I need more time.<br>  These aren't love letters, JL.<br>  There's a lot of anger.<br>  I am quite safe here.<br>  I'm picking up  an incoming ship,  just at the limit of the scanner range.<br>  Moving kind of slow.<br> Looks like  that old Bird-of-Prey.<br>  I'm glad you're safe.<br>  We're about to get a visit from Kar Kantar.<br>  Well, you do what you have to do, and I need more time.<br>  Picard out.<br>  We do what we can to maintain peace.<br>  Half the sisters serve as qalankhan,  freeblades patrolling roads and waterways,  helping travelers, defending Romulan and Terran alike.<br>  Do the Qowat Milat still bind their blades  to a singular cause?  If the cause is judged worthy.<br>  Uh, no, thank you, Elnor.<br>  Elnor?  You feel shame seeing Elnor.<br>  I always imagined  that you had found a suitable place for him.<br>  So many things we imagined back then never came to be.<br>  But it's not just Elnor.<br>  It's everything here the poverty, the degradation,  the ethnic strife.<br>  When I left here, there was none of this.<br>  Because you could not save everyone,  you chose to save no one.<br>  Yes.<br>  I allowed the perfect to become the enemy of the good.<br>  You have not spoken of your purpose yet.<br>  I infer that you have come  to obtain the services of a qalankhkai.<br> Why?  I am taking on the Tal Shiar, alone.<br>  So your cause is a desperate one.<br>  It is to me.<br>  Another rescue?  If I'm not too late.<br>  You're not too late to rescue Elnor.<br>  He does not belong here.<br> Once the evacuation ended,  we simply never found a better home for him.<br>  He completed his training?  Last spring.<br>  So he really is a Qowat Milat?  No.<br> And as a man, he never can be.<br>  But he is open-hearted,  and apart from this display of the reticence  you always seemed to inspire in him, forthright.<br>  And his fighting skills are truly formidable.<br>  And you would send him away?  He might find himself in serious danger.<br>  He might die.<br>  He will.<br>  Before that comes to pass,  it would gladden my heart to see him live.<br>  When you bind your sword to a cause,  is there some kind of protocol?  A ritual?  Do-do I go on my knees? Oh, I do hope not.<br>  Between the two of us, my knees are not what they used to be.<br>  You tell a story, I listen.<br>  Simple.<br>  I had a friend called Data.<br>  It's usually a sad story.<br>  He died.<br>  He gave his life to save mine,  and I have missed him ever since.<br>  Did you ever miss me?  Of course I did.<br>  Continue.<br>  Well, recently, I've learned that Data  this is complicated  that Data had two offspring.<br>  And one of them her name was "Dahj"  was murdered in front of me.<br>  The other one, I believe, is in serious danger.<br>  And I have to find her before the Tal Shiar do.<br>  - The Tal Shiar? - Yes.<br>  And this other sister is she an android?  Mm-hmm.<br>  You told me stories about Data.<br>  He had an orange cat named Spot.<br>  That's right.<br>  I've still never seen a cat.<br>  Well, if you come with us,  you might just run across one or two of them.<br>  Why do you need me?  Because I failed to protect her sister.<br>  But you don't know where she is or if she's even alive.<br>  - No.<br> - What about the man who built her?  - It's just a guess.<br> - Are you being pursued?  Likely.<br>  Anticipated, actually.<br>  All that is why you need someone.<br>  Why do you need me?  Because I'm an old man and you're a young one,  and you're strong.<br>  Zani told me that  you are one of the best fighters that she has ever seen.<br>  It seems to me that my quest  has the appropriate criteria.<br>  Will you come with me?  Will you bind your sword to my quest?  Now that you have use for me?  Now that I have value to you?  You left me  - on my own, old man.<br> - I never meant to  I see no reason not to do the same.<br>  Elnor, it!  Rios, it's Picard.<br>  I'm ready for transport.<br>  Copy that.<br>  Next window opens in seven minutes.<br>        You may call me Tenqem Adrev.<br>  We met before.<br>  Once.<br>  Have we? Forgive me.<br> I, uh  Oh, it was in another lifetime,  when I was another man.<br>  A Romulan senator, if you can believe it.<br>  I had the honor of being present  the day you addressed the Hall of State,  the very embodiment of Starfleet,  making such eloquent and generous promises  on behalf of the magnanimous Federation.<br>  The great Saint Picard.<br>  Senator  I found it extremely moving.<br>  How very touched we all were.<br>  There were tears in my eyes.<br>  Thank you.<br>  And then you went away.<br>  And when you returned, you brought the ships.<br>  Those great big Wallenberg-class transports.<br>  We all packed and boarded the Nightingale,  five generations of parents and grandparents,  siblings and spouses and children.<br>  And the Nightingale brought us here,  to Vashti.<br>  We had so little time.<br>  There were so many of you to save.<br>  And so little to be expected from Starfleet.<br>  I did everything I could.<br>  And then you gave up.<br>  Skantal!  Bidran!      No one asked for your pity, Picard.<br>  Just as no one asked for your help.<br>  You and Starfleet had no understanding  of Romulan ingenuity, resolve, self-sufficiency.<br>  You took advantage of us at the very moment  where we doubted ourselves,  enticed us with your empty promises,  and did everything in your power  to scatter, confuse and divide us.<br>  That is not so!  I promise you  You promise?!  You promise?  Give him your sword.<br>  No.<br>  Come on.<br>  No!  Please, my friend.<br>  Choose to live.<br>  I regret your choice.<br>        Enough, Elnor.<br>  The Federation has failed you all.<br>  I failed you all.<br>  I broke faith with you,  and the result was  terrible  pain and loss for you all.<br>  And I am sorry.<br>  Picard, ready for transport.<br>  A tan qalanq is no match  - for a disruptor, sisterboy.<br> - JL?  Yes! Now!  That man did not deserve to die.<br>  Yet he chose it.<br> Fight a Qowat Milat,  and the outcome is not in doubt.<br>  Now, you listen to me, carefully.<br>  I will benefit by your skill and your courage,  but if you bind yourself to my cause,  I will tell you when to fight and when to refrain.<br>  Is that understood?  Yes.<br>  Swear it.<br>  I swear.<br>  Dr.<br> Jurati, Raffi, this is Elnor.<br>  A boy with a stick.<br>  I have to ask you, what made you decide  to bind yourself to my cause?  It met the requirements for worthiness.<br>  And it seemed like you needed me after all.<br>  What is the requirement for worthiness?  A qalankhkai would only bind herself  himself to a lost cause.<br>    What?  Did you think it was your robot friend?  I take it she's anatomically correct.<br>  It makes perfect sense.<br>  You've been studying her kind your whole adult life.<br>  Waiting for her.<br>  Planning for her.<br>  Wondering what it would be like when you finally saw her.<br>  Now here she is.<br>  Why is she obsessed with Ramdha?  What happened when the cube assimilated the Shaenor?  Why did its crew and passengers lose their minds?  Who were they?  What have you accomplished on my behalf?  I've planted the first seed of doubt.<br>  Really?  One whole seed.<br>  - Impressive.<br> - I know  how to handle her.<br>  If I press her too hard, it might activate her.<br>  And then we'll have another situation like on Earth,  and then they'll both be dead.<br>  That is the goal, you know.<br>  To kill them.<br>  Yes, all of them.<br>  Which is something I can't do  until we find out where she came from  and where the rest of them are.<br>  And in the meantime  you slide ever deeper into your own obsession.<br>  Have you entertained for even a moment  that she might be the one handling you?  She was sent to this cube for a reason.<br>  Your little robot girl has a plan.<br>  Don't forget that.<br>  I know full well  Who is she, Narek?  Who  is she?  Seb-Cheneb.<br>  The Destroyer.<br>  I'll give you and your seed one more week.<br>  After that, if I don't have the location,  we go back to good old  pain and violence.<br>  It's Kantar!  Near miss.<br> Hold on.<br>  Engaging auto-evasion protocol.<br>  That old heap's targeting system is primitive,  but the planetary security net worries me.<br>  Just get us the hell out of here.<br>  Shield strength at 89%.<br>  Can you go faster  - than that Bird-of-Prey? - Maybe not outrun him,  but I can definitely outfly him.<br> We-we should be      Weapons online.<br>          Hold on.<br>  Routing additional power to thrusters.<br>  Routing additional power to inertial dampener.<br>    Where did that come from?  Trying to get a read.<br>  No ID,  no transponder.<br>  Great timing, though.<br>      Bastard.<br>  That pilot's hailing us, JL.<br>  Open a channel.<br>  Uh  Open the channel.<br> Put him on.<br>  He's asking permission to beam over.<br>  His ship's breaking up.<br>  Nah, too risky.<br>  His shields are failing.<br>  Raffi, beam him in,  - directly here.<br> - Do it.<br>  Elnor.<br>  Got him.<br>  Seven of Nine?  You owe me a ship, Picard.<br>  Who are you looking for?  Bruce Maddox.<br>  I found him.<br>  We must extract him.<br>  Are you serious sending us down there looking like this?  Meaning you need to sell this.<br>  You need to show a little panache.<br>  You're killing it.<br>  Something's not right.<br>  You damn push.<br>      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e03" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e05" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

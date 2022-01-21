@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Picard (2020) s01e05 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Picard (2020) s01e05 - Stardust City Rag Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Picard (2020) s01e05 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e05"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Picard (2020) s01e05 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e05" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Stardust City Rag</div>
+
+            <h1>Star Trek: Picard (2020) s01e05 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Stardust City Rag</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1  Previously on "Star Trek: Picard"  Dr.<br> Jurati,  you can tell me if it is possible  to make a sentient android  - out of flesh and blood.<br> - No one  has ever been able to redevelop the science used to create Data.<br>  Then came Bruce Maddox.<br>  His theory was that Data's entire code,  even his memories, could be reconstituted  from a single positronic neuron.<br>  He disappeared after the ban.<br>  - I have to go.<br> - Go? Where? Go how?  You have to take me with you.<br> And I promise you,  I will more than earn my keep.<br>  You can't do it alone.<br>  You need a crew.<br>  I've already made the call.<br>  I need a ship and a pilot.<br>  And I have to find Bruce Maddox.<br>  I have a pilot for you.<br>  His name is Rios.<br>  Chris Rios.<br> He's just an EMH.<br>  "Just"?  - I'm, uh - I know who you are.<br>  Deactivate EMH.<br>  Raffi says you're the best around.<br>  I never argue with Raffi.<br>  Huh.<br> Wise man.<br>  I found Maddox.<br>  Where is he?  On Freecloud.<br> And once we get there,  you're on your own.<br> I'm just hitching a ride.<br>  Hold on.<br>  Where did that come from?    - His ship's breaking up.<br> - Raffi, beam him in.<br>  Do it.<br>  Seven of Nine?  You owe me a ship, Picard.<br>      Where's your cortical node, buddy?  It's got to be in there somewhere.<br>  Bjayzl?  Seven?  It's all right.<br> You'll be all right.<br>  Go.<br>  No, not without you, Icheb.<br>  Then I'll s I'll stay with you.<br>  N-Now, Seven.<br>  Please.<br>  I'm so sorry,  my child.<br>      Ugh.<br> What?  Bruce Maddox.<br>  Here?  Indeed.<br>  Huh.<br>  How the mighty have fallen.<br>  Kill him.<br>  Wait.<br>  New plan.<br>  Bruce.<br>  This is so unexpected.<br>  You've looked better.<br>  I've been in hiding.<br>  They destroyed my lab, Bjayzl.<br>  Darling, I heard.<br>  Have some tranya.<br>  They used some kind of molecular solvent  to destroy the entire facility.<br>  There was literally  nothing left.<br>  They nearly got me.<br>  - I'm so sorry, Bjayzl.<br> - For what?  I don't know how I'm ever gonna repay your loan.<br>  Nonsense.<br>  Who do you think did this, Bruce? Hmm?  Who's after you?  I think it was the Tal Shiar.<br>  Well, that does change things a bit.<br>  Making a deal with the Tal Shiar is  always such a pain in the ass.<br>  Welcome to Freecloud.<br>  Whether you are here for the maximum-security  financial and information services  or the minimal restrictions  - on personal liberty - Come.<br>  Freecloud keeps your secrets.<br>  You're well?  I'm functional.<br>  Something to drink? Tea? Glass of wine?  Bourbon.<br> Straight up.<br>  This place is something.<br>  Not my idea.<br>  But you like it enough to keep it.<br>  What the hell are you doing out here, Picard?  Besides being in way over your head?  I'm looking for someone.<br>  Does that surprise you?  I assumed it must be some kind of misguided diplomatic mission.<br>  Saving the galaxy?  There may be a bit of that, too.<br>  You're going to Freecloud.<br>  You know Freecloud?  I hate the place.<br>  But we the Fenris Rangers keep our money there.<br>  What little of it there is.<br>  It's a tough time on Fenris, I hear.<br>  Does that make you happy?  I admire the Rangers' goals,  their courage, their tenacity,  but  you are taking the law into your own hands.<br>  What law?  Point taken.<br>  Nevertheless, to appoint yourself  - judge and jury - I'm not here for a lecture.<br>  You think of me as a vigilante, fine.<br>  Ranging is my job.<br>  It's not saving the galaxy.<br>  It's helping people who have no one else to help them.<br>  It's hopeless and pointless and exhausting,  and the only thing worse  would be giving up.<br>  Mm.<br>  Freecloud works.<br> You can drop me there.<br>  Who are you looking for?  Someone who has no one else to help her.<br>  Someone who will likely die if I don't.<br>  I'll take another one of these.<br>  She's in there with him.<br>  Huh?  The Ranger.<br> She's in the chÃ¢teau with Picard.<br>  Ooh.<br>  What do those two have to talk about, I wonder?  Seems like they know each other.<br>  No, I-I don't think so.<br>  Not back when I knew him, anyway.<br>  You know,  she used to be Borg, like him.<br>  - Oh, wow.<br> - Mm-hmm.<br>  She's that Ranger.<br>  She's notorious.<br>  - Ninety-nine or Eleven or - Mm.<br>  Uh-uh.<br>  Mm.<br>  She goes by Seven.<br>  - Seven.<br> - Mm-hmm.<br>  The ex-Borg Fenris Ranger.<br>  I heard she's from the Delta Quadrant.<br>  Seven, the ex-Borg Fenris Ranger  from the Delta Quadrant.<br>  And I somehow managed to forget  that Picard used to be Borg, too.<br>  Must have happily blocked it out.<br>  This is some strange cargo you brought me this time, Raffi.<br>  Tell me about it.<br>  Okay.<br>  Ah.<br>  Okay, I don't get it.<br>  You replicated the flour,  the butter, the eggs,  the sugar and the chocolate chips  Yes.<br> And the baking soda.<br>  Oops.<br> Yes, baking soda.<br> Right.<br>  And then you set them all on fire  I do not set them on fire.<br>  - I bake them.<br> In my oven.<br> - Oh.<br>  Ow.<br> Still warm.<br>  Now, why don't you just replicate the cookies?  Because I do not like the replicator's  chocolate chip cookies.<br>  What can I say? There's an alchemy.<br>  Come here, Aggie.<br>  Taste it.<br>  La Sirena, this is Freecloud Orbital Control,  confirming transfer of conn.<br>  Roger that.<br>  Welcome, Captain Rios.<br>  I see your power conversion efficiency is only 91%.<br>  Remember, nobody knows their way  around the Kaplan F17 Speed Freighter like the Red Bolian.<br>  Care for a cuppa? Join the party  at the Freecloud Grand Hotel's afternoon high tea.<br>  Help! Make it go away.<br>  The Freecloud Institute  of Entertainment Robotics  is now hiring  You have to punch it.<br>  - Submit your rÃ©sumÃ© today.<br> - What?  Hit it as hard as you can.<br>  - I don't hit things.<br> - Oh, no, he's right, Doc.<br>  You need to knock its head clear off.<br>  Submit your rÃ©sumÃ©  Agnes for the knockout.<br>  Hey, lady, you looking to get snakebit?  Slither in to Feely's Venom Garden  and pick your poison.<br>  I didn't get one.<br>  Uh,  I found him, JL.<br>  You found Maddox?  Yes, but Oh, my goodness.<br>  Bruce Maddox, what did you do?  I'm on a jobs board for interfacers.<br>  Essentially, go-betweens for hire.<br>  Big business for competing corporations,  rival criminal gangs,  thieves and their victims, especially on Freecloud.<br>  I just sent myself  an invitation to join the local 'facers guild.<br>  Old Starfleet intel trick.<br>  Yeah.<br>  Okay.<br> Party named Bjayzl  is holding him.<br> They're looking  for someone to broker a deal with the  Tal Shiar.<br>  Bjayzl.<br>  You know him?  Her.<br>  She butchers ex-Borg for parts.<br>  She's been high on the Rangers' wanted list for years.<br>  Couldn't we outbid the Tal Shiar?  No, not likely.<br>  If she's prudent enough to use a 'facer,  this is probably a pretty substantial deal.<br>  We must extract him.<br>  Uh, not with the security she's got.<br>  Occluded payrolls show she's got a little army  of private contractors.<br>  And a Beta Annari.<br>  What's a Beta Annari?  Sentient reptiloid.<br>  Nasty pieces of work.<br>  Without Maddox, we'll never find Dahj's sister.<br>  Options?  Well, if we can't grab him and we can't buy him  Then we're shit out of luck, JL.<br>  Not quite.<br>  We trade.<br>  Give Bjayzl something she wants in exchange for Maddox.<br>  Something she'll find irresistible.<br>  Like what?  Like me.<br>  Okay, I dropped a pretty foolproof ID  of you into the system.<br>  You are now a 'facer.<br>  Famous but not too famous.<br>  - "Pretty foolproof"? - We're not exactly working  - with a whole lot of time here.<br> - Raffi,  are you serious, sending us down there  - looking like this? - Well,  'facers tend to dress very flamboyant, JL.<br>  It's protective coloration.<br>  You're playing go-between.<br>  You want to stand out.<br>  You don't want anyone mixing you up  with the other side.<br>  What do you think, Agnes?  I think you're killing it.<br>  But are you really a 'facer?  - No.<br> - You're licensed,  paid up on your guild dues.<br>  - You have a meeting with Mr.<br> Vup.<br> - Mr.<br> Vup.<br>  Yeah.<br> Rios, you seriously, really need to sell this.<br>  You can't do your broody, existentialist spaceman routine.<br>  Your personality needs to match your clothes.<br>  You need to show a little panache.<br>  You need a feather in your hat.<br>  A Temtibi Lagoon, if it's not too much bother.<br>  And a game tablet.<br>  With two umbrellas.<br>  And if you can please let Mr.<br> Vup know  that I'm here.<br>  The name is Rios.<br>  Mr.<br> Vup knows.<br>  Feeling lucky, Mr.<br> Rios?  Try to stay away from the lizard.<br>  Beta Annari can smell when you're not telling the truth.<br>  - Seriously? - Well, also, what you had  for dinner and the last person you had sex with.<br>  If they're not the same thing.<br>  Because that's not disturbing.<br>  I'm Mr.<br> Vup.<br>  Of course you are.<br> Salutations.<br>  Please.<br>  Let us not waste time.<br>  Your references are sound.<br>  Mr.<br> Quark of Ferenginar was especially satisfied  with your handling of his trouble with the Breen.<br>  Yes, that was quite a foofaraw.<br>  Are you aware of the identity  of the other party in this negotiation?  Indeed.<br>  Have you had dealings with the Tal Shiar before?  To be honest,  I've tried hard to stay out of their way.<br>  They are treacherous, violent, ruthless and subtle.<br>  Their concept of honor  is rooted in their skill at deceit.<br>  So why represent them now?  Oh.<br>  I'm not.<br>  I'm here on behalf of another interested party.<br>  I've come to offer your employer  alternative remuneration for Dr.<br> Maddox.<br>  Surprising.<br>  I'm not a fan of surprises.<br>  I'm getting that sense.<br>  Now, what could possibly be worth reneging on a deal  with the Romulan secret police?  I can explain.<br>  Maybe you aren't aware, Mr.<br> Rios.<br>  We Beta Annari have 1,253 olfactory receptor genes,  which means, among other things,  I can smell a lie.<br>  So, Mr.<br> Rios,  proceed with caution.<br>  - Ay! - Sorry.<br> Sorry.<br>  - What the hell? - Beta-blockers, anxiolytics, benzos.<br>  Delayed release.<br> Raffi's home cooking, honey.<br>  - Why would you do that? - Just in case  you do run into one of those hypersensitive reptiloids.<br>  Should kick in right about when you need it.<br>  That many implants in a living specimen.<br>  Impossible.<br>  How do I smell?  Truthful.<br>  You also had some sort of smoked meat  for breakfast, didn't you?  So many intact and functioning Borg parts  in a single specimen.<br>  She would be extremely valuable.<br>  If you will indulge me  with the smallest of transporter windows.<br>  Honestly,  Rios isn't the one I'm really worried about here.<br>  I'm more concerned with you two.<br>  Oh.<br> I thought that I looked  appropriately sinister.<br>  Mm.<br> No comment.<br>  Assuming Rios doesn't choke or mess everything up  - somehow - Which he will not.<br>  This is a transport pattern enhancer.<br>  Once you get it inside their shields, it will create  a stable tunnel to transport in and out of.<br>  They won't be able to differentiate it  from your implants on the scan.<br>  Um, hands, please.<br>  - No offense.<br> - None taken.<br>  Why?  Are you helping them, I mean.<br>  When the evacuation ended  and the Neutral Zone collapsed,  someone needed to maintain a semblance of order.<br>  I suppose at this point, it's become habit.<br>  I admire what you do out there.<br>  With the Rangers.<br>  - Push in and then pull out - Yes.<br> I understand.<br>  Okay.<br>  Once you get Maddox, activate the enhancer,  and the doc here will beam you out.<br>  - Wait, wait, wait.<br> Uh, hello? - Uh, just  - Hold on a sec.<br> - Hold that thought.<br>  - Can you breathe? - Yes.<br>  What do you mean, I beam them out?  It's a lie.<br>  Everybody is behaving  as if they were somebody else.<br>  Everyone except me.<br>  He's clear.<br>  And, Agnes, you're on transporter duty.<br>  Really? Me? Okay.<br>  How-how hard is it, really?  Piece of cake.<br>  Aguardiente.<br>  - Ay.<br> - Eh.<br>  Oh, man.<br>  I don't know how to not be Elnor.<br>  Then be Elnor.<br>  An Elnor who never talks.<br>  Disgusting thing.<br>  Once they get the Borg inside them,  there is no coming back,  no matter what they think.<br>  Defiled is what you are.<br>  Damned.<br> Cursed.<br>  Quite a prize.<br>  Rare to find one with so many implants  still fully operational.<br>  She is not one of the new ones.<br>  When the Borg entered her,  she was a jeune fille.<br>  You are going to have to dice her up to get it all out.<br>  A little squeamish, are we?  I can take my trade elsewhere.<br>  No.<br>  Not squeamish.<br>  Not at all.<br>  Your work is done.<br>  Mind if I have another drink?  It's a free planet!  Let's see if there's a deal to be made.<br>  Now, that's the kind of talk that I like.<br>  But one last thing.<br>  I need proof  that my bounty  is alive.<br>  I need to see Maddox!  Gabriel Hwang located.<br>  Stardust City Medical District.<br>  Make sure the kid sticks to the script.<br>  And watch your back.<br>  Admiral Picard.<br>  Time to go.<br>  You've got this.<br>  This is going to be  very much harder without you.<br>  It was almost like the old days for a minute there, huh?  I  I hope you find what you came out here for.<br>  And I sincerely wish the same for you.<br>  Do it.<br>  Don't get lost in the crowd.<br>  At Freecloud Family Planning,  your baby is our baby.<br>  Join our family today.<br>  Hello.<br>  Wow.<br>  Here?  So, what, did you put a tracker in me  or just hunt me down?  Oh.<br> I still hear things.<br>  Maybe I hunted you down a little.<br>  You just kind of crossed my path.<br>  Path to where?  To Freecloud.<br>  To you.<br>  Gabe,  I'm clean.<br>  Mm-hmm.<br>  I feel good.<br>  I was not there for you.<br>  Even when I was there, I wasn't there.<br>  Especially then.<br>  But I'm here now,  if you'll let me be.<br>  For you  and for my little grand?  - She's a girl.<br> - Oh.<br>  You know, there was a time when it would've meant the world  - to me to hear you say that.<br> - Oh.<br>  - Oh, Gabriel.<br> Honey - So, what, you're  changed?  Yeah, you're different now.<br>  I'm-I'm  I'm making a start, Gabe.<br>  I'm I'm-I'm putting my life back together.<br>  That's why I came all the way out here for you.<br>  So, um  the attack on Mars.<br>  Tell me how it wasn't really the synths.<br>  - Honey - Tell me about  the Conclave of Eight.<br>  Tell me what was worth ignoring  me and Dad until we hardly recognized you.<br>  Why you abandoned us for some crackpot, tin hat  - conspiracy - It wasn't crackpot!  That attack was not what it seemed!  Baby, there is a conspiracy,  and it is bigger than anybody knew.<br>  There were lives at stake  Our lives, Mom.<br>  Our lives mattered, too.<br>  Just not to you.<br>  I don't think you understand just how much it sucked  to be your kid.<br>  Hey.<br>  Pel.<br> Baby, um  this is my mother, Raffaela.<br>  She was just passing through.<br>  I guess she had a second.<br>  Hello.<br>  It's wonderful to meet you.<br>  Will you be staying a while?  No.<br> Like I said,  she's just passing by.<br>  It's so nice to meet you.<br>  Good luck with the baby.<br>  Goodbye, Gabe.<br>  Bye, Mom.<br>  Show me.<br>  As I was telling your Mr.<br> Vip  Vup.<br>  you will not see many more  like her!  When they get assimilated  as kids, more of the hardware  remains inside them.<br>  Ear, eyes, neck,  chest, spine, kidneys, hips,  various bones.<br>  I thought it could be you.<br>  "Hoped" might even be the word.<br>  I always knew you were impressive.<br>  I just never knew how impressive.<br>  It is good to see you again.<br>  Annika.<br>  It's okay.<br> It will be okay.<br>  You can do this.<br>  You have to do this.<br>  What is the nature of your psychiatric emergency?  Your pulse and blood pressure are significantly elevated.<br>  Be-Because you scared the hell out of me.<br>  - I'd like to give you a sedative.<br> - I-I don't need a s  Agnes, you copy?  - Are you certain? You really - Yes, I am certain!  Agnes?  Uh, yes.<br> Hi.<br>  Who are you talking to?  You.<br>  Not you you.<br> N-No one.<br>  Captain, Dr.<br> Jurati's experiencing  Deactivate EMH.<br>  - I'm here.<br> - The operative terms are "copy that"  and "go ahead".<br>  Something's not right.<br>  We may have to abort.<br>  Do you have a lock on them?  Uh, yes.<br>  Um, affirmative.<br>  It's, uh, showing red.<br>  They haven't activated the pattern enhancer yet.<br>  Let me know the instant they do.<br>  Yes.<br> Copy.<br> Affirmative.<br>  Um, whatever.<br>  What's going on down there?  Are you still angry because I carved up your little friend  for parts?  Or is it because you trusted me?  Oh, you were  so noble then.<br>  Save the outcast.<br>  Rescue the forgotten.<br>  You were so easy.<br>  Was I, Jay?  Then how did I get away?  How did I escape the great Bjayzl?  A fortune in Borg tech and  you lost it.<br>  You lost me.<br>  No one's ever been worth more to you than me,  and I slipped right through your fingers.<br>  I'm the one that got away.<br>  Not anymore.<br>  Wrong, Jay.<br>  Drop your weapons.<br>  Listen to her.<br>  Now!  What the hell is going on here?  I was not entirely candid with you.<br>  Really?  Are we still pretending?  No, Elnor.<br>  I think everyone has finally stopped.<br>  Bruce.<br>  How are you doing?  Picard?  Picard?  The famous Admiral Picard?  Well, it appears  you thought you were playing when you were being played,  Admiral.<br>  I take it you had  no awareness of Annika and my close,  - personal relationship.<br> - Shut up.<br>  Take Maddox and go.<br>  What do you mean?  She means to kill me.<br>  But hero to the end,  our Annika, she will first save your lives.<br>  Just go.<br>  You know, you were right.<br>  This is not saving the galaxy.<br>  This is just settling an old score.<br>  You have no idea what this is.<br>  Well, tell me.<br>  What is it?  When the rescues ended, some of us  tried to help maintain order  on the worlds the Federation left behind.<br>  We were based on Fenris.<br>  One of us was a young science officer on leave  from the USS Coleman.<br>  He was out doing recon near Daimanta  when his ship received a distress call.<br>  It turned out to be an ambush.<br>  He was the closest thing I will ever have to kin.<br>  Like me, Icheb was a former Borg, rescued  and reclaimed by Voyager in the Delta Quadrant.<br>  That's why she wanted him.<br>  His parts were  good business.<br>  Bjayzl had his implants  stripped out.<br>  Without anesthetic.<br>  Without even the minor mercy of death.<br>  I had met her on Fenris.<br>  She was posing as one of us,  as someone trying to help.<br>  She knew about Icheb from me.<br>  But  murder is not justice.<br>  There is no solace in revenge.<br>  You have had your humanity  restored to you.<br>  Don't squander it now.<br>  You guys ready to go yet?  Take them.<br>  Activate the pattern enhancer  and get them the hell out of here.<br>  You got it.<br>  Revenge.<br>  I understand the impulse.<br>  But you do this, you put a bounty on all of us.<br>  I don't give a damn.<br>  But the kid and the old man,  they don't stand a chance out here  with a price on their heads.<br>  Your friend has a point, Annika.<br>  Let's make a trade.<br>  Maddox for my life.<br>  Hey, hey, hey, hey.<br>  Look at the math of it, is all I'm saying.<br>  You found her once.<br> Odds are  you'll do it again.<br>  Five to beam up, Doctor.<br>  Come on.<br>  I did it.<br>  Oh, my God.<br> Bruce.<br>  He's in bad shape.<br>  Exposure, dehydration.<br>  Maybe other things.<br> Best to get him to sickbay quickly.<br>  I'll take care of him.<br>  Aggie.<br>  - Aggie.<br> - Captain Rios.<br>  Getting us the hell out of here, sir.<br>  I'm glad of the choice you made.<br>  It seems that a lift is the least I can offer you.<br>  The Rangers already sent a corsair for me.<br>  It should be here by now.<br>  - Ah.<br> - But  I will take two of your phasers, if that's all right.<br>  A vigilante could always use a couple more.<br>  Of course.<br>  And  in case you ever need a vigilante.<br>  Thank you.<br>  After they brought you back from your time in the Collective  do you honestly feel that you regained your humanity?  Yes.<br>  All of it?  No.<br>  But we're both working on it.<br>  Aren't we?  Every damn day of my life.<br>  Hi.<br>  Well.<br>  Frankly, I was surprised when you left.<br>  I thought you'd bet on shooting your way out.<br>  I am.<br>  How sentimental of you, then.<br>  Risking your  revenge  while saving their lives.<br>  Almost reminds me of  the Annika of old.<br>  Me, too.<br>  Picard still thinks there's a place in the galaxy for mercy.<br>  I didn't want to disillusion him.<br>  Somebody out here ought to have a little hope.<br>  Like you used to have  before I took it away from you.<br>  Something like that.<br>  You're stalling, Jay.<br>  Your second security wave will be here  in less than five seconds.<br>  Annika  He was a son to me, Jay.<br>  This is for him.<br>  Massive abdominal hemorrhaging.<br>  Increase clotting factor by 12%.<br>  They really worked you over.<br>  Dahj is dead,  isn't she?  She found me.<br>  And then I lost her.<br>  I'm profoundly sorry.<br>  When the Tal Shiar came for me  blew up my lab  I knew.<br>  Her embedded Mom AI  wouldn't have activated her  unless she was in grave danger.<br>  Bruce.<br>  Bruce.<br>  I have to know  Does she have a sister?  Yes.<br> Soji.<br>  Soji?  Where is she?  She's on the Artifact.<br>  The Artifact?  You mean  Not the captured Borg cube?  Why?  S-Same reason I sent her sister to Earth.<br>  To find the truth.<br>  The truth about what?  The ban.<br>  There are lies upon lies.<br>  They're hiding something.<br>  Who?  I don't know.<br>  It's the same ones who are hunting her.<br>  The Romulans?  Not just them.<br>  I think the Federation are involved.<br>  That's what I sent them to find out.<br>  Admiral, he's barely stable.<br>  He needs to rest.<br>  Understood.<br>  I'll leave you to it.<br>  The Artifact?  That's in Romulan space.<br>  Uh-huh.<br>  Flying into Romulan space doubles my fee.<br>  Okay, jefe.<br>  Old man indeed.<br>  So  are we gonna talk about our stowaway?  Raffi?  Leave me alone.<br>  Welcome back.<br>  Aggie.<br>  I thought I was dreaming.<br>  It's me.<br>  I never thought I'd see you again.<br>  Did you  did you see her?  Did you get to meet Dahj?  No.<br>  They're perfect.<br>  Perfectly imperfect.<br>  I did it, Aggie.<br>  Soong and I.<br>  And you.<br>  Your contribution was  essential.<br>  One more thing I have to atone for.<br>  What do you mean?  What is the nature of your psychiatric emergency?  Your blood pressure and cortisol levels  What is the nature of your medical emergency?  There's a high risk of critical organ failure  unless hematic microrepair treatment  - is resumed - Deactivate EMH.<br>  Aggie.<br>  I wish you knew what I know.<br>  I wish  I didn't know what I know.<br>  I wish they hadn't shown me.<br>  I'm so sorry.<br>  In a few hours we'll be on a Borg cube without authorization.<br>  This cube is under Romulan control.<br>  I believe she's close to discovering who she really is.<br>  I have to get there as quickly as possible.<br>  The journey always begins with the closing of the eyes.<br>  What's happening to me?  You must take me to her now!  They're in some serious trouble.<br>  Let go! Let go off me!  They are not responding.<br>  Hey!      <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: left;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e04" rel="nofollow">Previous Episode</a><a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e06" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+

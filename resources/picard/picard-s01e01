@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Star Trek: Picard (2020) s01e01 Episode Script | SS</title>
+
+<meta name="description" content="Star Trek: Picard (2020) s01e01 - Remembrance Episode Script. SS is dedicated to The Simpsons and host to thousands of free TV show episode scripts and screencaps, cartoon framegrabs and movie scripts.">
+
+<meta property="og:title" content="Star Trek: Picard (2020) s01e01 Episode Script | SS" />
+<meta property="og:url" content="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e01"/>
+<meta property="og:image" content="https://www.springfieldspringfield.co.uk/images/logo.gif"/>
+<meta property="og:description" content="Star Trek: Picard (2020) s01e01 Episode Script | SS" />
+<meta property="og:site_name" content="Springfield! Springfield!"/>
+<meta property="og:type" content="Website"/>
+
+<link rel="canonical" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e01" />
+
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({category: 'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/springfield/loader.js',
+        'tb_loader_script');
+    if (window.performance && typeof window.performance.mark == 'function') {
+        window.performance.mark('tbl_ic');
+    }
+</script>
+
+
+<meta name="msapplication-config" content="none"/>
+<meta name="google-site-verification" content="MXlhYqmIQBr6JMn4sKNUdZARSTszupmJOT8NRZdfjBE"/>
+
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<!--<link rel="stylesheet" href="/css/site.min.css"/>-->
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+<style>
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+    }
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216003482-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-216003482-1');
+</script>
+
+
+<script>
+    function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br><br>Read more: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('pre');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);
+
+</script>
+
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<header class="p-3 bg-dark text-white">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <div class="d-flex flex-grow-1">
+                <span class="w-100 d-lg-none d-block"></span>
+                <a class="navbar-brand" href="/">
+                    Springfield! Springfield!
+                </a>
+                <div class="w-100 text-right">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto flex-nowrap">
+                    <li class="nav-item">
+                    <li class="nav-item"><a href="/movie_scripts.php" class="nav-link px-2 text-white">Movie Scripts</a>
+                    </li>
+                    <li class="nav-item"><a href="/tv_show_episode_scripts.php" class="nav-link px-2 text-white">TV Show
+                            Episode Scripts</a></li>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">The Simpsons</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/characters.php">Characters</a></li>
+                            <li><a class="dropdown-item" href="/episode_guide/season20.php">Episode Guide</a></li>
+                            <li><a class="dropdown-item" href="/episode_scripts.php?tv-show=the-simpsons">Simpsons
+                                    Episode Scripts</a></li>
+                            <li><a class="dropdown-item" href="/guests.php">Guest Stars</a></li>
+                            <li><a class="dropdown-item" href="/springfield.php">Springfield</a></li>
+                            <li><a class="dropdown-item" href="/buddy_icons.php">Buddy Icons</a></li>
+                            <li><a class="dropdown-item" href="/images.php">Images</a></li>
+                            <li><a class="dropdown-item" href="/iphone_wallpaper.php">iPhone / iPod Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/psp_wallpaper.php">PSP Wallpaper</a></li>
+                            <li><a class="dropdown-item" href="/scenes.php">Scenes</a></li>
+                            <li><a class="dropdown-item" href="/sounds.php">Sounds</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown2" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Other</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/mobile/chalkboard/" rel="nofollow">Chalkboard Web
+                                    App</a></li>
+                            <li><a class="dropdown-item" href="/privacy.php" rel="nofollow">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="/disclaimer.php" rel="nofollow">Disclaimer</a></li>
+                            <li><a class="dropdown-item" href="/contact.php">Contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row">
+
+            <div class="top-row col-lg-12 mt-2">
+
+
+                <div id="taboola-above-article-thumbnails"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                        mode: 'thumbnails-above',
+                        container: 'taboola-above-article-thumbnails',
+                        placement: 'Above Article Thumbnails',
+                        target_type: 'mix'
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+        <div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-left-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="col-lg-8 mt-2">
+
+            <div class="breadcrumbs"><a class="text-dark" href="https://www.springfieldspringfield.co.uk/tv_show_episode_scripts.php">TV Show Episode Scripts</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020)</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a class="text-dark" href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=star-trek-picard-2020&season=1">Season 1</a>&nbsp;&nbsp;>&nbsp;&nbsp;Remembrance</div>
+
+            <h1>Star Trek: Picard (2020) s01e01 Episode Script            </h1>
+
+
+            		<h3 class="text-center mb-2">Remembrance</h3>
+
+
+
+
+                <div class="scrolling-script-container">
+
+
+                    			1  Blue skies   Smiling at me   Nothing but blue skies   Do I see   Bluebirds   Singing a song   Nothing but blue   See.<br>  And raise.<br>  All day long   Hmm.<br>  Call.<br>  I will take two, please.<br>  Shining so bright   Never saw things   Going so right   You have a tell.<br>  That is impossible, sir.<br>  Every now and then,  you dilate your left pupil  ostentatiously, I might add  in an effort to cheat me  into thinking that you have a tell.<br>  But your true tell is you don't have one.<br>  When your eyes are neutral,  that's when I know you're bluffing.<br>  Mm.<br> Now that you've told me that, Captain,  I am confused about which deception to employ.<br>  Fifty.<br>  Fifty?  That's everything I have.<br>  I can see that, Captain.<br>  Do you wish to call or fold?  Let's behave like civilized men.<br>  Milk?  No, thank you, sir.<br>  Sugar?  No, thank you, sir.<br>  Why are you stalling, Captain?  I don't want the game to end.<br>  I'm all in.<br>  Strange.<br>  I didn't know  we were on course to Mars.<br>  This isn't right.<br>  Oh, Number One.<br>  It's all right, boy.<br>  Hey, it's all right.<br>    It's all right.<br>    Is my heart   I love how they do that.<br>  So, what are we celebrating?  Guess.<br>  Use those famous Xahean instincts.<br>  Okay.<br> You have  a secret.<br>  A happy secret.<br>  No way.<br>  I got into Daystrom.<br>  Dahj!  You're amazing.<br>  Thank you.<br>  Robotics or, uh?  Dude, I'm a fellow in Artificial Intelligence  and Quantum Consciousness.<br>  Wow, that's  That's pretty, that's pretty cool.<br>  Wow.<br>  I might even be able to sit with you in the cafeteria.<br>  Um, maybe.<br> I don't know.<br>  No?  More wine?  Something better.<br>  Surprise me.<br>  Wines.<br>  Dahj,  your replicator menus are tragic.<br>  Vanilla  and vanilla.<br>  Of course.<br>  No! No! No!    Speak English!  Where are the rest of you? Where are you from?  I-I don't know  Where are you from?  I'm from Seattle.<br> I  We can get it later.<br> Knock her out.<br>  No, no!  She's activating! She's activ  Ah      Hmm.<br>      Number One, what do you have?  You mean whom does he have.<br>  Our little assassin.<br>  Well, even assassins need a bath sometime.<br>  Laris heard you talking in your sleep last night.<br>  Did I say anything of interest?  No, you talked rubbish.<br>  But you're not sleeping.<br>  Bad dreams?  The dreams are lovely.<br>  It's the waking up that I'm beginning to resent.<br>  Ah, no melancholy.<br>  Today's a big day.<br>  Now, go and get your breakfast.<br>  You know, I am beginning to regret  that I ever allowed myself to be talked into doing this.<br>  He won't take breakfast from me.<br>  Old dogs.<br>  Which one?  Mm.<br>  Tea.<br>  Earl Grey.<br> Decaf.<br>  So, are we all ready?  Oh, are you doing an interview as well, Zhaban?  You know, sometimes you talk to me  as if I were a benign old codger.<br>  "Codger"?  Somewhere between a coot and geezer, I believe.<br>  Ooh, the first one just arrived.<br>  Go and get dressed, Your Highness.<br>  And don't forget to wash your hands.<br>  Ten years, still have to remind you.<br>  - Yeah.<br> That's the one.<br> - Yeah.<br> I like that.<br>  Extremely dignified, sir.<br>  Look at this knot.<br> It's ridiculous.<br>  Well, maybe.<br>  But I want to keep my job.<br>  I know you're nervous.<br>  I am not nervous.<br>  The past is the past.<br>  Now.<br>  - Much better.<br> - Huh.<br>  Yeah.<br>  Oh, the drama.<br>  You went over the terms with them?  Three times, sir.<br>  She assured me she will not inquire  about your separation from Starfleet.<br>  - Yeah.<br> - After so long,  sometimes I worry you've forgotten what you did,  who you are.<br>  - Laris, I - We have not.<br>  Now go.<br>  And, sir?  Be the captain they remember.<br>  While Captain of Starfleet's Flagship Enterprise,  he was hailed as one of our galaxy's  most intrepid explorers,  a skilled diplomat,  military strategist,  humanitarian and author  of many widely-praised works of historical analysis.<br>  He joins us on the anniversary of the Romulan supernova  to discuss his role in those tragic events.<br>  I have the rare honor of introducing  Admiral Jean-Luc Picard.<br>  - Retired.<br> - You've never agreed  to an interview before, so thank you  for inviting the galaxy into your study.<br>  Oh, less crowded than I thought.<br>  Well today is a solemn day.<br>  It is a day of memories.<br>  Raising awareness  of the supernova's lingering impact  is work that I am extremely passionate about.<br>  Let's explore that.<br>  When you first learned that  the Romulan sun was going to explode  and the terrible consequences that would bring,  what feelings came up for you?  Oh, well, there are no words to describe the  calamitous scale of that change.<br>  Which is one of the reasons  You can't tell us how you felt,  but your initial actions were  to call for a massive relocation of Romulans?  Well, the Romulans asked for our help,  and I believed we had a profound obligation to give it.<br>  Many felt there were better uses for our resources  than aiding the Federation's oldest enemy.<br>  Well, fortunately, the Federation chose  to support the rescue effort.<br>  Yes.<br> Initially.<br>  I have been known to be persuasive.<br>  But the Federation understood  there were millions of lives at stake.<br>  Romulan lives.<br>  No.<br> Lives.<br>  You left the Enterprise to command the rescue armada.<br>  10,000 warp-capable ferries.<br>  A mission to relocate 900 million Romulan citizens  to worlds outside the blast of the supernova.<br>  A logistical feat more ambitious than the pyramids.<br>  The pyramids were a symbol of colossal vanity.<br>  If you want to look for a historical analogy:  Dunkirk.<br>  Dunkirk.<br>  Yes.<br>  And then  the unimaginable happened.<br>  Can you tell us about that?  Admiral?  I thought we were here to talk about the supernova.<br>  A group of rogue synthetics dropped the planetary  defense shields and hacked Mars's own defense net.<br>  - Yes.<br> - Wiping out the rescue armada  and completely destroying the Utopia Planitia Shipyard.<br>  The explosions ignited the flammable vapors  in the stratosphere.<br>  Mars remains on fire to this day.<br>  92,143 lives were lost,  which led to a ban on synthetics.<br>  Yes.<br>  We still don't know why the synthetics went rogue  and did what they did that day,  but I believe  the subsequent decision  to ban synthetic life-forms was a mistake.<br>  Lieutenant Commander Data,  operations officer on the Enterprise, was synthetic.<br>  Did you ever lose faith in him?  Never.<br>  What was it that you lost faith in, Admiral?  You've never spoken about your departure from Starfleet.<br>  Didn't you, in fact, resign your commission in protest?  Tell us, Admiral.<br>  Why did you really quit Starfleet?  Because it was no longer Starfleet.<br>  I'm sorry?  Because it was no longer Starfleet!  We withdrew.<br>  The galaxy was mourning, burying its dead,  and Starfleet had slunk from its duties.<br>  The decision to call off the rescue  and to abandon those people we had sworn to save  was not just dishonorable.<br>  It was downright criminal!  And I was not prepared to stand by and be a spectator.<br>  And you, my dear, you have no idea what Dunkirk is, right?  You're a stranger to history.<br> You're a stranger to war.<br>  You just wave your hand and it all goes away.<br>  Well, it's not so easy for those who died.<br>  And it was not so easy for those who were left behind.<br>  We're done here.<br>  "There's no legacy as rich as honesty".<br>  Who said that, Number One?  What do you want here?  I saw your interview.<br>  Do you know me?  What?  Do you know me?  No.<br>  Look at me.<br>  You're not sure.<br>  You're not sure.<br>  How do I know that?  Who are you?  I was with my boyfriend.<br>  We were in my apartment.<br>  They put a bag over my head.<br> I couldn't see anything.<br>  Who are "they"?  I don't know, but my boyfriend  They murdered him.<br>  Then I killed them.<br>  All of them.<br>  What?  Something inside of me just knew what to do,  how to move, how to fight.<br>  And somehow  It was like lightning  seeking the ground.<br>  And then I took the bag off.<br>  There was so much blood, so I just ran.<br>  - Shh.<br> - I didn't know where to go.<br>  Shh.<br>  Please, try and calm yourself.<br>  Shh.<br>  Try and calm yourself, okay?  But in my mind, I kept seeing you.<br>  I kept seeing your face.<br>  Me?  Yes.<br>  I came because the same lightning  that got me out of there alive led me here.<br>  Why?  Because everything inside of me says that I'm safe with you.<br>  There you go.<br>  Good as new.<br>  Thank you.<br>  Here you are.<br>  Earl Grey.<br> Never fails.<br>  We'll be in the kitchen.<br>  That's an unusual necklace.<br>  May I see?  Thank you.<br>  My father gave it to me.<br>  Hmm.<br> Lovely.<br>  Have you ever?  Ever what?  Been a stranger to yourself?  Many, many times.<br>  Thank you.<br>  May I ask your name?  Dahj.<br>  Dahj.<br>  I'm Jean-Luc.<br>  I know.<br>  And not because of the interview  or because you're the great man.<br>  I know you.<br>  Well, I've spoken, lectured.<br>  No, it's  It's older.<br>  Deeper.<br>  Much, much deeper.<br>  You may be right.<br>  Do you know how?  No.<br>  Do you think I'm crazy?  No.<br>  Do you believe me?  I believe that  you believe that you're supposed to be here.<br>  And if you were dangerous,  then Number One would let me know.<br>  Laris.<br>  Could you show our guest to a room?  I think she needs a good night's sleep.<br>  Come on, dear.<br> We'll get you set up.<br>  Thank you.<br>  Would you like to finish it, Captain?  I don't know how.<br>  That is not true, sir.<br>  No.<br>  Excuse me, sir.<br> The young woman has gone.<br>  Where?  I was up at 5:00.<br> Her door was open.<br>  The dog was in her bed, but she was gone.<br>  I-I checked the feeds.<br>  She's nowhere on the property.<br>  There is somewhere I have to go.<br>  If she returns, contact me immediately.<br>    Everything in the quantum archive  is locked in stasis, correct?  Correct.<br>  And no one beside myself has access, correct?  Unless you prefer we sell tickets.<br>  - Is that humor? - We're trying something new.<br>  Don't give up your day job.<br>  My program offers you privacy beyond this point.<br>  If you need me again, just say "Index".<br>    Index.<br>  Identify this painting.<br>  Item 227.<br>67.<br>  Archives of Jean-Luc Picard, admiral, retired.<br>  An oil on canvas painted by Commander Data circa 2369.<br>  One of a set of two.<br>  He gifted it to you on the Enterprise.<br>  The other is hanging on your study wall at home, I believe.<br>  And no one else has been in here?  Not even for servicing?  Check the records.<br>  No one, Admiral.<br>  This painting had a title.<br>  Accessing.<br>  This painting is called "Daughter".<br>  Hi, honey.<br>  Mom, someone tried to kill me.<br>  What? Honey, wh-who? Wha  I'm  I just ran.<br> I think they're still after me.<br>  I don't know what's happening, Mom.<br>  Dahj, you need to get somewhere safe.<br>  Mom, I tried, but-but I couldn't stay there.<br>  I-I can't put anyone else in danger.<br>  I don't want anyone else to get hurt, Mom.<br>  Mom, I'm so scared.<br>  Honey, this is important.<br>  You have to go back to Picard.<br>  No, no, it's too dangerous for him.<br> It  Wait.<br>  Wait, I-I didn't tell you that I went to Picard.<br>  Of course you did, sweetie.<br>  How else would I know?  Mom, I haven't spoken to you since it happened.<br>  What's happening?  Baby, please.<br>  Find Picard.<br> He can help you.<br>  He will help you.<br>  Just close your eyes and focus.<br>  Think clearly, Dahj.<br>  Clearly, Dahj.<br>  Now find Picard again.<br>  Go.<br>  Dahj?  How did you know I was here?  I was so very worried when I found you'd gone.<br>  I was afraid that they would come,  that you would be in danger.<br>  I knew how to track you here.<br> I-I know stuff now.<br>  I can hear conversations a block away.<br>  Come.<br> Let's get away from here.<br>  So I did some research.<br> I may have schizophrenia.<br>  Or maybe I had head trauma.<br> The auditory hallucinations  No, you don't have schizophrenia.<br>  - Then I'm a freak.<br> - No, you're not.<br>  In fact, you might be very special.<br>  I had a dear friend.<br>  Commander Data.<br>  He was an android.<br>  Like the ones who attacked Mars?  No, no.<br> Not at all.<br> The word "android"  conjures up all kinds of things for people.<br>  Forget them.<br>  Commander Data was a highly decorated Starfleet officer.<br>  And  he sacrificed his life for me.<br>  On our last mission together.<br>  It was over two decades ago now.<br>  But he was also an artist.<br>  A painter.<br>  Why are you telling me this?  Because, Dahj,  he painted you.<br>  Exactly as you are here and now.<br>  But he painted it 30 years ago.<br>  That's impossible.<br>  He named the painting "Daughter".<br>  Okay, look, your friend painted someone,  - but - You said it was  like lightning seeking the ground, in your apartment.<br>  You knew what to do even though  - you'd never done it before.<br> - Adrenaline.<br>  And you knew they were coming after you.<br>  And the hearing.<br>  And y-you tracked me.<br>  - How did you track me? - I just  Tracking me requires  a security clearance, which you don't have.<br>  I think the attack on you  might have acted as some kind of wake-up call.<br>  Like a positronic alarm bell.<br>  No.<br>  No, I was born in Seattle.<br>  My dad was a xenobotanist.<br>  And our house was full of orchids.<br>  He spliced two genuses and he named the offspring after me.<br>  Orchidaceae Dahj oncidium.<br>  Yellow and pink.<br>  That's a beautiful memory.<br>  And it's yours.<br>  No one can touch it or take it away.<br>  But  you must look inside,  deeply and honestly.<br>  Have you ever considered the possibility  That I'm a soulless murder machine?  That you are something lovingly and deliberately created.<br>  Like Dahj oncidium.<br>  You're telling me that I'm not real.<br>  No, I'm not.<br>  If you are who I think you are  you are dear to me in ways that you can't understand.<br>  I will never leave you.<br>  We will go together to the Daystrom Institute in Okinawa.<br>  I was just accepted at Daystrom as a research fellow.<br>  You were? That's brilliant.<br>  That doesn't mean anything anymore.<br>  If I'm right,  it means that you are the daughter of a man  who was all meaning, all courage.<br>  Be like him.<br>  - They found us.<br> - Oh.<br>  Move, now.<br>  Dahj, wait.<br> We need help.<br>  They're almost here.<br>  Dahj, stop.<br> Wait.<br>  - No, there's no time.<br> - Oh.<br>  Stay down!  No!  Would you like to finish it, Captain?  I will never leave you.<br>  Why did you really quit Starfleet?  This painting is called "Daughter".<br>  He's awake.<br>  I'm all right, boy.<br>  Aren't I?  You took a bad knock.<br>  Otherwise, you are apparently the same.<br>  You gave us a fright.<br>  Huh.<br>  What happened, Admiral?  Dahj.<br>  She's dead.<br>  How is that possible?  The police didn't mention her.<br>  They said you were alone  when they found you on the roof.<br>  They said there was no one else on the security feed but you.<br>  That you were running  She could've had a cloaking device  and that's why we didn't see her on the property feeds.<br>  Yeah, maybe it activated automatically  - when she was in danger.<br> - Sir?  She was a synthetic.<br>  The assassins were Romulan.<br>  Oh, she came here to find safety.<br>  Like you and Zhaban.<br>  Like me.<br>  She deserved better from me.<br>  I owe it to her to find out who killed her and why.<br>  - You ask too much of yourself.<br> - Oh.<br>  Sitting here, all these years,  nursing my offended dignity,  writing books of history people prefer to forget.<br>  I never asked  anything of myself  - at all.<br> - No, Admiral.<br>  I haven't been living.<br>  I've been waiting to die.<br>    Admiral Picard.<br>  It's an honor.<br>  Dr.<br> Jurati.<br> Thank you for giving me the time.<br>  Oh, Agnes.<br> H-How can I help you?  You can tell me if it is possible to make  a sentient android out of flesh and blood.<br>  No, really.<br> How can I  Is that why you've come here?  It is.<br>  Even before the ban, that was well, uh  W-Well, a flesh-and-blood android  was in our sights, but a sentient one?  Not for a thousand years.<br>  That makes it even more curious  that recently I had tea with one.<br>  It was the Grand Slam.<br>  Uh, sentient synthetics that appear human inside and out.<br>  Feels like a lifetime ago now.<br>    Welcome to what's left of the Federation's  Division of Advanced Synthetic Research.<br>  It's a ghost town.<br>  In more ways than one.<br>  The androids that destroyed Mars came from this lab.<br>  Now we're only allowed to operate theoretically.<br>  Study, publish, run simulations.<br>  But you can't actually make anything.<br>  Correct.<br> This is everything  that ever mattered to us.<br>  To me.<br>  No one makes synths anymore, of any kind.<br>  It's a violation of galactic treaty.<br>  But isn't it possible to create a synthetic  that looks fully human?  The short answer is no.<br>  Well, give me the long answer.<br>  - It'll still be no.<br> - Please.<br>  Humor me.<br>  It's a B4, isn't it?  Looks so much like Data.<br>  He's an inferior copy.<br>  Data tried to download the contents  of his neural net into B4 just before his death.<br>  Almost all of it was lost.<br>  Ultimately, B4 wasn't much like Data at all.<br>  In fact, no other synth has been.<br>  - No.<br> - And there's the rub.<br>  No one has ever been able to redevelop the science  used to create Data.<br>  Then came Bruce.<br>  Maddox.<br> He recruited me out of Starfleet.<br>  Despite Data's death, we came so close.<br>  Then we got shut down, and it crushed him.<br>  Where is he now?  He disappeared after the ban.<br>  I've tried to find him, but  You said "despite Data's death", meaning that any new synthetic  would have to be made from Data.<br>  Advanced ones, yes.<br>  If you had Data's neural net,  perfecting a flesh-and-blood host body  would be relatively simple.<br>  But his neurons died with him.<br>  See, now you're coming around to that no I've been promising you.<br>  Does this mean anything to you?  Where did you get that?  From my tea-drinking companion.<br>  The one you said couldn't exist.<br>  I really  really wish you'd come here on my day off.<br>  It's a symbol for fractal neuronic cloning.<br>  - I'm sorry? - It was a radical,  beautiful idea of Maddox's.<br>  His theory was that Data's entire code, even his memories,  could be reconstituted from a single positronic neuron.<br>  If there is a synth out there who is perfect, like you say  Then Data, or some part of him,  - an essence of him - Essence, yes.<br>  would be alive.<br>  There'd be no way of knowing  - without examining - Dahj.<br>  The girl.<br>  Data's daughter.<br>  He always wanted a daughter.<br>  I believe that Maddox modeled her  on an old painting of Data's.<br>  A female?  Yes, I suppose you could make them that way.<br>  Uh, I'm sorry? "Them"?  They're created in pairs.<br>  Twins?  Twins.<br>  So there's another one.<br>    Dr.<br> Asha?  I don't mean to intrude.<br> I'm Narek.<br>  I'm new here.<br>  Soji.<br>  That's a beautiful name.<br>  I've been reading about your work.<br>  It's-it's fascinating.<br>  I feel like I've got so many questions.<br>  And I feel like you're about to ask them.<br>  That's nice.<br>  Your necklace.<br>  Uh, my father made it.<br>  One for me and one for my sister.<br>  I'm a twin.<br>  Oh.<br> I had a brother.<br>  Not a twin, but  we were really close.<br>  We, um  we lost him last year.<br>  Very unexpected.<br>  You're lucky to have her.<br>  I'm sorry.<br> You spend your day fixing broken people.<br>  I'm guessing the last thing you want when you get off work  is to listen to another sad story.<br>  Guess again.<br>   I remember standing on the Bridge  feeling I was the only one awake  in all that emptiness.<br>  I'd forgotten  how much I loved it.<br>  Dahj  came to me for help.<br>  I believe the sister is in serious danger.<br>  You're full of secrets.<br>  You think everyone's hiding something.<br>  I have to go.<br>  But you can't do it alone.<br>  You need help and need protection.<br>  You need a crew.<br>  Agnes Jurati.<br>  You just gonna let Agnes here  hitch a ride on your top-secret mission?  Can we go already?  Engage!  We face a powerful enemy  It's about to get very hot.<br>  The hell are you doing out here Picard?  Saving the galaxy?  I'm sure she has no idea who she truly is.<br>  There are lies upon lies.<br>  You want to destroy her!  You're in trouble.<br>  I've been over my head.<br>  It sounds like you need a new plan.<br>  I have a mission  which means there's not a hell of a chance  for somebody to stop me.<br>  They warned me you were a speech maker.<br>  Oh, really?     <br>
+                </div>
+
+                <div style="padding: 4px; margin-left: 20px;">
+
+
+                    <a style="font-size: 14px;
+                        background: #333;
+                        color: #fff;
+                        margin: 5px auto;
+                        border-radius: 10px;
+                        padding: 5px 10px;
+                        font-weight: 700;
+                        display: block;
+                        text-decoration: none;
+                        width: 150px; float: right; text-align: right;" href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=star-trek-picard-2020&episode=s01e02" rel="nofollow">Next Episode</a>
+                    <div style="clear: both;"></div>
+                </div>
+
+
+                                    <br>
+            <div class="related-links">
+
+                <a class="text-dark" href="/episode_scripts.php?tv-show=star-trek-picard-2020">Star Trek: Picard (2020) Episode Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="text-dark" href="tv_show_episode_scripts.php">More Television Show Episode Scripts</a><br><br>
+
+            </div>
+
+
+</div>
+<div class="col-lg-2 mt-2 d-none d-lg-block d-xl-block">
+
+    <div id="taboola-right-rail-category-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+
+</div>
+<div class="row">
+    <div class="col-lg-2 mt-2"></div>
+    <div class="col-lg-8 mt-2">
+
+        <div id="taboola-below-category-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+
+    </div>
+    <div class="col-lg-2 mt-2"></div>
+</div>
+</div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark text-white">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-10">
+            <span class="text-muted">Springfield! Springfield!</span>
+        </div>
+
+        <div class="col-md-2">
+
+
+            
+
+        </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="afs_ads"></div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/site.min.js"></script>
+
+<script>
+
+    (function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
+
+
+
+
