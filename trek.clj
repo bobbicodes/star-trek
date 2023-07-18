@@ -31,6 +31,7 @@
 
 (comment
   ;; TODO: parse xml
+  ;; try https://github.com/retrogradeorbit/bootleg
   (fetch-snw "01" "01")
   )
 
