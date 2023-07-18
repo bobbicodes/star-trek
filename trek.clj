@@ -21,19 +21,20 @@
 
 (comment
   (episode-seq (fetch-disco "01" "02"))
+  (episode-seq (fetch-picard "01" "02"))
   )
 
-(defn episode [series ep]
+(defn local-episode [series ep]
   (get-in (json/parse-string (slurp "resources/all_scripts_raw.json"))
           [series ep]))
 
-(defn script-seq 
+(defn local-seq 
   "Returns a seq of alternating characters and their lines."
   [series ep]
   (interleave
-   (conj (re-seq #"[A-Z]+:" (episode series ep)) nil)
-   (str/split (episode series ep) #"[A-Z]+:")))
+   (conj (re-seq #"[A-Z]+:" (local-episode series ep)) nil)
+   (str/split (local-episode series ep) #"[A-Z]+:")))
 
 (comment
-  (script-seq "TOS" "episode 0")
+  (local-seq "TOS" "episode 0")
   )
